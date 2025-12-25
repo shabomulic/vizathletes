@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Oct 5",
+    "boxScoreLink": "20251005_urf8.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Des Moines Area Community College",
+                "result": "",
+                "teamId": "g5kc9ut7spbtvj61",
+                "winner": false,
+                "cleanName": "des moines area community col"
+            },
+            {
+                "name": "Lake Region State College - ND",
+                "result": "",
+                "teamId": "s42qhbgv53n64dcn",
+                "winner": false,
+                "cleanName": "lake region st col nd"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1759683600000,
+        "localTimeZone": "America/Winnipeg",
+        "tba": false,
+        "home": false,
+        "overall": false,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "urf8lhj2cyzgcsao",
+        "fastdate": 1759683600000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "Ames, IA",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "scrimmage",
+            "description": "Scrimmage",
+            "statsCount": false
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Lake Region State College - ND",
+            "result": "",
+            "teamId": "s42qhbgv53n64dcn",
+            "winner": false,
+            "cleanName": "lake region st col nd"
+        },
+        "us": {
+            "name": "Des Moines Area Community College",
+            "result": "",
+            "teamId": "g5kc9ut7spbtvj61",
+            "winner": false,
+            "cleanName": "des moines area community col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "October 5 01:00 PM:"
+}

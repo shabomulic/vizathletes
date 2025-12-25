@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Oct 3",
+    "boxScoreLink": "20251003_u0d4.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Iowa Western Community College",
+                "result": "",
+                "teamId": "5umjdjqcbbqcsq8o",
+                "winner": false,
+                "cleanName": "iowa w community col"
+            },
+            {
+                "name": "Oklahoma Jamboree",
+                "result": "",
+                "teamId": "hijbv7bgpm0swn6a",
+                "winner": false,
+                "cleanName": "oklahoma jamboree"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "Norman, OK",
+        "date": 1759464000000,
+        "localTimeZone": "America/Chicago",
+        "tba": true,
+        "home": false,
+        "overall": false,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "u0d4y6njkwzz2ysx",
+        "fastdate": 1759464000000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "preSeason",
+            "description": "Pre-Season",
+            "statsCount": true
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Oklahoma Jamboree",
+            "result": "",
+            "teamId": "hijbv7bgpm0swn6a",
+            "winner": false,
+            "cleanName": "oklahoma jamboree"
+        },
+        "us": {
+            "name": "Iowa Western Community College",
+            "result": "",
+            "teamId": "5umjdjqcbbqcsq8o",
+            "winner": false,
+            "cleanName": "iowa w community col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "October 3 12:00 AM:"
+}

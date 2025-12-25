@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Jan 15",
+    "boxScoreLink": "20260115_qzu3.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Raritan Valley Community College",
+                "result": "",
+                "teamId": "9xymrkglmx4vddwf",
+                "winner": false,
+                "cleanName": "raritan valley community col"
+            },
+            {
+                "name": "Monroe University",
+                "result": "",
+                "teamId": "pg7evkto1by6c35m",
+                "winner": false,
+                "cleanName": "monroe univ"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1768521600000,
+        "localTimeZone": "America/New_York",
+        "tba": false,
+        "home": false,
+        "overall": true,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": true,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "qzu3a6wrtbvk0xtg",
+        "fastdate": 1768521600000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Monroe University",
+            "result": "",
+            "teamId": "pg7evkto1by6c35m",
+            "winner": false,
+            "cleanName": "monroe univ"
+        },
+        "us": {
+            "name": "Raritan Valley Community College",
+            "result": "",
+            "teamId": "9xymrkglmx4vddwf",
+            "winner": false,
+            "cleanName": "raritan valley community col"
+        },
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "January 15 07:00 PM:"
+}

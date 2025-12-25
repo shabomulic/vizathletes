@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Oct 9",
+    "boxScoreLink": "20251009_qm1e.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Iowa Central Community College",
+                "result": "",
+                "teamId": "gz4mhb2yly8vcjs4",
+                "winner": false,
+                "cleanName": "iowa central community col"
+            },
+            {
+                "name": "Grand View University/Graceland University",
+                "result": "",
+                "teamId": "9y3ziyhdxsk7q6w6",
+                "winner": false,
+                "cleanName": "grand view univ graceland univ"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "Dave Sisam Arena | Des Moines, IA",
+        "date": 1759982400000,
+        "localTimeZone": "America/Chicago",
+        "tba": true,
+        "home": false,
+        "overall": false,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "qm1eke4yansu4yow",
+        "fastdate": 1759982400000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "scrimmage",
+            "description": "Scrimmage",
+            "statsCount": false
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Grand View University/Graceland University",
+            "result": "",
+            "teamId": "9y3ziyhdxsk7q6w6",
+            "winner": false,
+            "cleanName": "grand view univ graceland univ"
+        },
+        "us": {
+            "name": "Iowa Central Community College",
+            "result": "",
+            "teamId": "gz4mhb2yly8vcjs4",
+            "winner": false,
+            "cleanName": "iowa central community col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "October 9 12:00 AM:"
+}

@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Oct 23",
+    "boxScoreLink": "20251023_lg5l.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Beloit College",
+                "result": "",
+                "teamId": "zpazi6b8hdq99dtf",
+                "winner": false,
+                "cleanName": "beloit col"
+            },
+            {
+                "name": "Madison College",
+                "result": "",
+                "teamId": "rwjk6r6ncnd5q6xw",
+                "winner": false,
+                "cleanName": "madison col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1761258600000,
+        "localTimeZone": "America/Chicago",
+        "tba": false,
+        "home": true,
+        "overall": true,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "lg5lq7443rqewu53",
+        "fastdate": 1761258600000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "scrimmage",
+            "description": "Scrimmage",
+            "statsCount": false
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Beloit College",
+            "result": "",
+            "teamId": "zpazi6b8hdq99dtf",
+            "winner": false,
+            "cleanName": "beloit col"
+        },
+        "us": {
+            "name": "Madison College",
+            "result": "",
+            "teamId": "rwjk6r6ncnd5q6xw",
+            "winner": false,
+            "cleanName": "madison col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "October 23 06:30 PM:"
+}

@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Feb 5",
+    "boxScoreLink": "20260205_efc8.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Joliet Junior College",
+                "result": "",
+                "teamId": "5z6hp6sph4uepdkg",
+                "winner": false,
+                "cleanName": "joliet junior col"
+            },
+            {
+                "name": "Milwaukee Area Technical College",
+                "result": "",
+                "teamId": "jx4brp08ciocrvdb",
+                "winner": false,
+                "cleanName": "milwaukee area technical col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1770339600000,
+        "localTimeZone": "America/Chicago",
+        "tba": false,
+        "home": true,
+        "overall": true,
+        "conference": false,
+        "division": false,
+        "regional": true,
+        "national": true,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "efc8mwdvlkwar3p9",
+        "fastdate": 1770339600000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "ap2Result": "",
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Joliet Junior College",
+            "result": "",
+            "teamId": "5z6hp6sph4uepdkg",
+            "winner": false,
+            "cleanName": "joliet junior col"
+        },
+        "us": {
+            "name": "Milwaukee Area Technical College",
+            "result": "",
+            "teamId": "jx4brp08ciocrvdb",
+            "winner": false,
+            "cleanName": "milwaukee area technical col"
+        },
+        "apresult": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "February 5 08:00 PM:"
+}

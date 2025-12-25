@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Oct 24",
+    "boxScoreLink": "20251024_pio3.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Bryant and Stratton College (WI)",
+                "result": "",
+                "teamId": "993q92z8218u9s8f",
+                "winner": false,
+                "cleanName": "bryant stratton col wi"
+            },
+            {
+                "name": "Macomb Community College",
+                "result": "",
+                "teamId": "qtwgbpgu0oeio8bq",
+                "winner": false,
+                "cleanName": "macomb community col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "Sugar Grove, IL  ",
+        "date": 1761278400000,
+        "localTimeZone": "America/Chicago",
+        "tba": true,
+        "home": false,
+        "overall": false,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "Waubonsee Tri",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "pio3hjgj7xl7xm91",
+        "fastdate": 1761278400000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "Waubonsee Tri",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "exhibition",
+            "description": "Exhibition",
+            "statsCount": false
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Macomb Community College",
+            "result": "",
+            "teamId": "qtwgbpgu0oeio8bq",
+            "winner": false,
+            "cleanName": "macomb community col"
+        },
+        "us": {
+            "name": "Bryant and Stratton College (WI)",
+            "result": "",
+            "teamId": "993q92z8218u9s8f",
+            "winner": false,
+            "cleanName": "bryant stratton col wi"
+        },
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "October 24 12:00 AM:"
+}

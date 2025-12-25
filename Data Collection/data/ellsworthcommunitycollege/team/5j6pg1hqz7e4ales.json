@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Mar 4",
+    "boxScoreLink": "20260304_5j6p.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Ellsworth Community College",
+                "result": "",
+                "teamId": "ow4c11tb42slmzwu",
+                "winner": false,
+                "cleanName": "ellsworth community col"
+            },
+            {
+                "name": "Ellsworth Community College",
+                "result": "",
+                "teamId": "ow4c11tb42slmzwu",
+                "winner": false,
+                "cleanName": "ellsworth community col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "Region XI Final at Highest Seed",
+        "date": 1772670600000,
+        "localTimeZone": "America/Chicago",
+        "tba": false,
+        "home": true,
+        "overall": true,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": true,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "5j6pg1hqz7e4ales",
+        "fastdate": 1772670600000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Ellsworth Community College",
+            "result": "",
+            "teamId": "ow4c11tb42slmzwu",
+            "winner": false,
+            "cleanName": "ellsworth community col"
+        },
+        "us": {
+            "name": "Ellsworth Community College",
+            "result": "",
+            "teamId": "ow4c11tb42slmzwu",
+            "winner": false,
+            "cleanName": "ellsworth community col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "March 4 07:30 PM:"
+}

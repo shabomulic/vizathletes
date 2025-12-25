@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Jan 8",
+    "boxScoreLink": "20260108_v95f.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Orange County Community College",
+                "result": "",
+                "teamId": "hasq8dsbramga7si",
+                "winner": false,
+                "cleanName": "orange county community col"
+            },
+            {
+                "name": "Bronx Community College",
+                "result": "",
+                "teamId": "xvlhqa8joacgo657",
+                "winner": false,
+                "cleanName": "bronx community col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "Alumni Gymnasium (Bronx, NY)",
+        "date": 1767920400000,
+        "localTimeZone": "America/New_York",
+        "tba": false,
+        "home": false,
+        "overall": true,
+        "conference": false,
+        "division": false,
+        "regional": true,
+        "national": true,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "v95fusub2cemg8j3",
+        "fastdate": 1767920400000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "Bronx",
+        "stateCountry": "NY",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Bronx Community College",
+            "result": "",
+            "teamId": "xvlhqa8joacgo657",
+            "winner": false,
+            "cleanName": "bronx community col"
+        },
+        "us": {
+            "name": "Orange County Community College",
+            "result": "",
+            "teamId": "hasq8dsbramga7si",
+            "winner": false,
+            "cleanName": "orange county community col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "January 8 08:00 PM:"
+}

@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Jan 22",
+    "boxScoreLink": "20260122_b6r0.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Ulster County Community College",
+                "result": "",
+                "teamId": "hopr7pgor4tmxcuf",
+                "winner": false,
+                "cleanName": "ulster county community col"
+            },
+            {
+                "name": "Raritan Valley Community College",
+                "result": "",
+                "teamId": "9xymrkglmx4vddwf",
+                "winner": false,
+                "cleanName": "raritan valley community col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1769126400000,
+        "localTimeZone": "America/New_York",
+        "tba": false,
+        "home": true,
+        "overall": true,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": true,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "b6r05yxszbp8j57r",
+        "fastdate": 1769126400000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Ulster County Community College",
+            "result": "",
+            "teamId": "hopr7pgor4tmxcuf",
+            "winner": false,
+            "cleanName": "ulster county community col"
+        },
+        "us": {
+            "name": "Raritan Valley Community College",
+            "result": "",
+            "teamId": "9xymrkglmx4vddwf",
+            "winner": false,
+            "cleanName": "raritan valley community col"
+        },
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "January 22 07:00 PM:"
+}

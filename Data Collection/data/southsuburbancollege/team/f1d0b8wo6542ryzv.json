@@ -1,0 +1,161 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Dec 22",
+    "boxScoreLink": "20251222_f1d0.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "South Suburban College",
+                "result": "77",
+                "teamId": "sqd8b5uvyuki8gow",
+                "winner": false,
+                "cleanName": "s suburban col"
+            },
+            {
+                "name": "Waubonsee Community College",
+                "result": "76",
+                "teamId": "4bbj3tsg1oz4cb8g",
+                "winner": false,
+                "cleanName": "waubonsee community col"
+            }
+        ],
+        "status": "Final",
+        "notes": "",
+        "notesShared": "Sugar Grove, IL.",
+        "date": 1766433600000,
+        "localTimeZone": "America/Chicago",
+        "tba": false,
+        "home": false,
+        "overall": true,
+        "conference": false,
+        "division": false,
+        "regional": true,
+        "national": true,
+        "inProgress": false,
+        "statusCode": 0,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "f1d0b8wo6542ryzv",
+        "fastdate": 1766433600000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "conferenceResult": "77-76",
+        "resultAsObject": {
+            "results": [
+                77,
+                76
+            ],
+            "winner": {
+                "name": "South Suburban College",
+                "result": "77",
+                "teamId": "sqd8b5uvyuki8gow",
+                "winner": false,
+                "cleanName": "s suburban col"
+            },
+            "loser": {
+                "name": "Waubonsee Community College",
+                "result": "76",
+                "teamId": "4bbj3tsg1oz4cb8g",
+                "winner": false,
+                "cleanName": "waubonsee community col"
+            },
+            "resolved": true,
+            "hasScores": true,
+            "description": "Win",
+            "score": "77-76",
+            "numericResults": [
+                77,
+                76
+            ],
+            "winnerLoser": "77-76",
+            "descriptionShortWithOT": "W"
+        },
+        "opponent": {
+            "name": "Waubonsee Community College",
+            "result": "76",
+            "teamId": "4bbj3tsg1oz4cb8g",
+            "winner": false,
+            "cleanName": "waubonsee community col"
+        },
+        "us": {
+            "name": "South Suburban College",
+            "result": "77",
+            "teamId": "sqd8b5uvyuki8gow",
+            "winner": false,
+            "cleanName": "s suburban col"
+        },
+        "winner": {
+            "name": "South Suburban College",
+            "result": "77",
+            "teamId": "sqd8b5uvyuki8gow",
+            "winner": false,
+            "cleanName": "s suburban col"
+        },
+        "loser": {
+            "name": "Waubonsee Community College",
+            "result": "76",
+            "teamId": "4bbj3tsg1oz4cb8g",
+            "winner": false,
+            "cleanName": "waubonsee community col"
+        },
+        "apresult": "W, 77-76",
+        "ap2Result": "W, 77-76",
+        "result": {
+            "results": [
+                77,
+                76
+            ],
+            "winner": {
+                "name": "South Suburban College",
+                "result": "77",
+                "teamId": "sqd8b5uvyuki8gow",
+                "winner": false,
+                "cleanName": "s suburban col"
+            },
+            "loser": {
+                "name": "Waubonsee Community College",
+                "result": "76",
+                "teamId": "4bbj3tsg1oz4cb8g",
+                "winner": false,
+                "cleanName": "waubonsee community col"
+            },
+            "resolved": true,
+            "hasScores": true,
+            "description": "Win",
+            "score": "77-76",
+            "numericResults": [
+                77,
+                76
+            ],
+            "winnerLoser": "77-76",
+            "descriptionShortWithOT": "W"
+        }
+    },
+    "eventDateFormattedAriaLabel": "December 22 03:00 PM:"
+}

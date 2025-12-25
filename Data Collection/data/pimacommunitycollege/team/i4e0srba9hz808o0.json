@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Jan 31",
+    "boxScoreLink": "20260131_i4e0.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Pima Community College",
+                "result": "",
+                "teamId": "qulb4yrssxonevcn",
+                "winner": false,
+                "cleanName": "pima community col"
+            },
+            {
+                "name": "Mesa Community College",
+                "result": "",
+                "teamId": "uv3df4cgkj7azjzk",
+                "winner": false,
+                "cleanName": "mesa community col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "Mesa, AZ (@MCC)",
+        "date": 1769893200000,
+        "localTimeZone": "America/Phoenix",
+        "tba": false,
+        "home": false,
+        "overall": true,
+        "conference": true,
+        "division": true,
+        "regional": true,
+        "national": true,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "i4e0srba9hz808o0",
+        "fastdate": 1769893200000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Mesa Community College",
+            "result": "",
+            "teamId": "uv3df4cgkj7azjzk",
+            "winner": false,
+            "cleanName": "mesa community col"
+        },
+        "us": {
+            "name": "Pima Community College",
+            "result": "",
+            "teamId": "qulb4yrssxonevcn",
+            "winner": false,
+            "cleanName": "pima community col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "January 31 04:00 PM:"
+}
