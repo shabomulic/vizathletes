@@ -3,6 +3,103 @@ import json
 import os
 import time
 import re
+from bs4 import BeautifulSoup
+
+def sanitize_filename(name):
+    # Keep alphanumerics, spaces, dashes, underscores.
+    # Replace slashes with dashes.
+    safe = re.sub(r'[\\/*?:"<>|]', "", name)
+    return safe.strip()
+
+def scrape_box_score(url, target_team_name):
+    print(f"    Fetching box score: {url}")
+    try:
+        headers = {
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+        }
+        res = requests.get(url, headers=headers)
+        if res.status_code != 200:
+            print(f"    Failed to fetch box score: {res.status_code}")
+            return []
+            
+        soup = BeautifulSoup(res.text, 'html.parser')
+        
+        # 1. Find the table for this team.
+        # Look for div.caption containing the team name.
+        # Note: Team name in caption might hold ranking or record, e.g. "VISITORS: Montgomery College (MD) (0-0)"
+        # We'll search for the clean name or parts of it.
+        
+        captions = soup.find_all("div", class_="caption")
+        target_table = None
+        
+        # Normalize target name for matching
+        norm_target = target_team_name.lower().replace(" ", "")
+        
+        for cap in captions:
+            cap_text = cap.get_text().lower().replace(" ", "")
+            # Check if target name matches
+            # The caption usually starts with "VISITORS:" or "HOME:"
+            if norm_target in cap_text:
+                # Found the caption. The table is likely in the next sibling div.monostats-fullbox
+                # or just the next table.
+                # Structure: <div class="clearfix"><div class="caption">...</div><div class="monostats-fullbox"><table>...</table></div></div>
+                parent = cap.parent
+                fullbox = parent.find("div", class_="monostats-fullbox")
+                if fullbox:
+                    target_table = fullbox.find("table")
+                break
+        
+        if not target_table:
+            # Fallback: Try to match without "VISITORS/HOME" prefix if layout differs
+            # For now, return empty if not found
+            print(f"    Could not find table for {target_team_name}")
+            return []
+
+        # 2. Parse rows
+        player_stats = []
+        rows = target_table.find_all("tr")
+        
+        # Indices based on analysis:
+        # 0:#, 1:Name, 3:FGM-A, 4:3PM-A, 5:FTM-A, 6:OREB, 7:DREB, 8:REB, 
+        # 9:PF, 10:TP, 11:AST, 12:TO, 13:BLK, 14:STL, 15:MIN
+        
+        for row in rows:
+            cells = row.find_all("td")
+            if len(cells) < 16:
+                continue
+            
+            # Extract Name (Index 1)
+            raw_name = cells[1].get_text().strip()
+            # Remove trailing dots "Iman Pascal.........."
+            name = raw_name.rstrip(".").strip()
+            
+            # Skip if name is "Team" "Totals" etc.
+            if name.lower() in ["team", "totals"]:
+                continue
+                
+            stats = {
+                "Player Name": name,
+                "FGM-A": cells[3].get_text().strip(),
+                "3PM-A": cells[4].get_text().strip(),
+                "FTM-A": cells[5].get_text().strip(),
+                "OREB": cells[6].get_text().strip(),
+                "DREB": cells[7].get_text().strip(),
+                "REB": cells[8].get_text().strip(),
+                "PF": cells[9].get_text().strip(),
+                "TP": cells[10].get_text().strip(),
+                "AST": cells[11].get_text().strip(),
+                "TO": cells[12].get_text().strip(),
+                "BLK": cells[13].get_text().strip(),
+                "STL": cells[14].get_text().strip(),
+                "MIN": cells[15].get_text().strip()
+            }
+            player_stats.append(stats)
+            
+        return player_stats
+
+    except Exception as e:
+        print(f"    Error scraping box score: {e}")
+        return []
 
 def scrape_stats():
     # Load teams
@@ -27,165 +124,240 @@ def scrape_stats():
         slug = team['slug']
         name = team['name']
         
-        # Construct URL
-        # URL format: https://njcaastats.prestosports.com/sports/mbkb/2025-26/div2/teams/<slug>?tmpl=teaminfo-network-monospace-json-template
+        # URL format
         url = f"https://njcaastats.prestosports.com/sports/mbkb/2025-26/div2/teams/{slug}?tmpl=teaminfo-network-monospace-json-template"
         
         print(f"[{i+1}/{len(teams)}] Fetching stats for {name} ({slug})...")
         
-        # Create team directory
         team_dir = os.path.join(output_dir, slug)
         os.makedirs(team_dir, exist_ok=True)
         
         try:
-            # 1. Fetch the HTML template page
+            # 1. Fetch HTML template
             response = requests.get(url, headers=headers)
             if response.status_code == 404:
                 print(f"  WARNING: 404 Not Found for {slug}")
                 continue
             response.raise_for_status()
             
-            # 2. Extract the actual JSON URLs from the script tag
+            # 2. Extract JSON URLs
             team_match = re.search(r'(https://[^"]+/teamData/[^"]+\.json)', response.text)
             players_match = re.search(r'(https://[^"]+/playersData/[^"]+\.json)', response.text)
             
-            # Fetch and save Team Data
+            # --- PROCESS TEAM DATA (GAMES) ---
+            team_data_list = []
+            my_team_id = None
+            
             if team_match:
                 team_json_url = team_match.group(1)
                 try:
-                    team_json_res = requests.get(team_json_url, headers=headers)
-                    team_json_res.raise_for_status()
+                    res = requests.get(team_json_url, headers=headers)
+                    res.raise_for_status()
                     
-                    # Store raw JSON
+                    # Store raw
                     with open(os.path.join(team_dir, "team.json"), 'w', encoding='utf-8') as f:
-                        f.write(team_json_res.text)
+                        f.write(res.text)
                     
-                    team_data = team_json_res.json()
-                    
-                    # Split into per-game files in 'team' subfolder
-                    games_dir = os.path.join(team_dir, "team")
-                    os.makedirs(games_dir, exist_ok=True)
-                    
-                    # EXTRACTION LOGIC
-                    if isinstance(team_data, dict):
-                        if 'events' in team_data and isinstance(team_data['events'], list):
-                             team_data_list = team_data['events']
+                    data = res.json()
+                    if isinstance(data, dict):
+                        if 'events' in data and isinstance(data['events'], list):
+                             team_data_list = data['events']
                         else:
-                             # Filter to get only game objects (which should be dicts)
-                             team_data_list = [v for v in team_data.values() if isinstance(v, dict)]
-                        print(f"  Notice: Number of games/events found: {len(team_data_list)}")
+                             team_data_list = [v for v in data.values() if isinstance(v, dict)]
                     else:
-                        team_data_list = team_data
-
-                    for game in team_data_list:
-                        if not isinstance(game, dict):
-                            continue
+                        team_data_list = data
                         
-                        game_id = None
-                        if 'event' in game and isinstance(game['event'], dict) and 'eventId' in game['event']:
-                            game_id = game['event']['eventId']
-                        elif 'eventId' in game: 
-                             game_id = game['eventId']
-                        elif 'stats' in game and 'event' in game: 
-                             if 'eventId' in game['event']:
-                                 game_id = game['event']['eventId']
-                        
-                        if not game_id:
-                            continue
-                            
-                        game_filename = f"{game_id}.json"
-                        with open(os.path.join(games_dir, game_filename), 'w', encoding='utf-8') as f:
-                            json.dump(game, f, indent=4)
-                            
-                    # Find the correct Team ID for this school
-                    my_team_id = None
-                    # We can find it in the stats/events
+                    # Find Team ID
                     for game in team_data_list:
-                        if not isinstance(game, dict):
-                             continue
+                        if not isinstance(game, dict): continue
                         if 'event' in game and 'teams' in game['event']:
-                            teams_in_game = game['event']['teams']
-                            for t in teams_in_game:
-                                # Try to match by name
-                                # We have 'name' from teams.json
+                            for t in game['event']['teams']:
                                 if t.get('name') == name:
                                     my_team_id = t.get('teamId')
                                     break
-                                # Fallback: simplified match
-                                if t.get('name').lower().replace(' ','') == name.lower().replace(' ',''):
+                                if t.get('name', '').lower().replace(' ','') == name.lower().replace(' ',''):
                                     my_team_id = t.get('teamId')
                                     break
-                        if my_team_id:
-                            break
-                    
+                        if my_team_id: break
+                        
                     if my_team_id:
-                         print(f"  Identified Team ID: {my_team_id}")
+                        print(f"  Identified Team ID: {my_team_id}")
                     else:
-                         print(f"  WARNING: Could not identify Team ID for {name}. Player filtering might fail.")
+                        print(f"  WARNING: Could not identify Team ID.")
 
+                    # Save Game JSONs
+                    games_dir = os.path.join(team_dir, "team")
+                    os.makedirs(games_dir, exist_ok=True)
+                    
+                    # We iterate games again later for box scores, but let's save basic files first?
+                    # User requested specific naming for team/ folder files: "eventDateFormatted".
+                    # We can combine this loop with box score processing or do it here.
+                    # Let's do it here.
+                    
+                    for game in team_data_list:
+                        if not isinstance(game, dict): continue
+                        
+                        # Determine filename
+                        date_fmt = game.get('eventDateFormatted', 'Unknown Date')
+                        if date_fmt == "Unknown Date" and 'event' in game and 'date' in game['event']:
+                             # Fallback if needed, but usually present
+                             pass
+                             
+                        # Sanitize date
+                        safe_date = sanitize_filename(date_fmt)
+                        unique_suffix = ""
+                        
+                        # Handle collision
+                        base_filename = f"{safe_date}.json"
+                        counter = 1
+                        while os.path.exists(os.path.join(games_dir, base_filename)):
+                            base_filename = f"{safe_date}_{counter}.json"
+                            counter += 1
+                        
+                        with open(os.path.join(games_dir, base_filename), 'w', encoding='utf-8') as f:
+                            json.dump(game, f, indent=4)
+                            
                 except Exception as e:
-                    print(f"  Error fetching/processing team JSON: {e}")
+                    print(f"  Error processing team JSON: {e}")
 
-            # Fetch and save Players Data
+            # --- PROCESS PLAYERS ---
+            filtered_players = []
             if players_match:
                 players_json_url = players_match.group(1)
                 try:
-                    players_json_res = requests.get(players_json_url, headers=headers)
-                    players_json_res.raise_for_status()
-                    
-                    # Store raw JSON
+                    res = requests.get(players_json_url, headers=headers)
+                    res.raise_for_status()
                     with open(os.path.join(team_dir, "players.json"), 'w', encoding='utf-8') as f:
-                        f.write(players_json_res.text)
+                        f.write(res.text)
                         
-                    players_data = players_json_res.json()
-                    
-                    # Split into per-player files in 'players' subfolder
-                    players_subdir = os.path.join(team_dir, "players")
-                    os.makedirs(players_subdir, exist_ok=True)
-                    
-                    # EXTRACTION LOGIC
-                    if isinstance(players_data, dict):
-                        if 'individuals' in players_data and isinstance(players_data['individuals'], list):
-                             players_data_list = players_data['individuals']
+                    p_data = res.json()
+                    p_list = []
+                    if isinstance(p_data, dict):
+                        if 'individuals' in p_data and isinstance(p_data['individuals'], list):
+                             p_list = p_data['individuals']
                         else:
-                             players_data_list = [v for v in players_data.values() if isinstance(v, dict)]
-                        print(f"  Notice: Raw player list size: {len(players_data_list)}")
+                             p_list = [v for v in p_data.values() if isinstance(v, dict)]
                     else:
-                        players_data_list = players_data
+                        p_list = p_data
+                        
+                    # Filter and Create Folders
+                    players_root = os.path.join(team_dir, "players")
+                    os.makedirs(players_root, exist_ok=True)
                     
-                    saved_count = 0
-                    for player in players_data_list:
-                        if not isinstance(player, dict):
+                    count = 0
+                    for p in p_list:
+                        if not isinstance(p, dict): continue
+                        if my_team_id and p.get('teamId') != my_team_id:
                             continue
-                        
-                        # FILTER BY TEAM ID
-                        if my_team_id:
-                            p_team_id = player.get('teamId')
-                            if p_team_id != my_team_id:
-                                continue
-                        
-                        full_name = player.get('fullName', '').strip()
-                        first = player.get('firstName', '').strip()
-                        last = player.get('lastName', '').strip()
-                        p_id = player.get('playerId', 'unknown')
+                            
+                        # Extract Name
+                        full_name = p.get('fullName')
+                        first = p.get('firstName')
+                        last = p.get('lastName')
                         
                         if full_name:
-                            clean_name = re.sub(r'[^a-zA-Z0-9]', '', full_name)
-                            filename = f"{clean_name}.json"
+                            name_str = full_name
                         elif first and last:
-                            clean_name = re.sub(r'[^a-zA-Z0-9]', '', f"{first}_{last}")
-                            filename = f"{clean_name}.json"
+                            name_str = f"{first} {last}"
                         else:
-                            filename = f"{p_id}.json"
+                            name_str = f"Player_{p.get('playerId')}"
                             
-                        with open(os.path.join(players_subdir, filename), 'w', encoding='utf-8') as f:
-                            json.dump(player, f, indent=4)
-                        saved_count += 1
+                        safe_name = sanitize_filename(name_str)
+                        
+                        # Create Player Folder
+                        p_folder = os.path.join(players_root, safe_name)
+                        
+                        # Handle collision: If a file exists with this name (from prev structure), delete it
+                        if os.path.isfile(p_folder):
+                            os.remove(p_folder)
                             
-                    print(f"  Saved {saved_count} players to {players_subdir}")
-
+                        os.makedirs(p_folder, exist_ok=True)
+                        
+                        # Save Season Stats
+                        season_file = os.path.join(p_folder, f"{safe_name}_season.json")
+                        with open(season_file, 'w', encoding='utf-8') as f:
+                            json.dump(p, f, indent=4)
+                            
+                        # Add to list for box score matching
+                        # We store: matched_name (cleaned), safe_folder_name, original_object
+                        # Box scores have names like "Ian Pascal", or "Pascal, Ian".
+                        # JSON usually has "Ian Pascal".
+                        p['clean_name'] = name_str  # Store for matching
+                        p['folder_name'] = safe_name
+                        filtered_players.append(p)
+                        count += 1
+                        
+                    print(f"  Initialized folders for {count} players.")
+                    
                 except Exception as e:
-                    print(f"  Error fetching/processing players JSON: {e}")
+                    print(f"  Error processing players JSON: {e}")
+            
+            # --- PROCESS BOX SCORES ---
+            print("  Fetching box scores...")
+            processed_games = 0
+            for game in team_data_list:
+                if not isinstance(game, dict): continue
+                
+                box_link = game.get('boxScoreLink')
+                date_fmt = game.get('eventDateFormatted', 'Unknown')
+                
+                if not box_link or not isinstance(box_link, str):
+                    continue
+                    
+                # Construct URL
+                # https://njcaastats.prestosports.com/sports/mbkb/2025-26/div2/boxscores/<link>?tmpl=bbxml-monospace-template
+                box_url = f"https://njcaastats.prestosports.com/sports/mbkb/2025-26/div2/boxscores/{box_link}?tmpl=bbxml-monospace-template"
+                
+                # Scrape
+                try:
+                    stats_list = scrape_box_score(box_url, name)
+                    if not stats_list:
+                        continue
+                        
+                    # Match to players
+                    for stat in stats_list:
+                        scraped_name = stat['Player Name']
+                        
+                        # Find matching player in filtered_players
+                        matched_player = None
+                        
+                        # Strategy: Exact match, then fuzzy (contains)
+                        # Box score names often have first initial last name, or full name.
+                        # Ex: "Tarik Bicic"
+                        
+                        for fp in filtered_players:
+                            # Direct check
+                            fp_name = fp['clean_name']
+                            if scraped_name.lower() == fp_name.lower():
+                                matched_player = fp
+                                break
+                            # Check part
+                            if scraped_name.lower() in fp_name.lower() or fp_name.lower() in scraped_name.lower():
+                                matched_player = fp
+                                break
+                        
+                        if matched_player:
+                            # Create Game JSON
+                            # "Nov 1_TarikBicic.json"
+                            safe_date = sanitize_filename(date_fmt)
+                            p_folder_name = matched_player['folder_name']
+                            
+                            filename = f"{safe_date}_{p_folder_name}.json"
+                            p_dir = os.path.join(players_root, p_folder_name)
+                            
+                            # Add date to stats object
+                            stat['eventDateFormatted'] = date_fmt
+                            
+                            with open(os.path.join(p_dir, filename), 'w', encoding='utf-8') as f:
+                                json.dump(stat, f, indent=4)
+                                
+                    processed_games += 1
+                    time.sleep(0.5) # Slight delay
+                    
+                except Exception as e:
+                    print(f"    Error processing box score {box_link}: {e}")
+            
+            print(f"  Processed {processed_games} box scores.")
 
         except Exception as e:
             print(f"  Error processing {slug}: {e}")
