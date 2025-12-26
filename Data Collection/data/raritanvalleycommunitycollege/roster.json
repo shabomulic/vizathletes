@@ -1,0 +1,122 @@
+[
+    {
+        "number": "0",
+        "name": "Tarik Bicic",
+        "position": "Guard",
+        "class_year": "SO",
+        "height": "6'5",
+        "weight": null
+    },
+    {
+        "number": "1",
+        "name": "James DelSantro",
+        "position": "Guard",
+        "class_year": "So",
+        "height": "6'0",
+        "weight": null
+    },
+    {
+        "number": "2",
+        "name": "Carlyle Adams",
+        "position": "Forward",
+        "class_year": "FR",
+        "height": "6'3",
+        "weight": null
+    },
+    {
+        "number": "3",
+        "name": "Armagh Caldwell",
+        "position": "Guard",
+        "class_year": "FR",
+        "height": "6'2",
+        "weight": null
+    },
+    {
+        "number": "4",
+        "name": "Donte Alexander",
+        "position": "Guard",
+        "class_year": "SO",
+        "height": "6'1",
+        "weight": null
+    },
+    {
+        "number": "10",
+        "name": "Isaac Gonzalez",
+        "position": "Guard",
+        "class_year": "SO",
+        "height": "6'1",
+        "weight": null
+    },
+    {
+        "number": "11",
+        "name": "Jason Dixon",
+        "position": "Guard",
+        "class_year": "FR",
+        "height": "6'0",
+        "weight": null
+    },
+    {
+        "number": "12",
+        "name": "LJ Falconi",
+        "position": "Forward",
+        "class_year": "FR",
+        "height": "6'4",
+        "weight": null
+    },
+    {
+        "number": "13",
+        "name": "Savod Godwin",
+        "position": "Forward",
+        "class_year": "SO",
+        "height": "6'5",
+        "weight": null
+    },
+    {
+        "number": "14",
+        "name": "Jon Clark",
+        "position": "Guard",
+        "class_year": "FR",
+        "height": "6'4",
+        "weight": null
+    },
+    {
+        "number": "15",
+        "name": "Shane Brantley",
+        "position": "Guard",
+        "class_year": "FR",
+        "height": "6'2",
+        "weight": null
+    },
+    {
+        "number": "22",
+        "name": "Andrew Petry",
+        "position": "Forward",
+        "class_year": "FR",
+        "height": "6'5",
+        "weight": null
+    },
+    {
+        "number": "24",
+        "name": "Miles Whye",
+        "position": "Forward",
+        "class_year": "So",
+        "height": "6'7",
+        "weight": null
+    },
+    {
+        "number": "30",
+        "name": "James Curet",
+        "position": "Forward",
+        "class_year": "FR",
+        "height": "6'4",
+        "weight": null
+    },
+    {
+        "number": "34",
+        "name": "Jordan Summers",
+        "position": "Forward",
+        "class_year": "SO",
+        "height": "6'7",
+        "weight": null
+    }
+]

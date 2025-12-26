@@ -1,0 +1,130 @@
+[
+    {
+        "number": "0",
+        "name": "Brent Taylor",
+        "position": "G",
+        "class_year": "FR",
+        "height": "6-2",
+        "weight": "170"
+    },
+    {
+        "number": "1",
+        "name": "Landen Norris",
+        "position": "G",
+        "class_year": "FR",
+        "height": "6-5",
+        "weight": "200"
+    },
+    {
+        "number": "2",
+        "name": "Kiki Deng",
+        "position": "G",
+        "class_year": "FR",
+        "height": "6-5",
+        "weight": "195"
+    },
+    {
+        "number": "3",
+        "name": "Kaden Tate",
+        "position": "F",
+        "class_year": "SO",
+        "height": "6-6",
+        "weight": "210"
+    },
+    {
+        "number": "5",
+        "name": "Hunter Gawron",
+        "position": "F",
+        "class_year": "FR",
+        "height": "6-7",
+        "weight": "220"
+    },
+    {
+        "number": "10",
+        "name": "Rylan Smith",
+        "position": "G",
+        "class_year": "SO",
+        "height": "6-1",
+        "weight": "190"
+    },
+    {
+        "number": "11",
+        "name": "Johnnie Jones",
+        "position": "G",
+        "class_year": "SO",
+        "height": "6-4",
+        "weight": "185"
+    },
+    {
+        "number": "12",
+        "name": "Jayden Jones",
+        "position": "G",
+        "class_year": "SO",
+        "height": "6-3",
+        "weight": "185"
+    },
+    {
+        "number": "14",
+        "name": "Shelton Colwell, Jr",
+        "position": "G",
+        "class_year": "FR",
+        "height": "6-5",
+        "weight": "200"
+    },
+    {
+        "number": "22",
+        "name": "Kavon Phillips",
+        "position": "G",
+        "class_year": "FR",
+        "height": "6-7",
+        "weight": "190"
+    },
+    {
+        "number": "23",
+        "name": "Ethan Bulenzi",
+        "position": "F",
+        "class_year": "FR",
+        "height": "6-7",
+        "weight": "190"
+    },
+    {
+        "number": "24",
+        "name": "Malcolm Bragg",
+        "position": "G",
+        "class_year": "FR",
+        "height": "6-4",
+        "weight": "190"
+    },
+    {
+        "number": "32",
+        "name": "Brennon Clemmons Jr.",
+        "position": "F",
+        "class_year": "FR",
+        "height": "6-8",
+        "weight": "240"
+    },
+    {
+        "number": "35",
+        "name": "Solomon Mosley",
+        "position": "F",
+        "class_year": "FR",
+        "height": "6-7",
+        "weight": "230"
+    },
+    {
+        "number": "RS",
+        "name": "Jackson Green",
+        "position": "G",
+        "class_year": "SO",
+        "height": "6-4",
+        "weight": "180"
+    },
+    {
+        "number": "RS",
+        "name": "Ben Helmers",
+        "position": "G",
+        "class_year": "FR",
+        "height": "6-5",
+        "weight": "200"
+    }
+]

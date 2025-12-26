@@ -1,0 +1,130 @@
+[
+    {
+        "number": "0",
+        "name": "Benjamin Goeh",
+        "position": "G",
+        "class_year": null,
+        "height": "6-3",
+        "weight": null
+    },
+    {
+        "number": "1",
+        "name": "Jaylen Brown",
+        "position": "SG",
+        "class_year": null,
+        "height": "6-2",
+        "weight": null
+    },
+    {
+        "number": "2",
+        "name": "Rickey Coleman",
+        "position": "G",
+        "class_year": null,
+        "height": "6-2",
+        "weight": null
+    },
+    {
+        "number": "3",
+        "name": "Javaughn Robinson",
+        "position": "PG",
+        "class_year": null,
+        "height": "6-1",
+        "weight": null
+    },
+    {
+        "number": "4",
+        "name": "Jaylen McElmurry",
+        "position": "G",
+        "class_year": null,
+        "height": "6-4",
+        "weight": null
+    },
+    {
+        "number": "5",
+        "name": "Tyler Jolly",
+        "position": "PG",
+        "class_year": null,
+        "height": "5-9",
+        "weight": null
+    },
+    {
+        "number": "10",
+        "name": "Braley Adderley",
+        "position": "F",
+        "class_year": null,
+        "height": "6-5",
+        "weight": null
+    },
+    {
+        "number": "11",
+        "name": "Marlon Herron",
+        "position": "SG",
+        "class_year": null,
+        "height": "6-2",
+        "weight": null
+    },
+    {
+        "number": "12",
+        "name": "Brandon Phillips",
+        "position": "SG",
+        "class_year": null,
+        "height": "6-3",
+        "weight": null
+    },
+    {
+        "number": "20",
+        "name": "Micah Boone",
+        "position": "F",
+        "class_year": null,
+        "height": "6-4",
+        "weight": null
+    },
+    {
+        "number": "21",
+        "name": "Peyton Hess",
+        "position": "G",
+        "class_year": null,
+        "height": "6-4",
+        "weight": null
+    },
+    {
+        "number": "22",
+        "name": "Tripp Rugaard",
+        "position": "PG",
+        "class_year": null,
+        "height": "5-9",
+        "weight": null
+    },
+    {
+        "number": "23",
+        "name": "Anthony Allison Jr.",
+        "position": "C",
+        "class_year": null,
+        "height": "6-8",
+        "weight": null
+    },
+    {
+        "number": "24",
+        "name": "Ethan Willis",
+        "position": "G/F",
+        "class_year": null,
+        "height": "6-4",
+        "weight": null
+    },
+    {
+        "number": "25",
+        "name": "Anthony Moore",
+        "position": "F/C",
+        "class_year": null,
+        "height": "6-7",
+        "weight": null
+    },
+    {
+        "number": "32",
+        "name": "Cooper Knoll",
+        "position": "F/C",
+        "class_year": null,
+        "height": "6-6",
+        "weight": null
+    }
+]

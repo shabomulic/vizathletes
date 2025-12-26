@@ -1,0 +1,114 @@
+[
+    {
+        "number": "1",
+        "name": "Joey Robinson",
+        "position": "G",
+        "class_year": "So",
+        "height": "6-3",
+        "weight": "200"
+    },
+    {
+        "number": "2",
+        "name": "Gavin Harvey",
+        "position": "G",
+        "class_year": "So",
+        "height": "5-11",
+        "weight": "170"
+    },
+    {
+        "number": "3",
+        "name": "Trey Fulcher",
+        "position": "G",
+        "class_year": "Fr",
+        "height": "6-2",
+        "weight": "190"
+    },
+    {
+        "number": "4",
+        "name": "Aziz Jagne",
+        "position": "F",
+        "class_year": "So",
+        "height": "6-7",
+        "weight": "175"
+    },
+    {
+        "number": "5",
+        "name": "Aidan Wing",
+        "position": "G",
+        "class_year": "So",
+        "height": "6-4",
+        "weight": "200"
+    },
+    {
+        "number": "10",
+        "name": "Jordan Mason",
+        "position": "G",
+        "class_year": "Fr",
+        "height": "6-0",
+        "weight": "170"
+    },
+    {
+        "number": "11",
+        "name": "Avian Webb",
+        "position": "G",
+        "class_year": "Fr",
+        "height": "5-11",
+        "weight": "160"
+    },
+    {
+        "number": "12",
+        "name": "Max Johnson",
+        "position": "G",
+        "class_year": "Fr",
+        "height": "6-2",
+        "weight": "170"
+    },
+    {
+        "number": "13",
+        "name": "Bryce Walker",
+        "position": "F",
+        "class_year": "Fr",
+        "height": "6-6",
+        "weight": "195"
+    },
+    {
+        "number": "14",
+        "name": "Joshua Brantley",
+        "position": "F",
+        "class_year": "Fr",
+        "height": "6-9",
+        "weight": "195"
+    },
+    {
+        "number": "21",
+        "name": "Tavian Cruse",
+        "position": "F",
+        "class_year": "So",
+        "height": "6-5",
+        "weight": "225"
+    },
+    {
+        "number": "22",
+        "name": "River Peters",
+        "position": "G",
+        "class_year": "Fr",
+        "height": "6-2",
+        "weight": "180"
+    },
+    {
+        "number": "24",
+        "name": "Jalen Antonio",
+        "position": "G",
+        "class_year": "Fr",
+        "height": "6-2",
+        "weight": "170"
+    },
+    {
+        "number": "25",
+        "name": "Abdoulaye Kante",
+        "position": "F",
+        "class_year": "Fr",
+        "height": "6-8",
+        "weight": "195"
+    }
+]

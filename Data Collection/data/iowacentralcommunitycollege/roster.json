@@ -1,0 +1,130 @@
+[
+    {
+        "number": "1",
+        "name": "Tashun Pender",
+        "position": "Position: F",
+        "class_year": null,
+        "height": "6'5\"",
+        "weight": "180"
+    },
+    {
+        "number": "2",
+        "name": "Manny Lueth",
+        "position": "Position: G",
+        "class_year": null,
+        "height": "6'7\"",
+        "weight": "180"
+    },
+    {
+        "number": "3",
+        "name": "Dorian Pruitt",
+        "position": "Position: G",
+        "class_year": null,
+        "height": "6'5\"",
+        "weight": "170"
+    },
+    {
+        "number": "4",
+        "name": "CJ Mitchell",
+        "position": "Position: G",
+        "class_year": null,
+        "height": "6'2\"",
+        "weight": "170"
+    },
+    {
+        "number": "5",
+        "name": "Tyson Baumgardner",
+        "position": "Position: G",
+        "class_year": null,
+        "height": "6'3\"",
+        "weight": "180"
+    },
+    {
+        "number": "10",
+        "name": "Mason King",
+        "position": "Position: G",
+        "class_year": null,
+        "height": "5'11\"",
+        "weight": "180"
+    },
+    {
+        "number": "11",
+        "name": "Jaxson Cathcart",
+        "position": "Position: G",
+        "class_year": null,
+        "height": "5'11\"",
+        "weight": "190"
+    },
+    {
+        "number": "12",
+        "name": "Jalen Wynter",
+        "position": "Position: G",
+        "class_year": null,
+        "height": "6'2\"",
+        "weight": "170"
+    },
+    {
+        "number": "13",
+        "name": "Simon Gurial",
+        "position": "Position: C",
+        "class_year": null,
+        "height": "6'10\"",
+        "weight": "230"
+    },
+    {
+        "number": "14",
+        "name": "Victor Hatungimana",
+        "position": "Position: G",
+        "class_year": null,
+        "height": "5'10\"",
+        "weight": "160"
+    },
+    {
+        "number": "22",
+        "name": "Aleix Sempere",
+        "position": "Position: F",
+        "class_year": null,
+        "height": "6'8\"",
+        "weight": "210"
+    },
+    {
+        "number": "23",
+        "name": "Jordan Cain",
+        "position": "Position: G",
+        "class_year": null,
+        "height": "6'4\"",
+        "weight": "195"
+    },
+    {
+        "number": "24",
+        "name": "Jon Roberts",
+        "position": "Position: F",
+        "class_year": null,
+        "height": "6'7\"",
+        "weight": "210"
+    },
+    {
+        "number": "32",
+        "name": "Jean Lucas Beleoken",
+        "position": "Position: F",
+        "class_year": null,
+        "height": "6'6\"",
+        "weight": "195"
+    },
+    {
+        "number": "34",
+        "name": "Carter Loney",
+        "position": "Position: C",
+        "class_year": null,
+        "height": "6'11\"",
+        "weight": "240"
+    },
+    {
+        "number": "",
+        "name": "Walter Berns",
+        "position": "Position:",
+        "class_year": null,
+        "height": "6'3\"",
+        "weight": ""
+    }
+]

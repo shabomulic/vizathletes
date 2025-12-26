@@ -1,0 +1,122 @@
+[
+    {
+        "number": "0",
+        "name": "Nile Atwater Nile Atwater",
+        "position": "G/F",
+        "class_year": "So.",
+        "height": "6-3",
+        "weight": "215"
+    },
+    {
+        "number": "1",
+        "name": "Nate Brazil Nate Brazil",
+        "position": "G",
+        "class_year": "Fr.",
+        "height": "6-0",
+        "weight": "160"
+    },
+    {
+        "number": "2",
+        "name": "Jalen Faison Jalen Faison",
+        "position": "G",
+        "class_year": "Fr.",
+        "height": "6-0",
+        "weight": "165"
+    },
+    {
+        "number": "3",
+        "name": "Christopher Judge Christopher Judge",
+        "position": "G",
+        "class_year": "So.",
+        "height": "5-11",
+        "weight": "160"
+    },
+    {
+        "number": "4",
+        "name": "Khrystopher Murray Khrystopher Murray",
+        "position": "G",
+        "class_year": "Fr.",
+        "height": "6-4",
+        "weight": "185"
+    },
+    {
+        "number": "05",
+        "name": "Jeremiah Peoples Jeremiah Peoples",
+        "position": "G",
+        "class_year": "So.",
+        "height": "6-1",
+        "weight": "175"
+    },
+    {
+        "number": "10",
+        "name": "Alan Garcia Alan Garcia",
+        "position": "G",
+        "class_year": "So.",
+        "height": "6-4",
+        "weight": "185"
+    },
+    {
+        "number": "11",
+        "name": "Makai Reed Makai Reed",
+        "position": "F",
+        "class_year": "So.",
+        "height": "6-6",
+        "weight": "200"
+    },
+    {
+        "number": "12",
+        "name": "Uzziah Grimes Uzziah Grimes",
+        "position": "G",
+        "class_year": "Fr.",
+        "height": "6-1",
+        "weight": "180"
+    },
+    {
+        "number": "13",
+        "name": "Ajani Solomon Ajani Solomon",
+        "position": "G",
+        "class_year": "Fr.",
+        "height": "6-1",
+        "weight": "190"
+    },
+    {
+        "number": "14",
+        "name": "Ryan Leonardo Ryan Leonardo",
+        "position": "G/F",
+        "class_year": "Fr.",
+        "height": "6-5",
+        "weight": "185"
+    },
+    {
+        "number": "15",
+        "name": "Matthew Medley Matthew Medley",
+        "position": "F",
+        "class_year": "So.",
+        "height": "6-4",
+        "weight": "195"
+    },
+    {
+        "number": "21",
+        "name": "Mamadou Touray Mamadou Touray",
+        "position": "G",
+        "class_year": "Fr.",
+        "height": "6-1",
+        "weight": "175"
+    },
+    {
+        "number": "23",
+        "name": "Akol Machteng Akol Machteng",
+        "position": "F",
+        "class_year": "Fr.",
+        "height": "6-7",
+        "weight": "195"
+    },
+    {
+        "number": "32",
+        "name": "Jayden Jones Jayden Jones",
+        "position": "C",
+        "class_year": "Fr.",
+        "height": "6-7",
+        "weight": "185"
+    }
+]

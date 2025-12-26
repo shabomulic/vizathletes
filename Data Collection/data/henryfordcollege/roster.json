@@ -1,0 +1,122 @@
+[
+    {
+        "number": "0",
+        "name": "Calvin Marshall",
+        "position": "W",
+        "class_year": "SO",
+        "height": "6'6",
+        "weight": null
+    },
+    {
+        "number": "2",
+        "name": "Aaron Allen",
+        "position": "Guard",
+        "class_year": "Fr",
+        "height": "6'2",
+        "weight": null
+    },
+    {
+        "number": "3",
+        "name": "Shemarion Hardy",
+        "position": "Guard",
+        "class_year": "SO",
+        "height": "6'1",
+        "weight": null
+    },
+    {
+        "number": "4",
+        "name": "Jayce “JL” Branson",
+        "position": "Guard",
+        "class_year": "Fr",
+        "height": "6'4",
+        "weight": null
+    },
+    {
+        "number": "5",
+        "name": "Machi Chester",
+        "position": "Guard",
+        "class_year": "FR",
+        "height": "6'3",
+        "weight": null
+    },
+    {
+        "number": "7",
+        "name": "Rasheed Sampson",
+        "position": "Forward",
+        "class_year": "Fr",
+        "height": "6'8",
+        "weight": null
+    },
+    {
+        "number": "10",
+        "name": "Charles Riley",
+        "position": "Guard",
+        "class_year": "SO",
+        "height": "6'2",
+        "weight": null
+    },
+    {
+        "number": "11",
+        "name": "Ryan Hurst",
+        "position": "Guard",
+        "class_year": "So",
+        "height": "6'3",
+        "weight": null
+    },
+    {
+        "number": "12",
+        "name": "Lamarion Wright",
+        "position": "Guard",
+        "class_year": "FR",
+        "height": "5'11",
+        "weight": null
+    },
+    {
+        "number": "13",
+        "name": "Fred Saunders",
+        "position": "Forward",
+        "class_year": "SO",
+        "height": "6'7",
+        "weight": null
+    },
+    {
+        "number": "15",
+        "name": "Deunte Phifer",
+        "position": "Guard",
+        "class_year": "SO",
+        "height": "6'6",
+        "weight": null
+    },
+    {
+        "number": "20",
+        "name": "RJ Williams",
+        "position": "Forward",
+        "class_year": "FR",
+        "height": "6'7",
+        "weight": null
+    },
+    {
+        "number": "30",
+        "name": "Wade Robinson",
+        "position": "Guard",
+        "class_year": "FR",
+        "height": "5'10",
+        "weight": null
+    },
+    {
+        "number": "33",
+        "name": "Johnathan Coffey",
+        "position": "Forward",
+        "class_year": "SO",
+        "height": "6'7",
+        "weight": null
+    },
+    {
+        "number": "55",
+        "name": "Jalahn McClellan",
+        "position": "Guard",
+        "class_year": "FR",
+        "height": "5'9",
+        "weight": null
+    }
+]

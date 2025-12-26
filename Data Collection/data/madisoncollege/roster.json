@@ -1,0 +1,138 @@
+[
+    {
+        "number": "0",
+        "name": "Antoine Coleman",
+        "position": "Guard",
+        "class_year": "So.",
+        "height": "6-5",
+        "weight": "195"
+    },
+    {
+        "number": "1",
+        "name": "Jevon Campbell",
+        "position": "Guard",
+        "class_year": "So.",
+        "height": "6-2",
+        "weight": "185"
+    },
+    {
+        "number": "2",
+        "name": "Braylen Blue",
+        "position": "Guard",
+        "class_year": "So.",
+        "height": "6-5",
+        "weight": "185"
+    },
+    {
+        "number": "3",
+        "name": "Carson McCormick",
+        "position": "Guard",
+        "class_year": "So.",
+        "height": "6-1",
+        "weight": "180"
+    },
+    {
+        "number": "4",
+        "name": "Cam Williams",
+        "position": "Guard",
+        "class_year": "Fr.",
+        "height": "6-2",
+        "weight": "160"
+    },
+    {
+        "number": "5",
+        "name": "Kaden Coppage",
+        "position": "Guard",
+        "class_year": "So.",
+        "height": "6-1",
+        "weight": "185"
+    },
+    {
+        "number": "6",
+        "name": "Ryen Jones",
+        "position": "Forward",
+        "class_year": "So.",
+        "height": "6-5",
+        "weight": "190"
+    },
+    {
+        "number": "10",
+        "name": "George Whaley IV",
+        "position": "Guard",
+        "class_year": "So.",
+        "height": "6-1",
+        "weight": "180"
+    },
+    {
+        "number": "11",
+        "name": "Noah Compan",
+        "position": "Forward",
+        "class_year": "So.",
+        "height": "6-6",
+        "weight": "200"
+    },
+    {
+        "number": "12",
+        "name": "Carter Sullivan",
+        "position": "Forward",
+        "class_year": "Fr.",
+        "height": "6-6",
+        "weight": "200"
+    },
+    {
+        "number": "13",
+        "name": "Jackson Bertagnoli",
+        "position": "Guard",
+        "class_year": "So.",
+        "height": "6-3",
+        "weight": "190"
+    },
+    {
+        "number": "15",
+        "name": "Wil Dietrich",
+        "position": "Forward",
+        "class_year": "So.",
+        "height": "6-4",
+        "weight": "190"
+    },
+    {
+        "number": "21",
+        "name": "Carson Jensen",
+        "position": "Forward",
+        "class_year": "So.",
+        "height": "6-5",
+        "weight": "185"
+    },
+    {
+        "number": "24",
+        "name": "Isaiah Robinson",
+        "position": "Guard",
+        "class_year": "Fr.",
+        "height": "6-1",
+        "weight": "195"
+    },
+    {
+        "number": "25",
+        "name": "Mesiyah Ashley",
+        "position": "Forward",
+        "class_year": "Fr.",
+        "height": "6-6",
+        "weight": "185"
+    },
+    {
+        "number": "32",
+        "name": "Jacob Ulrich",
+        "position": "Guard",
+        "class_year": "Fr.",
+        "height": "6-4",
+        "weight": "185"
+    },
+    {
+        "number": "33",
+        "name": "Luke Rayner",
+        "position": "Forward",
+        "class_year": "Fr.",
+        "height": "6-7",
+        "weight": "200"
+    }
+]

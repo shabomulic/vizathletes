@@ -1,0 +1,114 @@
+[
+    {
+        "number": "1",
+        "name": "Jordan Jones",
+        "position": "G/F",
+        "class_year": "So.",
+        "height": "6-6",
+        "weight": null
+    },
+    {
+        "number": "2",
+        "name": "Aidan Chapman",
+        "position": "G",
+        "class_year": "Fr.",
+        "height": "6-4",
+        "weight": null
+    },
+    {
+        "number": "3",
+        "name": "Qi\u2019Andre Washington",
+        "position": "PG",
+        "class_year": "So.",
+        "height": "6-0",
+        "weight": null
+    },
+    {
+        "number": "4",
+        "name": "Jayden Bay",
+        "position": "F/C",
+        "class_year": "Fr.",
+        "height": "6-9",
+        "weight": null
+    },
+    {
+        "number": "10",
+        "name": "Raydelh Boutin",
+        "position": "PG",
+        "class_year": "So.",
+        "height": "5-11",
+        "weight": null
+    },
+    {
+        "number": "11",
+        "name": "Sterling Hoarde",
+        "position": "G",
+        "class_year": "Fr.",
+        "height": "6-3",
+        "weight": null
+    },
+    {
+        "number": "12",
+        "name": "Joshua Leslie",
+        "position": "G",
+        "class_year": "Fr.",
+        "height": "6-2",
+        "weight": null
+    },
+    {
+        "number": "13",
+        "name": "Kamarion Ivory",
+        "position": "G",
+        "class_year": "So.",
+        "height": "6-1",
+        "weight": null
+    },
+    {
+        "number": "15",
+        "name": "Jason Lawani",
+        "position": "G/F",
+        "class_year": "Fr.",
+        "height": "6-5",
+        "weight": null
+    },
+    {
+        "number": "20",
+        "name": "Jayden Hackett",
+        "position": "G",
+        "class_year": "So.",
+        "height": "6-6",
+        "weight": null
+    },
+    {
+        "number": "21",
+        "name": "Turon Rivers",
+        "position": "G/F",
+        "class_year": "Fr.",
+        "height": "6-5",
+        "weight": null
+    },
+    {
+        "number": "23",
+        "name": "Noah Daniels",
+        "position": "G",
+        "class_year": "So.",
+        "height": "6-5",
+        "weight": null
+    },
+    {
+        "number": "25",
+        "name": "Brendan Nesbary",
+        "position": "G/F",
+        "class_year": "So.",
+        "height": "6-5",
+        "weight": null
+    },
+    {
+        "number": "30",
+        "name": "Ozzie Johnson",
+        "position": "F",
+        "class_year": "So.",
+        "height": "6-6",
+        "weight": null
+    }
+]

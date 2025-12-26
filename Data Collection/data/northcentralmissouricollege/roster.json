@@ -1,0 +1,138 @@
+[
+    {
+        "number": null,
+        "name": "Cole Johnson",
+        "position": "Position: Guard",
+        "class_year": "Class: Freshman",
+        "height": "Weight: 175",
+        "weight": null
+    },
+    {
+        "number": null,
+        "name": "Tyrese Rucker",
+        "position": "Position: Wing/Forward",
+        "class_year": "Class: RS-Freshman",
+        "height": "Weight: 195",
+        "weight": null
+    },
+    {
+        "number": null,
+        "name": "Assad Pettaway",
+        "position": "Position: Forward",
+        "class_year": "Class: Freshman",
+        "height": "Weight: 220",
+        "weight": null
+    },
+    {
+        "number": null,
+        "name": "Kalen Streit",
+        "position": "Position: Guard",
+        "class_year": "Class: Sophomore",
+        "height": "Weight: 165",
+        "weight": null
+    },
+    {
+        "number": null,
+        "name": "Camden Brown",
+        "position": "Position: Guard",
+        "class_year": "Class: RS-Freshman",
+        "height": "Weight: 185",
+        "weight": null
+    },
+    {
+        "number": null,
+        "name": "Camden Bennett",
+        "position": "Position: Guard",
+        "class_year": "Class: RS-Sophomore",
+        "height": "Weight: 195",
+        "weight": null
+    },
+    {
+        "number": null,
+        "name": "Myles Bachali",
+        "position": "Position: Guard",
+        "class_year": "Class: Freshman",
+        "height": "Weight: 175",
+        "weight": null
+    },
+    {
+        "number": null,
+        "name": "Xander Salas",
+        "position": "Position: Guard",
+        "class_year": "Class: Freshman",
+        "height": "Weight: 165",
+        "weight": null
+    },
+    {
+        "number": null,
+        "name": "Grant Redd",
+        "position": "Position: Guard",
+        "class_year": "Class: RS-Freshman",
+        "height": "Weight: 160",
+        "weight": null
+    },
+    {
+        "number": null,
+        "name": "Jon Jon Neff",
+        "position": "Position: Guard",
+        "class_year": "Class: Sophomore",
+        "height": "Weight: 175",
+        "weight": null
+    },
+    {
+        "number": null,
+        "name": "Za'Corrie Kerr",
+        "position": "Position: Wing",
+        "class_year": "Class: Sophomore",
+        "height": "Weight: 165",
+        "weight": null
+    },
+    {
+        "number": null,
+        "name": "Donzell Rieves",
+        "position": "Position: Guard",
+        "class_year": "Class: Redshirt",
+        "height": "Weight: 165",
+        "weight": null
+    },
+    {
+        "number": null,
+        "name": "Dillon Willis",
+        "position": "Position: Forward",
+        "class_year": "Class: Freshman",
+        "height": "Weight: 210",
+        "weight": null
+    },
+    {
+        "number": null,
+        "name": "Deng (DD) Diing",
+        "position": "Position: Forward",
+        "class_year": "Class: Sophomore",
+        "height": "Weight: 170",
+        "weight": null
+    },
+    {
+        "number": null,
+        "name": "James Porter III",
+        "position": "Position: Forward",
+        "class_year": "Class: Sophomore",
+        "height": "Weight: 225",
+        "weight": null
+    },
+    {
+        "number": null,
+        "name": "Deng Gak",
+        "position": "Position: Forward",
+        "class_year": "Class: Sophomore",
+        "height": "Weight: 210",
+        "weight": null
+    },
+    {
+        "number": null,
+        "name": "Talan Holt",
+        "position": "Position: Wing",
+        "class_year": "Class: Sophomore",
+        "height": "Weight: 220",
+        "weight": null
+    }
+]

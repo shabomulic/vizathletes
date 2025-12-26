@@ -1,0 +1,130 @@
+[
+    {
+        "number": "1",
+        "name": "1",
+        "position": "Richard Lindsey Jr.",
+        "class_year": "G",
+        "height": "So",
+        "weight": "6'3"
+    },
+    {
+        "number": "2",
+        "name": "2",
+        "position": "Kayvion Hodges",
+        "class_year": "G",
+        "height": "Fr",
+        "weight": "6'3"
+    },
+    {
+        "number": "3",
+        "name": "3",
+        "position": "Yaris Irby",
+        "class_year": "G",
+        "height": "Fr",
+        "weight": "5'11"
+    },
+    {
+        "number": "4",
+        "name": "4",
+        "position": "Manasse Kasongo",
+        "class_year": "F",
+        "height": "Fr",
+        "weight": "6'7"
+    },
+    {
+        "number": "5",
+        "name": "5",
+        "position": "Hakeal Powell",
+        "class_year": "G",
+        "height": "Fr",
+        "weight": "5'11"
+    },
+    {
+        "number": "10",
+        "name": "10",
+        "position": "Grayson Wollum",
+        "class_year": "F",
+        "height": "Fr",
+        "weight": "6'8"
+    },
+    {
+        "number": "11",
+        "name": "11",
+        "position": "Germaine Benson",
+        "class_year": "PG",
+        "height": "So",
+        "weight": "6'0"
+    },
+    {
+        "number": "12",
+        "name": "12",
+        "position": "Jackson Lieurance",
+        "class_year": "G",
+        "height": "Fr",
+        "weight": "6'2"
+    },
+    {
+        "number": "13",
+        "name": "13",
+        "position": "Cole Marsh",
+        "class_year": "F",
+        "height": "Fr",
+        "weight": "6'6"
+    },
+    {
+        "number": "14",
+        "name": "14",
+        "position": "Chris Coleman",
+        "class_year": "G",
+        "height": "So",
+        "weight": "6'1"
+    },
+    {
+        "number": "15",
+        "name": "15",
+        "position": "Stephen McCollum",
+        "class_year": "G",
+        "height": "Fr",
+        "weight": "6'5"
+    },
+    {
+        "number": "20",
+        "name": "20",
+        "position": "Landon Deiters",
+        "class_year": "F",
+        "height": "Fr",
+        "weight": "6'9"
+    },
+    {
+        "number": "22",
+        "name": "22",
+        "position": "Ben Bockman",
+        "class_year": "G",
+        "height": "So",
+        "weight": "6'5"
+    },
+    {
+        "number": "23",
+        "name": "23",
+        "position": "Tyler Netolicky",
+        "class_year": "F",
+        "height": "So",
+        "weight": "6'10"
+    },
+    {
+        "number": "30",
+        "name": "30",
+        "position": "JJ Ware",
+        "class_year": "F",
+        "height": "Fr",
+        "weight": "6'6"
+    },
+    {
+        "number": "55",
+        "name": "55",
+        "position": "Peyton McDaris",
+        "class_year": "G",
+        "height": "Fr",
+        "weight": "5'10"
+    }
+]
