@@ -1,0 +1,98 @@
+[
+    {
+        "number": "0",
+        "name": "Mason Costello",
+        "position": "G",
+        "class_year": "So.",
+        "height": "6'4",
+        "weight": "190"
+    },
+    {
+        "number": "2",
+        "name": "Javeyn Martin",
+        "position": "G",
+        "class_year": "R-Fr.",
+        "height": "6'1",
+        "weight": "170"
+    },
+    {
+        "number": "3",
+        "name": "Ater Manyuon",
+        "position": "G",
+        "class_year": "So.",
+        "height": "6'5",
+        "weight": "195"
+    },
+    {
+        "number": "5",
+        "name": "Jamin Biteler",
+        "position": "G",
+        "class_year": "Fr.",
+        "height": "6'0",
+        "weight": "200"
+    },
+    {
+        "number": "7",
+        "name": "Xavier Wilson",
+        "position": "F",
+        "class_year": "Fr.",
+        "height": "6'7",
+        "weight": "200"
+    },
+    {
+        "number": "8",
+        "name": "Taj Au-Duke",
+        "position": "G",
+        "class_year": "So.",
+        "height": "6'3",
+        "weight": "190"
+    },
+    {
+        "number": "13",
+        "name": "KJ LaMonte",
+        "position": "G",
+        "class_year": "So.",
+        "height": "6'3",
+        "weight": "185"
+    },
+    {
+        "number": "15",
+        "name": "Vladyslav Semerych",
+        "position": "F",
+        "class_year": "So.",
+        "height": "6'9",
+        "weight": "210"
+    },
+    {
+        "number": "21",
+        "name": "Sawyer Mayhugh",
+        "position": "F",
+        "class_year": "R-Fr.",
+        "height": "6'9",
+        "weight": "225"
+    },
+    {
+        "number": "22",
+        "name": "Mattia De Martin",
+        "position": "G",
+        "class_year": "Fr.",
+        "height": "6'8",
+        "weight": "205"
+    },
+    {
+        "number": "23",
+        "name": "Chaz Watson",
+        "position": "G",
+        "class_year": "So.",
+        "height": "6'3",
+        "weight": "195"
+    },
+    {
+        "number": "24",
+        "name": "Chiang Ring",
+        "position": "F",
+        "class_year": "So.",
+        "height": "6'8",
+        "weight": "215"
+    }
+]

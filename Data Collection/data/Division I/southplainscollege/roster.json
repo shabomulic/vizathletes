@@ -1,0 +1,146 @@
+[
+    {
+        "number": "0",
+        "name": "Yohandry Ortiz Yohandry Ortiz",
+        "position": "Shooting Guard",
+        "class_year": "Sophomore",
+        "height": "6'5",
+        "weight": null
+    },
+    {
+        "number": "1",
+        "name": "Micah Bell Micah Bell",
+        "position": "Combo Guard",
+        "class_year": "Sophomore (RS)",
+        "height": "6'4",
+        "weight": null
+    },
+    {
+        "number": "2",
+        "name": "Deion Ware Deion Ware",
+        "position": "Combo Guard",
+        "class_year": "Freshman (RS)",
+        "height": "6'5",
+        "weight": null
+    },
+    {
+        "number": "3",
+        "name": "Jaylen Colon Jaylen Colon",
+        "position": "Shooting Guard",
+        "class_year": "Sophomore",
+        "height": "6'2",
+        "weight": null
+    },
+    {
+        "number": "4",
+        "name": "Keith Richard Keith Richard",
+        "position": "Point Guard",
+        "class_year": "Sophomore (RS)",
+        "height": "6'2",
+        "weight": null
+    },
+    {
+        "number": "5",
+        "name": "Zion Pipkin Zion Pipkin",
+        "position": "Point Guard",
+        "class_year": "Sophomore (RS)",
+        "height": "6'2",
+        "weight": null
+    },
+    {
+        "number": "10",
+        "name": "Charles Onana Charles Onana",
+        "position": "Forward",
+        "class_year": "Sophomore (RS)",
+        "height": "6'7",
+        "weight": null
+    },
+    {
+        "number": "11",
+        "name": "Jordy Ndjomo Ndjomo Jordy Ndjomo Ndjomo",
+        "position": "Forward",
+        "class_year": "Freshman",
+        "height": "6'9",
+        "weight": null
+    },
+    {
+        "number": "15",
+        "name": "Devin Murray Devin Murray",
+        "position": "Point Guard",
+        "class_year": "Freshman",
+        "height": "5'10",
+        "weight": null
+    },
+    {
+        "number": "20",
+        "name": "Nedim Kamberovic Nedim Kamberovic",
+        "position": "Small Forward",
+        "class_year": "Freshman",
+        "height": "6'6",
+        "weight": null
+    },
+    {
+        "number": "22",
+        "name": "Harouna Coulibaly Harouna Coulibaly",
+        "position": "Forward",
+        "class_year": "Freshman",
+        "height": "6'8",
+        "weight": null
+    },
+    {
+        "number": "23",
+        "name": "Alexandre K'Medehouto Alexandre K'Medehouto",
+        "position": "Center",
+        "class_year": "Sophomore",
+        "height": "7'0",
+        "weight": null
+    },
+    {
+        "number": "32",
+        "name": "Antallah Sandlin'el Antallah Sandlin'el",
+        "position": "Forward",
+        "class_year": "Sophomore (RS)",
+        "height": "6'9",
+        "weight": null
+    },
+    {
+        "number": "34",
+        "name": "Aliou Maiga Aliou Maiga",
+        "position": "Center",
+        "class_year": "Freshman (RS)",
+        "height": "6'10",
+        "weight": null
+    },
+    {
+        "number": "",
+        "name": "Jarius Adkinson Jarius Adkinson",
+        "position": "",
+        "class_year": "Freshman",
+        "height": "6'3",
+        "weight": null
+    },
+    {
+        "number": "",
+        "name": "Brandon Avery Brandon Avery",
+        "position": "Manager",
+        "class_year": "",
+        "height": "",
+        "weight": null
+    },
+    {
+        "number": "",
+        "name": "Kianno Montano Kianno Montano",
+        "position": "Manager",
+        "class_year": "",
+        "height": "",
+        "weight": null
+    },
+    {
+        "number": "",
+        "name": "Favian Ortega Favian Ortega",
+        "position": "Trainer",
+        "class_year": "",
+        "height": "",
+        "weight": null
+    }
+]

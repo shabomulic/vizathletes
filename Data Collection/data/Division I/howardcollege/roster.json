@@ -1,0 +1,114 @@
+[
+    {
+        "number": "0",
+        "name": "0",
+        "position": "Jason Jackson",
+        "class_year": "Guard",
+        "height": "Sophomore",
+        "weight": null
+    },
+    {
+        "number": "1",
+        "name": "1",
+        "position": "Harouna Sangare",
+        "class_year": "Guard",
+        "height": "Freshman",
+        "weight": null
+    },
+    {
+        "number": "2",
+        "name": "2",
+        "position": "Kuai Deng",
+        "class_year": "Forward",
+        "height": "Freshman",
+        "weight": null
+    },
+    {
+        "number": "3",
+        "name": "3",
+        "position": "Daniel Culberson",
+        "class_year": "Guard",
+        "height": "Sophomore",
+        "weight": null
+    },
+    {
+        "number": "5",
+        "name": "5",
+        "position": "Jermaine Cunningham",
+        "class_year": "Guard",
+        "height": "Freshman",
+        "weight": null
+    },
+    {
+        "number": "10",
+        "name": "10",
+        "position": "Oskar Stumer",
+        "class_year": "Guard/Forward",
+        "height": "Freshman",
+        "weight": null
+    },
+    {
+        "number": "11",
+        "name": "11",
+        "position": "Brandon Ivery",
+        "class_year": "Guard",
+        "height": "Sophomore",
+        "weight": null
+    },
+    {
+        "number": "13",
+        "name": "13",
+        "position": "Kurt Whitmore",
+        "class_year": "Guard/Forward",
+        "height": "Freshman",
+        "weight": null
+    },
+    {
+        "number": "15",
+        "name": "15",
+        "position": "Terry Copeland",
+        "class_year": "Forward/Center",
+        "height": "Freshman",
+        "weight": null
+    },
+    {
+        "number": "21",
+        "name": "21",
+        "position": "Roee Oselka",
+        "class_year": "Forward/Center",
+        "height": "Sophomore",
+        "weight": null
+    },
+    {
+        "number": "22",
+        "name": "22",
+        "position": "Victor Yimga Moukouri",
+        "class_year": "Forward/Center",
+        "height": "Freshman",
+        "weight": null
+    },
+    {
+        "number": "24",
+        "name": "24",
+        "position": "Dace Pleasant",
+        "class_year": "Guard/Forward",
+        "height": "Sophomore",
+        "weight": null
+    },
+    {
+        "number": "32",
+        "name": "32",
+        "position": "Elijah Tshibangu",
+        "class_year": "Guard",
+        "height": "Sophomore",
+        "weight": null
+    },
+    {
+        "number": "34",
+        "name": "34",
+        "position": "Florian Rijkers",
+        "class_year": "Center",
+        "height": "Freshman",
+        "weight": null
+    }
+]

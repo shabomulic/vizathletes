@@ -1,0 +1,122 @@
+[
+    {
+        "number": "NO.: 0",
+        "name": "Antonio Shannon Jr.",
+        "position": "POS: G",
+        "class_year": "CL: FR",
+        "height": "HT: 6'5",
+        "weight": null
+    },
+    {
+        "number": "NO.: 1",
+        "name": "Jordan Moore",
+        "position": "POS: G",
+        "class_year": "CL: SO",
+        "height": "HT: 6'3",
+        "weight": null
+    },
+    {
+        "number": "NO.: 2",
+        "name": "Antoine Shannon",
+        "position": "POS: W",
+        "class_year": "CL: FR",
+        "height": "HT: 6'5",
+        "weight": null
+    },
+    {
+        "number": "NO.: 4",
+        "name": "Kaiden Myers",
+        "position": "POS: G",
+        "class_year": "CL: SO",
+        "height": "HT: 6'4",
+        "weight": null
+    },
+    {
+        "number": "NO.: 5",
+        "name": "Kendall Mitchell",
+        "position": "POS: G",
+        "class_year": "CL: SO",
+        "height": "HT: 6'0",
+        "weight": null
+    },
+    {
+        "number": "NO.: 10",
+        "name": "Dekwon Brown",
+        "position": "POS: G",
+        "class_year": "CL: SO",
+        "height": "HT: 6'1",
+        "weight": null
+    },
+    {
+        "number": "NO.: 11",
+        "name": "Chidi Umeh",
+        "position": "POS: W",
+        "class_year": "CL: SO",
+        "height": "HT: 6'8",
+        "weight": null
+    },
+    {
+        "number": "NO.: 15",
+        "name": "Ja'Corian Oes",
+        "position": "POS: W",
+        "class_year": "CL: FR",
+        "height": "HT: 6'5",
+        "weight": null
+    },
+    {
+        "number": "NO.: 21",
+        "name": "Jeremiah Cooper",
+        "position": "POS: F",
+        "class_year": "CL: FR",
+        "height": "HT: 6'9",
+        "weight": null
+    },
+    {
+        "number": "NO.: 22",
+        "name": "Malachi Hubbard",
+        "position": "POS: F",
+        "class_year": "CL: FR",
+        "height": "HT: 6'8",
+        "weight": null
+    },
+    {
+        "number": "NO.: 23",
+        "name": "Elijah Herron",
+        "position": "POS: F",
+        "class_year": "CL: FR",
+        "height": "HT: 6'7",
+        "weight": null
+    },
+    {
+        "number": "NO.: 24",
+        "name": "Lamarious White",
+        "position": "POS: F",
+        "class_year": "CL: FR",
+        "height": "HT: 6'8",
+        "weight": null
+    },
+    {
+        "number": "NO.: 25",
+        "name": "Kole Williams",
+        "position": "POS: G",
+        "class_year": "CL: SO",
+        "height": "HT: 6'4",
+        "weight": null
+    },
+    {
+        "number": "NO.: 33",
+        "name": "Josh Olutayo",
+        "position": "POS: F",
+        "class_year": "CL: SO",
+        "height": "HT: 6'6",
+        "weight": null
+    },
+    {
+        "number": "NO.: RS",
+        "name": "Charley Reado",
+        "position": "POS:",
+        "class_year": "CL: SO",
+        "height": "HT: 6'2",
+        "weight": null
+    }
+]

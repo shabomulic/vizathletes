@@ -1,0 +1,114 @@
+[
+    {
+        "number": "1",
+        "name": "1",
+        "position": "Jared Arias",
+        "class_year": "Guard",
+        "height": "R-Sophomore",
+        "weight": "5-10"
+    },
+    {
+        "number": "2",
+        "name": "2",
+        "position": "Engel Gutierrez",
+        "class_year": "Guard",
+        "height": "Sophomore",
+        "weight": "6-3"
+    },
+    {
+        "number": "3",
+        "name": "3",
+        "position": "Aaron Barton",
+        "class_year": "Guard",
+        "height": "Sophomore",
+        "weight": "6-1"
+    },
+    {
+        "number": "4",
+        "name": "4",
+        "position": "Matt Anglo",
+        "class_year": "Guard",
+        "height": "Sophomore",
+        "weight": "6-2"
+    },
+    {
+        "number": "5",
+        "name": "5",
+        "position": "Boubacar Diatta",
+        "class_year": "Guard",
+        "height": "Sophomore",
+        "weight": "6-4"
+    },
+    {
+        "number": "10",
+        "name": "10",
+        "position": "Marsai Mason",
+        "class_year": "G/F",
+        "height": "Sophomore",
+        "weight": "6'6"
+    },
+    {
+        "number": "11",
+        "name": "11",
+        "position": "Nikola Aleksic",
+        "class_year": "Guard",
+        "height": "Freshman",
+        "weight": "6'3"
+    },
+    {
+        "number": "12",
+        "name": "12",
+        "position": "Kylian Loudegue-D\u2019Jim",
+        "class_year": "Guard",
+        "height": "Freshman",
+        "weight": "6'4"
+    },
+    {
+        "number": "13",
+        "name": "13",
+        "position": "Illiam Fevry",
+        "class_year": "Guard",
+        "height": "Freshman",
+        "weight": "6'5"
+    },
+    {
+        "number": "14",
+        "name": "14",
+        "position": "Mario Brunetto",
+        "class_year": "Forward",
+        "height": "R-Freshman",
+        "weight": "6'11"
+    },
+    {
+        "number": "22",
+        "name": "22",
+        "position": "Balla Kouyate",
+        "class_year": "Forward",
+        "height": "Sophomore",
+        "weight": "6'10"
+    },
+    {
+        "number": "32",
+        "name": "32",
+        "position": "Easton Sheppeard",
+        "class_year": "Guard",
+        "height": "R-Freshman",
+        "weight": "6-0"
+    },
+    {
+        "number": "33",
+        "name": "33",
+        "position": "Paora Winitana",
+        "class_year": "Forward",
+        "height": "R-Sophomore",
+        "weight": "6-6"
+    },
+    {
+        "number": "44",
+        "name": "44",
+        "position": "Riko Stebih",
+        "class_year": "Forward",
+        "height": "Freshman",
+        "weight": "6'11"
+    }
+]

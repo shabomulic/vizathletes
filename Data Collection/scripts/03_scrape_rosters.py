@@ -158,7 +158,7 @@ def scrape_roster(url):
         return []
 
 def main():
-    base_dir = os.path.dirname(os.path.abspath(__file__))
+    base_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
     teams_path = os.path.join(base_dir, 'teams.json')
     urls_path = os.path.join(base_dir, 'Top 25 URLs.txt')
     data_dir = os.path.join(base_dir, 'data')
@@ -166,31 +166,49 @@ def main():
     teams = load_teams(teams_path)
     urls = parse_urls(urls_path)
     
-    # Map name to slug
-    name_to_slug = {t['name']: t['slug'] for t in teams}
+    # Map name to (slug, division)
+    name_to_info = {t['name']: (t['slug'], t['division']) for t in teams}
     
+    # Division folder mapping
+    div_map = {
+        'DI': 'Division I',
+        'DII': 'Division II',
+        'DIII': 'Division III'
+    }
+
     # Manual Name Fixes
     name_fixes = {
-        "Bryant and Stratton College": "bryantandstrattoncollegewi"
+        "Bryant and Stratton College": ("bryantandstrattoncollegewi", "DII"),
+        "Montgomery County Community College (PA)": ("montgomerycountycommunitycollege", "DIII"),
+        "UCNJ": ("ucnj", "DIII"),
+        "Butler Community College - KS": ("butlercommunitycollegeks", "DI"),
+        "Riverland Community College": ("riverlandcommunitycollege", "DIII"),
+        "Northern Essex Community College": ("northernessexcommunitycollege", "DIII"),
+        "Sandhills Community College": ("sandhillscommunitycollege", "DIII"),
+        "Massasoit Community College": ("massasoitcommunitycollege", "DIII"),
+        "North Country Community College": ("northcountrycommunitycollege", "DIII")
     }
 
     for school_name, url in urls.items():
-        slug = name_to_slug.get(school_name)
+        info = name_to_info.get(school_name)
         
         # Try fixes if not found
-        if not slug:
+        if not info:
             if school_name in name_fixes:
-                slug = name_fixes[school_name]
+                info = name_fixes[school_name]
         
-        if not slug:
-            print(f"SKIPPING: Could not find slug for {school_name}")
+        if not info:
+            print(f"SKIPPING: Could not find info for {school_name}")
             continue
 
-        print(f"Scraping {school_name}...")
+        slug, div_code = info
+        div_folder = div_map.get(div_code, div_code)
+
+        print(f"Scraping {school_name} ({div_code})...")
         roster_data = scrape_roster(url)
         
         if roster_data:
-            school_dir = os.path.join(data_dir, slug)
+            school_dir = os.path.join(data_dir, div_folder, slug)
             os.makedirs(school_dir, exist_ok=True)
             output_path = os.path.join(school_dir, 'roster.json')
             
@@ -201,7 +219,7 @@ def main():
             print(f"  WARNING: No roster data found for {school_name}")
         
         # Be polite
-        time.sleep(2)
+        time.sleep(1) # Reduced sleep a bit for efficiency since we have 65 teams
 
 if __name__ == "__main__":
     main()

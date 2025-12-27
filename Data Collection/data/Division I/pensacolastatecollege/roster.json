@@ -1,0 +1,90 @@
+[
+    {
+        "number": "0",
+        "name": "Waris Njoya Waris Njoya",
+        "position": "Guard",
+        "class_year": "Fr.",
+        "height": "5'10",
+        "weight": "190"
+    },
+    {
+        "number": "1",
+        "name": "Alex Madrid Alex Madrid",
+        "position": "Guard",
+        "class_year": "So.",
+        "height": "6'4",
+        "weight": "190"
+    },
+    {
+        "number": "2",
+        "name": "Sean Owens Sean Owens",
+        "position": "Guard",
+        "class_year": "Fr.",
+        "height": "6'1",
+        "weight": "175"
+    },
+    {
+        "number": "3",
+        "name": "Fabian Rudd Fabian Rudd",
+        "position": "Forward",
+        "class_year": "Fr.",
+        "height": "6'5",
+        "weight": "210"
+    },
+    {
+        "number": "4",
+        "name": "Ethan McDonald Ethan McDonald",
+        "position": "Guard",
+        "class_year": "So.",
+        "height": "6'2",
+        "weight": "180"
+    },
+    {
+        "number": "5",
+        "name": "Malick Sene Malick Sene",
+        "position": "Center",
+        "class_year": "So.",
+        "height": "6'11",
+        "weight": "230"
+    },
+    {
+        "number": "6",
+        "name": "Joshua Middlebrooks Joshua Middlebrooks",
+        "position": "Guard",
+        "class_year": "So.",
+        "height": "6'3",
+        "weight": "165"
+    },
+    {
+        "number": "9",
+        "name": "Edvard Herter Edvard Herter",
+        "position": "Forward",
+        "class_year": "Fr.",
+        "height": "6'7",
+        "weight": "200"
+    },
+    {
+        "number": "10",
+        "name": "Leo Aramburu Rosa Leo Aramburu Rosa",
+        "position": "Forward",
+        "class_year": "Fr.",
+        "height": "6'7",
+        "weight": "205"
+    },
+    {
+        "number": "11",
+        "name": "Darius Hawthorne Darius Hawthorne",
+        "position": "Forward",
+        "class_year": "Fr.",
+        "height": "6'4",
+        "weight": "200"
+    },
+    {
+        "number": "12",
+        "name": "Deven Bates Deven Bates",
+        "position": "Guard",
+        "class_year": "So.",
+        "height": "6'3",
+        "weight": "190"
+    }
+]

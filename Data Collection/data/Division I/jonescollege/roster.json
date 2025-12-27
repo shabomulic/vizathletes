@@ -1,0 +1,130 @@
+[
+    {
+        "number": "0",
+        "name": "Malachi Cowan",
+        "position": "G/F",
+        "class_year": "Fr.",
+        "height": "6-7",
+        "weight": "194"
+    },
+    {
+        "number": "1",
+        "name": "Braylon Barnes",
+        "position": "G",
+        "class_year": "Fr.",
+        "height": "6-4",
+        "weight": "185"
+    },
+    {
+        "number": "2",
+        "name": "Brooks Roberts",
+        "position": "G",
+        "class_year": "Fr.",
+        "height": "6-2",
+        "weight": "170"
+    },
+    {
+        "number": "3",
+        "name": "Caleb Hunt",
+        "position": "G",
+        "class_year": "So.",
+        "height": "6-0",
+        "weight": "188"
+    },
+    {
+        "number": "4",
+        "name": "Jadyn Garrett",
+        "position": "G",
+        "class_year": "Fr.",
+        "height": "6-0",
+        "weight": "185"
+    },
+    {
+        "number": "5",
+        "name": "Dylan Rowe",
+        "position": "G",
+        "class_year": "Fr.",
+        "height": "6-4",
+        "weight": "175"
+    },
+    {
+        "number": "10",
+        "name": "Jay Tyler",
+        "position": "G",
+        "class_year": "So.",
+        "height": "6-0",
+        "weight": "175"
+    },
+    {
+        "number": "11",
+        "name": "Keron Jackson",
+        "position": "F",
+        "class_year": "Fr.",
+        "height": "6-7",
+        "weight": "225"
+    },
+    {
+        "number": "12",
+        "name": "Wesley Lindsey",
+        "position": "F",
+        "class_year": "Fr.",
+        "height": "6-6",
+        "weight": "200"
+    },
+    {
+        "number": "20",
+        "name": "Bob Dickson",
+        "position": "F",
+        "class_year": "Fr.",
+        "height": "6-7",
+        "weight": "215"
+    },
+    {
+        "number": "22",
+        "name": "Quey'Sean Taylor",
+        "position": "F",
+        "class_year": "Fr.",
+        "height": "6-4",
+        "weight": "205"
+    },
+    {
+        "number": "24",
+        "name": "Kris Carroll",
+        "position": "G/F",
+        "class_year": "Fr.",
+        "height": "6-5",
+        "weight": "210"
+    },
+    {
+        "number": "25",
+        "name": "Derek Hollman Jr.",
+        "position": "C",
+        "class_year": "Fr.",
+        "height": "6-9",
+        "weight": "210"
+    },
+    {
+        "number": "30",
+        "name": "Riley Walton",
+        "position": "F",
+        "class_year": "Fr.",
+        "height": "6-6",
+        "weight": "205"
+    },
+    {
+        "number": "MGR",
+        "name": "Tommy Chambers",
+        "position": "MGR",
+        "class_year": "So.",
+        "height": "-",
+        "weight": ""
+    },
+    {
+        "number": "MGR",
+        "name": "Brendon Graham",
+        "position": "MGR",
+        "class_year": "Fr.",
+        "height": "-",
+        "weight": ""
+    }
+]

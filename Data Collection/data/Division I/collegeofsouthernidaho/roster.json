@@ -1,0 +1,130 @@
+[
+    {
+        "number": "1",
+        "name": "Jalen Lyn",
+        "position": "Guard",
+        "class_year": "So.",
+        "height": "6-3",
+        "weight": "190"
+    },
+    {
+        "number": "2",
+        "name": "Cooper Kesler",
+        "position": "Guard",
+        "class_year": "R-Fr.",
+        "height": "6-2",
+        "weight": "170"
+    },
+    {
+        "number": "3",
+        "name": "DJ Fizer Jr.",
+        "position": "Forward",
+        "class_year": "So.",
+        "height": "6-6",
+        "weight": "220"
+    },
+    {
+        "number": "5",
+        "name": "Trey Curry",
+        "position": "Guard",
+        "class_year": "Fr.",
+        "height": "6-1",
+        "weight": "170"
+    },
+    {
+        "number": "11",
+        "name": "Gerry Guerrero",
+        "position": "Guard",
+        "class_year": "R-So.",
+        "height": "6-3",
+        "weight": "185"
+    },
+    {
+        "number": "12",
+        "name": "Ace Reiser",
+        "position": "Guard",
+        "class_year": "Fr.",
+        "height": "6-0",
+        "weight": "165"
+    },
+    {
+        "number": "13",
+        "name": "Ben Thornbrue",
+        "position": "Forward",
+        "class_year": "R-So.",
+        "height": "6-8",
+        "weight": "215"
+    },
+    {
+        "number": "15",
+        "name": "William Issekya",
+        "position": "Guard",
+        "class_year": "R-Fr.",
+        "height": "6-2",
+        "weight": "175"
+    },
+    {
+        "number": "22",
+        "name": "Nathan Ahner",
+        "position": "Forward",
+        "class_year": "So.",
+        "height": "6-6",
+        "weight": "215"
+    },
+    {
+        "number": "23",
+        "name": "Kyah Farris-White",
+        "position": "Center",
+        "class_year": "Fr.",
+        "height": "6-10",
+        "weight": "215"
+    },
+    {
+        "number": "24",
+        "name": "Kobe Kesler",
+        "position": "Guard",
+        "class_year": "Fr.",
+        "height": "6-2",
+        "weight": "185"
+    },
+    {
+        "number": "25",
+        "name": "Charlie Dimmock",
+        "position": "Center",
+        "class_year": "Fr.",
+        "height": "6-9",
+        "weight": "235"
+    },
+    {
+        "number": "30",
+        "name": "Jayden Bunker",
+        "position": "Forward",
+        "class_year": "Fr.",
+        "height": "6-4",
+        "weight": "190"
+    },
+    {
+        "number": "33",
+        "name": "Guygustone Kasenga",
+        "position": "Center",
+        "class_year": "Fr.",
+        "height": "6-9",
+        "weight": "215"
+    },
+    {
+        "number": "34",
+        "name": "Emil Hirvonen",
+        "position": "Center",
+        "class_year": "Fr.",
+        "height": "6-11",
+        "weight": "230"
+    },
+    {
+        "number": "42",
+        "name": "Mason Hill",
+        "position": "Center",
+        "class_year": "Fr.",
+        "height": "6-10",
+        "weight": "215"
+    }
+]

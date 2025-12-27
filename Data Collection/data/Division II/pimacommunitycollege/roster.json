@@ -1,114 +1,154 @@
 [
     {
         "number": "0",
-        "name": "Taevean Famutimi-Brown",
-        "position": "Guard",
-        "class_year": "Sophomore",
-        "height": "6'3",
-        "weight": null
+        "name": "0",
+        "position": "Taevean Famutimi-Brown",
+        "class_year": "Guard",
+        "height": "Sophomore",
+        "weight": "6-3"
     },
     {
         "number": "1",
-        "name": "Gerron Graham",
-        "position": "Guard",
-        "class_year": "Freshman",
-        "height": "6'2",
-        "weight": null
+        "name": "1",
+        "position": "Gerron Graham",
+        "class_year": "Guard",
+        "height": "Freshman",
+        "weight": "6-2"
     },
     {
         "number": "2",
-        "name": "Isaiah Hill",
-        "position": "Guard",
-        "class_year": "Freshman",
-        "height": "6'0",
-        "weight": null
+        "name": "2",
+        "position": "Isaiah Hill",
+        "class_year": "Guard",
+        "height": "Freshman",
+        "weight": "6-0"
     },
     {
         "number": "3",
-        "name": "Drew Hall",
-        "position": "Guard",
-        "class_year": "Freshman",
-        "height": "6'3",
-        "weight": null
+        "name": "3",
+        "position": "Drew Hall",
+        "class_year": "Guard",
+        "height": "Freshman",
+        "weight": "6-3"
     },
     {
         "number": "4",
-        "name": "Will Feagles",
-        "position": "Guard",
-        "class_year": "Freshman",
-        "height": "6'4",
-        "weight": null
+        "name": "4",
+        "position": "Will Feagles",
+        "class_year": "Guard",
+        "height": "Freshman",
+        "weight": "6-4"
     },
     {
         "number": "5",
-        "name": "Rowan McKenzie",
-        "position": "Guard",
-        "class_year": "Freshman",
-        "height": "6'2",
-        "weight": null
+        "name": "5",
+        "position": "Rowan McKenzie",
+        "class_year": "Guard",
+        "height": "Freshman",
+        "weight": "6-2"
     },
     {
         "number": "10",
-        "name": "Grant Woods",
-        "position": "Forward",
-        "class_year": "Sophomore",
-        "height": "6'7",
-        "weight": null
+        "name": "10",
+        "position": "Grant Woods",
+        "class_year": "Forward",
+        "height": "Sophomore",
+        "weight": "6-7"
     },
     {
         "number": "11",
-        "name": "Isaac Johnson",
-        "position": "Guard/Forward",
-        "class_year": "Sophomore",
-        "height": "6'7",
-        "weight": null
+        "name": "11",
+        "position": "Isaac Johnson",
+        "class_year": "Guard/Forward",
+        "height": "Sophomore",
+        "weight": "6-7"
     },
     {
         "number": "13",
-        "name": "Mason Tippett",
-        "position": "Forward",
-        "class_year": "Sophomore",
-        "height": "6'7",
-        "weight": null
+        "name": "13",
+        "position": "Mason Tippett",
+        "class_year": "Forward",
+        "height": "Sophomore",
+        "weight": "6-7"
     },
     {
         "number": "15",
-        "name": "Kaelum Brown",
-        "position": "Forward",
-        "class_year": "Sophomore",
-        "height": "6'8",
-        "weight": null
+        "name": "15",
+        "position": "Kaelum Brown",
+        "class_year": "Forward",
+        "height": "Sophomore",
+        "weight": "6-8"
     },
     {
         "number": "21",
-        "name": "Brock Mendoza",
-        "position": "Center",
-        "class_year": "Sophomore",
-        "height": "6'11",
-        "weight": null
+        "name": "21",
+        "position": "Brock Mendoza",
+        "class_year": "Center",
+        "height": "Sophomore",
+        "weight": "6-11"
     },
     {
         "number": "22",
-        "name": "Mason Hunt",
-        "position": "Forward",
-        "class_year": "Sophomore",
-        "height": "6'7",
-        "weight": null
+        "name": "22",
+        "position": "Mason Hunt",
+        "class_year": "Forward",
+        "height": "Sophomore",
+        "weight": "6-7"
     },
     {
         "number": "32",
-        "name": "Paul Olivares Yepiz",
-        "position": "Guard",
-        "class_year": "Freshman",
-        "height": "6'3",
-        "weight": null
+        "name": "32",
+        "position": "Paul Olivares Yepiz",
+        "class_year": "Guard",
+        "height": "Freshman",
+        "weight": "6-3"
     },
     {
         "number": "33",
-        "name": "Ky Green",
-        "position": "Forward",
-        "class_year": "Sophomore",
-        "height": "6'6",
-        "weight": null
+        "name": "33",
+        "position": "Ky Green",
+        "class_year": "Forward",
+        "height": "Sophomore",
+        "weight": "6-6"
+    },
+    {
+        "number": "RS",
+        "name": "RS",
+        "position": "Maxsamus Armstrong",
+        "class_year": "Forward",
+        "height": "Freshman",
+        "weight": "6-7"
+    },
+    {
+        "number": "RS",
+        "name": "RS",
+        "position": "Gage Lindsey",
+        "class_year": "Forward",
+        "height": "Freshman",
+        "weight": "6-7"
+    },
+    {
+        "number": "RS",
+        "name": "RS",
+        "position": "Connor Morris",
+        "class_year": "Forward",
+        "height": "Freshman",
+        "weight": "6-6"
+    },
+    {
+        "number": "RS",
+        "name": "RS",
+        "position": "Daniel Ortiz",
+        "class_year": "Guard",
+        "height": "Freshman",
+        "weight": "6-0"
+    },
+    {
+        "number": "RS",
+        "name": "RS",
+        "position": "Marcus Wady",
+        "class_year": "Guard",
+        "height": "Freshman",
+        "weight": "6-1"
     }
 ]

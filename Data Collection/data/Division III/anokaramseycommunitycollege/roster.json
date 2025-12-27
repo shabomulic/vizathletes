@@ -1,0 +1,122 @@
+[
+    {
+        "number": "1",
+        "name": "Andrew Chisley",
+        "position": "G/F",
+        "class_year": "So",
+        "height": "6'7\"",
+        "weight": "225"
+    },
+    {
+        "number": "3",
+        "name": "Jamal Woods",
+        "position": "G",
+        "class_year": "So",
+        "height": "6'3\"",
+        "weight": "189"
+    },
+    {
+        "number": "4",
+        "name": "Stewart Jones",
+        "position": "G",
+        "class_year": "So",
+        "height": "6'2\"",
+        "weight": "177"
+    },
+    {
+        "number": "5",
+        "name": "Akeem Nelson",
+        "position": "G",
+        "class_year": "Fr",
+        "height": "6'1\"",
+        "weight": "188"
+    },
+    {
+        "number": "11",
+        "name": "Jamin Cook Jr.",
+        "position": "G",
+        "class_year": "So",
+        "height": "6'0\"",
+        "weight": "160"
+    },
+    {
+        "number": "12",
+        "name": "Dwayne Bryant",
+        "position": "G",
+        "class_year": "So",
+        "height": "5'10\"",
+        "weight": "150"
+    },
+    {
+        "number": "13",
+        "name": "Finn Norman",
+        "position": "F",
+        "class_year": "Fr",
+        "height": "6'6\"",
+        "weight": "190"
+    },
+    {
+        "number": "14",
+        "name": "MJ Omot",
+        "position": "F",
+        "class_year": "Fr",
+        "height": "6'5\"",
+        "weight": "180"
+    },
+    {
+        "number": "20",
+        "name": "Brayden Dollard",
+        "position": "G",
+        "class_year": "Fr",
+        "height": "6'2\"",
+        "weight": "144"
+    },
+    {
+        "number": "21",
+        "name": "Dwuan Reliford",
+        "position": "F",
+        "class_year": "Fr",
+        "height": "6'2\"",
+        "weight": "180"
+    },
+    {
+        "number": "22",
+        "name": "TJ Caouette",
+        "position": "G",
+        "class_year": "So",
+        "height": "6'0\"",
+        "weight": "170"
+    },
+    {
+        "number": "23",
+        "name": "Chance Wicks",
+        "position": "G/F",
+        "class_year": "Fr",
+        "height": "6'2\"",
+        "weight": "133"
+    },
+    {
+        "number": "24",
+        "name": "Austin Kunz",
+        "position": "G",
+        "class_year": "Fr",
+        "height": "6'2\"",
+        "weight": "171"
+    },
+    {
+        "number": "33",
+        "name": "Ben Chavez",
+        "position": "F",
+        "class_year": "So",
+        "height": "6'4\"",
+        "weight": "178"
+    },
+    {
+        "number": "34",
+        "name": "Preston Thielke",
+        "position": "G/F",
+        "class_year": "Fr",
+        "height": "6'5\"",
+        "weight": "203"
+    }
+]

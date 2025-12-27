@@ -1,0 +1,114 @@
+[
+    {
+        "number": "0",
+        "name": "Tareak Williams",
+        "position": "Position: Guard",
+        "class_year": "Class: Sophomore",
+        "height": "6'2",
+        "weight": null
+    },
+    {
+        "number": "1",
+        "name": "Anthony Hicks",
+        "position": "Position: Guard",
+        "class_year": "Class: Sophomore",
+        "height": "6'1",
+        "weight": null
+    },
+    {
+        "number": "2",
+        "name": "Aljanai Best",
+        "position": "Position: Guard",
+        "class_year": "Class: Freshman",
+        "height": "5'10",
+        "weight": null
+    },
+    {
+        "number": "3",
+        "name": "Jasir Calloway",
+        "position": "Position: Guard",
+        "class_year": "Class: Sophomore",
+        "height": "6'0",
+        "weight": null
+    },
+    {
+        "number": "4",
+        "name": "Felipe Mendez",
+        "position": "Position: Guard",
+        "class_year": "Class: Freshman",
+        "height": "6'0",
+        "weight": null
+    },
+    {
+        "number": "5",
+        "name": "Tyrese Bynum-Johnson",
+        "position": "Position: Guard",
+        "class_year": "Class: Sophomore",
+        "height": "6'4",
+        "weight": null
+    },
+    {
+        "number": "7",
+        "name": "Craig West",
+        "position": "Position: Guard",
+        "class_year": "Class: Sophomore",
+        "height": "5'11",
+        "weight": null
+    },
+    {
+        "number": "8",
+        "name": "Nicolas Acosta",
+        "position": "Position: Forward",
+        "class_year": "Class: Sophomore",
+        "height": "6'8",
+        "weight": null
+    },
+    {
+        "number": "10",
+        "name": "Jason Toussaint",
+        "position": "Position: Guard",
+        "class_year": "Class: Freshman",
+        "height": "6'2",
+        "weight": null
+    },
+    {
+        "number": "11",
+        "name": "James Downing",
+        "position": "Position: Guard",
+        "class_year": "Class: Freshman",
+        "height": "6'2",
+        "weight": null
+    },
+    {
+        "number": "12",
+        "name": "Jake Zawacki",
+        "position": "Position: Guard",
+        "class_year": "Class: Sophomore",
+        "height": "6'1",
+        "weight": null
+    },
+    {
+        "number": "22",
+        "name": "Kanye Brown",
+        "position": "Position: Guard",
+        "class_year": "Class: Sophomore",
+        "height": "6'1",
+        "weight": null
+    },
+    {
+        "number": "24",
+        "name": "Zahkey Jeter",
+        "position": "Position: Guard",
+        "class_year": "Class: Freshman",
+        "height": "6'5",
+        "weight": null
+    },
+    {
+        "number": "44",
+        "name": "Jeremiah Saint Jean",
+        "position": "Position: Center",
+        "class_year": "Class: Sophomore",
+        "height": "6'11",
+        "weight": null
+    }
+]

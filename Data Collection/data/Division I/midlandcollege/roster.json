@@ -1,0 +1,130 @@
+[
+    {
+        "number": "0",
+        "name": "Cayden Reed",
+        "position": "G",
+        "class_year": "Fr",
+        "height": "5'9",
+        "weight": "170"
+    },
+    {
+        "number": "1",
+        "name": "Duane Thompson",
+        "position": "F",
+        "class_year": "So",
+        "height": "6'8",
+        "weight": "210"
+    },
+    {
+        "number": "2",
+        "name": "Darius Carr",
+        "position": "G",
+        "class_year": "So",
+        "height": "6'4",
+        "weight": "195"
+    },
+    {
+        "number": "3",
+        "name": "Joustin Reyes",
+        "position": "F",
+        "class_year": "Fr",
+        "height": "6'9",
+        "weight": "210"
+    },
+    {
+        "number": "4",
+        "name": "Donovan Scott",
+        "position": "G",
+        "class_year": "So",
+        "height": "6'3",
+        "weight": "175"
+    },
+    {
+        "number": "6",
+        "name": "Nayte Spargo",
+        "position": "F",
+        "class_year": "Fr",
+        "height": "6'11",
+        "weight": "210"
+    },
+    {
+        "number": "7",
+        "name": "Brandon White",
+        "position": "F",
+        "class_year": "So",
+        "height": "6'10",
+        "weight": "225"
+    },
+    {
+        "number": "8",
+        "name": "Daniel Poelsma",
+        "position": "F",
+        "class_year": "Fr",
+        "height": "6'8",
+        "weight": "210"
+    },
+    {
+        "number": "9",
+        "name": "NIcholas Anthony",
+        "position": "G",
+        "class_year": "So",
+        "height": "6'4",
+        "weight": "195"
+    },
+    {
+        "number": "10",
+        "name": "Kevin Smith-Johnson Jr.",
+        "position": "G",
+        "class_year": "Fr",
+        "height": "6'4",
+        "weight": "195"
+    },
+    {
+        "number": "11",
+        "name": "Luke Justice",
+        "position": "G",
+        "class_year": "Fr",
+        "height": "6'2",
+        "weight": "175"
+    },
+    {
+        "number": "13",
+        "name": "Tyquon Satterwhite",
+        "position": "G",
+        "class_year": "Fr",
+        "height": "5'9",
+        "weight": "165"
+    },
+    {
+        "number": "15",
+        "name": "Romerey Mateus",
+        "position": "F",
+        "class_year": "Fr",
+        "height": "6'8",
+        "weight": "225"
+    },
+    {
+        "number": "22",
+        "name": "Solomon Ominu",
+        "position": "F",
+        "class_year": "So",
+        "height": "6'8",
+        "weight": "225"
+    },
+    {
+        "number": "23",
+        "name": "Antoine Bo Hurns",
+        "position": "G",
+        "class_year": "So",
+        "height": "6'8",
+        "weight": "210"
+    },
+    {
+        "number": "24",
+        "name": "Yeison Liberato",
+        "position": "G",
+        "class_year": "Fr",
+        "height": "6'5",
+        "weight": "205"
+    }
+]

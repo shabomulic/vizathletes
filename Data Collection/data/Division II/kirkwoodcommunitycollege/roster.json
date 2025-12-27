@@ -1,130 +1,130 @@
 [
     {
         "number": "1",
-        "name": "Richard Lindsey Jr.",
-        "position": "G",
-        "class_year": "So",
-        "height": "6'3",
-        "weight": null
+        "name": "1",
+        "position": "Richard Lindsey Jr.",
+        "class_year": "G",
+        "height": "So",
+        "weight": "6'3"
     },
     {
         "number": "2",
-        "name": "Kayvion Hodges",
-        "position": "G",
-        "class_year": "Fr",
-        "height": "6'3",
-        "weight": null
+        "name": "2",
+        "position": "Kayvion Hodges",
+        "class_year": "G",
+        "height": "Fr",
+        "weight": "6'3"
     },
     {
         "number": "3",
-        "name": "Yaris Irby",
-        "position": "G",
-        "class_year": "Fr",
-        "height": "5'11",
-        "weight": null
+        "name": "3",
+        "position": "Yaris Irby",
+        "class_year": "G",
+        "height": "Fr",
+        "weight": "5'11"
     },
     {
         "number": "4",
-        "name": "Manasse Kasongo",
-        "position": "F",
-        "class_year": "Fr",
-        "height": "6'7",
-        "weight": null
+        "name": "4",
+        "position": "Manasse Kasongo",
+        "class_year": "F",
+        "height": "Fr",
+        "weight": "6'7"
     },
     {
         "number": "5",
-        "name": "Hakeal Powell",
-        "position": "G",
-        "class_year": "Fr",
-        "height": "5'11",
-        "weight": null
+        "name": "5",
+        "position": "Hakeal Powell",
+        "class_year": "G",
+        "height": "Fr",
+        "weight": "5'11"
     },
     {
         "number": "10",
-        "name": "Grayson Wollum",
-        "position": "F",
-        "class_year": "Fr",
-        "height": "6'8",
-        "weight": null
+        "name": "10",
+        "position": "Grayson Wollum",
+        "class_year": "F",
+        "height": "Fr",
+        "weight": "6'8"
     },
     {
         "number": "11",
-        "name": "Germaine Benson",
-        "position": "PG",
-        "class_year": "So",
-        "height": "6'0",
-        "weight": null
+        "name": "11",
+        "position": "Germaine Benson",
+        "class_year": "PG",
+        "height": "So",
+        "weight": "6'0"
     },
     {
         "number": "12",
-        "name": "Jackson Lieurance",
-        "position": "G",
-        "class_year": "Fr",
-        "height": "6'2",
-        "weight": null
+        "name": "12",
+        "position": "Jackson Lieurance",
+        "class_year": "G",
+        "height": "Fr",
+        "weight": "6'2"
     },
     {
         "number": "13",
-        "name": "Cole Marsh",
-        "position": "F",
-        "class_year": "Fr",
-        "height": "6'6",
-        "weight": null
+        "name": "13",
+        "position": "Cole Marsh",
+        "class_year": "F",
+        "height": "Fr",
+        "weight": "6'6"
     },
     {
         "number": "14",
-        "name": "Chris Coleman",
-        "position": "G",
-        "class_year": "So",
-        "height": "6'1",
-        "weight": null
+        "name": "14",
+        "position": "Chris Coleman",
+        "class_year": "G",
+        "height": "So",
+        "weight": "6'1"
     },
     {
         "number": "15",
-        "name": "Stephen McCollum",
-        "position": "G",
-        "class_year": "Fr",
-        "height": "6'5",
-        "weight": null
+        "name": "15",
+        "position": "Stephen McCollum",
+        "class_year": "G",
+        "height": "Fr",
+        "weight": "6'5"
     },
     {
         "number": "20",
-        "name": "Landon Deiters",
-        "position": "F",
-        "class_year": "Fr",
-        "height": "6'9",
-        "weight": null
+        "name": "20",
+        "position": "Landon Deiters",
+        "class_year": "F",
+        "height": "Fr",
+        "weight": "6'9"
     },
     {
         "number": "22",
-        "name": "Ben Bockman",
-        "position": "G",
-        "class_year": "So",
-        "height": "6'5",
-        "weight": null
+        "name": "22",
+        "position": "Ben Bockman",
+        "class_year": "G",
+        "height": "So",
+        "weight": "6'5"
     },
     {
         "number": "23",
-        "name": "Tyler Netolicky",
-        "position": "F",
-        "class_year": "So",
-        "height": "6'10",
-        "weight": null
+        "name": "23",
+        "position": "Tyler Netolicky",
+        "class_year": "F",
+        "height": "So",
+        "weight": "6'10"
     },
     {
         "number": "30",
-        "name": "JJ Ware",
-        "position": "F",
-        "class_year": "Fr",
-        "height": "6'6",
-        "weight": null
+        "name": "30",
+        "position": "JJ Ware",
+        "class_year": "F",
+        "height": "Fr",
+        "weight": "6'6"
     },
     {
         "number": "55",
-        "name": "Peyton McDaris",
-        "position": "G",
-        "class_year": "Fr",
-        "height": "5'10",
-        "weight": null
+        "name": "55",
+        "position": "Peyton McDaris",
+        "class_year": "G",
+        "height": "Fr",
+        "weight": "5'10"
     }
 ]

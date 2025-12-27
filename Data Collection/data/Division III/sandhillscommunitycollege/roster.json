@@ -1,0 +1,154 @@
+[
+    {
+        "number": "1",
+        "name": "1",
+        "position": "BJ Johnson",
+        "class_year": "Guard",
+        "height": "Fr",
+        "weight": "5'10"
+    },
+    {
+        "number": "2",
+        "name": "2",
+        "position": "Nysheed Williams",
+        "class_year": "Guard",
+        "height": "Fr",
+        "weight": "6'"
+    },
+    {
+        "number": "3",
+        "name": "3",
+        "position": "D'dric Rogers",
+        "class_year": "G",
+        "height": "So",
+        "weight": "6'1"
+    },
+    {
+        "number": "4",
+        "name": "4",
+        "position": "Kendall Smith",
+        "class_year": "G",
+        "height": "So",
+        "weight": "6'2"
+    },
+    {
+        "number": "5",
+        "name": "5",
+        "position": "Randy Dockery",
+        "class_year": "G",
+        "height": "So",
+        "weight": "5'10"
+    },
+    {
+        "number": "10",
+        "name": "10",
+        "position": "Mylon Campbell",
+        "class_year": "G",
+        "height": "So",
+        "weight": "6'"
+    },
+    {
+        "number": "11",
+        "name": "11",
+        "position": "Zori Island",
+        "class_year": "Guard",
+        "height": "Fr",
+        "weight": "5'8"
+    },
+    {
+        "number": "12",
+        "name": "12",
+        "position": "Isaiah Upchurch",
+        "class_year": "G",
+        "height": "So",
+        "weight": "6'6"
+    },
+    {
+        "number": "20",
+        "name": "20",
+        "position": "Cristian Sias",
+        "class_year": "Forward",
+        "height": "Fr",
+        "weight": "6'4"
+    },
+    {
+        "number": "21",
+        "name": "21",
+        "position": "Titus Cunningham",
+        "class_year": "Forward",
+        "height": "So",
+        "weight": "6'5"
+    },
+    {
+        "number": "22",
+        "name": "22",
+        "position": "Nylikk Troutman",
+        "class_year": "G",
+        "height": "So",
+        "weight": "6'2"
+    },
+    {
+        "number": "23",
+        "name": "23",
+        "position": "Zack Noel",
+        "class_year": "F",
+        "height": "So",
+        "weight": "6'6"
+    },
+    {
+        "number": "24",
+        "name": "24",
+        "position": "Amarie Liburd",
+        "class_year": "F",
+        "height": "So",
+        "weight": "6'5"
+    },
+    {
+        "number": "33",
+        "name": "33",
+        "position": "Anthony Jones",
+        "class_year": "Forward",
+        "height": "Fr",
+        "weight": "6'5"
+    },
+    {
+        "number": "34",
+        "name": "34",
+        "position": "Dominic Kennedy",
+        "class_year": "Forward",
+        "height": "So",
+        "weight": "6'5"
+    },
+    {
+        "number": "RS",
+        "name": "RS",
+        "position": "Malachi Isaac",
+        "class_year": "Guard",
+        "height": "Fr",
+        "weight": "6'1"
+    },
+    {
+        "number": "RS",
+        "name": "RS",
+        "position": "Curtis Jackson",
+        "class_year": "Guard",
+        "height": "Fr",
+        "weight": "6'0"
+    },
+    {
+        "number": "RS",
+        "name": "RS",
+        "position": "Angelo Jones",
+        "class_year": "Forward",
+        "height": "Fr",
+        "weight": "6'3"
+    },
+    {
+        "number": "RS",
+        "name": "RS",
+        "position": "Tomisaac Newkirk",
+        "class_year": "Guard",
+        "height": "So",
+        "weight": "5'9"
+    }
+]

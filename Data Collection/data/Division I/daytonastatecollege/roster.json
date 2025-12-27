@@ -1,0 +1,106 @@
+[
+    {
+        "number": "0",
+        "name": "0",
+        "position": "Trey Wilson",
+        "class_year": "Guard",
+        "height": "Sophomore",
+        "weight": "6'3\""
+    },
+    {
+        "number": "1",
+        "name": "1",
+        "position": "Adrian Shackleton",
+        "class_year": "Point Guard",
+        "height": "Sophomore",
+        "weight": "6'4\""
+    },
+    {
+        "number": "2",
+        "name": "2",
+        "position": "Noah Mendy",
+        "class_year": "Guard",
+        "height": "Sophomore",
+        "weight": "6'6\""
+    },
+    {
+        "number": "3",
+        "name": "3",
+        "position": "Alex Harper",
+        "class_year": "Guard",
+        "height": "Sophomore",
+        "weight": "6'3\""
+    },
+    {
+        "number": "4",
+        "name": "4",
+        "position": "Tyrese Lacey",
+        "class_year": "Point Guard",
+        "height": "Sophomore",
+        "weight": "5'9\""
+    },
+    {
+        "number": "5",
+        "name": "5",
+        "position": "CJ Hall",
+        "class_year": "Guard",
+        "height": "Freshman",
+        "weight": "6'4\""
+    },
+    {
+        "number": "10",
+        "name": "10",
+        "position": "Adyn Corbin",
+        "class_year": "Point Guard",
+        "height": "Freshman",
+        "weight": "6'1\""
+    },
+    {
+        "number": "11",
+        "name": "11",
+        "position": "Adiel Lopez",
+        "class_year": "Guard/Forward",
+        "height": "Freshman",
+        "weight": "6'6\""
+    },
+    {
+        "number": "12",
+        "name": "12",
+        "position": "Niko Albino-Sanz",
+        "class_year": "Guard",
+        "height": "Freshman",
+        "weight": "6'4\""
+    },
+    {
+        "number": "15",
+        "name": "15",
+        "position": "Flamio Mateus",
+        "class_year": "Forward",
+        "height": "Freshman",
+        "weight": "6'9\""
+    },
+    {
+        "number": "22",
+        "name": "22",
+        "position": "Janiel De Los Santos",
+        "class_year": "Guard",
+        "height": "Freshman",
+        "weight": "6'3\""
+    },
+    {
+        "number": "24",
+        "name": "24",
+        "position": "Seydina N'Diaye",
+        "class_year": "Forward",
+        "height": "Freshman",
+        "weight": "6'11\""
+    },
+    {
+        "number": "32",
+        "name": "32",
+        "position": "Ryan Bewley",
+        "class_year": "Forward",
+        "height": "Sophomore",
+        "weight": "6'9\""
+    }
+]
