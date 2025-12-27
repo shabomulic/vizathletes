@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Feb 16",
+    "boxScoreLink": "20260216_hf1z.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Bevill State Community College",
+                "result": "",
+                "teamId": "76v9d5nnbz5nd3xr",
+                "winner": false,
+                "cleanName": "bevill st community col"
+            },
+            {
+                "name": "Chattahoochee Valley Community College",
+                "result": "",
+                "teamId": "rf52qvpv2nbr0xse",
+                "winner": false,
+                "cleanName": "chattahoochee valley community col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1771282800000,
+        "localTimeZone": "America/New_York",
+        "tba": false,
+        "home": true,
+        "overall": true,
+        "conference": true,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "hf1z0q4m85wyb8gp",
+        "fastdate": 1771282800000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Bevill State Community College",
+            "result": "",
+            "teamId": "76v9d5nnbz5nd3xr",
+            "winner": false,
+            "cleanName": "bevill st community col"
+        },
+        "us": {
+            "name": "Chattahoochee Valley Community College",
+            "result": "",
+            "teamId": "rf52qvpv2nbr0xse",
+            "winner": false,
+            "cleanName": "chattahoochee valley community col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "February 16 06:00 PM:"
+}

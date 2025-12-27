@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Oct 24",
+    "boxScoreLink": "20251024_fbxp.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Fork Union Military Academy",
+                "result": "",
+                "teamId": "f40raqdsiuuhcvnp",
+                "winner": false,
+                "cleanName": "fork union military academy"
+            },
+            {
+                "name": "Louisburg College",
+                "result": "",
+                "teamId": "8nscws04w381q4e3",
+                "winner": false,
+                "cleanName": "louisburg col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1761343200000,
+        "localTimeZone": "America/New_York",
+        "tba": false,
+        "home": true,
+        "overall": false,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "fbxp5szwlvwnbjvb",
+        "fastdate": 1761343200000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Fork Union Military Academy",
+            "result": "",
+            "teamId": "f40raqdsiuuhcvnp",
+            "winner": false,
+            "cleanName": "fork union military academy"
+        },
+        "us": {
+            "name": "Louisburg College",
+            "result": "",
+            "teamId": "8nscws04w381q4e3",
+            "winner": false,
+            "cleanName": "louisburg col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "October 24 06:00 PM:"
+}

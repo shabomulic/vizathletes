@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Feb 14",
+    "boxScoreLink": "20260214_n4bf.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Blinn College",
+                "result": "",
+                "teamId": "2418udk2a2s45br7",
+                "winner": false,
+                "cleanName": "blinn col"
+            },
+            {
+                "name": "Kilgore College",
+                "result": "",
+                "teamId": "e1hfw3ohlljgbq6q",
+                "winner": false,
+                "cleanName": "kilgore col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1771102800000,
+        "localTimeZone": "America/Chicago",
+        "tba": false,
+        "home": false,
+        "overall": true,
+        "conference": true,
+        "division": false,
+        "regional": true,
+        "national": true,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "n4bf9gyczkbymdzu",
+        "fastdate": 1771102800000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "numericResults": [],
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Kilgore College",
+            "result": "",
+            "teamId": "e1hfw3ohlljgbq6q",
+            "winner": false,
+            "cleanName": "kilgore col"
+        },
+        "us": {
+            "name": "Blinn College",
+            "result": "",
+            "teamId": "2418udk2a2s45br7",
+            "winner": false,
+            "cleanName": "blinn col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "numericResults": [],
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "February 14 04:00 PM:"
+}

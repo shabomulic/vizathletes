@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Oct 5",
+    "boxScoreLink": "20251005_7d4a.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Morton College",
+                "result": "",
+                "teamId": "mm0e4c15frgl8igj",
+                "winner": false,
+                "cleanName": "morton col"
+            },
+            {
+                "name": "Marian University Ancilla",
+                "result": "",
+                "teamId": "d5yvism8qlt7x25r",
+                "winner": false,
+                "cleanName": "marian univ ancilla"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1759690800000,
+        "localTimeZone": "America/Chicago",
+        "tba": false,
+        "home": false,
+        "overall": false,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "College of DuPage Jamboree",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "7d4akbig03xjr3af",
+        "fastdate": 1759690800000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "scrimmage",
+            "description": "Scrimmage",
+            "statsCount": false
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Marian University Ancilla",
+            "result": "",
+            "teamId": "d5yvism8qlt7x25r",
+            "winner": false,
+            "cleanName": "marian univ ancilla"
+        },
+        "us": {
+            "name": "Morton College",
+            "result": "",
+            "teamId": "mm0e4c15frgl8igj",
+            "winner": false,
+            "cleanName": "morton col"
+        },
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "October 5 03:00 PM:"
+}

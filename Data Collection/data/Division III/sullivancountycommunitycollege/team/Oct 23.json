@@ -1,0 +1,119 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Oct 23",
+    "boxScoreLink": "20251023_11ja.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Sullivan County Community College",
+                "result": "0",
+                "teamId": "op2zgrstgqcmsocv",
+                "winner": false,
+                "cleanName": "sullivan county community col"
+            },
+            {
+                "name": "Bryant & Stratton College - Albany",
+                "result": "0",
+                "teamId": "0yx1a4s8kmd1u8ay",
+                "winner": false,
+                "cleanName": "bryant stratton col albany"
+            }
+        ],
+        "status": "Final",
+        "notes": "",
+        "notesShared": "SCRIMMAGE [Closed]",
+        "date": 1761256800000,
+        "localTimeZone": "America/New_York",
+        "tba": false,
+        "home": false,
+        "overall": false,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": 0,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "11jav1pco6tkna4e",
+        "fastdate": 1761256800000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "1259 Central Ave",
+        "city": "Albany",
+        "stateCountry": "NY",
+        "zipCode": "12205",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "scrimmage",
+            "description": "Scrimmage",
+            "statsCount": false
+        },
+        "conferenceResult": "0-0",
+        "resultAsObject": {
+            "results": [
+                0,
+                0
+            ],
+            "resolved": true,
+            "hasScores": true,
+            "description": "Tie",
+            "score": "0-0",
+            "numericResults": [
+                0,
+                0
+            ],
+            "winnerLoser": "0-0",
+            "descriptionShortWithOT": "T"
+        },
+        "opponent": {
+            "name": "Bryant & Stratton College - Albany",
+            "result": "0",
+            "teamId": "0yx1a4s8kmd1u8ay",
+            "winner": false,
+            "cleanName": "bryant stratton col albany"
+        },
+        "us": {
+            "name": "Sullivan County Community College",
+            "result": "0",
+            "teamId": "op2zgrstgqcmsocv",
+            "winner": false,
+            "cleanName": "sullivan county community col"
+        },
+        "apresult": "T, 0-0",
+        "ap2Result": "T, 0-0",
+        "result": {
+            "results": [
+                0,
+                0
+            ],
+            "resolved": true,
+            "hasScores": true,
+            "description": "Tie",
+            "score": "0-0",
+            "numericResults": [
+                0,
+                0
+            ],
+            "winnerLoser": "0-0",
+            "descriptionShortWithOT": "T"
+        }
+    },
+    "eventDateFormattedAriaLabel": "October 23 06:00 PM:"
+}

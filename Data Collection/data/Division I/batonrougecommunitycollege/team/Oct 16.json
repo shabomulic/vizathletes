@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Oct 16",
+    "boxScoreLink": "20251016_d2y2.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Lamar State College - Port Arthur",
+                "result": "",
+                "teamId": "igmb3ihx8ae4zv85",
+                "winner": false,
+                "cleanName": "lamar st col port arthur"
+            },
+            {
+                "name": "Baton Rouge Community College",
+                "result": "",
+                "teamId": "4wi9zzkqc2pgz6w7",
+                "winner": false,
+                "cleanName": "baton rouge community col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1760652000000,
+        "localTimeZone": "America/Chicago",
+        "tba": false,
+        "home": true,
+        "overall": false,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": true,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "d2y2lqt396dl6fgx",
+        "fastdate": 1760652000000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "preSeason",
+            "description": "Pre-Season",
+            "statsCount": true
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Lamar State College - Port Arthur",
+            "result": "",
+            "teamId": "igmb3ihx8ae4zv85",
+            "winner": false,
+            "cleanName": "lamar st col port arthur"
+        },
+        "us": {
+            "name": "Baton Rouge Community College",
+            "result": "",
+            "teamId": "4wi9zzkqc2pgz6w7",
+            "winner": false,
+            "cleanName": "baton rouge community col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "October 16 06:00 PM:"
+}

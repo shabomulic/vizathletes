@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Feb 7",
+    "boxScoreLink": "20260207_3dob.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Barton Community College",
+                "result": "",
+                "teamId": "d4e6x6h5iapalbcl",
+                "winner": false,
+                "cleanName": "barton community col"
+            },
+            {
+                "name": "Pratt Community College",
+                "result": "",
+                "teamId": "ay0agbkbv0pxzeyu",
+                "winner": false,
+                "cleanName": "pratt community col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1770498000000,
+        "localTimeZone": "America/Chicago",
+        "tba": false,
+        "home": true,
+        "overall": true,
+        "conference": true,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "3dobvdbenpqlmm0m",
+        "fastdate": 1770498000000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": true,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Barton Community College",
+            "result": "",
+            "teamId": "d4e6x6h5iapalbcl",
+            "winner": false,
+            "cleanName": "barton community col"
+        },
+        "us": {
+            "name": "Pratt Community College",
+            "result": "",
+            "teamId": "ay0agbkbv0pxzeyu",
+            "winner": false,
+            "cleanName": "pratt community col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "February 7 04:00 PM:"
+}

@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Jan 15",
+    "boxScoreLink": "20260115_1zzp.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Camden County College",
+                "result": "",
+                "teamId": "k0zfbbv39jb4tbld",
+                "winner": false,
+                "cleanName": "camden county col"
+            },
+            {
+                "name": "Georgian Court JV",
+                "result": "",
+                "teamId": "fcwmebig4pu4sb80",
+                "winner": false,
+                "cleanName": "georgian court jv"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1768518000000,
+        "localTimeZone": "America/New_York",
+        "tba": false,
+        "home": false,
+        "overall": false,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "1zzpvju98njwuc71",
+        "fastdate": 1768518000000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "scrimmage",
+            "description": "Scrimmage",
+            "statsCount": false
+        },
+        "opponent": {
+            "name": "Georgian Court JV",
+            "result": "",
+            "teamId": "fcwmebig4pu4sb80",
+            "winner": false,
+            "cleanName": "georgian court jv"
+        },
+        "us": {
+            "name": "Camden County College",
+            "result": "",
+            "teamId": "k0zfbbv39jb4tbld",
+            "winner": false,
+            "cleanName": "camden county col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "January 15 06:00 PM:"
+}

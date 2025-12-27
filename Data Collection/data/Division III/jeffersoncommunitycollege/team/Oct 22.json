@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Oct 22",
+    "boxScoreLink": "20251022_qjj9.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Jefferson Community College",
+                "result": "",
+                "teamId": "s6idbpi0svuol1fq",
+                "winner": false,
+                "cleanName": "jefferson community col"
+            },
+            {
+                "name": "Fort Drum",
+                "result": "",
+                "teamId": "jg4kdonwal03ri1n",
+                "winner": false,
+                "cleanName": "fort drum"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "Scrimmage",
+        "date": 1761174000000,
+        "localTimeZone": "America/New_York",
+        "tba": false,
+        "home": false,
+        "overall": false,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "qjj973ibhaht7dde",
+        "fastdate": 1761174000000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "preSeason",
+            "description": "Pre-Season",
+            "statsCount": true
+        },
+        "ap2Result": "",
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Fort Drum",
+            "result": "",
+            "teamId": "jg4kdonwal03ri1n",
+            "winner": false,
+            "cleanName": "fort drum"
+        },
+        "us": {
+            "name": "Jefferson Community College",
+            "result": "",
+            "teamId": "s6idbpi0svuol1fq",
+            "winner": false,
+            "cleanName": "jefferson community col"
+        },
+        "apresult": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "October 22 07:00 PM:"
+}

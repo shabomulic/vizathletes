@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Feb 16",
+    "boxScoreLink": "20260216_8syo.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Western Texas College",
+                "result": "",
+                "teamId": "mr9w6vptam5l49ii",
+                "winner": false,
+                "cleanName": "w texas col"
+            },
+            {
+                "name": "Odessa College",
+                "result": "",
+                "teamId": "c6mri0goeo0g9ghe",
+                "winner": false,
+                "cleanName": "odessa col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "OC Sports Center | Odessa, TX",
+        "date": 1771288200000,
+        "localTimeZone": "America/Chicago",
+        "tba": false,
+        "home": false,
+        "overall": true,
+        "conference": true,
+        "division": false,
+        "regional": false,
+        "national": true,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "8syo2dbjegx97q9d",
+        "fastdate": 1771288200000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": true,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "numericResults": [],
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Odessa College",
+            "result": "",
+            "teamId": "c6mri0goeo0g9ghe",
+            "winner": false,
+            "cleanName": "odessa col"
+        },
+        "us": {
+            "name": "Western Texas College",
+            "result": "",
+            "teamId": "mr9w6vptam5l49ii",
+            "winner": false,
+            "cleanName": "w texas col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "numericResults": [],
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "February 16 07:30 PM:"
+}

@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Oct 23",
+    "boxScoreLink": "20251023_6xcs.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Coastal Bend College",
+                "result": "",
+                "teamId": "q3pgetg1altljm6g",
+                "winner": false,
+                "cleanName": "coastal bend col"
+            },
+            {
+                "name": "St. Mary's University",
+                "result": "",
+                "teamId": "fppg3m4q5t5nu24a",
+                "winner": false,
+                "cleanName": "st mary s univ"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "Bill Greehey Arena | San Antonio, Tx",
+        "date": 1761264000000,
+        "localTimeZone": "America/Chicago",
+        "tba": false,
+        "home": false,
+        "overall": false,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "6xcsyz2tyiqjz3ui",
+        "fastdate": 1761264000000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "1 Camino Santa Maria ",
+        "city": "San Antonio",
+        "stateCountry": "Tx",
+        "zipCode": "78228",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "scrimmage",
+            "description": "Scrimmage",
+            "statsCount": false
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "St. Mary's University",
+            "result": "",
+            "teamId": "fppg3m4q5t5nu24a",
+            "winner": false,
+            "cleanName": "st mary s univ"
+        },
+        "us": {
+            "name": "Coastal Bend College",
+            "result": "",
+            "teamId": "q3pgetg1altljm6g",
+            "winner": false,
+            "cleanName": "coastal bend col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "October 23 08:00 PM:"
+}

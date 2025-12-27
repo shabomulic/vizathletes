@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Oct 25",
+    "boxScoreLink": "20251025_su2h.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Western Nebraska Community College",
+                "result": "",
+                "teamId": "bgeeihf8wftutf81",
+                "winner": false,
+                "cleanName": "w nebraska community col"
+            },
+            {
+                "name": "Laramie County Community College",
+                "result": "",
+                "teamId": "lnbmvmh1dn6p335h",
+                "winner": false,
+                "cleanName": "laramie county community col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "Open Scrimmage",
+        "date": 1761422400000,
+        "localTimeZone": "America/Denver",
+        "tba": false,
+        "home": true,
+        "overall": false,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "su2hcc5py9jkqlfv",
+        "fastdate": 1761422400000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "exhibition",
+            "description": "Exhibition",
+            "statsCount": false
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Western Nebraska Community College",
+            "result": "",
+            "teamId": "bgeeihf8wftutf81",
+            "winner": false,
+            "cleanName": "w nebraska community col"
+        },
+        "us": {
+            "name": "Laramie County Community College",
+            "result": "",
+            "teamId": "lnbmvmh1dn6p335h",
+            "winner": false,
+            "cleanName": "laramie county community col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "October 25 04:00 PM:"
+}

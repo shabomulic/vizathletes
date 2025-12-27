@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Feb 4",
+    "boxScoreLink": "20260204_q7qv.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Southern Crescent Technical College",
+                "result": "",
+                "teamId": "rl1w3b90qw3em41k",
+                "winner": false,
+                "cleanName": "s crescent technical col"
+            },
+            {
+                "name": "Georgia Highlands College",
+                "result": "",
+                "teamId": "0dzx40xk3q16me24",
+                "winner": false,
+                "cleanName": "georgia highlands col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1770246000000,
+        "localTimeZone": "America/New_York",
+        "tba": false,
+        "home": false,
+        "overall": true,
+        "conference": true,
+        "division": false,
+        "regional": false,
+        "national": true,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "q7qv2n4idizxrkch",
+        "fastdate": 1770246000000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": true,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Georgia Highlands College",
+            "result": "",
+            "teamId": "0dzx40xk3q16me24",
+            "winner": false,
+            "cleanName": "georgia highlands col"
+        },
+        "us": {
+            "name": "Southern Crescent Technical College",
+            "result": "",
+            "teamId": "rl1w3b90qw3em41k",
+            "winner": false,
+            "cleanName": "s crescent technical col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "February 4 06:00 PM:"
+}

@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Jan 13",
+    "boxScoreLink": "20260113_sph9.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Malcolm X College",
+                "result": "",
+                "teamId": "0u4hxgqbvvvqmldp",
+                "winner": false,
+                "cleanName": "malcolm x col"
+            },
+            {
+                "name": "Olive-Harvey College",
+                "result": "",
+                "teamId": "k3k5x1ake9n4ejc4",
+                "winner": false,
+                "cleanName": "olive harvey col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1768350600000,
+        "localTimeZone": "America/Chicago",
+        "tba": false,
+        "home": false,
+        "overall": true,
+        "conference": true,
+        "division": false,
+        "regional": true,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "sph928gw1vm15xtz",
+        "fastdate": 1768350600000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "us": {
+            "name": "Malcolm X College",
+            "result": "",
+            "teamId": "0u4hxgqbvvvqmldp",
+            "winner": false,
+            "cleanName": "malcolm x col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Olive-Harvey College",
+            "result": "",
+            "teamId": "k3k5x1ake9n4ejc4",
+            "winner": false,
+            "cleanName": "olive harvey col"
+        },
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "January 13 07:30 PM:"
+}

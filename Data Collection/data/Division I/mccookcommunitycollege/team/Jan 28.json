@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Jan 28",
+    "boxScoreLink": "20260128_21q9.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Western Nebraska Community College",
+                "result": "",
+                "teamId": "bgeeihf8wftutf81",
+                "winner": false,
+                "cleanName": "w nebraska community col"
+            },
+            {
+                "name": "McCook Community College",
+                "result": "",
+                "teamId": "q4an22ykb2ffrhpa",
+                "winner": false,
+                "cleanName": "mccook community col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "Peter and Dolores Graff Events Center | McCook, Neb.",
+        "date": 1769646600000,
+        "localTimeZone": "America/Chicago",
+        "tba": false,
+        "home": true,
+        "overall": true,
+        "conference": true,
+        "division": true,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "21q90jcnkjr4f3cr",
+        "fastdate": 1769646600000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Western Nebraska Community College",
+            "result": "",
+            "teamId": "bgeeihf8wftutf81",
+            "winner": false,
+            "cleanName": "w nebraska community col"
+        },
+        "us": {
+            "name": "McCook Community College",
+            "result": "",
+            "teamId": "q4an22ykb2ffrhpa",
+            "winner": false,
+            "cleanName": "mccook community col"
+        },
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "January 28 07:30 PM:"
+}

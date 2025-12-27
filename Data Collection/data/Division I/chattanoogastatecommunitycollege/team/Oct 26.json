@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Oct 26",
+    "boxScoreLink": "20251026_5023.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Chattanooga State Community College",
+                "result": "",
+                "teamId": "pj1jykszx9vycei5",
+                "winner": false,
+                "cleanName": "chattanooga st community col"
+            },
+            {
+                "name": "LEE UNIVERSITY (SCRIMMAGE)",
+                "result": "",
+                "teamId": "0n1pxrnzs12nbazd",
+                "winner": false,
+                "cleanName": "lee univ scrimmage"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "Closed Scrimmage",
+        "date": 1761505200000,
+        "localTimeZone": "America/New_York",
+        "tba": false,
+        "home": false,
+        "overall": true,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "5023txdo2c7moc3m",
+        "fastdate": 1761505200000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "LEE UNIVERSITY (SCRIMMAGE)",
+            "result": "",
+            "teamId": "0n1pxrnzs12nbazd",
+            "winner": false,
+            "cleanName": "lee univ scrimmage"
+        },
+        "us": {
+            "name": "Chattanooga State Community College",
+            "result": "",
+            "teamId": "pj1jykszx9vycei5",
+            "winner": false,
+            "cleanName": "chattanooga st community col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "October 26 03:00 PM:"
+}

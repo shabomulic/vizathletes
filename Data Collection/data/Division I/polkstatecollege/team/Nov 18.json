@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Nov 18",
+    "boxScoreLink": "20251118_83nr.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Polk State College",
+                "result": "",
+                "teamId": "jk54mab76z8mppvd",
+                "winner": false,
+                "cleanName": "polk st col"
+            },
+            {
+                "name": "South Florida Technical College",
+                "result": "",
+                "teamId": "8e5671kss7w3aksr",
+                "winner": false,
+                "cleanName": "s florida technical col"
+            }
+        ],
+        "status": "Cancelled",
+        "notes": "",
+        "notesShared": "",
+        "date": 1763508600000,
+        "localTimeZone": "America/New_York",
+        "tba": false,
+        "home": false,
+        "overall": true,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": true,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "83nrn9vl76jdfofg",
+        "fastdate": 1763508600000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "Pompano Beach",
+        "stateCountry": "Florida",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "South Florida Technical College",
+            "result": "",
+            "teamId": "8e5671kss7w3aksr",
+            "winner": false,
+            "cleanName": "s florida technical col"
+        },
+        "us": {
+            "name": "Polk State College",
+            "result": "",
+            "teamId": "jk54mab76z8mppvd",
+            "winner": false,
+            "cleanName": "polk st col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "November 18 06:30 PM:"
+}

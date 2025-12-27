@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Jan 24",
+    "boxScoreLink": "20260124_fd7d.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Minnesota State Community and Technical College",
+                "result": "",
+                "teamId": "bebebz31kjr3u590",
+                "winner": false,
+                "cleanName": "minn st community technical col"
+            },
+            {
+                "name": "Rochester Community and Technical College",
+                "result": "",
+                "teamId": "o1ydnqnotd125rm3",
+                "winner": false,
+                "cleanName": "rochester community technical col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1769281200000,
+        "localTimeZone": "America/Chicago",
+        "tba": false,
+        "home": true,
+        "overall": true,
+        "conference": true,
+        "division": true,
+        "regional": true,
+        "national": true,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "fd7d2il0lxpxpk9n",
+        "fastdate": 1769281200000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": true,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Minnesota State Community and Technical College",
+            "result": "",
+            "teamId": "bebebz31kjr3u590",
+            "winner": false,
+            "cleanName": "minn st community technical col"
+        },
+        "us": {
+            "name": "Rochester Community and Technical College",
+            "result": "",
+            "teamId": "o1ydnqnotd125rm3",
+            "winner": false,
+            "cleanName": "rochester community technical col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "January 24 02:00 PM:"
+}

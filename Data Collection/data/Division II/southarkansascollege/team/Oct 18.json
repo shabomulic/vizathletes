@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Oct 18",
+    "boxScoreLink": "20251018_cqx8.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Mississippi Jamboree",
+                "result": "",
+                "teamId": "ogovm332lth8f25l",
+                "winner": false,
+                "cleanName": "mississippi jamboree"
+            },
+            {
+                "name": "South Arkansas College",
+                "result": "",
+                "teamId": "nu5xpwr1ez52zl87",
+                "winner": false,
+                "cleanName": "s arkansas col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1760801400000,
+        "localTimeZone": "America/Regina",
+        "tba": false,
+        "home": true,
+        "overall": true,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "cqx8dm6jgic5fhn4",
+        "fastdate": 1760801400000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "2240 westbrook road, Jackson , MS 39157",
+        "city": "Jackson",
+        "stateCountry": "MS",
+        "zipCode": "",
+        "venue": "Mississippi Basketball and Athletics Facility",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "preSeason",
+            "description": "Pre-Season",
+            "statsCount": true
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Mississippi Jamboree",
+            "result": "",
+            "teamId": "ogovm332lth8f25l",
+            "winner": false,
+            "cleanName": "mississippi jamboree"
+        },
+        "us": {
+            "name": "South Arkansas College",
+            "result": "",
+            "teamId": "nu5xpwr1ez52zl87",
+            "winner": false,
+            "cleanName": "s arkansas col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "October 18 11:30 AM:"
+}

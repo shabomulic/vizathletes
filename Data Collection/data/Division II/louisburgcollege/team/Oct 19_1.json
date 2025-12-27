@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Oct 19",
+    "boxScoreLink": "20251019_uxzj.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Louisburg College",
+                "result": "",
+                "teamId": "8nscws04w381q4e3",
+                "winner": false,
+                "cleanName": "louisburg col"
+            },
+            {
+                "name": "SUNY Niagara",
+                "result": "",
+                "teamId": "23ix4h6cwccvgan1",
+                "winner": false,
+                "cleanName": "suny niagara"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "Appalachian JUCO Jamboree",
+        "date": 1760889600000,
+        "localTimeZone": "America/New_York",
+        "tba": false,
+        "home": false,
+        "overall": false,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "uxzjkvnppzuq5nb9",
+        "fastdate": 1760889600000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "scrimmage",
+            "description": "Scrimmage",
+            "statsCount": false
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "SUNY Niagara",
+            "result": "",
+            "teamId": "23ix4h6cwccvgan1",
+            "winner": false,
+            "cleanName": "suny niagara"
+        },
+        "us": {
+            "name": "Louisburg College",
+            "result": "",
+            "teamId": "8nscws04w381q4e3",
+            "winner": false,
+            "cleanName": "louisburg col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "October 19 12:00 PM:"
+}

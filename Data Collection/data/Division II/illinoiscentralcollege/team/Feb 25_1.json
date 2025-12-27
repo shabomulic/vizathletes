@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Feb 25",
+    "boxScoreLink": "20260225_j1ip.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "John Wood Community College",
+                "result": "",
+                "teamId": "fvrebpo1jyaaey9o",
+                "winner": false,
+                "cleanName": "john wood community col"
+            },
+            {
+                "name": "Illinois Central College",
+                "result": "",
+                "teamId": "2q0oq07qxqryfwvg",
+                "winner": false,
+                "cleanName": "illinois central col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1772065800000,
+        "localTimeZone": "America/Chicago",
+        "tba": false,
+        "home": true,
+        "overall": true,
+        "conference": true,
+        "division": false,
+        "regional": true,
+        "national": true,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "j1ip0kkahn1z4zx5",
+        "fastdate": 1772065800000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "John Wood Community College",
+            "result": "",
+            "teamId": "fvrebpo1jyaaey9o",
+            "winner": false,
+            "cleanName": "john wood community col"
+        },
+        "us": {
+            "name": "Illinois Central College",
+            "result": "",
+            "teamId": "2q0oq07qxqryfwvg",
+            "winner": false,
+            "cleanName": "illinois central col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "February 25 07:30 PM:"
+}

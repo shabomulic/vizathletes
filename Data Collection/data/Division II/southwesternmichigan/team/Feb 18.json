@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Feb 18",
+    "boxScoreLink": "20260218_c9y3.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Lansing Community College",
+                "result": "",
+                "teamId": "n982zq38wtgyoyv0",
+                "winner": false,
+                "cleanName": "lansing community col"
+            },
+            {
+                "name": "Southwestern Michigan",
+                "result": "",
+                "teamId": "ncifb9cqkodtcalk",
+                "winner": false,
+                "cleanName": "southwestern michigan"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "1st Source Bank Fieldhouse",
+        "date": 1771461000000,
+        "localTimeZone": "America/New_York",
+        "tba": false,
+        "home": true,
+        "overall": true,
+        "conference": true,
+        "division": false,
+        "regional": true,
+        "national": true,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "c9y3grixnou65eel",
+        "fastdate": 1771461000000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "58900 Cherry Grove Rd",
+        "city": "Dowagiac",
+        "stateCountry": "MI",
+        "zipCode": "49047",
+        "venue": "1st Source Bank Fieldhouse",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Lansing Community College",
+            "result": "",
+            "teamId": "n982zq38wtgyoyv0",
+            "winner": false,
+            "cleanName": "lansing community col"
+        },
+        "us": {
+            "name": "Southwestern Michigan",
+            "result": "",
+            "teamId": "ncifb9cqkodtcalk",
+            "winner": false,
+            "cleanName": "southwestern michigan"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "February 18 07:30 PM:"
+}

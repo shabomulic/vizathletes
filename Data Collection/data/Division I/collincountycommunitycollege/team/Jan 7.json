@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Jan 7",
+    "boxScoreLink": "20260107_4nlz.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Weatherford College",
+                "result": "",
+                "teamId": "fb58perg9f5cgoo9",
+                "winner": false,
+                "cleanName": "weatherford col"
+            },
+            {
+                "name": "Collin County Community College",
+                "result": "",
+                "teamId": "rkb9l8wxq80safko",
+                "winner": false,
+                "cleanName": "collin county community col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1767830400000,
+        "localTimeZone": "America/Chicago",
+        "tba": false,
+        "home": true,
+        "overall": true,
+        "conference": true,
+        "division": false,
+        "regional": false,
+        "national": true,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "4nlzvd6dibi3sb3s",
+        "fastdate": 1767830400000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "numericResults": [],
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Weatherford College",
+            "result": "",
+            "teamId": "fb58perg9f5cgoo9",
+            "winner": false,
+            "cleanName": "weatherford col"
+        },
+        "us": {
+            "name": "Collin County Community College",
+            "result": "",
+            "teamId": "rkb9l8wxq80safko",
+            "winner": false,
+            "cleanName": "collin county community col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "numericResults": [],
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "January 7 07:00 PM:"
+}

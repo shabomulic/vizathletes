@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Feb 2",
+    "boxScoreLink": "20260202_5lga.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Simpson College JV",
+                "result": "",
+                "teamId": "raxtxk3ly71ejl0f",
+                "winner": false,
+                "cleanName": "simpson col jv"
+            },
+            {
+                "name": "Marshalltown CC",
+                "result": "",
+                "teamId": "179mnnc9zro3bcbz",
+                "winner": false,
+                "cleanName": "marshalltown cc"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "Marshalltown, IA",
+        "date": 1770076800000,
+        "localTimeZone": "America/Chicago",
+        "tba": false,
+        "home": true,
+        "overall": true,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "5lgaiarhfe4tim8y",
+        "fastdate": 1770076800000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Simpson College JV",
+            "result": "",
+            "teamId": "raxtxk3ly71ejl0f",
+            "winner": false,
+            "cleanName": "simpson col jv"
+        },
+        "us": {
+            "name": "Marshalltown CC",
+            "result": "",
+            "teamId": "179mnnc9zro3bcbz",
+            "winner": false,
+            "cleanName": "marshalltown cc"
+        },
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "February 2 07:00 PM:"
+}

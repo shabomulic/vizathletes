@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Feb 2",
+    "boxScoreLink": "20260202_hf0h.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Western Texas College",
+                "result": "",
+                "teamId": "mr9w6vptam5l49ii",
+                "winner": false,
+                "cleanName": "w texas col"
+            },
+            {
+                "name": "Frank Phillips College",
+                "result": "",
+                "teamId": "9gqawlmv1jav40in",
+                "winner": false,
+                "cleanName": "frank phillips col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1770078600000,
+        "localTimeZone": "America/Chicago",
+        "tba": false,
+        "home": false,
+        "overall": true,
+        "conference": true,
+        "division": false,
+        "regional": true,
+        "national": true,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "hf0h00r9h7q76kxu",
+        "fastdate": 1770078600000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "Borger, Texas",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "numericResults": [],
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Frank Phillips College",
+            "result": "",
+            "teamId": "9gqawlmv1jav40in",
+            "winner": false,
+            "cleanName": "frank phillips col"
+        },
+        "us": {
+            "name": "Western Texas College",
+            "result": "",
+            "teamId": "mr9w6vptam5l49ii",
+            "winner": false,
+            "cleanName": "w texas col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "numericResults": [],
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "February 2 07:30 PM:"
+}

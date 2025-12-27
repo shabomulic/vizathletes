@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Oct 27",
+    "boxScoreLink": "20251027_3qro.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Living the Dream - EXHIBITION",
+                "result": "",
+                "teamId": "hahqjt1h5y6k39xg",
+                "winner": false,
+                "cleanName": "living dream exhibition"
+            },
+            {
+                "name": "Kansas City Kansas Community College",
+                "result": "",
+                "teamId": "miyy2uisubqx0h06",
+                "winner": false,
+                "cleanName": "kansas city kansas community col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "Breidenthal Court - KCKCC Fieldhouse",
+        "date": 1761602400000,
+        "localTimeZone": "America/Chicago",
+        "tba": false,
+        "home": true,
+        "overall": true,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "3qro7h2d1iydaqjm",
+        "fastdate": 1761602400000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "Breidenthal Court - KCKCC Fieldhouse",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Living the Dream - EXHIBITION",
+            "result": "",
+            "teamId": "hahqjt1h5y6k39xg",
+            "winner": false,
+            "cleanName": "living dream exhibition"
+        },
+        "us": {
+            "name": "Kansas City Kansas Community College",
+            "result": "",
+            "teamId": "miyy2uisubqx0h06",
+            "winner": false,
+            "cleanName": "kansas city kansas community col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "October 27 06:00 PM:"
+}

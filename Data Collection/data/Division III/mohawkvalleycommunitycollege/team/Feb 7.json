@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Feb 7",
+    "boxScoreLink": "20260207_icet.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Herkimer College",
+                "result": "",
+                "teamId": "8zy6dk4mk6h4x6ep",
+                "winner": false,
+                "cleanName": "herkimer col"
+            },
+            {
+                "name": "Mohawk Valley Community College",
+                "result": "",
+                "teamId": "e0wdwueipq5hwrdz",
+                "winner": false,
+                "cleanName": "mohawk valley community col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1770483600000,
+        "localTimeZone": "America/New_York",
+        "tba": false,
+        "home": true,
+        "overall": true,
+        "conference": true,
+        "division": true,
+        "regional": true,
+        "national": true,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "icet3xc90s4kxc1l",
+        "fastdate": 1770483600000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Herkimer College",
+            "result": "",
+            "teamId": "8zy6dk4mk6h4x6ep",
+            "winner": false,
+            "cleanName": "herkimer col"
+        },
+        "us": {
+            "name": "Mohawk Valley Community College",
+            "result": "",
+            "teamId": "e0wdwueipq5hwrdz",
+            "winner": false,
+            "cleanName": "mohawk valley community col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "February 7 12:00 PM:"
+}

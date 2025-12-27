@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Jan 17",
+    "boxScoreLink": "20260117_tvbo.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Garden City Community College",
+                "result": "",
+                "teamId": "1ft9ua4b0mkgsu5v",
+                "winner": false,
+                "cleanName": "garden city community col"
+            },
+            {
+                "name": "Coffeyville Community College",
+                "result": "",
+                "teamId": "j7x2a4dj3cf3vibj",
+                "winner": false,
+                "cleanName": "coffeyville community col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1768683600000,
+        "localTimeZone": "America/Chicago",
+        "tba": false,
+        "home": false,
+        "overall": true,
+        "conference": true,
+        "division": false,
+        "regional": false,
+        "national": true,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "tvbokx6nr5ftt175",
+        "fastdate": 1768683600000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "numericResults": [],
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Coffeyville Community College",
+            "result": "",
+            "teamId": "j7x2a4dj3cf3vibj",
+            "winner": false,
+            "cleanName": "coffeyville community col"
+        },
+        "us": {
+            "name": "Garden City Community College",
+            "result": "",
+            "teamId": "1ft9ua4b0mkgsu5v",
+            "winner": false,
+            "cleanName": "garden city community col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "numericResults": [],
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "January 17 04:00 PM:"
+}

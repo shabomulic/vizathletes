@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Jan 12",
+    "boxScoreLink": "20260112_6io5.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Miles Community College",
+                "result": "",
+                "teamId": "fn476ki3bxzrw558",
+                "winner": false,
+                "cleanName": "miles community col"
+            },
+            {
+                "name": "Williston State College",
+                "result": "",
+                "teamId": "dibi79uw6y7wqpy0",
+                "winner": false,
+                "cleanName": "williston st col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1768260600000,
+        "localTimeZone": "America/Denver",
+        "tba": false,
+        "home": true,
+        "overall": true,
+        "conference": true,
+        "division": false,
+        "regional": false,
+        "national": true,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "6io5cie33l4wwot7",
+        "fastdate": 1768260600000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "Williston",
+        "stateCountry": "ND",
+        "zipCode": "",
+        "venue": "The Well",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Miles Community College",
+            "result": "",
+            "teamId": "fn476ki3bxzrw558",
+            "winner": false,
+            "cleanName": "miles community col"
+        },
+        "us": {
+            "name": "Williston State College",
+            "result": "",
+            "teamId": "dibi79uw6y7wqpy0",
+            "winner": false,
+            "cleanName": "williston st col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "January 12 06:30 PM:"
+}

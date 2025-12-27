@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Oct 5",
+    "boxScoreLink": "20251005_4hrm.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Chattanooga State Community College",
+                "result": "",
+                "teamId": "pj1jykszx9vycei5",
+                "winner": false,
+                "cleanName": "chattanooga st community col"
+            },
+            {
+                "name": "C Black Jamboree",
+                "result": "",
+                "teamId": "qqtsmm7o33b4gl12",
+                "winner": false,
+                "cleanName": "c black jamboree"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "C Black JUCO Jamboree",
+        "date": 1759678200000,
+        "localTimeZone": "America/New_York",
+        "tba": false,
+        "home": false,
+        "overall": false,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "Lake Point",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "4hrmb600qnedv0sy",
+        "fastdate": 1759678200000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "Lake Point ",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "C Black Jamboree",
+            "result": "",
+            "teamId": "qqtsmm7o33b4gl12",
+            "winner": false,
+            "cleanName": "c black jamboree"
+        },
+        "us": {
+            "name": "Chattanooga State Community College",
+            "result": "",
+            "teamId": "pj1jykszx9vycei5",
+            "winner": false,
+            "cleanName": "chattanooga st community col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "October 5 11:30 AM:"
+}

@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Jan 21",
+    "boxScoreLink": "20260121_fzlh.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Moc Valley Prep",
+                "result": "",
+                "teamId": "egcwyxxfxgkvqn6k",
+                "winner": false,
+                "cleanName": "moc valley prep"
+            },
+            {
+                "name": "Roane State Community College",
+                "result": "",
+                "teamId": "z3c15p2qvoal7rgp",
+                "winner": false,
+                "cleanName": "roane st community col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1769041800000,
+        "localTimeZone": "America/New_York",
+        "tba": false,
+        "home": true,
+        "overall": true,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "fzlh4n8n6bvwwfjv",
+        "fastdate": 1769041800000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Moc Valley Prep",
+            "result": "",
+            "teamId": "egcwyxxfxgkvqn6k",
+            "winner": false,
+            "cleanName": "moc valley prep"
+        },
+        "us": {
+            "name": "Roane State Community College",
+            "result": "",
+            "teamId": "z3c15p2qvoal7rgp",
+            "winner": false,
+            "cleanName": "roane st community col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "January 21 07:30 PM:"
+}

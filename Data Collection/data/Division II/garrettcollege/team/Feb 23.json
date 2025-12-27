@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Feb 23",
+    "boxScoreLink": "20260223_8yun.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Garrett College",
+                "result": "",
+                "teamId": "jwl6myvcjat4a1qx",
+                "winner": false,
+                "cleanName": "garrett col"
+            },
+            {
+                "name": "Robert Morris University JV",
+                "result": "",
+                "teamId": "ta0c4bagbx5n45sc",
+                "winner": false,
+                "cleanName": "robert morris univ jv"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1771887600000,
+        "localTimeZone": "America/New_York",
+        "tba": false,
+        "home": false,
+        "overall": true,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "8yunkt7nlck5s9yi",
+        "fastdate": 1771887600000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Robert Morris University JV",
+            "result": "",
+            "teamId": "ta0c4bagbx5n45sc",
+            "winner": false,
+            "cleanName": "robert morris univ jv"
+        },
+        "us": {
+            "name": "Garrett College",
+            "result": "",
+            "teamId": "jwl6myvcjat4a1qx",
+            "winner": false,
+            "cleanName": "garrett col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "February 23 06:00 PM:"
+}

@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Oct 5",
+    "boxScoreLink": "20251005_0a6n.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Mesa Community College",
+                "result": "",
+                "teamId": "uv3df4cgkj7azjzk",
+                "winner": false,
+                "cleanName": "mesa community col"
+            },
+            {
+                "name": "Cali-National JUCO Shootout (Scrimmage)",
+                "result": "",
+                "teamId": "7qk6ph5vir9y3r3q",
+                "winner": false,
+                "cleanName": "cali national juco shootout scrimmage"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "Orange, CA",
+        "date": 1759636800000,
+        "localTimeZone": "America/Phoenix",
+        "tba": true,
+        "home": false,
+        "overall": false,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "0a6ndbos3zwp1gfk",
+        "fastdate": 1759636800000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "scrimmage",
+            "description": "Scrimmage",
+            "statsCount": false
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Cali-National JUCO Shootout (Scrimmage)",
+            "result": "",
+            "teamId": "7qk6ph5vir9y3r3q",
+            "winner": false,
+            "cleanName": "cali national juco shootout scrimmage"
+        },
+        "us": {
+            "name": "Mesa Community College",
+            "result": "",
+            "teamId": "uv3df4cgkj7azjzk",
+            "winner": false,
+            "cleanName": "mesa community col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "October 5 12:00 AM:"
+}

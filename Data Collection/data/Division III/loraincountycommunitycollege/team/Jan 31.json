@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Jan 31",
+    "boxScoreLink": "20260131_6rka.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Hocking College",
+                "result": "",
+                "teamId": "ewzncgle2en9pk7y",
+                "winner": false,
+                "cleanName": "hocking col"
+            },
+            {
+                "name": "Lorain County Community College",
+                "result": "",
+                "teamId": "m6j4y6gqemlv1vju",
+                "winner": false,
+                "cleanName": "lorain county community col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "Ewing Activities Center Gymnasium",
+        "date": 1769882400000,
+        "localTimeZone": "America/New_York",
+        "tba": false,
+        "home": true,
+        "overall": true,
+        "conference": true,
+        "division": false,
+        "regional": false,
+        "national": true,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "6rkasiffvadfz9ci",
+        "fastdate": 1769882400000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "1005 N Abbe",
+        "city": "Elyria",
+        "stateCountry": "Ohio",
+        "zipCode": "44035",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Hocking College",
+            "result": "",
+            "teamId": "ewzncgle2en9pk7y",
+            "winner": false,
+            "cleanName": "hocking col"
+        },
+        "us": {
+            "name": "Lorain County Community College",
+            "result": "",
+            "teamId": "m6j4y6gqemlv1vju",
+            "winner": false,
+            "cleanName": "lorain county community col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "January 31 01:00 PM:"
+}

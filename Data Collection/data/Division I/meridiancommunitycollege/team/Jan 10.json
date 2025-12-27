@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Jan 10",
+    "boxScoreLink": "20260110_0hjg.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Baton Rouge Post Grad Academy",
+                "result": "",
+                "teamId": "xb2azj0xp8lo3mts",
+                "winner": false,
+                "cleanName": "baton rouge post grad academy"
+            },
+            {
+                "name": "Meridian Community College",
+                "result": "",
+                "teamId": "6oi900dyjcb8nohe",
+                "winner": false,
+                "cleanName": "meridian community col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1768086000000,
+        "localTimeZone": "America/Chicago",
+        "tba": false,
+        "home": true,
+        "overall": true,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "0hjgud6s25joug9q",
+        "fastdate": 1768086000000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Baton Rouge Post Grad Academy",
+            "result": "",
+            "teamId": "xb2azj0xp8lo3mts",
+            "winner": false,
+            "cleanName": "baton rouge post grad academy"
+        },
+        "us": {
+            "name": "Meridian Community College",
+            "result": "",
+            "teamId": "6oi900dyjcb8nohe",
+            "winner": false,
+            "cleanName": "meridian community col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "January 10 06:00 PM:"
+}

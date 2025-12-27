@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Sep 11",
+    "boxScoreLink": "20250911_6rfx.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Region 2 Tour Open Practice",
+                "result": "",
+                "teamId": "3d3dqv9sudg0b7w9",
+                "winner": false,
+                "cleanName": "region tour open practice"
+            },
+            {
+                "name": "Eastern Oklahoma State College",
+                "result": "",
+                "teamId": "la71zambmlz5nr9s",
+                "winner": false,
+                "cleanName": "e oklahoma st col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1757615400000,
+        "localTimeZone": "America/Chicago",
+        "tba": false,
+        "home": true,
+        "overall": true,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "6rfx7igi1bnzzru7",
+        "fastdate": 1757615400000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "Seminole, OK",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "preSeason",
+            "description": "Pre-Season",
+            "statsCount": true
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Region 2 Tour Open Practice",
+            "result": "",
+            "teamId": "3d3dqv9sudg0b7w9",
+            "winner": false,
+            "cleanName": "region tour open practice"
+        },
+        "us": {
+            "name": "Eastern Oklahoma State College",
+            "result": "",
+            "teamId": "la71zambmlz5nr9s",
+            "winner": false,
+            "cleanName": "e oklahoma st col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "September 11 02:30 PM:"
+}

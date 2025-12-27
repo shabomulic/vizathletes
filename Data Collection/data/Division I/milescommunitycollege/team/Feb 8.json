@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Feb 8",
+    "boxScoreLink": "20260208_h45f.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Miles Community College",
+                "result": "",
+                "teamId": "fn476ki3bxzrw558",
+                "winner": false,
+                "cleanName": "miles community col"
+            },
+            {
+                "name": "Lake Region State College - ND",
+                "result": "",
+                "teamId": "s42qhbgv53n64dcn",
+                "winner": false,
+                "cleanName": "lake region st col nd"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1770577200000,
+        "localTimeZone": "America/Denver",
+        "tba": false,
+        "home": false,
+        "overall": true,
+        "conference": true,
+        "division": false,
+        "regional": false,
+        "national": true,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "h45ft6eopn4ich7j",
+        "fastdate": 1770577200000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "Devils Lake",
+        "stateCountry": "North Dakota",
+        "zipCode": "58301",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Lake Region State College - ND",
+            "result": "",
+            "teamId": "s42qhbgv53n64dcn",
+            "winner": false,
+            "cleanName": "lake region st col nd"
+        },
+        "us": {
+            "name": "Miles Community College",
+            "result": "",
+            "teamId": "fn476ki3bxzrw558",
+            "winner": false,
+            "cleanName": "miles community col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "February 8 02:00 PM:"
+}

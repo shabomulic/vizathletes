@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Oct 17",
+    "boxScoreLink": "20251017_mroq.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Northern Oklahoma College-Tonkawa",
+                "result": "",
+                "teamId": "p61g9vc41gnchs6w",
+                "winner": false,
+                "cleanName": "n oklahoma col tonkawa"
+            },
+            {
+                "name": "MOKAN Jamboree",
+                "result": "",
+                "teamId": "5k9agioadctlci5e",
+                "winner": false,
+                "cleanName": "mokan jamboree"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1760673600000,
+        "localTimeZone": "America/Chicago",
+        "tba": true,
+        "home": false,
+        "overall": true,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "mroqywujg9qyq2j5",
+        "fastdate": 1760673600000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "exhibition",
+            "description": "Exhibition",
+            "statsCount": false
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "MOKAN Jamboree",
+            "result": "",
+            "teamId": "5k9agioadctlci5e",
+            "winner": false,
+            "cleanName": "mokan jamboree"
+        },
+        "us": {
+            "name": "Northern Oklahoma College-Tonkawa",
+            "result": "",
+            "teamId": "p61g9vc41gnchs6w",
+            "winner": false,
+            "cleanName": "n oklahoma col tonkawa"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "October 17 12:00 AM:"
+}

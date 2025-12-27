@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Feb 11",
+    "boxScoreLink": "20260211_o0h8.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "South Georgia Technical College",
+                "result": "",
+                "teamId": "zpyjdsqzxq327foa",
+                "winner": false,
+                "cleanName": "s georgia technical col"
+            },
+            {
+                "name": "Central Georgia Technical College",
+                "result": "",
+                "teamId": "8nh9tuxxpmc53hmq",
+                "winner": false,
+                "cleanName": "central georgia technical col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "Macon, GA",
+        "date": 1770856200000,
+        "localTimeZone": "America/New_York",
+        "tba": false,
+        "home": false,
+        "overall": true,
+        "conference": true,
+        "division": false,
+        "regional": false,
+        "national": true,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "o0h8hlj5wltihbdt",
+        "fastdate": 1770856200000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Central Georgia Technical College",
+            "result": "",
+            "teamId": "8nh9tuxxpmc53hmq",
+            "winner": false,
+            "cleanName": "central georgia technical col"
+        },
+        "us": {
+            "name": "South Georgia Technical College",
+            "result": "",
+            "teamId": "zpyjdsqzxq327foa",
+            "winner": false,
+            "cleanName": "s georgia technical col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "February 11 07:30 PM:"
+}

@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Feb 12",
+    "boxScoreLink": "20260212_lq4b.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Seminole State College",
+                "result": "",
+                "teamId": "21yctr3i114afpx4",
+                "winner": false,
+                "cleanName": "seminole st col"
+            },
+            {
+                "name": "Western Oklahoma State College",
+                "result": "",
+                "teamId": "s4rbv268phvv506v",
+                "winner": false,
+                "cleanName": "w oklahoma st col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "Altus, OK",
+        "date": 1770940800000,
+        "localTimeZone": "America/Chicago",
+        "tba": false,
+        "home": false,
+        "overall": true,
+        "conference": true,
+        "division": false,
+        "regional": true,
+        "national": true,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "lq4b28xnu1yn0fhq",
+        "fastdate": 1770940800000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "2801 North Main",
+        "city": "Altus",
+        "stateCountry": "OK",
+        "zipCode": "73521",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "numericResults": [],
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Western Oklahoma State College",
+            "result": "",
+            "teamId": "s4rbv268phvv506v",
+            "winner": false,
+            "cleanName": "w oklahoma st col"
+        },
+        "us": {
+            "name": "Seminole State College",
+            "result": "",
+            "teamId": "21yctr3i114afpx4",
+            "winner": false,
+            "cleanName": "seminole st col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "numericResults": [],
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "February 12 07:00 PM:"
+}

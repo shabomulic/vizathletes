@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Jan 7",
+    "boxScoreLink": "20260107_lw04.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Shawnee Community College",
+                "result": "",
+                "teamId": "smkcgr4z9atnaaza",
+                "winner": false,
+                "cleanName": "shawnee community col"
+            },
+            {
+                "name": "Vincennes University",
+                "result": "",
+                "teamId": "xtwgw64evojqa3cy",
+                "winner": false,
+                "cleanName": "vincennes univ"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1767830400000,
+        "localTimeZone": "America/New_York",
+        "tba": false,
+        "home": false,
+        "overall": true,
+        "conference": false,
+        "division": true,
+        "regional": true,
+        "national": true,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "lw041l9v1qgf4qot",
+        "fastdate": 1767830400000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "ap2Result": "",
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Vincennes University",
+            "result": "",
+            "teamId": "xtwgw64evojqa3cy",
+            "winner": false,
+            "cleanName": "vincennes univ"
+        },
+        "us": {
+            "name": "Shawnee Community College",
+            "result": "",
+            "teamId": "smkcgr4z9atnaaza",
+            "winner": false,
+            "cleanName": "shawnee community col"
+        },
+        "apresult": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "January 7 07:00 PM:"
+}

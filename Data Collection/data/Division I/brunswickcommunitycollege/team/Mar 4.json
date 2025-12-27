@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Mar 4",
+    "boxScoreLink": "20260304_q80f.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Wake Technical Community College",
+                "result": "",
+                "teamId": "ox1f5nv9ucpwk8jh",
+                "winner": false,
+                "cleanName": "wake technical community col"
+            },
+            {
+                "name": "Brunswick Community College",
+                "result": "",
+                "teamId": "udv9ruz0koxbdpd0",
+                "winner": false,
+                "cleanName": "brunswick community col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1772665200000,
+        "localTimeZone": "America/New_York",
+        "tba": false,
+        "home": true,
+        "overall": true,
+        "conference": true,
+        "division": true,
+        "regional": true,
+        "national": true,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "q80freuj1yiimux6",
+        "fastdate": 1772665200000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "Polk State College Holiday Classic",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Wake Technical Community College",
+            "result": "",
+            "teamId": "ox1f5nv9ucpwk8jh",
+            "winner": false,
+            "cleanName": "wake technical community col"
+        },
+        "us": {
+            "name": "Brunswick Community College",
+            "result": "",
+            "teamId": "udv9ruz0koxbdpd0",
+            "winner": false,
+            "cleanName": "brunswick community col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "March 4 06:00 PM:"
+}

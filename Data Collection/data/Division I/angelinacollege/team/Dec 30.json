@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Dec 30",
+    "boxScoreLink": "20251230_oh8r.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Baton Rouge Community College",
+                "result": "",
+                "teamId": "4wi9zzkqc2pgz6w7",
+                "winner": false,
+                "cleanName": "baton rouge community col"
+            },
+            {
+                "name": "Angelina College",
+                "result": "",
+                "teamId": "l188ndcldc2ykw8u",
+                "winner": false,
+                "cleanName": "angelina col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1767121200000,
+        "localTimeZone": "America/Chicago",
+        "tba": false,
+        "home": true,
+        "overall": true,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": true,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "oh8r57gdpbj5ed7c",
+        "fastdate": 1767121200000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Baton Rouge Community College",
+            "result": "",
+            "teamId": "4wi9zzkqc2pgz6w7",
+            "winner": false,
+            "cleanName": "baton rouge community col"
+        },
+        "us": {
+            "name": "Angelina College",
+            "result": "",
+            "teamId": "l188ndcldc2ykw8u",
+            "winner": false,
+            "cleanName": "angelina col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "December 30 02:00 PM:"
+}

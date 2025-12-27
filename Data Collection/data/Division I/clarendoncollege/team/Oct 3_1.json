@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Oct 3",
+    "boxScoreLink": "20251003_ytk8.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Hill College",
+                "result": "",
+                "teamId": "kauqlf7gonacoa37",
+                "winner": false,
+                "cleanName": "hill col"
+            },
+            {
+                "name": "Clarendon College",
+                "result": "",
+                "teamId": "hs7lpl6chyaqn5z3",
+                "winner": false,
+                "cleanName": "clarendon col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "OKC Scrimmage",
+        "date": 1759525200000,
+        "localTimeZone": "America/Chicago",
+        "tba": false,
+        "home": true,
+        "overall": false,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "OKC Scrimmage",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "ytk8bl9jsgsqucqh",
+        "fastdate": 1759525200000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "OKC Scrimmage",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "scrimmage",
+            "description": "Scrimmage",
+            "statsCount": false
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Hill College",
+            "result": "",
+            "teamId": "kauqlf7gonacoa37",
+            "winner": false,
+            "cleanName": "hill col"
+        },
+        "us": {
+            "name": "Clarendon College",
+            "result": "",
+            "teamId": "hs7lpl6chyaqn5z3",
+            "winner": false,
+            "cleanName": "clarendon col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "October 3 05:00 PM:"
+}

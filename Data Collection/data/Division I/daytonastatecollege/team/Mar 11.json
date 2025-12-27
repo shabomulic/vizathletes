@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Mar 11",
+    "boxScoreLink": "20260311_7gqt.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "TBA",
+                "result": "",
+                "teamId": "nc7x4nembqped3kz",
+                "winner": false,
+                "cleanName": "tba"
+            },
+            {
+                "name": "Daytona State College",
+                "result": "",
+                "teamId": "ao6mzkmwcd6z85t3",
+                "winner": false,
+                "cleanName": "daytona st col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "NJCAA Region 8 Tournament",
+        "date": 1773201600000,
+        "localTimeZone": "America/New_York",
+        "tba": true,
+        "home": true,
+        "overall": true,
+        "conference": false,
+        "division": false,
+        "regional": true,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "Northwest Florida State College",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "7gqtcqvtrev1qpqq",
+        "fastdate": 1773201600000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "Niceville",
+        "stateCountry": "FL",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "TBA",
+            "result": "",
+            "teamId": "nc7x4nembqped3kz",
+            "winner": false,
+            "cleanName": "tba"
+        },
+        "us": {
+            "name": "Daytona State College",
+            "result": "",
+            "teamId": "ao6mzkmwcd6z85t3",
+            "winner": false,
+            "cleanName": "daytona st col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "March 11 12:00 AM:"
+}

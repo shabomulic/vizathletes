@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Feb 28",
+    "boxScoreLink": "20260228_revw.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Wake Technical Community College",
+                "result": "",
+                "teamId": "ox1f5nv9ucpwk8jh",
+                "winner": false,
+                "cleanName": "wake technical community col"
+            },
+            {
+                "name": "Denmark Technical College",
+                "result": "",
+                "teamId": "biofihz0z4oc37yr",
+                "winner": false,
+                "cleanName": "denmark technical col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1772310600000,
+        "localTimeZone": "America/New_York",
+        "tba": false,
+        "home": true,
+        "overall": true,
+        "conference": true,
+        "division": false,
+        "regional": false,
+        "national": true,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "revw1q0z5w9t9iap",
+        "fastdate": 1772310600000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Wake Technical Community College",
+            "result": "",
+            "teamId": "ox1f5nv9ucpwk8jh",
+            "winner": false,
+            "cleanName": "wake technical community col"
+        },
+        "us": {
+            "name": "Denmark Technical College",
+            "result": "",
+            "teamId": "biofihz0z4oc37yr",
+            "winner": false,
+            "cleanName": "denmark technical col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "February 28 03:30 PM:"
+}

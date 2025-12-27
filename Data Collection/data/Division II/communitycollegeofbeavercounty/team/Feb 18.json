@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Feb 18",
+    "boxScoreLink": "20260218_teto.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Jamestown Community College",
+                "result": "",
+                "teamId": "7ank172l042mkm04",
+                "winner": false,
+                "cleanName": "jamestown community col"
+            },
+            {
+                "name": "Community College of Beaver County",
+                "result": "",
+                "teamId": "zf51sbfi3mychos5",
+                "winner": false,
+                "cleanName": "community col beaver county"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1771459200000,
+        "localTimeZone": "America/New_York",
+        "tba": false,
+        "home": true,
+        "overall": true,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": true,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "tetokqt7tohwkp7p",
+        "fastdate": 1771459200000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Jamestown Community College",
+            "result": "",
+            "teamId": "7ank172l042mkm04",
+            "winner": false,
+            "cleanName": "jamestown community col"
+        },
+        "us": {
+            "name": "Community College of Beaver County",
+            "result": "",
+            "teamId": "zf51sbfi3mychos5",
+            "winner": false,
+            "cleanName": "community col beaver county"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "February 18 07:00 PM:"
+}

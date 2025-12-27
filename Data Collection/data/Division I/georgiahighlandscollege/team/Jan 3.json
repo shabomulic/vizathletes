@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Jan 3",
+    "boxScoreLink": "20260103_9yxq.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Lurleen B. Wallace Community College",
+                "result": "",
+                "teamId": "hyab6gjkotc1knxy",
+                "winner": false,
+                "cleanName": "lurleen b wallace community col"
+            },
+            {
+                "name": "Georgia Highlands College",
+                "result": "",
+                "teamId": "0dzx40xk3q16me24",
+                "winner": false,
+                "cleanName": "georgia highlands col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1767470400000,
+        "localTimeZone": "America/Montreal",
+        "tba": false,
+        "home": true,
+        "overall": true,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": true,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "9yxqv4fbtlobblfa",
+        "fastdate": 1767470400000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": true,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Lurleen B. Wallace Community College",
+            "result": "",
+            "teamId": "hyab6gjkotc1knxy",
+            "winner": false,
+            "cleanName": "lurleen b wallace community col"
+        },
+        "us": {
+            "name": "Georgia Highlands College",
+            "result": "",
+            "teamId": "0dzx40xk3q16me24",
+            "winner": false,
+            "cleanName": "georgia highlands col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "January 3 03:00 PM:"
+}

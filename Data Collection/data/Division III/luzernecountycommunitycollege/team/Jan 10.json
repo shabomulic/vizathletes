@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Jan 10",
+    "boxScoreLink": "20260110_58yy.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Delaware County Community College",
+                "result": "",
+                "teamId": "q6go92a6nvmngt9e",
+                "winner": false,
+                "cleanName": "delaware county community col"
+            },
+            {
+                "name": "Luzerne County Community College",
+                "result": "",
+                "teamId": "rgvrxgnixu46wni1",
+                "winner": false,
+                "cleanName": "luzerne county community col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1768068000000,
+        "localTimeZone": "America/New_York",
+        "tba": false,
+        "home": true,
+        "overall": true,
+        "conference": true,
+        "division": true,
+        "regional": false,
+        "national": true,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "58yyqyo4rah065ro",
+        "fastdate": 1768068000000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "521 Trailblazer Drive",
+        "city": "Nanticoke",
+        "stateCountry": "PA",
+        "zipCode": "18634",
+        "venue": "James T. Atherton Gymnasium",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Delaware County Community College",
+            "result": "",
+            "teamId": "q6go92a6nvmngt9e",
+            "winner": false,
+            "cleanName": "delaware county community col"
+        },
+        "us": {
+            "name": "Luzerne County Community College",
+            "result": "",
+            "teamId": "rgvrxgnixu46wni1",
+            "winner": false,
+            "cleanName": "luzerne county community col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "January 10 01:00 PM:"
+}

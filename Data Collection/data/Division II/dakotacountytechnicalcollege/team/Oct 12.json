@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Oct 12",
+    "boxScoreLink": "20251012_42kf.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Dakota County Technical College",
+                "result": "",
+                "teamId": "d6w8l64fbpdoxkwd",
+                "winner": false,
+                "cleanName": "dakota county technical col"
+            },
+            {
+                "name": "MN JUCO Jamboree",
+                "result": "",
+                "teamId": "ocj3h6p4ihc8p7m3",
+                "winner": false,
+                "cleanName": "mn juco jamboree"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "Anoka Ramsey",
+        "date": 1760277600000,
+        "localTimeZone": "America/Chicago",
+        "tba": false,
+        "home": false,
+        "overall": false,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "42kfdjgmjotuv0za",
+        "fastdate": 1760277600000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "scrimmage",
+            "description": "Scrimmage",
+            "statsCount": false
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "MN JUCO Jamboree",
+            "result": "",
+            "teamId": "ocj3h6p4ihc8p7m3",
+            "winner": false,
+            "cleanName": "mn juco jamboree"
+        },
+        "us": {
+            "name": "Dakota County Technical College",
+            "result": "",
+            "teamId": "d6w8l64fbpdoxkwd",
+            "winner": false,
+            "cleanName": "dakota county technical col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "October 12 10:00 AM:"
+}

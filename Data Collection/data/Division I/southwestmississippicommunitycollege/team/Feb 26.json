@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Feb 26",
+    "boxScoreLink": "20260226_vpak.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Southwest Mississippi Community College",
+                "result": "",
+                "teamId": "e7ck6jxjqxhfes1n",
+                "winner": false,
+                "cleanName": "southwest mississippi community col"
+            },
+            {
+                "name": "Meridian Community College",
+                "result": "",
+                "teamId": "6oi900dyjcb8nohe",
+                "winner": false,
+                "cleanName": "meridian community col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1772152200000,
+        "localTimeZone": "America/Chicago",
+        "tba": false,
+        "home": false,
+        "overall": true,
+        "conference": true,
+        "division": false,
+        "regional": true,
+        "national": true,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "vpakzxvn5queic2o",
+        "fastdate": 1772152200000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Meridian Community College",
+            "result": "",
+            "teamId": "6oi900dyjcb8nohe",
+            "winner": false,
+            "cleanName": "meridian community col"
+        },
+        "us": {
+            "name": "Southwest Mississippi Community College",
+            "result": "",
+            "teamId": "e7ck6jxjqxhfes1n",
+            "winner": false,
+            "cleanName": "southwest mississippi community col"
+        },
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "February 26 07:30 PM:"
+}

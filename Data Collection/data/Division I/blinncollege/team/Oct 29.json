@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Oct 29",
+    "boxScoreLink": "20251029_ycmp.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Blinn College",
+                "result": "",
+                "teamId": "2418udk2a2s45br7",
+                "winner": false,
+                "cleanName": "blinn col"
+            },
+            {
+                "name": "St. Mary's University",
+                "result": "",
+                "teamId": "fppg3m4q5t5nu24a",
+                "winner": false,
+                "cleanName": "st mary s univ"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1761710400000,
+        "localTimeZone": "America/Chicago",
+        "tba": true,
+        "home": false,
+        "overall": false,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "ycmp47rz33pwh3qh",
+        "fastdate": 1761710400000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "scrimmage",
+            "description": "Scrimmage",
+            "statsCount": false
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "numericResults": [],
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "St. Mary's University",
+            "result": "",
+            "teamId": "fppg3m4q5t5nu24a",
+            "winner": false,
+            "cleanName": "st mary s univ"
+        },
+        "us": {
+            "name": "Blinn College",
+            "result": "",
+            "teamId": "2418udk2a2s45br7",
+            "winner": false,
+            "cleanName": "blinn col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "numericResults": [],
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "October 29 12:00 AM:"
+}

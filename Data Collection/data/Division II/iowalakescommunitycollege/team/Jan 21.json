@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Jan 21",
+    "boxScoreLink": "20260121_cc54.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Kirkwood Community College",
+                "result": "",
+                "teamId": "9737vad7r5llflcf",
+                "winner": false,
+                "cleanName": "kirkwood community col"
+            },
+            {
+                "name": "Iowa Lakes Community College",
+                "result": "",
+                "teamId": "y50sjcuh3cel81l3",
+                "winner": false,
+                "cleanName": "iowa lakes community col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "Laker Gym | Estherville, IA",
+        "date": 1769041800000,
+        "localTimeZone": "America/Chicago",
+        "tba": false,
+        "home": true,
+        "overall": true,
+        "conference": true,
+        "division": false,
+        "regional": false,
+        "national": true,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "cc54kjxuau5a72t8",
+        "fastdate": 1769041800000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Kirkwood Community College",
+            "result": "",
+            "teamId": "9737vad7r5llflcf",
+            "winner": false,
+            "cleanName": "kirkwood community col"
+        },
+        "us": {
+            "name": "Iowa Lakes Community College",
+            "result": "",
+            "teamId": "y50sjcuh3cel81l3",
+            "winner": false,
+            "cleanName": "iowa lakes community col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "January 21 07:30 PM:"
+}

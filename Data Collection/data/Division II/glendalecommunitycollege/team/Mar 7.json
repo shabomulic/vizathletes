@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Mar 7",
+    "boxScoreLink": "20260307_o3j4.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Region 1 - D2 Final",
+                "result": "",
+                "teamId": "6wp99gk2cxkgf3nf",
+                "winner": false,
+                "cleanName": "region d final"
+            },
+            {
+                "name": "Glendale Community College",
+                "result": "",
+                "teamId": "baugawut2f87jonl",
+                "winner": false,
+                "cleanName": "glendale community col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1772859600000,
+        "localTimeZone": "America/Phoenix",
+        "tba": true,
+        "home": true,
+        "overall": true,
+        "conference": true,
+        "division": true,
+        "regional": true,
+        "national": true,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "o3j44mu49n24b3lv",
+        "fastdate": 1772859600000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Region 1 - D2 Final",
+            "result": "",
+            "teamId": "6wp99gk2cxkgf3nf",
+            "winner": false,
+            "cleanName": "region d final"
+        },
+        "us": {
+            "name": "Glendale Community College",
+            "result": "",
+            "teamId": "baugawut2f87jonl",
+            "winner": false,
+            "cleanName": "glendale community col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "March 7 12:00 AM:"
+}

@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Oct 25",
+    "boxScoreLink": "20251025_axi1.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Riverland Community College",
+                "result": "",
+                "teamId": "73qit45qksijxjez",
+                "winner": false,
+                "cleanName": "riverland community col"
+            },
+            {
+                "name": "Luther College",
+                "result": "",
+                "teamId": "dxhiuk5ld7r8633a",
+                "winner": false,
+                "cleanName": "luther col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1761411600000,
+        "localTimeZone": "America/Chicago",
+        "tba": false,
+        "home": false,
+        "overall": false,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "axi1flg5g98f7qt4",
+        "fastdate": 1761411600000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": true,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Luther College",
+            "result": "",
+            "teamId": "dxhiuk5ld7r8633a",
+            "winner": false,
+            "cleanName": "luther col"
+        },
+        "us": {
+            "name": "Riverland Community College",
+            "result": "",
+            "teamId": "73qit45qksijxjez",
+            "winner": false,
+            "cleanName": "riverland community col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "October 25 01:00 PM:"
+}

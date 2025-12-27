@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Oct 21",
+    "boxScoreLink": "20251021_m257.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Mineral Area College",
+                "result": "",
+                "teamId": "rqfpa4k01ae9g9a6",
+                "winner": false,
+                "cleanName": "mineral area col"
+            },
+            {
+                "name": "Maryville University",
+                "result": "",
+                "teamId": "3ob3yxs9d8hhsgd7",
+                "winner": false,
+                "cleanName": "maryville univ"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "Closed Scrimmage ",
+        "date": 1761019200000,
+        "localTimeZone": "America/Chicago",
+        "tba": true,
+        "home": false,
+        "overall": false,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "m25792qpv05g99wt",
+        "fastdate": 1761019200000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "scrimmage",
+            "description": "Scrimmage",
+            "statsCount": false
+        },
+        "us": {
+            "name": "Mineral Area College",
+            "result": "",
+            "teamId": "rqfpa4k01ae9g9a6",
+            "winner": false,
+            "cleanName": "mineral area col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Maryville University",
+            "result": "",
+            "teamId": "3ob3yxs9d8hhsgd7",
+            "winner": false,
+            "cleanName": "maryville univ"
+        },
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "October 21 12:00 AM:"
+}

@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Jan 19",
+    "boxScoreLink": "20260119_7pwr.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Grand View University JV",
+                "result": "",
+                "teamId": "lz7ovd8r35gn6ze3",
+                "winner": false,
+                "cleanName": "grand view univ jv"
+            },
+            {
+                "name": "Marshalltown CC",
+                "result": "",
+                "teamId": "179mnnc9zro3bcbz",
+                "winner": false,
+                "cleanName": "marshalltown cc"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "Marshalltown, IA",
+        "date": 1768867200000,
+        "localTimeZone": "America/Chicago",
+        "tba": false,
+        "home": true,
+        "overall": true,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "7pwrb8zz1f26r3nv",
+        "fastdate": 1768867200000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Grand View University JV",
+            "result": "",
+            "teamId": "lz7ovd8r35gn6ze3",
+            "winner": false,
+            "cleanName": "grand view univ jv"
+        },
+        "us": {
+            "name": "Marshalltown CC",
+            "result": "",
+            "teamId": "179mnnc9zro3bcbz",
+            "winner": false,
+            "cleanName": "marshalltown cc"
+        },
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "January 19 07:00 PM:"
+}

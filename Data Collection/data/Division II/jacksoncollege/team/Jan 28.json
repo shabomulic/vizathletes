@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Jan 28",
+    "boxScoreLink": "20260128_3584.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Schoolcraft College",
+                "result": "",
+                "teamId": "fa573zxsi3uq855z",
+                "winner": false,
+                "cleanName": "schoolcraft col"
+            },
+            {
+                "name": "Jackson College",
+                "result": "",
+                "teamId": "e4vlvzn1782gvxak",
+                "winner": false,
+                "cleanName": "jackson col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1769646600000,
+        "localTimeZone": "America/New_York",
+        "tba": false,
+        "home": true,
+        "overall": true,
+        "conference": true,
+        "division": false,
+        "regional": false,
+        "national": true,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "358468asxp79ryoc",
+        "fastdate": 1769646600000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Schoolcraft College",
+            "result": "",
+            "teamId": "fa573zxsi3uq855z",
+            "winner": false,
+            "cleanName": "schoolcraft col"
+        },
+        "us": {
+            "name": "Jackson College",
+            "result": "",
+            "teamId": "e4vlvzn1782gvxak",
+            "winner": false,
+            "cleanName": "jackson col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "January 28 07:30 PM:"
+}

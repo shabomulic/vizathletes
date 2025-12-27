@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Mar 5",
+    "boxScoreLink": "20260305_2ztu.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Odessa College",
+                "result": "",
+                "teamId": "c6mri0goeo0g9ghe",
+                "winner": false,
+                "cleanName": "odessa col"
+            },
+            {
+                "name": "New Mexico Junior College",
+                "result": "",
+                "teamId": "akpb4fogaywoydu3",
+                "winner": false,
+                "cleanName": "new mexico junior col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "Caster Activity Center | Hobbs, NM",
+        "date": 1772757000000,
+        "localTimeZone": "America/Denver",
+        "tba": false,
+        "home": true,
+        "overall": true,
+        "conference": true,
+        "division": false,
+        "regional": false,
+        "national": true,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "2ztulg53465qjg5f",
+        "fastdate": 1772757000000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": true,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Odessa College",
+            "result": "",
+            "teamId": "c6mri0goeo0g9ghe",
+            "winner": false,
+            "cleanName": "odessa col"
+        },
+        "us": {
+            "name": "New Mexico Junior College",
+            "result": "",
+            "teamId": "akpb4fogaywoydu3",
+            "winner": false,
+            "cleanName": "new mexico junior col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "March 5 07:30 PM:"
+}

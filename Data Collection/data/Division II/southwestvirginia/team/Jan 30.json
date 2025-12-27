@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Jan 30",
+    "boxScoreLink": "20260130_481q.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Guilford Technical Community College",
+                "result": "",
+                "teamId": "n9t32xka1tjp3zam",
+                "winner": false,
+                "cleanName": "guilford technical community col"
+            },
+            {
+                "name": "Southwest Virginia",
+                "result": "",
+                "teamId": "k9j00ba916d8t076",
+                "winner": false,
+                "cleanName": "southwest virginia"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1769814000000,
+        "localTimeZone": "America/New_York",
+        "tba": false,
+        "home": true,
+        "overall": true,
+        "conference": true,
+        "division": false,
+        "regional": false,
+        "national": true,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "481qgi0j1parfygc",
+        "fastdate": 1769814000000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Guilford Technical Community College",
+            "result": "",
+            "teamId": "n9t32xka1tjp3zam",
+            "winner": false,
+            "cleanName": "guilford technical community col"
+        },
+        "us": {
+            "name": "Southwest Virginia",
+            "result": "",
+            "teamId": "k9j00ba916d8t076",
+            "winner": false,
+            "cleanName": "southwest virginia"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "January 30 06:00 PM:"
+}

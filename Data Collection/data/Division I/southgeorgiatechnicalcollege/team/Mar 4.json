@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Mar 4",
+    "boxScoreLink": "20260304_tk3h.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "South Georgia Technical College",
+                "result": "",
+                "teamId": "zpyjdsqzxq327foa",
+                "winner": false,
+                "cleanName": "s georgia technical col"
+            },
+            {
+                "name": "Georgia Highlands College",
+                "result": "",
+                "teamId": "0dzx40xk3q16me24",
+                "winner": false,
+                "cleanName": "georgia highlands col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1772665200000,
+        "localTimeZone": "America/New_York",
+        "tba": false,
+        "home": false,
+        "overall": true,
+        "conference": true,
+        "division": false,
+        "regional": false,
+        "national": true,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "tk3hpvhqp8q0cr8x",
+        "fastdate": 1772665200000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": true,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Georgia Highlands College",
+            "result": "",
+            "teamId": "0dzx40xk3q16me24",
+            "winner": false,
+            "cleanName": "georgia highlands col"
+        },
+        "us": {
+            "name": "South Georgia Technical College",
+            "result": "",
+            "teamId": "zpyjdsqzxq327foa",
+            "winner": false,
+            "cleanName": "s georgia technical col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "March 4 06:00 PM:"
+}

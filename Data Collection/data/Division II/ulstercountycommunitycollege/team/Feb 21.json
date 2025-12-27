@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Feb 21",
+    "boxScoreLink": "20260221_37uw.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Dutchess Community College",
+                "result": "",
+                "teamId": "fra7bwunet0xauvf",
+                "winner": false,
+                "cleanName": "dutchess community col"
+            },
+            {
+                "name": "Ulster County Community College",
+                "result": "",
+                "teamId": "hopr7pgor4tmxcuf",
+                "winner": false,
+                "cleanName": "ulster county community col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1771696800000,
+        "localTimeZone": "America/New_York",
+        "tba": false,
+        "home": true,
+        "overall": true,
+        "conference": false,
+        "division": false,
+        "regional": true,
+        "national": true,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "37uwcz7lae4p1ips",
+        "fastdate": 1771696800000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Dutchess Community College",
+            "result": "",
+            "teamId": "fra7bwunet0xauvf",
+            "winner": false,
+            "cleanName": "dutchess community col"
+        },
+        "us": {
+            "name": "Ulster County Community College",
+            "result": "",
+            "teamId": "hopr7pgor4tmxcuf",
+            "winner": false,
+            "cleanName": "ulster county community col"
+        },
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "February 21 01:00 PM:"
+}

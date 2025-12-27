@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Feb 13",
+    "boxScoreLink": "20260213_ir65.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Northern Essex Community College",
+                "result": "",
+                "teamId": "chy98w4j986fxsyq",
+                "winner": false,
+                "cleanName": "n essex community col"
+            },
+            {
+                "name": "University of Connecticut at Avery Point",
+                "result": "",
+                "teamId": "hrdt3hzxtxju5yr5",
+                "winner": false,
+                "cleanName": "univ conn at avery point"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1771023600000,
+        "localTimeZone": "America/New_York",
+        "tba": false,
+        "home": true,
+        "overall": true,
+        "conference": true,
+        "division": true,
+        "regional": false,
+        "national": true,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "ir65th88fv8ej5n5",
+        "fastdate": 1771023600000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Northern Essex Community College",
+            "result": "",
+            "teamId": "chy98w4j986fxsyq",
+            "winner": false,
+            "cleanName": "n essex community col"
+        },
+        "us": {
+            "name": "University of Connecticut at Avery Point",
+            "result": "",
+            "teamId": "hrdt3hzxtxju5yr5",
+            "winner": false,
+            "cleanName": "univ conn at avery point"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "February 13 06:00 PM:"
+}

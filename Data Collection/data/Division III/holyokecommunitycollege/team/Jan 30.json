@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Jan 30",
+    "boxScoreLink": "20260130_lm8a.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Holyoke Community College",
+                "result": "",
+                "teamId": "0wg64b0zqox2vd2f",
+                "winner": false,
+                "cleanName": "holyoke community col"
+            },
+            {
+                "name": "MassBay Community College",
+                "result": "",
+                "teamId": "8565se5wd1ujp12v",
+                "winner": false,
+                "cleanName": "massbay community col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1769814000000,
+        "localTimeZone": "America/New_York",
+        "tba": false,
+        "home": false,
+        "overall": true,
+        "conference": true,
+        "division": true,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "lm8a5tt02t2b2qbq",
+        "fastdate": 1769814000000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "MassBay Community College",
+            "result": "",
+            "teamId": "8565se5wd1ujp12v",
+            "winner": false,
+            "cleanName": "massbay community col"
+        },
+        "us": {
+            "name": "Holyoke Community College",
+            "result": "",
+            "teamId": "0wg64b0zqox2vd2f",
+            "winner": false,
+            "cleanName": "holyoke community col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "January 30 06:00 PM:"
+}

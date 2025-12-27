@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Oct 24",
+    "boxScoreLink": "20251024_zzzn.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Cochise College",
+                "result": "",
+                "teamId": "nsakhgyo3kdpnvju",
+                "winner": false,
+                "cleanName": "cochise col"
+            },
+            {
+                "name": "Central Arizona College",
+                "result": "",
+                "teamId": "nss1p944qsnrqsdm",
+                "winner": false,
+                "cleanName": "central arizona col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1761328800000,
+        "localTimeZone": "America/Phoenix",
+        "tba": false,
+        "home": false,
+        "overall": false,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "zzznw8zkj3rrq8b1",
+        "fastdate": 1761328800000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "scrimmage",
+            "description": "Scrimmage",
+            "statsCount": false
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Central Arizona College",
+            "result": "",
+            "teamId": "nss1p944qsnrqsdm",
+            "winner": false,
+            "cleanName": "central arizona col"
+        },
+        "us": {
+            "name": "Cochise College",
+            "result": "",
+            "teamId": "nsakhgyo3kdpnvju",
+            "winner": false,
+            "cleanName": "cochise col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "October 24 02:00 PM:"
+}

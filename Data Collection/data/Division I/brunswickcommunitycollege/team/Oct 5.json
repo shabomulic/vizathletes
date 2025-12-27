@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Oct 5",
+    "boxScoreLink": "20251005_wp5g.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Brunswick Community College",
+                "result": "",
+                "teamId": "udv9ruz0koxbdpd0",
+                "winner": false,
+                "cleanName": "brunswick community col"
+            },
+            {
+                "name": "CB Hoops Jamboree",
+                "result": "",
+                "teamId": "j7v2oa5yiyu51ofr",
+                "winner": false,
+                "cleanName": "cb hoops jamboree"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1759636800000,
+        "localTimeZone": "America/New_York",
+        "tba": true,
+        "home": false,
+        "overall": false,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "Lake Point Sports, 261 Stars Way, Cartersville, GA 30121",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "wp5gsi4opnwgq724",
+        "fastdate": 1759636800000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "Suwanee",
+        "stateCountry": "Georgia",
+        "zipCode": "",
+        "venue": "Cartersville, GA",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "exhibition",
+            "description": "Exhibition",
+            "statsCount": false
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "CB Hoops Jamboree",
+            "result": "",
+            "teamId": "j7v2oa5yiyu51ofr",
+            "winner": false,
+            "cleanName": "cb hoops jamboree"
+        },
+        "us": {
+            "name": "Brunswick Community College",
+            "result": "",
+            "teamId": "udv9ruz0koxbdpd0",
+            "winner": false,
+            "cleanName": "brunswick community col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "October 5 12:00 AM:"
+}

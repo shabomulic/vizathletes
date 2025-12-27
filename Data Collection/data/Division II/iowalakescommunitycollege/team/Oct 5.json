@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Oct 5",
+    "boxScoreLink": "20251005_nf6i.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Iowa Lakes Community College",
+                "result": "",
+                "teamId": "y50sjcuh3cel81l3",
+                "winner": false,
+                "cleanName": "iowa lakes community col"
+            },
+            {
+                "name": "Fort Hays Tech Northwest",
+                "result": "",
+                "teamId": "vxc4dwl1888maiyg",
+                "winner": false,
+                "cleanName": "fort hays tech northwest"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1759672800000,
+        "localTimeZone": "America/Denver",
+        "tba": false,
+        "home": false,
+        "overall": false,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "ICCAC JUCO JAM",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "nf6i9q2tuhucmp9c",
+        "fastdate": 1759672800000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "scrimmage",
+            "description": "Scrimmage",
+            "statsCount": false
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Fort Hays Tech Northwest",
+            "result": "",
+            "teamId": "vxc4dwl1888maiyg",
+            "winner": false,
+            "cleanName": "fort hays tech northwest"
+        },
+        "us": {
+            "name": "Iowa Lakes Community College",
+            "result": "",
+            "teamId": "y50sjcuh3cel81l3",
+            "winner": false,
+            "cleanName": "iowa lakes community col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "October 5 10:00 AM:"
+}

@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Dec 13",
+    "boxScoreLink": "20251213_50dj.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Clark State College",
+                "result": "",
+                "teamId": "0y8pqvg0s9er6yo9",
+                "winner": false,
+                "cleanName": "clark st col"
+            },
+            {
+                "name": "Cuyahoga Community College",
+                "result": "",
+                "teamId": "kqgoy9nt4u9ftkf3",
+                "winner": false,
+                "cleanName": "cuyahoga community col"
+            }
+        ],
+        "status": "Postponed",
+        "notes": "",
+        "notesShared": "Metro Gymnasium",
+        "date": 1765641600000,
+        "localTimeZone": "America/New_York",
+        "tba": false,
+        "home": true,
+        "overall": true,
+        "conference": true,
+        "division": false,
+        "regional": true,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": true,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "50dj8pz6ux77tl8k",
+        "fastdate": 1765641600000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "3002 Community College Avenue",
+        "city": "Cleveland",
+        "stateCountry": "OH",
+        "zipCode": "44115",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Clark State College",
+            "result": "",
+            "teamId": "0y8pqvg0s9er6yo9",
+            "winner": false,
+            "cleanName": "clark st col"
+        },
+        "us": {
+            "name": "Cuyahoga Community College",
+            "result": "",
+            "teamId": "kqgoy9nt4u9ftkf3",
+            "winner": false,
+            "cleanName": "cuyahoga community col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "December 13 11:00 AM:"
+}

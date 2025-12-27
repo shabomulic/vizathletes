@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Dec 31",
+    "boxScoreLink": "20251231_rxbj.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Arizona Sol",
+                "result": "",
+                "teamId": "e3k7y6cjridb76ug",
+                "winner": false,
+                "cleanName": "arizona sol"
+            },
+            {
+                "name": "Pima Community College",
+                "result": "",
+                "teamId": "qulb4yrssxonevcn",
+                "winner": false,
+                "cleanName": "pima community col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "Aztecs winter Classic @ West Campus Aztec Gymnasium",
+        "date": 1767207600000,
+        "localTimeZone": "America/Phoenix",
+        "tba": false,
+        "home": true,
+        "overall": true,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "rxbj4nz7pcu2oa8i",
+        "fastdate": 1767207600000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Arizona Sol",
+            "result": "",
+            "teamId": "e3k7y6cjridb76ug",
+            "winner": false,
+            "cleanName": "arizona sol"
+        },
+        "us": {
+            "name": "Pima Community College",
+            "result": "",
+            "teamId": "qulb4yrssxonevcn",
+            "winner": false,
+            "cleanName": "pima community col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "December 31 02:00 PM:"
+}

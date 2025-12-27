@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Jan 24",
+    "boxScoreLink": "20260124_e3cr.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Sullivan County Community College",
+                "result": "",
+                "teamId": "op2zgrstgqcmsocv",
+                "winner": false,
+                "cleanName": "sullivan county community col"
+            },
+            {
+                "name": "LaGuardia Community College",
+                "result": "",
+                "teamId": "1vi9pne0oljt02sk",
+                "winner": false,
+                "cleanName": "laguardia community col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1769281200000,
+        "localTimeZone": "America/New_York",
+        "tba": false,
+        "home": false,
+        "overall": true,
+        "conference": true,
+        "division": false,
+        "regional": true,
+        "national": true,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "e3crp0rp3dh02iin",
+        "fastdate": 1769281200000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "LaGuardia CC",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "LaGuardia Community College",
+            "result": "",
+            "teamId": "1vi9pne0oljt02sk",
+            "winner": false,
+            "cleanName": "laguardia community col"
+        },
+        "us": {
+            "name": "Sullivan County Community College",
+            "result": "",
+            "teamId": "op2zgrstgqcmsocv",
+            "winner": false,
+            "cleanName": "sullivan county community col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "January 24 02:00 PM:"
+}

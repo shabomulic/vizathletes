@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Jan 12",
+    "boxScoreLink": "20260112_e6bh.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Davidson-Davie Community College",
+                "result": "",
+                "teamId": "3kd7ku644slaa8vb",
+                "winner": false,
+                "cleanName": "davidson davie community col"
+            },
+            {
+                "name": "Fayetteville Technical CC",
+                "result": "",
+                "teamId": "npphpjv2wzdyzxlw",
+                "winner": false,
+                "cleanName": "fayetteville technical cc"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1768262400000,
+        "localTimeZone": "America/New_York",
+        "tba": false,
+        "home": false,
+        "overall": true,
+        "conference": true,
+        "division": false,
+        "regional": false,
+        "national": true,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "e6bhof2rv42rx2xl",
+        "fastdate": 1768262400000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "Fayetteville",
+        "stateCountry": "NC",
+        "zipCode": "",
+        "venue": "Reid Ross Classical School",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Fayetteville Technical CC",
+            "result": "",
+            "teamId": "npphpjv2wzdyzxlw",
+            "winner": false,
+            "cleanName": "fayetteville technical cc"
+        },
+        "us": {
+            "name": "Davidson-Davie Community College",
+            "result": "",
+            "teamId": "3kd7ku644slaa8vb",
+            "winner": false,
+            "cleanName": "davidson davie community col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "January 12 07:00 PM:"
+}

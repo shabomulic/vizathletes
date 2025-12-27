@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Oct 11",
+    "boxScoreLink": "20251011_xped.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Phoenix Prep",
+                "result": "",
+                "teamId": "75apsmfbxcenftiw",
+                "winner": false,
+                "cleanName": "phoenix prep"
+            },
+            {
+                "name": "Glendale Community College",
+                "result": "",
+                "teamId": "baugawut2f87jonl",
+                "winner": false,
+                "cleanName": "glendale community col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1760198400000,
+        "localTimeZone": "America/Phoenix",
+        "tba": false,
+        "home": true,
+        "overall": false,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "xped1ps75w4ju7ju",
+        "fastdate": 1760198400000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "exhibition",
+            "description": "Exhibition",
+            "statsCount": false
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Phoenix Prep",
+            "result": "",
+            "teamId": "75apsmfbxcenftiw",
+            "winner": false,
+            "cleanName": "phoenix prep"
+        },
+        "us": {
+            "name": "Glendale Community College",
+            "result": "",
+            "teamId": "baugawut2f87jonl",
+            "winner": false,
+            "cleanName": "glendale community col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "October 11 12:00 PM:"
+}

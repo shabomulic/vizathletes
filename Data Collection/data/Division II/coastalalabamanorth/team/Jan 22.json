@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Jan 22",
+    "boxScoreLink": "20260122_zpua.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Wallace Community College-Selma",
+                "result": "",
+                "teamId": "jkkjq664z6u9syvw",
+                "winner": false,
+                "cleanName": "wallace community col selma"
+            },
+            {
+                "name": "Coastal Alabama - North",
+                "result": "",
+                "teamId": "utvz0zdiug0wgnet",
+                "winner": false,
+                "cleanName": "coastal alabama n"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1769128200000,
+        "localTimeZone": "America/Chicago",
+        "tba": false,
+        "home": true,
+        "overall": true,
+        "conference": true,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "zpuabji2tc73382d",
+        "fastdate": 1769128200000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "Monroeville",
+        "stateCountry": "AL",
+        "zipCode": "",
+        "venue": "Monroeville, AL",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Wallace Community College-Selma",
+            "result": "",
+            "teamId": "jkkjq664z6u9syvw",
+            "winner": false,
+            "cleanName": "wallace community col selma"
+        },
+        "us": {
+            "name": "Coastal Alabama - North",
+            "result": "",
+            "teamId": "utvz0zdiug0wgnet",
+            "winner": false,
+            "cleanName": "coastal alabama n"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "conferenceResult": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "January 22 07:30 PM:"
+}

@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Feb 7",
+    "boxScoreLink": "20260207_yw7x.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Colby Community College",
+                "result": "",
+                "teamId": "r3ikdzoodh1heb91",
+                "winner": false,
+                "cleanName": "colby community col"
+            },
+            {
+                "name": "Cloud County Community College",
+                "result": "",
+                "teamId": "w3cgw61s9okfyuje",
+                "winner": false,
+                "cleanName": "cloud county community col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1770498000000,
+        "localTimeZone": "America/Chicago",
+        "tba": false,
+        "home": true,
+        "overall": true,
+        "conference": true,
+        "division": false,
+        "regional": false,
+        "national": true,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "yw7xp7q9cb4fgeim",
+        "fastdate": 1770498000000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "Concordia",
+        "stateCountry": "Kansas",
+        "zipCode": "66901",
+        "venue": "Arley Bryant Gymnasium",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Colby Community College",
+            "result": "",
+            "teamId": "r3ikdzoodh1heb91",
+            "winner": false,
+            "cleanName": "colby community col"
+        },
+        "us": {
+            "name": "Cloud County Community College",
+            "result": "",
+            "teamId": "w3cgw61s9okfyuje",
+            "winner": false,
+            "cleanName": "cloud county community col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "February 7 04:00 PM:"
+}

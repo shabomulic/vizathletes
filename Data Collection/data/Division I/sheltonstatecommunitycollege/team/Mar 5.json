@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Mar 5",
+    "boxScoreLink": "20260305_1tlm.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Shelton State Community College",
+                "result": "",
+                "teamId": "210vdbk5bqe89qn6",
+                "winner": false,
+                "cleanName": "shelton st community col"
+            },
+            {
+                "name": "Coastal Alabama - South",
+                "result": "",
+                "teamId": "jpfpqsaw9nvsj3jq",
+                "winner": false,
+                "cleanName": "coastal alabama s"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1772757000000,
+        "localTimeZone": "America/Chicago",
+        "tba": false,
+        "home": false,
+        "overall": true,
+        "conference": true,
+        "division": true,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "1tlmooooco0sy1zv",
+        "fastdate": 1772757000000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "Coastal South",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "descriptionShortWithOT": "",
+            "winnerLoser": ""
+        },
+        "opponent": {
+            "name": "Coastal Alabama - South",
+            "result": "",
+            "teamId": "jpfpqsaw9nvsj3jq",
+            "winner": false,
+            "cleanName": "coastal alabama s"
+        },
+        "us": {
+            "name": "Shelton State Community College",
+            "result": "",
+            "teamId": "210vdbk5bqe89qn6",
+            "winner": false,
+            "cleanName": "shelton st community col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "descriptionShortWithOT": "",
+            "winnerLoser": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "March 5 07:30 PM:"
+}

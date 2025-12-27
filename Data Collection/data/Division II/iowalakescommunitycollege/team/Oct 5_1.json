@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Oct 5",
+    "boxScoreLink": "20251005_271f.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Iowa Lakes Community College",
+                "result": "",
+                "teamId": "y50sjcuh3cel81l3",
+                "winner": false,
+                "cleanName": "iowa lakes community col"
+            },
+            {
+                "name": "JUCO Jam",
+                "result": "",
+                "teamId": "nz1xz39hy18h3r2r",
+                "winner": false,
+                "cleanName": "juco jam"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1759680000000,
+        "localTimeZone": "America/Chicago",
+        "tba": false,
+        "home": false,
+        "overall": false,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "JUCO JAM",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "271flnrnv4beq609",
+        "fastdate": 1759680000000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "JUCO JAM",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "preSeason",
+            "description": "Pre-Season",
+            "statsCount": true
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "JUCO Jam",
+            "result": "",
+            "teamId": "nz1xz39hy18h3r2r",
+            "winner": false,
+            "cleanName": "juco jam"
+        },
+        "us": {
+            "name": "Iowa Lakes Community College",
+            "result": "",
+            "teamId": "y50sjcuh3cel81l3",
+            "winner": false,
+            "cleanName": "iowa lakes community col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "October 5 12:00 PM:"
+}

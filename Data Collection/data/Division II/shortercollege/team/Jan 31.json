@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Jan 31",
+    "boxScoreLink": "20260131_mwjk.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Shorter College",
+                "result": "",
+                "teamId": "lta54ynybu7acqxg",
+                "winner": false,
+                "cleanName": "shorter col"
+            },
+            {
+                "name": "University of Arkansas Cossatot",
+                "result": "",
+                "teamId": "dsg277ks89jvc9qb",
+                "winner": false,
+                "cleanName": "univ arkansas cossatot"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1769889600000,
+        "localTimeZone": "America/Chicago",
+        "tba": false,
+        "home": false,
+        "overall": true,
+        "conference": true,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "mwjkmud4qqu5nhwq",
+        "fastdate": 1769889600000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "ap2Result": "",
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "University of Arkansas Cossatot",
+            "result": "",
+            "teamId": "dsg277ks89jvc9qb",
+            "winner": false,
+            "cleanName": "univ arkansas cossatot"
+        },
+        "us": {
+            "name": "Shorter College",
+            "result": "",
+            "teamId": "lta54ynybu7acqxg",
+            "winner": false,
+            "cleanName": "shorter col"
+        },
+        "apresult": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "January 31 03:00 PM:"
+}

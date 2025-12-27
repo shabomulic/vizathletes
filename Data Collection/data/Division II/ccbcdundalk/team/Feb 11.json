@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Feb 11",
+    "boxScoreLink": "20260211_prw7.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Cecil College",
+                "result": "",
+                "teamId": "5wf571hsjg0s5hmd",
+                "winner": false,
+                "cleanName": "cecil col"
+            },
+            {
+                "name": "CCBC Dundalk",
+                "result": "",
+                "teamId": "jhfzyd61v4l276h6",
+                "winner": false,
+                "cleanName": "ccbc dundalk"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "CCBC Dundalk Wellness &amp; Athletics Center",
+        "date": 1770854400000,
+        "localTimeZone": "America/New_York",
+        "tba": false,
+        "home": true,
+        "overall": true,
+        "conference": true,
+        "division": true,
+        "regional": true,
+        "national": true,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "prw7aqbwlxb78ljx",
+        "fastdate": 1770854400000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Cecil College",
+            "result": "",
+            "teamId": "5wf571hsjg0s5hmd",
+            "winner": false,
+            "cleanName": "cecil col"
+        },
+        "us": {
+            "name": "CCBC Dundalk",
+            "result": "",
+            "teamId": "jhfzyd61v4l276h6",
+            "winner": false,
+            "cleanName": "ccbc dundalk"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "February 11 07:00 PM:"
+}

@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Jan 14",
+    "boxScoreLink": "20260114_36zc.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Northeast Community College",
+                "result": "",
+                "teamId": "3e4v215ujn4av65r",
+                "winner": false,
+                "cleanName": "northeast community col"
+            },
+            {
+                "name": "Central Community College",
+                "result": "",
+                "teamId": "v486423veuv6xhol",
+                "winner": false,
+                "cleanName": "central community col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "Columbus, Neb.",
+        "date": 1768437000000,
+        "localTimeZone": "America/Chicago",
+        "tba": false,
+        "home": true,
+        "overall": true,
+        "conference": true,
+        "division": false,
+        "regional": false,
+        "national": true,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "36zcol6ps8iqg3u5",
+        "fastdate": 1768437000000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Northeast Community College",
+            "result": "",
+            "teamId": "3e4v215ujn4av65r",
+            "winner": false,
+            "cleanName": "northeast community col"
+        },
+        "us": {
+            "name": "Central Community College",
+            "result": "",
+            "teamId": "v486423veuv6xhol",
+            "winner": false,
+            "cleanName": "central community col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "January 14 07:30 PM:"
+}

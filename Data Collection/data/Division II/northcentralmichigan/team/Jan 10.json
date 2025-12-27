@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Jan 10",
+    "boxScoreLink": "20260110_ycxk.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Mid Michigan College",
+                "result": "",
+                "teamId": "lwx2ghoorj7y49nq",
+                "winner": false,
+                "cleanName": "mid michigan col"
+            },
+            {
+                "name": "North Central Michigan",
+                "result": "",
+                "teamId": "irpxmzrldbj09y2v",
+                "winner": false,
+                "cleanName": "n central michigan"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1768075200000,
+        "localTimeZone": "America/New_York",
+        "tba": false,
+        "home": true,
+        "overall": true,
+        "conference": true,
+        "division": false,
+        "regional": true,
+        "national": true,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "ycxkfthrncypyjl5",
+        "fastdate": 1768075200000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "Petoskey Plastics Arena",
+        "primetime": true,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Mid Michigan College",
+            "result": "",
+            "teamId": "lwx2ghoorj7y49nq",
+            "winner": false,
+            "cleanName": "mid michigan col"
+        },
+        "us": {
+            "name": "North Central Michigan",
+            "result": "",
+            "teamId": "irpxmzrldbj09y2v",
+            "winner": false,
+            "cleanName": "n central michigan"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "January 10 03:00 PM:"
+}

@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Feb 16",
+    "boxScoreLink": "20260216_e0a1.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Southern Union State Community College",
+                "result": "",
+                "teamId": "eu58zelvf6o156jj",
+                "winner": false,
+                "cleanName": "s union st community col"
+            },
+            {
+                "name": "Bishop State Community College",
+                "result": "",
+                "teamId": "nbwhq88d0p1fna6k",
+                "winner": false,
+                "cleanName": "bishop st community col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1771288200000,
+        "localTimeZone": "America/New_York",
+        "tba": false,
+        "home": false,
+        "overall": true,
+        "conference": true,
+        "division": true,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "e0a1tzfef2uoln3z",
+        "fastdate": 1771288200000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": "prestosports"
+            }
+        ],
+        "address": "351 N Broad St",
+        "city": "Mobile",
+        "stateCountry": "Alabama",
+        "zipCode": "36603",
+        "venue": "Fredericka G. Evans Cultural Centre",
+        "primetime": true,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Bishop State Community College",
+            "result": "",
+            "teamId": "nbwhq88d0p1fna6k",
+            "winner": false,
+            "cleanName": "bishop st community col"
+        },
+        "us": {
+            "name": "Southern Union State Community College",
+            "result": "",
+            "teamId": "eu58zelvf6o156jj",
+            "winner": false,
+            "cleanName": "s union st community col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "February 16 07:30 PM:"
+}

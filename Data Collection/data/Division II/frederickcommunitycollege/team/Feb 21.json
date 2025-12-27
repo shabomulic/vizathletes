@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Feb 21",
+    "boxScoreLink": "20260221_su39.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Prince George's Community College",
+                "result": "",
+                "teamId": "scxcyv3pyuq0wbgu",
+                "winner": false,
+                "cleanName": "prince george s community col"
+            },
+            {
+                "name": "Frederick Community College",
+                "result": "",
+                "teamId": "gxnr9fkgf8kbnu0y",
+                "winner": false,
+                "cleanName": "frederick community col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1771700400000,
+        "localTimeZone": "America/New_York",
+        "tba": false,
+        "home": true,
+        "overall": true,
+        "conference": true,
+        "division": true,
+        "regional": true,
+        "national": true,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "su39gssvizlkdp0v",
+        "fastdate": 1771700400000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Prince George's Community College",
+            "result": "",
+            "teamId": "scxcyv3pyuq0wbgu",
+            "winner": false,
+            "cleanName": "prince george s community col"
+        },
+        "us": {
+            "name": "Frederick Community College",
+            "result": "",
+            "teamId": "gxnr9fkgf8kbnu0y",
+            "winner": false,
+            "cleanName": "frederick community col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "February 21 02:00 PM:"
+}

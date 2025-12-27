@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Jan 17",
+    "boxScoreLink": "20260117_p5yf.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Weatherford College",
+                "result": "",
+                "teamId": "fb58perg9f5cgoo9",
+                "winner": false,
+                "cleanName": "weatherford col"
+            },
+            {
+                "name": "Southwestern Christian College",
+                "result": "",
+                "teamId": "s5qb92ty592bzp2n",
+                "winner": false,
+                "cleanName": "southwestern christian col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1768683600000,
+        "localTimeZone": "America/Chicago",
+        "tba": false,
+        "home": false,
+        "overall": true,
+        "conference": true,
+        "division": false,
+        "regional": false,
+        "national": true,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "p5yfkk1w41dlpv4x",
+        "fastdate": 1768683600000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Southwestern Christian College",
+            "result": "",
+            "teamId": "s5qb92ty592bzp2n",
+            "winner": false,
+            "cleanName": "southwestern christian col"
+        },
+        "us": {
+            "name": "Weatherford College",
+            "result": "",
+            "teamId": "fb58perg9f5cgoo9",
+            "winner": false,
+            "cleanName": "weatherford col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "January 17 04:00 PM:"
+}

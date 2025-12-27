@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Oct 5",
+    "boxScoreLink": "20251005_gj9b.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "East Georgia State College",
+                "result": "",
+                "teamId": "sbzuzbq7k5ksg35v",
+                "winner": false,
+                "cleanName": "e georgia st col"
+            },
+            {
+                "name": "Bryant & Stratton College (VA)",
+                "result": "",
+                "teamId": "7p3d5njh90jw3zdt",
+                "winner": false,
+                "cleanName": "bryant stratton col va"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "Corry Black/Juco Advocate Jamboree",
+        "date": 1759676400000,
+        "localTimeZone": "America/New_York",
+        "tba": false,
+        "home": true,
+        "overall": false,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "Lakepoint Sports Complex",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "gj9b8dmtodz7bwhd",
+        "fastdate": 1759676400000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "scrimmage",
+            "description": "Scrimmage",
+            "statsCount": false
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "East Georgia State College",
+            "result": "",
+            "teamId": "sbzuzbq7k5ksg35v",
+            "winner": false,
+            "cleanName": "e georgia st col"
+        },
+        "us": {
+            "name": "Bryant & Stratton College (VA)",
+            "result": "",
+            "teamId": "7p3d5njh90jw3zdt",
+            "winner": false,
+            "cleanName": "bryant stratton col va"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "October 5 11:00 AM:"
+}

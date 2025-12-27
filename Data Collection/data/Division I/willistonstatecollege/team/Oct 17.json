@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Oct 17",
+    "boxScoreLink": "20251017_stdx.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Williston State College",
+                "result": "",
+                "teamId": "dibi79uw6y7wqpy0",
+                "winner": false,
+                "cleanName": "williston st col"
+            },
+            {
+                "name": "University of Mary",
+                "result": "",
+                "teamId": "f3d87x1rz7eburx4",
+                "winner": false,
+                "cleanName": "univ mary"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1760718600000,
+        "localTimeZone": "America/Chicago",
+        "tba": false,
+        "home": false,
+        "overall": false,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "stdxte0v092jx08w",
+        "fastdate": 1760718600000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "Bismarck",
+        "stateCountry": "North Dakota",
+        "zipCode": "",
+        "venue": "University of Mary",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "scrimmage",
+            "description": "Scrimmage",
+            "statsCount": false
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "University of Mary",
+            "result": "",
+            "teamId": "f3d87x1rz7eburx4",
+            "winner": false,
+            "cleanName": "univ mary"
+        },
+        "us": {
+            "name": "Williston State College",
+            "result": "",
+            "teamId": "dibi79uw6y7wqpy0",
+            "winner": false,
+            "cleanName": "williston st col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "October 17 12:30 PM:"
+}

@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Jan 15",
+    "boxScoreLink": "20260115_4jv1.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Wallace State Community College-Hanceville",
+                "result": "",
+                "teamId": "ur0vu3015ky0do6s",
+                "winner": false,
+                "cleanName": "wallace st community col hanceville"
+            },
+            {
+                "name": "Bishop State Community College",
+                "result": "",
+                "teamId": "nbwhq88d0p1fna6k",
+                "winner": false,
+                "cleanName": "bishop st community col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1768523400000,
+        "localTimeZone": "America/Chicago",
+        "tba": false,
+        "home": false,
+        "overall": true,
+        "conference": true,
+        "division": true,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "4jv17gs6gs7851v6",
+        "fastdate": 1768523400000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": "prestosports"
+            }
+        ],
+        "address": "351 N Broad St",
+        "city": "Mobile",
+        "stateCountry": "AL",
+        "zipCode": "36603",
+        "venue": "Fredericka G. Evans Cultural Centre",
+        "primetime": true,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "ap2Result": "",
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Bishop State Community College",
+            "result": "",
+            "teamId": "nbwhq88d0p1fna6k",
+            "winner": false,
+            "cleanName": "bishop st community col"
+        },
+        "us": {
+            "name": "Wallace State Community College-Hanceville",
+            "result": "",
+            "teamId": "ur0vu3015ky0do6s",
+            "winner": false,
+            "cleanName": "wallace st community col hanceville"
+        },
+        "apresult": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "January 15 07:30 PM:"
+}

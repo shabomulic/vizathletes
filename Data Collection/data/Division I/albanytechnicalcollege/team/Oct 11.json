@@ -1,0 +1,119 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Oct 11",
+    "boxScoreLink": "20251011_yjmu.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Hillsborough Community College",
+                "result": "0",
+                "teamId": "z9w8cxebhu3gftoj",
+                "winner": false,
+                "cleanName": "hillsborough community col"
+            },
+            {
+                "name": "Albany Technical College",
+                "result": "0",
+                "teamId": "lagse2f0ew4x6qes",
+                "winner": false,
+                "cleanName": "albany technical col"
+            }
+        ],
+        "status": "Start of 1st",
+        "notes": "",
+        "notesShared": "",
+        "date": 1760222700000,
+        "localTimeZone": "America/New_York",
+        "tba": false,
+        "home": true,
+        "overall": false,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": true,
+        "statusCode": -1,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "Big House All American Showcase",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "yjmuv40olug5st30",
+        "fastdate": 1760222700000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "1544 Lane Park Cutoff Road",
+        "city": "Tavares",
+        "stateCountry": "Florida",
+        "zipCode": "32778",
+        "venue": "Big House All American Showcase",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "scrimmage",
+            "description": "Scrimmage",
+            "statsCount": false
+        },
+        "us": {
+            "name": "Albany Technical College",
+            "result": "0",
+            "teamId": "lagse2f0ew4x6qes",
+            "winner": false,
+            "cleanName": "albany technical col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "conferenceResult": "",
+        "resultAsObject": {
+            "results": [
+                0,
+                0
+            ],
+            "resolved": false,
+            "hasScores": true,
+            "numericResults": [
+                0,
+                0
+            ],
+            "description": "",
+            "score": "0-0",
+            "winnerLoser": "0-0",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Hillsborough Community College",
+            "result": "0",
+            "teamId": "z9w8cxebhu3gftoj",
+            "winner": false,
+            "cleanName": "hillsborough community col"
+        },
+        "result": {
+            "results": [
+                0,
+                0
+            ],
+            "resolved": false,
+            "hasScores": true,
+            "numericResults": [
+                0,
+                0
+            ],
+            "description": "",
+            "score": "0-0",
+            "winnerLoser": "0-0",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "October 11 06:45 PM:"
+}

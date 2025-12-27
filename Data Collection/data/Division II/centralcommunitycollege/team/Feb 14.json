@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Feb 14",
+    "boxScoreLink": "20260214_m9lw.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Central Community College",
+                "result": "",
+                "teamId": "v486423veuv6xhol",
+                "winner": false,
+                "cleanName": "central community col"
+            },
+            {
+                "name": "North Iowa Area Community College",
+                "result": "",
+                "teamId": "crby9zgxgo091xzc",
+                "winner": false,
+                "cleanName": "n iowa area community col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1771099200000,
+        "localTimeZone": "America/Chicago",
+        "tba": false,
+        "home": false,
+        "overall": true,
+        "conference": true,
+        "division": false,
+        "regional": false,
+        "national": true,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "m9lw2v5zxd38az6k",
+        "fastdate": 1771099200000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "Mason City",
+        "stateCountry": "IA",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "North Iowa Area Community College",
+            "result": "",
+            "teamId": "crby9zgxgo091xzc",
+            "winner": false,
+            "cleanName": "n iowa area community col"
+        },
+        "us": {
+            "name": "Central Community College",
+            "result": "",
+            "teamId": "v486423veuv6xhol",
+            "winner": false,
+            "cleanName": "central community col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "February 14 03:00 PM:"
+}

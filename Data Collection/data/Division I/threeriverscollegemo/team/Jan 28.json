@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Jan 28",
+    "boxScoreLink": "20260128_hjvl.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "State Fair Community College",
+                "result": "",
+                "teamId": "y8dkfycyhnubzgkk",
+                "winner": false,
+                "cleanName": "st fair community col"
+            },
+            {
+                "name": "Three Rivers College - MO",
+                "result": "",
+                "teamId": "02wf8ntbo0qtlgf3",
+                "winner": false,
+                "cleanName": "three rivers col mo"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1769644800000,
+        "localTimeZone": "America/Chicago",
+        "tba": false,
+        "home": true,
+        "overall": true,
+        "conference": true,
+        "division": true,
+        "regional": true,
+        "national": true,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "hjvlzbhxivi7kxlx",
+        "fastdate": 1769644800000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "State Fair Community College",
+            "result": "",
+            "teamId": "y8dkfycyhnubzgkk",
+            "winner": false,
+            "cleanName": "st fair community col"
+        },
+        "us": {
+            "name": "Three Rivers College - MO",
+            "result": "",
+            "teamId": "02wf8ntbo0qtlgf3",
+            "winner": false,
+            "cleanName": "three rivers col mo"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "January 28 07:00 PM:"
+}

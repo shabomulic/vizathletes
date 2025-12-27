@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Feb 9",
+    "boxScoreLink": "20260209_ve35.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Arkansas State-Newport",
+                "result": "",
+                "teamId": "90y1irtfh0eld9qi",
+                "winner": false,
+                "cleanName": "arkansas st newport"
+            },
+            {
+                "name": "Williams Baptist University JV",
+                "result": "",
+                "teamId": "e0esv1r5jjtshdqs",
+                "winner": false,
+                "cleanName": "williams baptist univ jv"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1770678000000,
+        "localTimeZone": "America/Chicago",
+        "tba": false,
+        "home": false,
+        "overall": true,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "ve35y4lk2d4c9h0c",
+        "fastdate": 1770678000000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "ap2Result": "",
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Williams Baptist University JV",
+            "result": "",
+            "teamId": "e0esv1r5jjtshdqs",
+            "winner": false,
+            "cleanName": "williams baptist univ jv"
+        },
+        "us": {
+            "name": "Arkansas State-Newport",
+            "result": "",
+            "teamId": "90y1irtfh0eld9qi",
+            "winner": false,
+            "cleanName": "arkansas st newport"
+        },
+        "apresult": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "February 9 06:00 PM:"
+}

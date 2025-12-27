@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Feb 14",
+    "boxScoreLink": "20260214_7nht.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Tyler Junior College",
+                "result": "",
+                "teamId": "0bu4f5s1ma74t2fw",
+                "winner": false,
+                "cleanName": "tyler junior col"
+            },
+            {
+                "name": "Lamar State College - Port Arthur",
+                "result": "",
+                "teamId": "igmb3ihx8ae4zv85",
+                "winner": false,
+                "cleanName": "lamar st col port arthur"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "Port Arthur, TX",
+        "date": 1771102800000,
+        "localTimeZone": "America/Chicago",
+        "tba": false,
+        "home": false,
+        "overall": true,
+        "conference": true,
+        "division": false,
+        "regional": true,
+        "national": true,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "7nht11aerdo85xvm",
+        "fastdate": 1771102800000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "Carl Parker Center",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Lamar State College - Port Arthur",
+            "result": "",
+            "teamId": "igmb3ihx8ae4zv85",
+            "winner": false,
+            "cleanName": "lamar st col port arthur"
+        },
+        "us": {
+            "name": "Tyler Junior College",
+            "result": "",
+            "teamId": "0bu4f5s1ma74t2fw",
+            "winner": false,
+            "cleanName": "tyler junior col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "February 14 04:00 PM:"
+}

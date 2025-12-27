@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Feb 9",
+    "boxScoreLink": "20260209_j5so.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Redlands Community College",
+                "result": "",
+                "teamId": "49pazd0dt56oo0sy",
+                "winner": false,
+                "cleanName": "redlands community col"
+            },
+            {
+                "name": "Eastern Oklahoma State College",
+                "result": "",
+                "teamId": "la71zambmlz5nr9s",
+                "winner": false,
+                "cleanName": "e oklahoma st col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1770683400000,
+        "localTimeZone": "America/Chicago",
+        "tba": false,
+        "home": false,
+        "overall": true,
+        "conference": true,
+        "division": false,
+        "regional": true,
+        "national": true,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "j5soili4yolhcocn",
+        "fastdate": 1770683400000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "1301 W. Main Street",
+        "city": "Wilburton",
+        "stateCountry": "Oklahoma",
+        "zipCode": "74578",
+        "venue": "Dunlap Fieldhouse",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "numericResults": [],
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Eastern Oklahoma State College",
+            "result": "",
+            "teamId": "la71zambmlz5nr9s",
+            "winner": false,
+            "cleanName": "e oklahoma st col"
+        },
+        "us": {
+            "name": "Redlands Community College",
+            "result": "",
+            "teamId": "49pazd0dt56oo0sy",
+            "winner": false,
+            "cleanName": "redlands community col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "numericResults": [],
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "February 9 07:30 PM:"
+}

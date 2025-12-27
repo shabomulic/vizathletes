@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Feb 11",
+    "boxScoreLink": "20260211_5dal.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Allen County Community College",
+                "result": "",
+                "teamId": "sibpaogalee0klmu",
+                "winner": false,
+                "cleanName": "allen county community col"
+            },
+            {
+                "name": "Labette Community College",
+                "result": "",
+                "teamId": "dccwnomai8l3oqdr",
+                "winner": false,
+                "cleanName": "labette community col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1770856200000,
+        "localTimeZone": "America/Regina",
+        "tba": false,
+        "home": true,
+        "overall": true,
+        "conference": true,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "5dalxmh280tbtnrs",
+        "fastdate": 1770856200000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "Parsons",
+        "stateCountry": "Kansas",
+        "zipCode": "66749",
+        "venue": "Labette Community College",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Allen County Community College",
+            "result": "",
+            "teamId": "sibpaogalee0klmu",
+            "winner": false,
+            "cleanName": "allen county community col"
+        },
+        "us": {
+            "name": "Labette Community College",
+            "result": "",
+            "teamId": "dccwnomai8l3oqdr",
+            "winner": false,
+            "cleanName": "labette community col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "February 11 07:30 PM:"
+}

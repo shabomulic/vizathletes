@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Jan 6",
+    "boxScoreLink": "20260106_i219.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Patrick & Henry Community College",
+                "result": "",
+                "teamId": "oevoa83hte8cvzmc",
+                "winner": false,
+                "cleanName": "patrick henry community col"
+            },
+            {
+                "name": "Southwest Virginia",
+                "result": "",
+                "teamId": "k9j00ba916d8t076",
+                "winner": false,
+                "cleanName": "southwest virginia"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1767740400000,
+        "localTimeZone": "America/New_York",
+        "tba": false,
+        "home": true,
+        "overall": true,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": true,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "i219zctykz1ejn5z",
+        "fastdate": 1767740400000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Patrick & Henry Community College",
+            "result": "",
+            "teamId": "oevoa83hte8cvzmc",
+            "winner": false,
+            "cleanName": "patrick henry community col"
+        },
+        "us": {
+            "name": "Southwest Virginia",
+            "result": "",
+            "teamId": "k9j00ba916d8t076",
+            "winner": false,
+            "cleanName": "southwest virginia"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "January 6 06:00 PM:"
+}

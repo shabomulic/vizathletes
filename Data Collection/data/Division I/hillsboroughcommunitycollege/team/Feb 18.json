@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Feb 18",
+    "boxScoreLink": "20260218_7lk3.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Hillsborough Community College",
+                "result": "",
+                "teamId": "z9w8cxebhu3gftoj",
+                "winner": false,
+                "cleanName": "hillsborough community col"
+            },
+            {
+                "name": "Santa Fe College",
+                "result": "",
+                "teamId": "num84tdjjerd6ktw",
+                "winner": false,
+                "cleanName": "santa fe col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1771459200000,
+        "localTimeZone": "America/New_York",
+        "tba": false,
+        "home": false,
+        "overall": true,
+        "conference": true,
+        "division": false,
+        "regional": true,
+        "national": true,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "7lk3p5mruqhec914",
+        "fastdate": 1771459200000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "Gainesville",
+        "stateCountry": "Florida",
+        "zipCode": "32606",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Santa Fe College",
+            "result": "",
+            "teamId": "num84tdjjerd6ktw",
+            "winner": false,
+            "cleanName": "santa fe col"
+        },
+        "us": {
+            "name": "Hillsborough Community College",
+            "result": "",
+            "teamId": "z9w8cxebhu3gftoj",
+            "winner": false,
+            "cleanName": "hillsborough community col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "February 18 07:00 PM:"
+}

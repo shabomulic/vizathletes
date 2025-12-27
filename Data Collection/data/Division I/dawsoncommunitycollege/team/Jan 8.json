@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Jan 8",
+    "boxScoreLink": "20260108_kyyi.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Dawson Community College",
+                "result": "",
+                "teamId": "3pim3egp5wrsvj8e",
+                "winner": false,
+                "cleanName": "dawson community col"
+            },
+            {
+                "name": "Miles Community College",
+                "result": "",
+                "teamId": "fn476ki3bxzrw558",
+                "winner": false,
+                "cleanName": "miles community col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "Miles City, MT",
+        "date": 1767918600000,
+        "localTimeZone": "America/Denver",
+        "tba": false,
+        "home": false,
+        "overall": true,
+        "conference": true,
+        "division": false,
+        "regional": false,
+        "national": true,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "kyyiklio1lzply9l",
+        "fastdate": 1767918600000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "Miles City, MT",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Miles Community College",
+            "result": "",
+            "teamId": "fn476ki3bxzrw558",
+            "winner": false,
+            "cleanName": "miles community col"
+        },
+        "us": {
+            "name": "Dawson Community College",
+            "result": "",
+            "teamId": "3pim3egp5wrsvj8e",
+            "winner": false,
+            "cleanName": "dawson community col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "conferenceResult": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "January 8 07:30 PM:"
+}

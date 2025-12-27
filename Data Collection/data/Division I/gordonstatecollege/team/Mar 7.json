@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Mar 7",
+    "boxScoreLink": "20260307_tvuw.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "South Georgia Technical College",
+                "result": "",
+                "teamId": "zpyjdsqzxq327foa",
+                "winner": false,
+                "cleanName": "s georgia technical col"
+            },
+            {
+                "name": "Gordon State College",
+                "result": "",
+                "teamId": "4tt9ftp57580kdn4",
+                "winner": false,
+                "cleanName": "gordon st col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1772913600000,
+        "localTimeZone": "America/New_York",
+        "tba": false,
+        "home": true,
+        "overall": true,
+        "conference": true,
+        "division": false,
+        "regional": false,
+        "national": true,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "tvuwoe6s86kkhmmq",
+        "fastdate": 1772913600000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "South Georgia Technical College",
+            "result": "",
+            "teamId": "zpyjdsqzxq327foa",
+            "winner": false,
+            "cleanName": "s georgia technical col"
+        },
+        "us": {
+            "name": "Gordon State College",
+            "result": "",
+            "teamId": "4tt9ftp57580kdn4",
+            "winner": false,
+            "cleanName": "gordon st col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "March 7 03:00 PM:"
+}

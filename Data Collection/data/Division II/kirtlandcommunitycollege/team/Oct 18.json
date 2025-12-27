@@ -1,0 +1,161 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Oct 18",
+    "boxScoreLink": "20251018_ulxe.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Kirtland Community College",
+                "result": "35",
+                "teamId": "h2aruovin9p2sulu",
+                "winner": false,
+                "cleanName": "kirtland community col"
+            },
+            {
+                "name": "Jackson College",
+                "result": "28",
+                "teamId": "e4vlvzn1782gvxak",
+                "winner": false,
+                "cleanName": "jackson col"
+            }
+        ],
+        "status": "Final",
+        "notes": "",
+        "notesShared": "",
+        "date": 1760806800000,
+        "localTimeZone": "America/New_York",
+        "tba": false,
+        "home": false,
+        "overall": false,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": true,
+        "inProgress": false,
+        "statusCode": 0,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "ulxe5h2qubip4plz",
+        "fastdate": 1760806800000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "exhibition",
+            "description": "Exhibition",
+            "statsCount": false
+        },
+        "conferenceResult": "35-28",
+        "resultAsObject": {
+            "results": [
+                35,
+                28
+            ],
+            "winner": {
+                "name": "Kirtland Community College",
+                "result": "35",
+                "teamId": "h2aruovin9p2sulu",
+                "winner": false,
+                "cleanName": "kirtland community col"
+            },
+            "loser": {
+                "name": "Jackson College",
+                "result": "28",
+                "teamId": "e4vlvzn1782gvxak",
+                "winner": false,
+                "cleanName": "jackson col"
+            },
+            "resolved": true,
+            "hasScores": true,
+            "description": "Win",
+            "score": "35-28",
+            "numericResults": [
+                35,
+                28
+            ],
+            "winnerLoser": "35-28",
+            "descriptionShortWithOT": "W"
+        },
+        "opponent": {
+            "name": "Jackson College",
+            "result": "28",
+            "teamId": "e4vlvzn1782gvxak",
+            "winner": false,
+            "cleanName": "jackson col"
+        },
+        "us": {
+            "name": "Kirtland Community College",
+            "result": "35",
+            "teamId": "h2aruovin9p2sulu",
+            "winner": false,
+            "cleanName": "kirtland community col"
+        },
+        "winner": {
+            "name": "Kirtland Community College",
+            "result": "35",
+            "teamId": "h2aruovin9p2sulu",
+            "winner": false,
+            "cleanName": "kirtland community col"
+        },
+        "loser": {
+            "name": "Jackson College",
+            "result": "28",
+            "teamId": "e4vlvzn1782gvxak",
+            "winner": false,
+            "cleanName": "jackson col"
+        },
+        "apresult": "W, 35-28",
+        "ap2Result": "W, 35-28",
+        "result": {
+            "results": [
+                35,
+                28
+            ],
+            "winner": {
+                "name": "Kirtland Community College",
+                "result": "35",
+                "teamId": "h2aruovin9p2sulu",
+                "winner": false,
+                "cleanName": "kirtland community col"
+            },
+            "loser": {
+                "name": "Jackson College",
+                "result": "28",
+                "teamId": "e4vlvzn1782gvxak",
+                "winner": false,
+                "cleanName": "jackson col"
+            },
+            "resolved": true,
+            "hasScores": true,
+            "description": "Win",
+            "score": "35-28",
+            "numericResults": [
+                35,
+                28
+            ],
+            "winnerLoser": "35-28",
+            "descriptionShortWithOT": "W"
+        }
+    },
+    "eventDateFormattedAriaLabel": "October 18 01:00 PM:"
+}

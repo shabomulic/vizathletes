@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Feb 21",
+    "boxScoreLink": "20260221_h866.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Livin The Dream",
+                "result": "",
+                "teamId": "y4yqs75i30ikrqls",
+                "winner": false,
+                "cleanName": "livin dream"
+            },
+            {
+                "name": "Metropolitan Community College",
+                "result": "",
+                "teamId": "2rluzyd48cjzw9rr",
+                "winner": false,
+                "cleanName": "metropolitan community col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1771707600000,
+        "localTimeZone": "America/Chicago",
+        "tba": false,
+        "home": true,
+        "overall": false,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "h866n0hs92i7c4fp",
+        "fastdate": 1771707600000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "3201 Southwest Trafficway",
+        "city": "Kansas City",
+        "stateCountry": "MO",
+        "zipCode": "64111",
+        "venue": "A. Fred Pohlman Fieldhouse",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "scrimmage",
+            "description": "Scrimmage",
+            "statsCount": false
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "numericResults": [],
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Livin The Dream",
+            "result": "",
+            "teamId": "y4yqs75i30ikrqls",
+            "winner": false,
+            "cleanName": "livin dream"
+        },
+        "us": {
+            "name": "Metropolitan Community College",
+            "result": "",
+            "teamId": "2rluzyd48cjzw9rr",
+            "winner": false,
+            "cleanName": "metropolitan community col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "numericResults": [],
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "February 21 04:00 PM:"
+}

@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Oct 12",
+    "boxScoreLink": "20251012_sngr.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Eastern Wyoming College",
+                "result": "",
+                "teamId": "h8xqg2yhx6pzytwq",
+                "winner": false,
+                "cleanName": "e wyoming col"
+            },
+            {
+                "name": "Chadron State -- Scrimmage",
+                "result": "",
+                "teamId": "ivaam26qz0v8lvxi",
+                "winner": false,
+                "cleanName": "chadron st scrimmage"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": " Scrimmage ",
+        "date": 1760290200000,
+        "localTimeZone": "America/Denver",
+        "tba": false,
+        "home": false,
+        "overall": false,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "sngrwy3vy7xrklgj",
+        "fastdate": 1760290200000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "Scrimmage",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "Scrimmage",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "scrimmage",
+            "description": "Scrimmage",
+            "statsCount": false
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Chadron State -- Scrimmage",
+            "result": "",
+            "teamId": "ivaam26qz0v8lvxi",
+            "winner": false,
+            "cleanName": "chadron st scrimmage"
+        },
+        "us": {
+            "name": "Eastern Wyoming College",
+            "result": "",
+            "teamId": "h8xqg2yhx6pzytwq",
+            "winner": false,
+            "cleanName": "e wyoming col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "October 12 01:30 PM:"
+}

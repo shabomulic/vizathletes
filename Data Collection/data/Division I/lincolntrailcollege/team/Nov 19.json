@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Nov 19",
+    "boxScoreLink": "20251119_wl5p.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Greenville JV",
+                "result": "",
+                "teamId": "j3ryxtz5nlawnm70",
+                "winner": false,
+                "cleanName": "greenville jv"
+            },
+            {
+                "name": "Lincoln Trail College",
+                "result": "",
+                "teamId": "ijw3s2eit0hcyeb8",
+                "winner": false,
+                "cleanName": "lincoln trail col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1763596800000,
+        "localTimeZone": "America/Chicago",
+        "tba": false,
+        "home": true,
+        "overall": true,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "wl5pp224bjwu004j",
+        "fastdate": 1763596800000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "Robinson",
+        "stateCountry": "Illinois",
+        "zipCode": "62454",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Greenville JV",
+            "result": "",
+            "teamId": "j3ryxtz5nlawnm70",
+            "winner": false,
+            "cleanName": "greenville jv"
+        },
+        "us": {
+            "name": "Lincoln Trail College",
+            "result": "",
+            "teamId": "ijw3s2eit0hcyeb8",
+            "winner": false,
+            "cleanName": "lincoln trail col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "November 19 07:00 PM:"
+}

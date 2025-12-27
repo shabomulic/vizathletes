@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Feb 25",
+    "boxScoreLink": "20260225_9heo.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Northwest Florida State College",
+                "result": "",
+                "teamId": "rkhchb37q521n34p",
+                "winner": false,
+                "cleanName": "northwest florida st col"
+            },
+            {
+                "name": "Gulf Coast State College",
+                "result": "",
+                "teamId": "3zamj7rd0cmhbrnu",
+                "winner": false,
+                "cleanName": "gulf coast st col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "Panama City, Fla.",
+        "date": 1772065800000,
+        "localTimeZone": "America/Chicago",
+        "tba": false,
+        "home": false,
+        "overall": true,
+        "conference": true,
+        "division": false,
+        "regional": true,
+        "national": true,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "9heosi19lt5zz2k6",
+        "fastdate": 1772065800000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "5230 US-98",
+        "city": "Panama City",
+        "stateCountry": "FL",
+        "zipCode": "32401",
+        "venue": "Billy Harrison Fieldhouse",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Gulf Coast State College",
+            "result": "",
+            "teamId": "3zamj7rd0cmhbrnu",
+            "winner": false,
+            "cleanName": "gulf coast st col"
+        },
+        "us": {
+            "name": "Northwest Florida State College",
+            "result": "",
+            "teamId": "rkhchb37q521n34p",
+            "winner": false,
+            "cleanName": "northwest florida st col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "February 25 07:30 PM:"
+}

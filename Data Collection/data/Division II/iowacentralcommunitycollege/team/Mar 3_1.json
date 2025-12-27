@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Mar 3",
+    "boxScoreLink": "20260303_qxz9.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Region XI A&B Finals",
+                "result": "",
+                "teamId": "7b0ekckfnb7ultzp",
+                "winner": false,
+                "cleanName": "region xi a b finals"
+            },
+            {
+                "name": "Iowa Central Community College",
+                "result": "",
+                "teamId": "gz4mhb2yly8vcjs4",
+                "winner": false,
+                "cleanName": "iowa central community col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "TBA",
+        "date": 1772584200000,
+        "localTimeZone": "America/Chicago",
+        "tba": false,
+        "home": true,
+        "overall": true,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "qxz90t3uwthplimw",
+        "fastdate": 1772584200000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Region XI A&B Finals",
+            "result": "",
+            "teamId": "7b0ekckfnb7ultzp",
+            "winner": false,
+            "cleanName": "region xi a b finals"
+        },
+        "us": {
+            "name": "Iowa Central Community College",
+            "result": "",
+            "teamId": "gz4mhb2yly8vcjs4",
+            "winner": false,
+            "cleanName": "iowa central community col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "March 3 07:30 PM:"
+}

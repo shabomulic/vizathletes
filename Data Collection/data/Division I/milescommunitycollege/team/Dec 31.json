@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Dec 31",
+    "boxScoreLink": "20251231_kw18.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Miles Community College",
+                "result": "",
+                "teamId": "fn476ki3bxzrw558",
+                "winner": false,
+                "cleanName": "miles community col"
+            },
+            {
+                "name": "South Mountain Community College",
+                "result": "",
+                "teamId": "3a69zaimqw5ja7k8",
+                "winner": false,
+                "cleanName": "s mountain community col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1767204000000,
+        "localTimeZone": "America/Phoenix",
+        "tba": false,
+        "home": false,
+        "overall": true,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": true,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "kw185bc5ype5z0u2",
+        "fastdate": 1767204000000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "South Mountain Community College",
+            "result": "",
+            "teamId": "3a69zaimqw5ja7k8",
+            "winner": false,
+            "cleanName": "s mountain community col"
+        },
+        "us": {
+            "name": "Miles Community College",
+            "result": "",
+            "teamId": "fn476ki3bxzrw558",
+            "winner": false,
+            "cleanName": "miles community col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "December 31 01:00 PM:"
+}

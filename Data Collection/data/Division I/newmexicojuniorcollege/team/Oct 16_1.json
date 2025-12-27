@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Oct 16",
+    "boxScoreLink": "20251016_jikn.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Gillette College",
+                "result": "",
+                "teamId": "vfa2y0u2zw7yvqb4",
+                "winner": false,
+                "cleanName": "gillette col"
+            },
+            {
+                "name": "New Mexico Junior College",
+                "result": "",
+                "teamId": "akpb4fogaywoydu3",
+                "winner": false,
+                "cleanName": "new mexico junior col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1760619600000,
+        "localTimeZone": "America/Denver",
+        "tba": false,
+        "home": true,
+        "overall": false,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "Yes",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "jikn0it9gezi8r19",
+        "fastdate": 1760619600000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "Windsor",
+        "stateCountry": "Colorado ",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "scrimmage",
+            "description": "Scrimmage",
+            "statsCount": false
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Gillette College",
+            "result": "",
+            "teamId": "vfa2y0u2zw7yvqb4",
+            "winner": false,
+            "cleanName": "gillette col"
+        },
+        "us": {
+            "name": "New Mexico Junior College",
+            "result": "",
+            "teamId": "akpb4fogaywoydu3",
+            "winner": false,
+            "cleanName": "new mexico junior col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "October 16 09:00 AM:"
+}

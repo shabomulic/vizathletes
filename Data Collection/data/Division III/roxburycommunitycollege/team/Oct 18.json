@@ -1,0 +1,161 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Oct 18",
+    "boxScoreLink": "20251018_h6zv.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Roxbury Community College",
+                "result": "77",
+                "teamId": "fes4z27l5wxkpyir",
+                "winner": false,
+                "cleanName": "roxbury community col"
+            },
+            {
+                "name": "Kingsborough Community College",
+                "result": "52",
+                "teamId": "lzgzw7v5sr8ha1jj",
+                "winner": false,
+                "cleanName": "kingsborough community col"
+            }
+        ],
+        "status": "Final",
+        "notes": "",
+        "notesShared": "",
+        "date": 1760817600000,
+        "localTimeZone": "America/New_York",
+        "tba": false,
+        "home": false,
+        "overall": false,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": 0,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "h6zvy7a88xi6845w",
+        "fastdate": 1760817600000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "scrimmage",
+            "description": "Scrimmage",
+            "statsCount": false
+        },
+        "conferenceResult": "77-52",
+        "resultAsObject": {
+            "results": [
+                77,
+                52
+            ],
+            "winner": {
+                "name": "Roxbury Community College",
+                "result": "77",
+                "teamId": "fes4z27l5wxkpyir",
+                "winner": false,
+                "cleanName": "roxbury community col"
+            },
+            "loser": {
+                "name": "Kingsborough Community College",
+                "result": "52",
+                "teamId": "lzgzw7v5sr8ha1jj",
+                "winner": false,
+                "cleanName": "kingsborough community col"
+            },
+            "resolved": true,
+            "hasScores": true,
+            "description": "Win",
+            "score": "77-52",
+            "numericResults": [
+                77,
+                52
+            ],
+            "winnerLoser": "77-52",
+            "descriptionShortWithOT": "W"
+        },
+        "opponent": {
+            "name": "Kingsborough Community College",
+            "result": "52",
+            "teamId": "lzgzw7v5sr8ha1jj",
+            "winner": false,
+            "cleanName": "kingsborough community col"
+        },
+        "us": {
+            "name": "Roxbury Community College",
+            "result": "77",
+            "teamId": "fes4z27l5wxkpyir",
+            "winner": false,
+            "cleanName": "roxbury community col"
+        },
+        "winner": {
+            "name": "Roxbury Community College",
+            "result": "77",
+            "teamId": "fes4z27l5wxkpyir",
+            "winner": false,
+            "cleanName": "roxbury community col"
+        },
+        "loser": {
+            "name": "Kingsborough Community College",
+            "result": "52",
+            "teamId": "lzgzw7v5sr8ha1jj",
+            "winner": false,
+            "cleanName": "kingsborough community col"
+        },
+        "apresult": "W, 77-52",
+        "ap2Result": "W, 77-52",
+        "result": {
+            "results": [
+                77,
+                52
+            ],
+            "winner": {
+                "name": "Roxbury Community College",
+                "result": "77",
+                "teamId": "fes4z27l5wxkpyir",
+                "winner": false,
+                "cleanName": "roxbury community col"
+            },
+            "loser": {
+                "name": "Kingsborough Community College",
+                "result": "52",
+                "teamId": "lzgzw7v5sr8ha1jj",
+                "winner": false,
+                "cleanName": "kingsborough community col"
+            },
+            "resolved": true,
+            "hasScores": true,
+            "description": "Win",
+            "score": "77-52",
+            "numericResults": [
+                77,
+                52
+            ],
+            "winnerLoser": "77-52",
+            "descriptionShortWithOT": "W"
+        }
+    },
+    "eventDateFormattedAriaLabel": "October 18 04:00 PM:"
+}

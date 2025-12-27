@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Feb 15",
+    "boxScoreLink": "20260215_p1we.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Johnston Community College",
+                "result": "",
+                "teamId": "hr204rbtkwz95sbd",
+                "winner": false,
+                "cleanName": "johnston community col"
+            },
+            {
+                "name": "Catawba Valley Community College",
+                "result": "",
+                "teamId": "b9a60ej2y9pfgfq3",
+                "winner": false,
+                "cleanName": "catawba valley community col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "Tarlton Complex - Hickory, N.C.",
+        "date": 1771185600000,
+        "localTimeZone": "America/New_York",
+        "tba": false,
+        "home": true,
+        "overall": true,
+        "conference": true,
+        "division": false,
+        "regional": true,
+        "national": true,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "p1wehno68n1yylqf",
+        "fastdate": 1771185600000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "2540 Hwy 70 SE",
+        "city": "Hickory ",
+        "stateCountry": "NC",
+        "zipCode": "28602",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Johnston Community College",
+            "result": "",
+            "teamId": "hr204rbtkwz95sbd",
+            "winner": false,
+            "cleanName": "johnston community col"
+        },
+        "us": {
+            "name": "Catawba Valley Community College",
+            "result": "",
+            "teamId": "b9a60ej2y9pfgfq3",
+            "winner": false,
+            "cleanName": "catawba valley community col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "conferenceResult": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "February 15 03:00 PM:"
+}

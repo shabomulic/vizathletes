@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Jan 28",
+    "boxScoreLink": "20260128_a8vl.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Cowley County Community College",
+                "result": "",
+                "teamId": "d3r8e6jwrqcfngtu",
+                "winner": false,
+                "cleanName": "cowley county community col"
+            },
+            {
+                "name": "Cloud County Community College",
+                "result": "",
+                "teamId": "w3cgw61s9okfyuje",
+                "winner": false,
+                "cleanName": "cloud county community col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1769648400000,
+        "localTimeZone": "America/Regina",
+        "tba": false,
+        "home": true,
+        "overall": true,
+        "conference": true,
+        "division": false,
+        "regional": false,
+        "national": true,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "a8vlrwn4cwwa4szy",
+        "fastdate": 1769648400000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "Concordia",
+        "stateCountry": "Kansas",
+        "zipCode": "66901",
+        "venue": "Arley Bryant Gymnasium",
+        "primetime": true,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Cowley County Community College",
+            "result": "",
+            "teamId": "d3r8e6jwrqcfngtu",
+            "winner": false,
+            "cleanName": "cowley county community col"
+        },
+        "us": {
+            "name": "Cloud County Community College",
+            "result": "",
+            "teamId": "w3cgw61s9okfyuje",
+            "winner": false,
+            "cleanName": "cloud county community col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "January 28 08:00 PM:"
+}

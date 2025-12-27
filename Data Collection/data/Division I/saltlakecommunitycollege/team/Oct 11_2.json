@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Oct 11",
+    "boxScoreLink": "20251011_y4sr.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "College of Southern Nevada",
+                "result": "",
+                "teamId": "21mh6hyr8blhd5n2",
+                "winner": false,
+                "cleanName": "col s nevada"
+            },
+            {
+                "name": "Salt Lake Community College",
+                "result": "",
+                "teamId": "99m8ik3ui1gro4ms",
+                "winner": false,
+                "cleanName": "salt lake community col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "SLCC Jamboree",
+        "date": 1760187600000,
+        "localTimeZone": "America/Denver",
+        "tba": false,
+        "home": true,
+        "overall": false,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "y4srorplg7qgli9x",
+        "fastdate": 1760187600000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "scrimmage",
+            "description": "Scrimmage",
+            "statsCount": false
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "College of Southern Nevada",
+            "result": "",
+            "teamId": "21mh6hyr8blhd5n2",
+            "winner": false,
+            "cleanName": "col s nevada"
+        },
+        "us": {
+            "name": "Salt Lake Community College",
+            "result": "",
+            "teamId": "99m8ik3ui1gro4ms",
+            "winner": false,
+            "cleanName": "salt lake community col"
+        },
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "October 11 09:00 AM:"
+}

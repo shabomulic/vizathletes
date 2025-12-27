@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Jan 3",
+    "boxScoreLink": "20260103_b4f8.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "North Central Michigan",
+                "result": "",
+                "teamId": "irpxmzrldbj09y2v",
+                "winner": false,
+                "cleanName": "n central michigan"
+            },
+            {
+                "name": "Southwestern Michigan",
+                "result": "",
+                "teamId": "ncifb9cqkodtcalk",
+                "winner": false,
+                "cleanName": "southwestern michigan"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "1st Source Bank Fieldhouse",
+        "date": 1767470400000,
+        "localTimeZone": "America/New_York",
+        "tba": false,
+        "home": true,
+        "overall": true,
+        "conference": false,
+        "division": false,
+        "regional": true,
+        "national": true,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "b4f8wqf5d4me3y9x",
+        "fastdate": 1767470400000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "58900 Cherry Grove Rd",
+        "city": "Dowagiac",
+        "stateCountry": "Michigan",
+        "zipCode": "49047",
+        "venue": "1st Source Bank Fieldhouse",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "North Central Michigan",
+            "result": "",
+            "teamId": "irpxmzrldbj09y2v",
+            "winner": false,
+            "cleanName": "n central michigan"
+        },
+        "us": {
+            "name": "Southwestern Michigan",
+            "result": "",
+            "teamId": "ncifb9cqkodtcalk",
+            "winner": false,
+            "cleanName": "southwestern michigan"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "January 3 03:00 PM:"
+}

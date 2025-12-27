@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Jan 8",
+    "boxScoreLink": "20260108_96kn.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Rowan College of South Jersey-Cumberland",
+                "result": "",
+                "teamId": "6a3mpfgzde7oiihd",
+                "winner": false,
+                "cleanName": "rowan col s jersey cumberland"
+            },
+            {
+                "name": "Rowan College South Jersey - Gloucester",
+                "result": "",
+                "teamId": "tmr7x5kfhxbw4gau",
+                "winner": false,
+                "cleanName": "rowan col s jersey gloucester"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1767916800000,
+        "localTimeZone": "America/New_York",
+        "tba": false,
+        "home": true,
+        "overall": true,
+        "conference": false,
+        "division": true,
+        "regional": false,
+        "national": true,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "96kno9ss5nacs56c",
+        "fastdate": 1767916800000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Rowan College of South Jersey-Cumberland",
+            "result": "",
+            "teamId": "6a3mpfgzde7oiihd",
+            "winner": false,
+            "cleanName": "rowan col s jersey cumberland"
+        },
+        "us": {
+            "name": "Rowan College South Jersey - Gloucester",
+            "result": "",
+            "teamId": "tmr7x5kfhxbw4gau",
+            "winner": false,
+            "cleanName": "rowan col s jersey gloucester"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "January 8 07:00 PM:"
+}

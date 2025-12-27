@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Oct 10",
+    "boxScoreLink": "20251010_52lj.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "St Louis Jamboree",
+                "result": "",
+                "teamId": "r9d08jbefxeail5v",
+                "winner": false,
+                "cleanName": "st louis jamboree"
+            },
+            {
+                "name": "South Arkansas College",
+                "result": "",
+                "teamId": "nu5xpwr1ez52zl87",
+                "winner": false,
+                "cleanName": "s arkansas col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1760110200000,
+        "localTimeZone": "America/Regina",
+        "tba": false,
+        "home": true,
+        "overall": true,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "52lj94a5c1vgozh9",
+        "fastdate": 1760110200000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "150 N Eatherton Rd, Chesterfield, MO 63005",
+        "city": "",
+        "stateCountry": "MO",
+        "zipCode": "",
+        "venue": "Chesterfield Sports Complex",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "preSeason",
+            "description": "Pre-Season",
+            "statsCount": true
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "St Louis Jamboree",
+            "result": "",
+            "teamId": "r9d08jbefxeail5v",
+            "winner": false,
+            "cleanName": "st louis jamboree"
+        },
+        "us": {
+            "name": "South Arkansas College",
+            "result": "",
+            "teamId": "nu5xpwr1ez52zl87",
+            "winner": false,
+            "cleanName": "s arkansas col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "October 10 11:30 AM:"
+}

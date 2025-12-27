@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Oct 5",
+    "boxScoreLink": "20251005_ga9o.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "College of Southern Nevada",
+                "result": "",
+                "teamId": "21mh6hyr8blhd5n2",
+                "winner": false,
+                "cleanName": "col s nevada"
+            },
+            {
+                "name": "Santiago Canyon College",
+                "result": "",
+                "teamId": "0awl53hvlh1xcyr9",
+                "winner": false,
+                "cleanName": "santiago canyon col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "Orange County Jamboree",
+        "date": 1759672800000,
+        "localTimeZone": "America/Los_Angeles",
+        "tba": false,
+        "home": false,
+        "overall": false,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "ga9ovprwxrdcwdf5",
+        "fastdate": 1759672800000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "scrimmage",
+            "description": "Scrimmage",
+            "statsCount": false
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Santiago Canyon College",
+            "result": "",
+            "teamId": "0awl53hvlh1xcyr9",
+            "winner": false,
+            "cleanName": "santiago canyon col"
+        },
+        "us": {
+            "name": "College of Southern Nevada",
+            "result": "",
+            "teamId": "21mh6hyr8blhd5n2",
+            "winner": false,
+            "cleanName": "col s nevada"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "October 5 10:00 AM:"
+}

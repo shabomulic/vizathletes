@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Jan 10",
+    "boxScoreLink": "20260110_bp2r.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Montcalm Community College",
+                "result": "",
+                "teamId": "6r56qzx4vmr841ml",
+                "winner": false,
+                "cleanName": "montcalm community col"
+            },
+            {
+                "name": "Bay College",
+                "result": "",
+                "teamId": "vxtx7i8qw27zp2af",
+                "winner": false,
+                "cleanName": "bay col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "Scouts Day &amp; Youth Basketball Day",
+        "date": 1768075200000,
+        "localTimeZone": "America/New_York",
+        "tba": false,
+        "home": true,
+        "overall": true,
+        "conference": true,
+        "division": true,
+        "regional": true,
+        "national": true,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "bp2rzi22y8f43fxk",
+        "fastdate": 1768075200000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Montcalm Community College",
+            "result": "",
+            "teamId": "6r56qzx4vmr841ml",
+            "winner": false,
+            "cleanName": "montcalm community col"
+        },
+        "us": {
+            "name": "Bay College",
+            "result": "",
+            "teamId": "vxtx7i8qw27zp2af",
+            "winner": false,
+            "cleanName": "bay col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "January 10 03:00 PM:"
+}

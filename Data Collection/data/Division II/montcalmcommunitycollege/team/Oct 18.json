@@ -1,0 +1,119 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Oct 18",
+    "boxScoreLink": "20251018_oco6.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Montcalm Community College",
+                "result": "0",
+                "teamId": "6r56qzx4vmr841ml",
+                "winner": false,
+                "cleanName": "montcalm community col"
+            },
+            {
+                "name": "Ferris State University",
+                "result": "0",
+                "teamId": "zjpp6gosfbnbp3u0",
+                "winner": false,
+                "cleanName": "ferris st univ"
+            }
+        ],
+        "status": "Final",
+        "notes": "",
+        "notesShared": "SCRIMMAGE",
+        "date": 1760810400000,
+        "localTimeZone": "America/New_York",
+        "tba": false,
+        "home": false,
+        "overall": false,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": 0,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "oco6y3a9etleejof",
+        "fastdate": 1760810400000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "scrimmage",
+            "description": "Scrimmage",
+            "statsCount": false
+        },
+        "conferenceResult": "0-0",
+        "resultAsObject": {
+            "results": [
+                0,
+                0
+            ],
+            "resolved": true,
+            "hasScores": true,
+            "description": "Tie",
+            "score": "0-0",
+            "numericResults": [
+                0,
+                0
+            ],
+            "winnerLoser": "0-0",
+            "descriptionShortWithOT": "T"
+        },
+        "opponent": {
+            "name": "Ferris State University",
+            "result": "0",
+            "teamId": "zjpp6gosfbnbp3u0",
+            "winner": false,
+            "cleanName": "ferris st univ"
+        },
+        "us": {
+            "name": "Montcalm Community College",
+            "result": "0",
+            "teamId": "6r56qzx4vmr841ml",
+            "winner": false,
+            "cleanName": "montcalm community col"
+        },
+        "apresult": "T, 0-0",
+        "ap2Result": "T, 0-0",
+        "result": {
+            "results": [
+                0,
+                0
+            ],
+            "resolved": true,
+            "hasScores": true,
+            "description": "Tie",
+            "score": "0-0",
+            "numericResults": [
+                0,
+                0
+            ],
+            "winnerLoser": "0-0",
+            "descriptionShortWithOT": "T"
+        }
+    },
+    "eventDateFormattedAriaLabel": "October 18 02:00 PM:"
+}

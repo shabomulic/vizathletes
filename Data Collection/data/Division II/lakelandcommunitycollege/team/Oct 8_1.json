@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Oct 8",
+    "boxScoreLink": "20251008_7gal.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Our Prep",
+                "result": "",
+                "teamId": "ru01gvuzaisbc8nt",
+                "winner": false,
+                "cleanName": "our prep"
+            },
+            {
+                "name": "Lakeland Community College",
+                "result": "",
+                "teamId": "bn7iowokd59ssivc",
+                "winner": false,
+                "cleanName": "lakeland community col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "Scrimmage",
+        "date": 1759962600000,
+        "localTimeZone": "America/New_York",
+        "tba": false,
+        "home": true,
+        "overall": false,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "7galf1i59rvxvs7j",
+        "fastdate": 1759962600000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Our Prep",
+            "result": "",
+            "teamId": "ru01gvuzaisbc8nt",
+            "winner": false,
+            "cleanName": "our prep"
+        },
+        "us": {
+            "name": "Lakeland Community College",
+            "result": "",
+            "teamId": "bn7iowokd59ssivc",
+            "winner": false,
+            "cleanName": "lakeland community col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "October 8 06:30 PM:"
+}

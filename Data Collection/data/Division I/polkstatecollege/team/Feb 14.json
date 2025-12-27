@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Feb 14",
+    "boxScoreLink": "20260214_6dfi.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Daytona State College",
+                "result": "",
+                "teamId": "ao6mzkmwcd6z85t3",
+                "winner": false,
+                "cleanName": "daytona st col"
+            },
+            {
+                "name": "Polk State College",
+                "result": "",
+                "teamId": "jk54mab76z8mppvd",
+                "winner": false,
+                "cleanName": "polk st col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1771095600000,
+        "localTimeZone": "America/New_York",
+        "tba": false,
+        "home": true,
+        "overall": true,
+        "conference": true,
+        "division": false,
+        "regional": true,
+        "national": true,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "6dfiddob3d7rntpy",
+        "fastdate": 1771095600000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Daytona State College",
+            "result": "",
+            "teamId": "ao6mzkmwcd6z85t3",
+            "winner": false,
+            "cleanName": "daytona st col"
+        },
+        "us": {
+            "name": "Polk State College",
+            "result": "",
+            "teamId": "jk54mab76z8mppvd",
+            "winner": false,
+            "cleanName": "polk st col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "February 14 02:00 PM:"
+}

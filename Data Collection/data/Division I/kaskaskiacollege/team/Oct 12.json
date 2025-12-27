@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Oct 12",
+    "boxScoreLink": "20251012_9uz1.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Kaskaskia College",
+                "result": "",
+                "teamId": "u6h9o1dq438xhnma",
+                "winner": false,
+                "cleanName": "kaskaskia col"
+            },
+            {
+                "name": "Vincennes Jamboree",
+                "result": "",
+                "teamId": "vx0uuhae4c0q4rot",
+                "winner": false,
+                "cleanName": "vincennes jamboree"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "Vincennes Jamboree",
+        "date": 1760281200000,
+        "localTimeZone": "America/Chicago",
+        "tba": false,
+        "home": false,
+        "overall": true,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "9uz136cf81jzdk8z",
+        "fastdate": 1760281200000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "preSeason",
+            "description": "Pre-Season",
+            "statsCount": true
+        },
+        "ap2Result": "",
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Vincennes Jamboree",
+            "result": "",
+            "teamId": "vx0uuhae4c0q4rot",
+            "winner": false,
+            "cleanName": "vincennes jamboree"
+        },
+        "us": {
+            "name": "Kaskaskia College",
+            "result": "",
+            "teamId": "u6h9o1dq438xhnma",
+            "winner": false,
+            "cleanName": "kaskaskia col"
+        },
+        "apresult": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "October 12 11:00 AM:"
+}

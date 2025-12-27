@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Dec 17",
+    "boxScoreLink": "20251217_enrd.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Justice College JV",
+                "result": "",
+                "teamId": "fhg8zpuyxhj0711e",
+                "winner": false,
+                "cleanName": "justice col jv"
+            },
+            {
+                "name": "Phoenix College",
+                "result": "",
+                "teamId": "7u4uqtzjvrwmbmxg",
+                "winner": false,
+                "cleanName": "phoenix col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1766016000000,
+        "localTimeZone": "America/Phoenix",
+        "tba": false,
+        "home": true,
+        "overall": true,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "enrdtai6z20a6tgf",
+        "fastdate": 1766016000000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Justice College JV",
+            "result": "",
+            "teamId": "fhg8zpuyxhj0711e",
+            "winner": false,
+            "cleanName": "justice col jv"
+        },
+        "us": {
+            "name": "Phoenix College",
+            "result": "",
+            "teamId": "7u4uqtzjvrwmbmxg",
+            "winner": false,
+            "cleanName": "phoenix col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "December 17 07:00 PM:"
+}

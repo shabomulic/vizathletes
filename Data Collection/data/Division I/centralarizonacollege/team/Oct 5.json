@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Oct 5",
+    "boxScoreLink": "20251005_4n7p.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Phoenix Jamboree",
+                "result": "",
+                "teamId": "x2vfczqxs8o9j85s",
+                "winner": false,
+                "cleanName": "phoenix jamboree"
+            },
+            {
+                "name": "Central Arizona College",
+                "result": "",
+                "teamId": "nss1p944qsnrqsdm",
+                "winner": false,
+                "cleanName": "central arizona col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "Phoenix Jamboree",
+        "date": 1759636800000,
+        "localTimeZone": "America/Phoenix",
+        "tba": true,
+        "home": true,
+        "overall": true,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "4n7parhi7o5pp8xd",
+        "fastdate": 1759636800000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Phoenix Jamboree",
+            "result": "",
+            "teamId": "x2vfczqxs8o9j85s",
+            "winner": false,
+            "cleanName": "phoenix jamboree"
+        },
+        "us": {
+            "name": "Central Arizona College",
+            "result": "",
+            "teamId": "nss1p944qsnrqsdm",
+            "winner": false,
+            "cleanName": "central arizona col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "conferenceResult": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "October 5 12:00 AM:"
+}

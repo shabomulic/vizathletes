@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Feb 25",
+    "boxScoreLink": "20260225_6h5k.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Eastern Wyoming College",
+                "result": "",
+                "teamId": "h8xqg2yhx6pzytwq",
+                "winner": false,
+                "cleanName": "e wyoming col"
+            },
+            {
+                "name": "Gillette College",
+                "result": "",
+                "teamId": "vfa2y0u2zw7yvqb4",
+                "winner": false,
+                "cleanName": "gillette col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1772065800000,
+        "localTimeZone": "America/Denver",
+        "tba": false,
+        "home": true,
+        "overall": true,
+        "conference": true,
+        "division": false,
+        "regional": true,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "6h5k6mcacoeetbkg",
+        "fastdate": 1772065800000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "Gillette, WY",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Eastern Wyoming College",
+            "result": "",
+            "teamId": "h8xqg2yhx6pzytwq",
+            "winner": false,
+            "cleanName": "e wyoming col"
+        },
+        "us": {
+            "name": "Gillette College",
+            "result": "",
+            "teamId": "vfa2y0u2zw7yvqb4",
+            "winner": false,
+            "cleanName": "gillette col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "February 25 07:30 PM:"
+}

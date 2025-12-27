@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Jan 10",
+    "boxScoreLink": "20260110_kyyr.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Phoenix College",
+                "result": "",
+                "teamId": "7u4uqtzjvrwmbmxg",
+                "winner": false,
+                "cleanName": "phoenix col"
+            },
+            {
+                "name": "Chandler-Gilbert Community College",
+                "result": "",
+                "teamId": "4d8m1oqlkprpttlx",
+                "winner": false,
+                "cleanName": "chandler gilbert community col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1768078800000,
+        "localTimeZone": "America/Phoenix",
+        "tba": false,
+        "home": true,
+        "overall": true,
+        "conference": true,
+        "division": false,
+        "regional": true,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "kyyrjpl91gzykbis",
+        "fastdate": 1768078800000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Phoenix College",
+            "result": "",
+            "teamId": "7u4uqtzjvrwmbmxg",
+            "winner": false,
+            "cleanName": "phoenix col"
+        },
+        "us": {
+            "name": "Chandler-Gilbert Community College",
+            "result": "",
+            "teamId": "4d8m1oqlkprpttlx",
+            "winner": false,
+            "cleanName": "chandler gilbert community col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "January 10 04:00 PM:"
+}

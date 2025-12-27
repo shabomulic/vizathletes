@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Jan 21",
+    "boxScoreLink": "20260121_qwva.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Minnesota North College-Hibbing",
+                "result": "",
+                "teamId": "e79tyvkl3pr6tlqn",
+                "winner": false,
+                "cleanName": "minn n col hibbing"
+            },
+            {
+                "name": "Minnesota North College-Rainy River",
+                "result": "",
+                "teamId": "2ygwicvvcwc0mn06",
+                "winner": false,
+                "cleanName": "minn n col rainy river"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1769041800000,
+        "localTimeZone": "America/Chicago",
+        "tba": false,
+        "home": true,
+        "overall": true,
+        "conference": true,
+        "division": true,
+        "regional": true,
+        "national": true,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "qwva8s5ftz3wcyq3",
+        "fastdate": 1769041800000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Minnesota North College-Hibbing",
+            "result": "",
+            "teamId": "e79tyvkl3pr6tlqn",
+            "winner": false,
+            "cleanName": "minn n col hibbing"
+        },
+        "us": {
+            "name": "Minnesota North College-Rainy River",
+            "result": "",
+            "teamId": "2ygwicvvcwc0mn06",
+            "winner": false,
+            "cleanName": "minn n col rainy river"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "January 21 07:30 PM:"
+}

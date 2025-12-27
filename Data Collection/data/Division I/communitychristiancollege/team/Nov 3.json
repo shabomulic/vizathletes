@@ -1,0 +1,161 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Nov 3",
+    "boxScoreLink": "20251103_2tcg.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Grand Canyon University JV",
+                "result": "82",
+                "teamId": "zawmde98zpbbczo0",
+                "winner": false,
+                "cleanName": "grand canyon univ jv"
+            },
+            {
+                "name": "Community Christian College",
+                "result": "62",
+                "teamId": "7cbrwqdlxehqjg7l",
+                "winner": false,
+                "cleanName": "community christian col"
+            }
+        ],
+        "status": "Final",
+        "notes": "",
+        "notesShared": "",
+        "date": 1762210800000,
+        "localTimeZone": "Pacific/Honolulu",
+        "tba": false,
+        "home": true,
+        "overall": true,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": 0,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "2tcgh3sb7n1355vz",
+        "fastdate": 1762210800000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "Norton Recreation Center",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "conferenceResult": "62-82",
+        "resultAsObject": {
+            "results": [
+                82,
+                62
+            ],
+            "winner": {
+                "name": "Grand Canyon University JV",
+                "result": "82",
+                "teamId": "zawmde98zpbbczo0",
+                "winner": false,
+                "cleanName": "grand canyon univ jv"
+            },
+            "loser": {
+                "name": "Community Christian College",
+                "result": "62",
+                "teamId": "7cbrwqdlxehqjg7l",
+                "winner": false,
+                "cleanName": "community christian col"
+            },
+            "resolved": true,
+            "hasScores": true,
+            "numericResults": [
+                62,
+                82
+            ],
+            "description": "Loss",
+            "score": "62-82",
+            "winnerLoser": "82-62",
+            "descriptionShortWithOT": "L"
+        },
+        "opponent": {
+            "name": "Grand Canyon University JV",
+            "result": "82",
+            "teamId": "zawmde98zpbbczo0",
+            "winner": false,
+            "cleanName": "grand canyon univ jv"
+        },
+        "us": {
+            "name": "Community Christian College",
+            "result": "62",
+            "teamId": "7cbrwqdlxehqjg7l",
+            "winner": false,
+            "cleanName": "community christian col"
+        },
+        "winner": {
+            "name": "Grand Canyon University JV",
+            "result": "82",
+            "teamId": "zawmde98zpbbczo0",
+            "winner": false,
+            "cleanName": "grand canyon univ jv"
+        },
+        "loser": {
+            "name": "Community Christian College",
+            "result": "62",
+            "teamId": "7cbrwqdlxehqjg7l",
+            "winner": false,
+            "cleanName": "community christian col"
+        },
+        "apresult": "L, 82-62",
+        "ap2Result": "L, 62-82",
+        "result": {
+            "results": [
+                82,
+                62
+            ],
+            "winner": {
+                "name": "Grand Canyon University JV",
+                "result": "82",
+                "teamId": "zawmde98zpbbczo0",
+                "winner": false,
+                "cleanName": "grand canyon univ jv"
+            },
+            "loser": {
+                "name": "Community Christian College",
+                "result": "62",
+                "teamId": "7cbrwqdlxehqjg7l",
+                "winner": false,
+                "cleanName": "community christian col"
+            },
+            "resolved": true,
+            "hasScores": true,
+            "numericResults": [
+                62,
+                82
+            ],
+            "description": "Loss",
+            "score": "62-82",
+            "winnerLoser": "82-62",
+            "descriptionShortWithOT": "L"
+        }
+    },
+    "eventDateFormattedAriaLabel": "November 3 06:00 PM:"
+}

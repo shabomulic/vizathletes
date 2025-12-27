@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Oct 19",
+    "boxScoreLink": "20251019_2ogq.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Cape Fear Community College",
+                "result": "",
+                "teamId": "d1j0w5o46qkcv1nh",
+                "winner": false,
+                "cleanName": "cape fear community col"
+            },
+            {
+                "name": "BCC Jamboree",
+                "result": "",
+                "teamId": "nrgxawkhyh7i93x3",
+                "winner": false,
+                "cleanName": "bcc jamboree"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "Bolivia, NC",
+        "date": 1760846400000,
+        "localTimeZone": "America/New_York",
+        "tba": true,
+        "home": false,
+        "overall": false,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "Bolivia, NC",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "2ogqdjyk2nnk06sz",
+        "fastdate": 1760846400000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "Bolivia, NC",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "exhibition",
+            "description": "Exhibition",
+            "statsCount": false
+        },
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "BCC Jamboree",
+            "result": "",
+            "teamId": "nrgxawkhyh7i93x3",
+            "winner": false,
+            "cleanName": "bcc jamboree"
+        },
+        "us": {
+            "name": "Cape Fear Community College",
+            "result": "",
+            "teamId": "d1j0w5o46qkcv1nh",
+            "winner": false,
+            "cleanName": "cape fear community col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "conferenceResult": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "October 19 12:00 AM:"
+}

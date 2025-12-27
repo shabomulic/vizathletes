@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Jan 8",
+    "boxScoreLink": "20260108_gyy3.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Clarendon College",
+                "result": "",
+                "teamId": "hs7lpl6chyaqn5z3",
+                "winner": false,
+                "cleanName": "clarendon col"
+            },
+            {
+                "name": "Frank Phillips College",
+                "result": "",
+                "teamId": "9gqawlmv1jav40in",
+                "winner": false,
+                "cleanName": "frank phillips col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1767848400000,
+        "localTimeZone": "America/Chicago",
+        "tba": true,
+        "home": false,
+        "overall": true,
+        "conference": true,
+        "division": false,
+        "regional": false,
+        "national": true,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "gyy3ucxvpanrn354",
+        "fastdate": 1767848400000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Frank Phillips College",
+            "result": "",
+            "teamId": "9gqawlmv1jav40in",
+            "winner": false,
+            "cleanName": "frank phillips col"
+        },
+        "us": {
+            "name": "Clarendon College",
+            "result": "",
+            "teamId": "hs7lpl6chyaqn5z3",
+            "winner": false,
+            "cleanName": "clarendon col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "January 8 12:00 AM:"
+}

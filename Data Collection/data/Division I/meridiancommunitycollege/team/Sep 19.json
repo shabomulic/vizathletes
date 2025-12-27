@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Sep 19",
+    "boxScoreLink": "20250919_x7m1.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Meridian Community College",
+                "result": "",
+                "teamId": "6oi900dyjcb8nohe",
+                "winner": false,
+                "cleanName": "meridian community col"
+            },
+            {
+                "name": "JUCO Trails",
+                "result": "",
+                "teamId": "8u0u8wi4pqb6rrjo",
+                "winner": false,
+                "cleanName": "juco trails"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1758301200000,
+        "localTimeZone": "America/Chicago",
+        "tba": false,
+        "home": false,
+        "overall": false,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "Scooba, MS",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "x7m1uvt6egt08sc1",
+        "fastdate": 1758301200000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "exhibition",
+            "description": "Exhibition",
+            "statsCount": false
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "JUCO Trails",
+            "result": "",
+            "teamId": "8u0u8wi4pqb6rrjo",
+            "winner": false,
+            "cleanName": "juco trails"
+        },
+        "us": {
+            "name": "Meridian Community College",
+            "result": "",
+            "teamId": "6oi900dyjcb8nohe",
+            "winner": false,
+            "cleanName": "meridian community col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "September 19 01:00 PM:"
+}

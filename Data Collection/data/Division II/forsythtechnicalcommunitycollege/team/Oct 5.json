@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Oct 5",
+    "boxScoreLink": "20251005_vjj4.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Forsyth Technical Community College",
+                "result": "",
+                "teamId": "yw57wze2gmejjzar",
+                "winner": false,
+                "cleanName": "forsyth technical community col"
+            },
+            {
+                "name": "CB Hoops Jamboree",
+                "result": "",
+                "teamId": "j7v2oa5yiyu51ofr",
+                "winner": false,
+                "cleanName": "cb hoops jamboree"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1759636800000,
+        "localTimeZone": "America/New_York",
+        "tba": true,
+        "home": false,
+        "overall": false,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "vjj4493y27r5wzyf",
+        "fastdate": 1759636800000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "LakePoint Sports",
+        "city": "Cartersville",
+        "stateCountry": "GA",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "exhibition",
+            "description": "Exhibition",
+            "statsCount": false
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "CB Hoops Jamboree",
+            "result": "",
+            "teamId": "j7v2oa5yiyu51ofr",
+            "winner": false,
+            "cleanName": "cb hoops jamboree"
+        },
+        "us": {
+            "name": "Forsyth Technical Community College",
+            "result": "",
+            "teamId": "yw57wze2gmejjzar",
+            "winner": false,
+            "cleanName": "forsyth technical community col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "October 5 12:00 AM:"
+}

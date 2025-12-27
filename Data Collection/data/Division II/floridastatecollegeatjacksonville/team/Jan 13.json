@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Jan 13",
+    "boxScoreLink": "20260113_u1sa.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Community Christian College Georgia Knights",
+                "result": "",
+                "teamId": "7i7rz3gv15hkhmbo",
+                "winner": false,
+                "cleanName": "community christian col georgia knights"
+            },
+            {
+                "name": "Florida State College at Jacksonville",
+                "result": "",
+                "teamId": "x5jb43ul4diaisfi",
+                "winner": false,
+                "cleanName": "florida st col at jacksonville"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "The Reef",
+        "date": 1768345200000,
+        "localTimeZone": "America/New_York",
+        "tba": false,
+        "home": true,
+        "overall": true,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": true,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "u1saxtzpkxwfepq1",
+        "fastdate": 1768345200000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "11901 Beach Blvd",
+        "city": "Jacksonville",
+        "stateCountry": "FL",
+        "zipCode": "32246",
+        "venue": "The Reef",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Community Christian College Georgia Knights",
+            "result": "",
+            "teamId": "7i7rz3gv15hkhmbo",
+            "winner": false,
+            "cleanName": "community christian col georgia knights"
+        },
+        "us": {
+            "name": "Florida State College at Jacksonville",
+            "result": "",
+            "teamId": "x5jb43ul4diaisfi",
+            "winner": false,
+            "cleanName": "florida st col at jacksonville"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "January 13 06:00 PM:"
+}

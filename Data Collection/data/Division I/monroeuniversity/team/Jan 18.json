@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Jan 18",
+    "boxScoreLink": "20260118_a99y.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Monroe Community College",
+                "result": "",
+                "teamId": "v850mf44u1qhjxgb",
+                "winner": false,
+                "cleanName": "monroe community col"
+            },
+            {
+                "name": "Monroe University",
+                "result": "",
+                "teamId": "pg7evkto1by6c35m",
+                "winner": false,
+                "cleanName": "monroe univ"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "Monroe Univ. MLK Classic",
+        "date": 1768712400000,
+        "localTimeZone": "America/New_York",
+        "tba": true,
+        "home": true,
+        "overall": true,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "a99yci53mmdc4t4h",
+        "fastdate": 1768712400000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Monroe Community College",
+            "result": "",
+            "teamId": "v850mf44u1qhjxgb",
+            "winner": false,
+            "cleanName": "monroe community col"
+        },
+        "us": {
+            "name": "Monroe University",
+            "result": "",
+            "teamId": "pg7evkto1by6c35m",
+            "winner": false,
+            "cleanName": "monroe univ"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "conferenceResult": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "January 18 12:00 AM:"
+}

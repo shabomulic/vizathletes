@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Feb 25",
+    "boxScoreLink": "20260225_sxo1.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "South Georgia Technical College",
+                "result": "",
+                "teamId": "zpyjdsqzxq327foa",
+                "winner": false,
+                "cleanName": "s georgia technical col"
+            },
+            {
+                "name": "Southern Crescent Technical College",
+                "result": "",
+                "teamId": "rl1w3b90qw3em41k",
+                "winner": false,
+                "cleanName": "s crescent technical col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1772065800000,
+        "localTimeZone": "America/New_York",
+        "tba": false,
+        "home": false,
+        "overall": true,
+        "conference": true,
+        "division": false,
+        "regional": false,
+        "national": true,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "sxo1qvmqyc2u4xkl",
+        "fastdate": 1772065800000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Southern Crescent Technical College",
+            "result": "",
+            "teamId": "rl1w3b90qw3em41k",
+            "winner": false,
+            "cleanName": "s crescent technical col"
+        },
+        "us": {
+            "name": "South Georgia Technical College",
+            "result": "",
+            "teamId": "zpyjdsqzxq327foa",
+            "winner": false,
+            "cleanName": "s georgia technical col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "February 25 07:30 PM:"
+}

@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Feb 2",
+    "boxScoreLink": "20260202_l324.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Holmes Community College",
+                "result": "",
+                "teamId": "lcemf0jzrwkt5eoq",
+                "winner": false,
+                "cleanName": "holmes community col"
+            },
+            {
+                "name": "Southwest Mississippi Community College",
+                "result": "",
+                "teamId": "e7ck6jxjqxhfes1n",
+                "winner": false,
+                "cleanName": "southwest mississippi community col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1770078600000,
+        "localTimeZone": "America/Chicago",
+        "tba": false,
+        "home": true,
+        "overall": true,
+        "conference": true,
+        "division": false,
+        "regional": true,
+        "national": true,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "l324uxqajqofngxz",
+        "fastdate": 1770078600000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Holmes Community College",
+            "result": "",
+            "teamId": "lcemf0jzrwkt5eoq",
+            "winner": false,
+            "cleanName": "holmes community col"
+        },
+        "us": {
+            "name": "Southwest Mississippi Community College",
+            "result": "",
+            "teamId": "e7ck6jxjqxhfes1n",
+            "winner": false,
+            "cleanName": "southwest mississippi community col"
+        },
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "February 2 07:30 PM:"
+}

@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Mar 14",
+    "boxScoreLink": "20260314_4xhn.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Dawson Community College",
+                "result": "",
+                "teamId": "3pim3egp5wrsvj8e",
+                "winner": false,
+                "cleanName": "dawson community col"
+            },
+            {
+                "name": "District Championship Game (Region XIII vs. Region XI)",
+                "result": "",
+                "teamId": "l0ctmb1zrgru94we",
+                "winner": false,
+                "cleanName": "district championship game region xiii region xi"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "Hosted by Region XI Winner",
+        "date": 1773460800000,
+        "localTimeZone": "America/Denver",
+        "tba": true,
+        "home": false,
+        "overall": true,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": true,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "4xhnr7bp2x0j1rcp",
+        "fastdate": 1773460800000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "Region XI Winner",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "postSeason",
+            "description": "Post-Season/Play-Offs",
+            "statsCount": true
+        },
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "District Championship Game (Region XIII vs. Region XI)",
+            "result": "",
+            "teamId": "l0ctmb1zrgru94we",
+            "winner": false,
+            "cleanName": "district championship game region xiii region xi"
+        },
+        "us": {
+            "name": "Dawson Community College",
+            "result": "",
+            "teamId": "3pim3egp5wrsvj8e",
+            "winner": false,
+            "cleanName": "dawson community col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "conferenceResult": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "March 14 12:00 AM:"
+}

@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Jan 24",
+    "boxScoreLink": "20260124_s2zu.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "McCook Community College",
+                "result": "",
+                "teamId": "q4an22ykb2ffrhpa",
+                "winner": false,
+                "cleanName": "mccook community col"
+            },
+            {
+                "name": "Southeast Community College",
+                "result": "",
+                "teamId": "c3rzvzeqhixf3rzz",
+                "winner": false,
+                "cleanName": "southeast community col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "at Lincoln, Neb.",
+        "date": 1769288400000,
+        "localTimeZone": "America/Chicago",
+        "tba": false,
+        "home": false,
+        "overall": true,
+        "conference": true,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "s2zufc4e77vz9wkx",
+        "fastdate": 1769288400000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Southeast Community College",
+            "result": "",
+            "teamId": "c3rzvzeqhixf3rzz",
+            "winner": false,
+            "cleanName": "southeast community col"
+        },
+        "us": {
+            "name": "McCook Community College",
+            "result": "",
+            "teamId": "q4an22ykb2ffrhpa",
+            "winner": false,
+            "cleanName": "mccook community col"
+        },
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "January 24 04:00 PM:"
+}

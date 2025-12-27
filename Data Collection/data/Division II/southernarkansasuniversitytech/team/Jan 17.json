@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Jan 17",
+    "boxScoreLink": "20260117_q5in.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Southern Arkansas University Tech",
+                "result": "",
+                "teamId": "k0vnm3334bk18nby",
+                "winner": false,
+                "cleanName": "s arkansas univ tech"
+            },
+            {
+                "name": "Shorter College",
+                "result": "",
+                "teamId": "lta54ynybu7acqxg",
+                "winner": false,
+                "cleanName": "shorter col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1768680000000,
+        "localTimeZone": "America/Chicago",
+        "tba": false,
+        "home": false,
+        "overall": true,
+        "conference": true,
+        "division": false,
+        "regional": true,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "q5inox40fb0wkt9z",
+        "fastdate": 1768680000000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "Little Rock",
+        "stateCountry": "Arkansas",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "ap2Result": "",
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Shorter College",
+            "result": "",
+            "teamId": "lta54ynybu7acqxg",
+            "winner": false,
+            "cleanName": "shorter col"
+        },
+        "us": {
+            "name": "Southern Arkansas University Tech",
+            "result": "",
+            "teamId": "k0vnm3334bk18nby",
+            "winner": false,
+            "cleanName": "s arkansas univ tech"
+        },
+        "apresult": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "January 17 03:00 PM:"
+}

@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Dec 15",
+    "boxScoreLink": "20251215_a3bm.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Louisburg College",
+                "result": "",
+                "teamId": "8nscws04w381q4e3",
+                "winner": false,
+                "cleanName": "louisburg col"
+            },
+            {
+                "name": "Richard Bland College",
+                "result": "",
+                "teamId": "wwjd9rxorfx5txz6",
+                "winner": false,
+                "cleanName": "richard bland col"
+            }
+        ],
+        "status": "Postponed",
+        "notes": "",
+        "notesShared": "",
+        "date": 1765836000000,
+        "localTimeZone": "America/New_York",
+        "tba": false,
+        "home": false,
+        "overall": true,
+        "conference": false,
+        "division": false,
+        "regional": true,
+        "national": true,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": true,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "a3bmuutnbh3fxhme",
+        "fastdate": 1765836000000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Richard Bland College",
+            "result": "",
+            "teamId": "wwjd9rxorfx5txz6",
+            "winner": false,
+            "cleanName": "richard bland col"
+        },
+        "us": {
+            "name": "Louisburg College",
+            "result": "",
+            "teamId": "8nscws04w381q4e3",
+            "winner": false,
+            "cleanName": "louisburg col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "December 15 05:00 PM:"
+}

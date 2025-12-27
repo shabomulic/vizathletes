@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Oct 17",
+    "boxScoreLink": "20251017_zkd5.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Riverland Community College",
+                "result": "",
+                "teamId": "73qit45qksijxjez",
+                "winner": false,
+                "cleanName": "riverland community col"
+            },
+            {
+                "name": "Viterbo University",
+                "result": "",
+                "teamId": "qepcvwa5vywp3csv",
+                "winner": false,
+                "cleanName": "viterbo univ"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1760673600000,
+        "localTimeZone": "America/Chicago",
+        "tba": true,
+        "home": false,
+        "overall": false,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "zkd5zzdovksl37db",
+        "fastdate": 1760673600000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "scrimmage",
+            "description": "Scrimmage",
+            "statsCount": false
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Viterbo University",
+            "result": "",
+            "teamId": "qepcvwa5vywp3csv",
+            "winner": false,
+            "cleanName": "viterbo univ"
+        },
+        "us": {
+            "name": "Riverland Community College",
+            "result": "",
+            "teamId": "73qit45qksijxjez",
+            "winner": false,
+            "cleanName": "riverland community col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "October 17 12:00 AM:"
+}

@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Jan 28",
+    "boxScoreLink": "20260128_c0n5.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Community College of Beaver County",
+                "result": "",
+                "teamId": "zf51sbfi3mychos5",
+                "winner": false,
+                "cleanName": "community col beaver county"
+            },
+            {
+                "name": "Butler County Community College - PA",
+                "result": "",
+                "teamId": "y43lf5h096ou6fud",
+                "winner": false,
+                "cleanName": "butler county community col pa"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1769641200000,
+        "localTimeZone": "America/New_York",
+        "tba": false,
+        "home": false,
+        "overall": true,
+        "conference": true,
+        "division": false,
+        "regional": true,
+        "national": true,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "c0n5u4nol1punqd8",
+        "fastdate": 1769641200000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Butler County Community College - PA",
+            "result": "",
+            "teamId": "y43lf5h096ou6fud",
+            "winner": false,
+            "cleanName": "butler county community col pa"
+        },
+        "us": {
+            "name": "Community College of Beaver County",
+            "result": "",
+            "teamId": "zf51sbfi3mychos5",
+            "winner": false,
+            "cleanName": "community col beaver county"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "January 28 06:00 PM:"
+}

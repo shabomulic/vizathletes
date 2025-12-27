@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Jan 29",
+    "boxScoreLink": "20260129_n1t6.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Coastal Alabama - South",
+                "result": "",
+                "teamId": "jpfpqsaw9nvsj3jq",
+                "winner": false,
+                "cleanName": "coastal alabama s"
+            },
+            {
+                "name": "Wallace State Community College-Hanceville",
+                "result": "",
+                "teamId": "ur0vu3015ky0do6s",
+                "winner": false,
+                "cleanName": "wallace st community col hanceville"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1769733000000,
+        "localTimeZone": "America/Chicago",
+        "tba": false,
+        "home": false,
+        "overall": true,
+        "conference": true,
+        "division": true,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "n1t6b62az9tn2kpz",
+        "fastdate": 1769733000000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "801 Main St NE",
+        "city": "Hanceville",
+        "stateCountry": "AL",
+        "zipCode": "35077",
+        "venue": "Tom Drake Coliseum",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Wallace State Community College-Hanceville",
+            "result": "",
+            "teamId": "ur0vu3015ky0do6s",
+            "winner": false,
+            "cleanName": "wallace st community col hanceville"
+        },
+        "us": {
+            "name": "Coastal Alabama - South",
+            "result": "",
+            "teamId": "jpfpqsaw9nvsj3jq",
+            "winner": false,
+            "cleanName": "coastal alabama s"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "conferenceResult": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "January 29 07:30 PM:"
+}

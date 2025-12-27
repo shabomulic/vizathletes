@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Jan 5",
+    "boxScoreLink": "20260105_yose.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Coastal Alabama - North",
+                "result": "",
+                "teamId": "utvz0zdiug0wgnet",
+                "winner": false,
+                "cleanName": "coastal alabama n"
+            },
+            {
+                "name": "Lurleen B. Wallace Community College",
+                "result": "",
+                "teamId": "hyab6gjkotc1knxy",
+                "winner": false,
+                "cleanName": "lurleen b wallace community col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1767657600000,
+        "localTimeZone": "America/Chicago",
+        "tba": false,
+        "home": false,
+        "overall": true,
+        "conference": true,
+        "division": false,
+        "regional": false,
+        "national": true,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "yosecj0togc8mw0w",
+        "fastdate": 1767657600000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Lurleen B. Wallace Community College",
+            "result": "",
+            "teamId": "hyab6gjkotc1knxy",
+            "winner": false,
+            "cleanName": "lurleen b wallace community col"
+        },
+        "us": {
+            "name": "Coastal Alabama - North",
+            "result": "",
+            "teamId": "utvz0zdiug0wgnet",
+            "winner": false,
+            "cleanName": "coastal alabama n"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "conferenceResult": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "January 5 07:00 PM:"
+}

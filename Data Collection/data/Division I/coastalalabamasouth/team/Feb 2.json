@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Feb 2",
+    "boxScoreLink": "20260202_xy8d.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Southern Union State Community College",
+                "result": "",
+                "teamId": "eu58zelvf6o156jj",
+                "winner": false,
+                "cleanName": "s union st community col"
+            },
+            {
+                "name": "Coastal Alabama - South",
+                "result": "",
+                "teamId": "jpfpqsaw9nvsj3jq",
+                "winner": false,
+                "cleanName": "coastal alabama s"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1770078600000,
+        "localTimeZone": "America/New_York",
+        "tba": false,
+        "home": true,
+        "overall": true,
+        "conference": true,
+        "division": true,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "xy8d51blzr2iftse",
+        "fastdate": 1770078600000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "wadley",
+        "stateCountry": "Al",
+        "zipCode": "35077",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Southern Union State Community College",
+            "result": "",
+            "teamId": "eu58zelvf6o156jj",
+            "winner": false,
+            "cleanName": "s union st community col"
+        },
+        "us": {
+            "name": "Coastal Alabama - South",
+            "result": "",
+            "teamId": "jpfpqsaw9nvsj3jq",
+            "winner": false,
+            "cleanName": "coastal alabama s"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "conferenceResult": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "February 2 07:30 PM:"
+}

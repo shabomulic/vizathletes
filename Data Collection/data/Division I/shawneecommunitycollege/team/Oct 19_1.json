@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Oct 19",
+    "boxScoreLink": "20251019_9tjr.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Shawnee Community College",
+                "result": "",
+                "teamId": "smkcgr4z9atnaaza",
+                "winner": false,
+                "cleanName": "shawnee community col"
+            },
+            {
+                "name": "Highland Community College - Illinois",
+                "result": "",
+                "teamId": "rnhsly6ukwev2sq7",
+                "winner": false,
+                "cleanName": "highland community col illinois"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1760907600000,
+        "localTimeZone": "America/Chicago",
+        "tba": false,
+        "home": false,
+        "overall": false,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "9tjr9mn22aligcyz",
+        "fastdate": 1760907600000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "1700 Wildcat Rd",
+        "city": "Marion",
+        "stateCountry": "IL",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "scrimmage",
+            "description": "Scrimmage",
+            "statsCount": false
+        },
+        "ap2Result": "",
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Highland Community College - Illinois",
+            "result": "",
+            "teamId": "rnhsly6ukwev2sq7",
+            "winner": false,
+            "cleanName": "highland community col illinois"
+        },
+        "us": {
+            "name": "Shawnee Community College",
+            "result": "",
+            "teamId": "smkcgr4z9atnaaza",
+            "winner": false,
+            "cleanName": "shawnee community col"
+        },
+        "apresult": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "October 19 05:00 PM:"
+}

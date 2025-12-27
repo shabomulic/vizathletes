@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Dec 30",
+    "boxScoreLink": "20251230_7kmu.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Shoreline Community College",
+                "result": "",
+                "teamId": "vm3is0o4okhkepf8",
+                "winner": false,
+                "cleanName": "shoreline community col"
+            },
+            {
+                "name": "North Idaho College",
+                "result": "",
+                "teamId": "rr90e67vq94uqti6",
+                "winner": false,
+                "cleanName": "n idaho col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "Title One Classic",
+        "date": 1767124800000,
+        "localTimeZone": "America/Los_Angeles",
+        "tba": false,
+        "home": true,
+        "overall": true,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "7kmu5znmkje7ek8v",
+        "fastdate": 1767124800000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "preSeason",
+            "description": "Pre-Season",
+            "statsCount": true
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Shoreline Community College",
+            "result": "",
+            "teamId": "vm3is0o4okhkepf8",
+            "winner": false,
+            "cleanName": "shoreline community col"
+        },
+        "us": {
+            "name": "North Idaho College",
+            "result": "",
+            "teamId": "rr90e67vq94uqti6",
+            "winner": false,
+            "cleanName": "n idaho col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "December 30 03:00 PM:"
+}

@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Oct 25",
+    "boxScoreLink": "20251025_425h.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Hillsborough Community College",
+                "result": "",
+                "teamId": "z9w8cxebhu3gftoj",
+                "winner": false,
+                "cleanName": "hillsborough community col"
+            },
+            {
+                "name": "Eckerd College",
+                "result": "",
+                "teamId": "erqro4jbq7ntgzir",
+                "winner": false,
+                "cleanName": "eckerd col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1761364800000,
+        "localTimeZone": "America/New_York",
+        "tba": true,
+        "home": false,
+        "overall": true,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "425hrsvgtxi80jfn",
+        "fastdate": 1761364800000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "4200 54th Avenue, South",
+        "city": "St Petersburg",
+        "stateCountry": "Florida",
+        "zipCode": "33711",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "scrimmage",
+            "description": "Scrimmage",
+            "statsCount": false
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Eckerd College",
+            "result": "",
+            "teamId": "erqro4jbq7ntgzir",
+            "winner": false,
+            "cleanName": "eckerd col"
+        },
+        "us": {
+            "name": "Hillsborough Community College",
+            "result": "",
+            "teamId": "z9w8cxebhu3gftoj",
+            "winner": false,
+            "cleanName": "hillsborough community col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "October 25 12:00 AM:"
+}

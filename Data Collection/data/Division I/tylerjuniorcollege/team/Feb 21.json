@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Feb 21",
+    "boxScoreLink": "20260221_d2jt.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Coastal Bend College",
+                "result": "",
+                "teamId": "q3pgetg1altljm6g",
+                "winner": false,
+                "cleanName": "coastal bend col"
+            },
+            {
+                "name": "Tyler Junior College",
+                "result": "",
+                "teamId": "0bu4f5s1ma74t2fw",
+                "winner": false,
+                "cleanName": "tyler junior col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "Wagstaff Gymnasium | Tyler, Tx",
+        "date": 1771707600000,
+        "localTimeZone": "America/Chicago",
+        "tba": false,
+        "home": true,
+        "overall": true,
+        "conference": true,
+        "division": false,
+        "regional": true,
+        "national": true,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "d2jtp6l3zd9fsn4c",
+        "fastdate": 1771707600000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "Tyler",
+        "stateCountry": "Texas",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Coastal Bend College",
+            "result": "",
+            "teamId": "q3pgetg1altljm6g",
+            "winner": false,
+            "cleanName": "coastal bend col"
+        },
+        "us": {
+            "name": "Tyler Junior College",
+            "result": "",
+            "teamId": "0bu4f5s1ma74t2fw",
+            "winner": false,
+            "cleanName": "tyler junior col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "February 21 04:00 PM:"
+}

@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Oct 17",
+    "boxScoreLink": "20251017_36gl.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Allegany College of Maryland",
+                "result": "",
+                "teamId": "u6wi96q9tibr0rlg",
+                "winner": false,
+                "cleanName": "allegany col maryland"
+            },
+            {
+                "name": "Pennsylvania Highlands Community College",
+                "result": "",
+                "teamId": "rrp2nkzjmx8eum62",
+                "winner": false,
+                "cleanName": "pennsylvania highlands community col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1760736600000,
+        "localTimeZone": "America/New_York",
+        "tba": false,
+        "home": false,
+        "overall": false,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "36glw55cox99i83z",
+        "fastdate": 1760736600000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "scrimmage",
+            "description": "Scrimmage",
+            "statsCount": false
+        },
+        "us": {
+            "name": "Allegany College of Maryland",
+            "result": "",
+            "teamId": "u6wi96q9tibr0rlg",
+            "winner": false,
+            "cleanName": "allegany col maryland"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Pennsylvania Highlands Community College",
+            "result": "",
+            "teamId": "rrp2nkzjmx8eum62",
+            "winner": false,
+            "cleanName": "pennsylvania highlands community col"
+        },
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "October 17 05:30 PM:"
+}

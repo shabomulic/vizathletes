@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Jan 11",
+    "boxScoreLink": "20260111_a1xh.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "SUNY Broome Community College",
+                "result": "",
+                "teamId": "69ekny9p7ue6z488",
+                "winner": false,
+                "cleanName": "suny broome community col"
+            },
+            {
+                "name": "Tompkins Cortland Community College",
+                "result": "",
+                "teamId": "3mkaoh599kiqeh0w",
+                "winner": false,
+                "cleanName": "tompkins cortland community col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1768158000000,
+        "localTimeZone": "America/New_York",
+        "tba": false,
+        "home": true,
+        "overall": true,
+        "conference": true,
+        "division": false,
+        "regional": true,
+        "national": true,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "a1xh74b1e7jdog8u",
+        "fastdate": 1768158000000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": true,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "opponent": {
+            "name": "SUNY Broome Community College",
+            "result": "",
+            "teamId": "69ekny9p7ue6z488",
+            "winner": false,
+            "cleanName": "suny broome community col"
+        },
+        "us": {
+            "name": "Tompkins Cortland Community College",
+            "result": "",
+            "teamId": "3mkaoh599kiqeh0w",
+            "winner": false,
+            "cleanName": "tompkins cortland community col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "January 11 02:00 PM:"
+}

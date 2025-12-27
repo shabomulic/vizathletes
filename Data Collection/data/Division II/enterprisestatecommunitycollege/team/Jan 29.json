@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Jan 29",
+    "boxScoreLink": "20260129_37w6.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Enterprise State Community College",
+                "result": "",
+                "teamId": "clf86jhkvm4x7egx",
+                "winner": false,
+                "cleanName": "enterprise st community col"
+            },
+            {
+                "name": "Marion Military Institute",
+                "result": "",
+                "teamId": "vkeq3q6q1mgf1d2z",
+                "winner": false,
+                "cleanName": "marion military institute"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1769731200000,
+        "localTimeZone": "America/Chicago",
+        "tba": false,
+        "home": false,
+        "overall": true,
+        "conference": true,
+        "division": true,
+        "regional": true,
+        "national": true,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "37w6639mp6ibazlt",
+        "fastdate": 1769731200000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Marion Military Institute",
+            "result": "",
+            "teamId": "vkeq3q6q1mgf1d2z",
+            "winner": false,
+            "cleanName": "marion military institute"
+        },
+        "us": {
+            "name": "Enterprise State Community College",
+            "result": "",
+            "teamId": "clf86jhkvm4x7egx",
+            "winner": false,
+            "cleanName": "enterprise st community col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "January 29 07:00 PM:"
+}

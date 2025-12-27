@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Jan 20",
+    "boxScoreLink": "20260120_33bo.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Triton College",
+                "result": "",
+                "teamId": "t2tews15148ki2tb",
+                "winner": false,
+                "cleanName": "triton col"
+            },
+            {
+                "name": "Kennedy-King College",
+                "result": "",
+                "teamId": "d55c8i0brijjm64j",
+                "winner": false,
+                "cleanName": "kennedy king col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1768953600000,
+        "localTimeZone": "America/Chicago",
+        "tba": false,
+        "home": false,
+        "overall": true,
+        "conference": false,
+        "division": false,
+        "regional": true,
+        "national": true,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "33boo7yr5o8s172l",
+        "fastdate": 1768953600000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Kennedy-King College",
+            "result": "",
+            "teamId": "d55c8i0brijjm64j",
+            "winner": false,
+            "cleanName": "kennedy king col"
+        },
+        "us": {
+            "name": "Triton College",
+            "result": "",
+            "teamId": "t2tews15148ki2tb",
+            "winner": false,
+            "cleanName": "triton col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "January 20 07:00 PM:"
+}

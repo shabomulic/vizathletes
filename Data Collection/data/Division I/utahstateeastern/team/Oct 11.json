@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Oct 11",
+    "boxScoreLink": "20251011_fakt.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Utah State Eastern",
+                "result": "",
+                "teamId": "ftzybqiyqvufvtbe",
+                "winner": false,
+                "cleanName": "utah st e"
+            },
+            {
+                "name": "SLCC Jamboree",
+                "result": "",
+                "teamId": "lii7lzhxzljjsfx2",
+                "winner": false,
+                "cleanName": "slcc jamboree"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1760155200000,
+        "localTimeZone": "America/Denver",
+        "tba": true,
+        "home": false,
+        "overall": false,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "Taylorsville, UT ",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "fakt58rdd5bdwnti",
+        "fastdate": 1760155200000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "scrimmage",
+            "description": "Scrimmage",
+            "statsCount": false
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "SLCC Jamboree",
+            "result": "",
+            "teamId": "lii7lzhxzljjsfx2",
+            "winner": false,
+            "cleanName": "slcc jamboree"
+        },
+        "us": {
+            "name": "Utah State Eastern",
+            "result": "",
+            "teamId": "ftzybqiyqvufvtbe",
+            "winner": false,
+            "cleanName": "utah st e"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "October 11 12:00 AM:"
+}

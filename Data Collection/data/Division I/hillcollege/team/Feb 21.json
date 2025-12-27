@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Feb 21",
+    "boxScoreLink": "20260221_dm9l.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Hill College",
+                "result": "",
+                "teamId": "kauqlf7gonacoa37",
+                "winner": false,
+                "cleanName": "hill col"
+            },
+            {
+                "name": "Collin County Community College",
+                "result": "",
+                "teamId": "rkb9l8wxq80safko",
+                "winner": false,
+                "cleanName": "collin county community col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1771707600000,
+        "localTimeZone": "America/Chicago",
+        "tba": false,
+        "home": false,
+        "overall": true,
+        "conference": true,
+        "division": false,
+        "regional": false,
+        "national": true,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "dm9l8pnnsdt6b935",
+        "fastdate": 1771707600000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "Plano",
+        "stateCountry": "TX",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "numericResults": [],
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Collin County Community College",
+            "result": "",
+            "teamId": "rkb9l8wxq80safko",
+            "winner": false,
+            "cleanName": "collin county community col"
+        },
+        "us": {
+            "name": "Hill College",
+            "result": "",
+            "teamId": "kauqlf7gonacoa37",
+            "winner": false,
+            "cleanName": "hill col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "numericResults": [],
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "February 21 04:00 PM:"
+}

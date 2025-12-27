@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Oct 19",
+    "boxScoreLink": "20251019_aetr.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Vincennes University",
+                "result": "",
+                "teamId": "xtwgw64evojqa3cy",
+                "winner": false,
+                "cleanName": "vincennes univ"
+            },
+            {
+                "name": "Midwest Juco Jamboree",
+                "result": "",
+                "teamId": "stgu1rxv1zafirqk",
+                "winner": false,
+                "cleanName": "midwest juco jamboree"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1760846400000,
+        "localTimeZone": "America/New_York",
+        "tba": true,
+        "home": false,
+        "overall": false,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "Marion High School (Marion, IL)",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "aetrxssbeucv4cdd",
+        "fastdate": 1760846400000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "exhibition",
+            "description": "Exhibition",
+            "statsCount": false
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Midwest Juco Jamboree",
+            "result": "",
+            "teamId": "stgu1rxv1zafirqk",
+            "winner": false,
+            "cleanName": "midwest juco jamboree"
+        },
+        "us": {
+            "name": "Vincennes University",
+            "result": "",
+            "teamId": "xtwgw64evojqa3cy",
+            "winner": false,
+            "cleanName": "vincennes univ"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "October 19 12:00 AM:"
+}

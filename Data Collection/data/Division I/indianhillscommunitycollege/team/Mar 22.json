@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Mar 22",
+    "boxScoreLink": "20260322_eaic.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "TBD",
+                "result": "",
+                "teamId": "a3zcmew8v3fhjhb7",
+                "winner": false,
+                "cleanName": "tbd"
+            },
+            {
+                "name": "Indian Hills Community College",
+                "result": "",
+                "teamId": "ovzmia8ifzqijipj",
+                "winner": false,
+                "cleanName": "indian hills community col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "NJCAA National Championship",
+        "date": 1774152000000,
+        "localTimeZone": "America/Chicago",
+        "tba": true,
+        "home": true,
+        "overall": true,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": true,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": true,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "Hutchinson, KS",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "eaicqwajk399cbrj",
+        "fastdate": 1774152000000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "postSeason",
+            "description": "Post-Season/Play-Offs",
+            "statsCount": true
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "TBD",
+            "result": "",
+            "teamId": "a3zcmew8v3fhjhb7",
+            "winner": false,
+            "cleanName": "tbd"
+        },
+        "us": {
+            "name": "Indian Hills Community College",
+            "result": "",
+            "teamId": "ovzmia8ifzqijipj",
+            "winner": false,
+            "cleanName": "indian hills community col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "March 22 12:00 AM:"
+}

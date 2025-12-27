@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Oct 11",
+    "boxScoreLink": "20251011_r7vy.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Casper College",
+                "result": "",
+                "teamId": "w8g2dca924qjmb6j",
+                "winner": false,
+                "cleanName": "casper col"
+            },
+            {
+                "name": "Treasure Valley",
+                "result": "",
+                "teamId": "aa182nj1o907h8mg",
+                "winner": false,
+                "cleanName": "treasure valley"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "SLCC Jamboree ",
+        "date": 1760205600000,
+        "localTimeZone": "America/Denver",
+        "tba": false,
+        "home": false,
+        "overall": false,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "Salt lake CC ",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "r7vy3r02ihoo9c98",
+        "fastdate": 1760205600000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "Salt Lake ",
+        "stateCountry": "Utah ",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "preSeason",
+            "description": "Pre-Season",
+            "statsCount": true
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Treasure Valley",
+            "result": "",
+            "teamId": "aa182nj1o907h8mg",
+            "winner": false,
+            "cleanName": "treasure valley"
+        },
+        "us": {
+            "name": "Casper College",
+            "result": "",
+            "teamId": "w8g2dca924qjmb6j",
+            "winner": false,
+            "cleanName": "casper col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "October 11 02:00 PM:"
+}

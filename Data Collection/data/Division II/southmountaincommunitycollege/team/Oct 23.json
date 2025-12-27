@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Oct 23",
+    "boxScoreLink": "20251023_13ef.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Park University-Gilbert",
+                "result": "",
+                "teamId": "tj6lxlg6t96wkr6s",
+                "winner": false,
+                "cleanName": "park univ gilbert"
+            },
+            {
+                "name": "South Mountain Community College",
+                "result": "",
+                "teamId": "3a69zaimqw5ja7k8",
+                "winner": false,
+                "cleanName": "s mountain community col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1761262200000,
+        "localTimeZone": "America/Phoenix",
+        "tba": false,
+        "home": true,
+        "overall": false,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "13efeb33x7bo709l",
+        "fastdate": 1761262200000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "exhibition",
+            "description": "Exhibition",
+            "statsCount": false
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Park University-Gilbert",
+            "result": "",
+            "teamId": "tj6lxlg6t96wkr6s",
+            "winner": false,
+            "cleanName": "park univ gilbert"
+        },
+        "us": {
+            "name": "South Mountain Community College",
+            "result": "",
+            "teamId": "3a69zaimqw5ja7k8",
+            "winner": false,
+            "cleanName": "s mountain community col"
+        },
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "October 23 07:30 PM:"
+}

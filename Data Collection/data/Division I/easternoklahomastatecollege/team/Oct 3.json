@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Oct 3",
+    "boxScoreLink": "20251003_hrcp.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Oklahoma Jamboree",
+                "result": "",
+                "teamId": "hijbv7bgpm0swn6a",
+                "winner": false,
+                "cleanName": "oklahoma jamboree"
+            },
+            {
+                "name": "Eastern Oklahoma State College",
+                "result": "",
+                "teamId": "la71zambmlz5nr9s",
+                "winner": false,
+                "cleanName": "e oklahoma st col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1759503600000,
+        "localTimeZone": "America/Chicago",
+        "tba": false,
+        "home": true,
+        "overall": false,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "Trae Young Center",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "hrcpd6jdiy15j1l7",
+        "fastdate": 1759503600000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "Norman",
+        "stateCountry": "Oklahoma",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "scrimmage",
+            "description": "Scrimmage",
+            "statsCount": false
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Oklahoma Jamboree",
+            "result": "",
+            "teamId": "hijbv7bgpm0swn6a",
+            "winner": false,
+            "cleanName": "oklahoma jamboree"
+        },
+        "us": {
+            "name": "Eastern Oklahoma State College",
+            "result": "",
+            "teamId": "la71zambmlz5nr9s",
+            "winner": false,
+            "cleanName": "e oklahoma st col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "October 3 11:00 AM:"
+}

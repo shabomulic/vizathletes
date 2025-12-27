@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Oct 30",
+    "boxScoreLink": "20251030_of8x.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Cheyney",
+                "result": "",
+                "teamId": "k1lm7bqood8kltma",
+                "winner": false,
+                "cleanName": "cheyney"
+            },
+            {
+                "name": "Montgomery County Community College (PA)",
+                "result": "",
+                "teamId": "fu83s3hobtg0ghx6",
+                "winner": false,
+                "cleanName": "montgomery county community col pa"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1761865200000,
+        "localTimeZone": "America/New_York",
+        "tba": false,
+        "home": true,
+        "overall": false,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "of8xcd9ut1nulld0",
+        "fastdate": 1761865200000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "scrimmage",
+            "description": "Scrimmage",
+            "statsCount": false
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Cheyney",
+            "result": "",
+            "teamId": "k1lm7bqood8kltma",
+            "winner": false,
+            "cleanName": "cheyney"
+        },
+        "us": {
+            "name": "Montgomery County Community College (PA)",
+            "result": "",
+            "teamId": "fu83s3hobtg0ghx6",
+            "winner": false,
+            "cleanName": "montgomery county community col pa"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "October 30 07:00 PM:"
+}

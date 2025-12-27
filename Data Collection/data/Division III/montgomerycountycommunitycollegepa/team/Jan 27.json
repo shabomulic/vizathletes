@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Jan 27",
+    "boxScoreLink": "20260127_7arr.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Delaware County Community College",
+                "result": "",
+                "teamId": "q6go92a6nvmngt9e",
+                "winner": false,
+                "cleanName": "delaware county community col"
+            },
+            {
+                "name": "Montgomery County Community College (PA)",
+                "result": "",
+                "teamId": "fu83s3hobtg0ghx6",
+                "winner": false,
+                "cleanName": "montgomery county community col pa"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1769558400000,
+        "localTimeZone": "America/New_York",
+        "tba": false,
+        "home": true,
+        "overall": true,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "7arr8kboblfjkmcx",
+        "fastdate": 1769558400000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Delaware County Community College",
+            "result": "",
+            "teamId": "q6go92a6nvmngt9e",
+            "winner": false,
+            "cleanName": "delaware county community col"
+        },
+        "us": {
+            "name": "Montgomery County Community College (PA)",
+            "result": "",
+            "teamId": "fu83s3hobtg0ghx6",
+            "winner": false,
+            "cleanName": "montgomery county community col pa"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "January 27 07:00 PM:"
+}

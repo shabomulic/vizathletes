@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Jan 15",
+    "boxScoreLink": "20260115_t2eh.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "College of Lake County",
+                "result": "",
+                "teamId": "dx5zwp7kwxe4kez4",
+                "winner": false,
+                "cleanName": "col lake county"
+            },
+            {
+                "name": "Moraine Valley Community College",
+                "result": "",
+                "teamId": "gmrfsxr7bc3mg84r",
+                "winner": false,
+                "cleanName": "moraine valley community col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "Conference/Region game",
+        "date": 1768522500000,
+        "localTimeZone": "America/Chicago",
+        "tba": false,
+        "home": true,
+        "overall": true,
+        "conference": true,
+        "division": false,
+        "regional": true,
+        "national": true,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "t2ehoc06165dyn2c",
+        "fastdate": 1768522500000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "ap2Result": "",
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "College of Lake County",
+            "result": "",
+            "teamId": "dx5zwp7kwxe4kez4",
+            "winner": false,
+            "cleanName": "col lake county"
+        },
+        "us": {
+            "name": "Moraine Valley Community College",
+            "result": "",
+            "teamId": "gmrfsxr7bc3mg84r",
+            "winner": false,
+            "cleanName": "moraine valley community col"
+        },
+        "apresult": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "January 15 07:15 PM:"
+}

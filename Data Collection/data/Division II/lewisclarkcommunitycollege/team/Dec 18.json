@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Dec 18",
+    "boxScoreLink": "20251218_a55x.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Blackburn College",
+                "result": "",
+                "teamId": "vycd3zccfcbksbc4",
+                "winner": false,
+                "cleanName": "blackburn col"
+            },
+            {
+                "name": "Lewis & Clark Community College",
+                "result": "",
+                "teamId": "zulxsmdd5drv096f",
+                "winner": false,
+                "cleanName": "lewis clark community col"
+            }
+        ],
+        "status": "Cancelled",
+        "notes": "",
+        "notesShared": "",
+        "date": 1766098800000,
+        "localTimeZone": "America/New_York",
+        "tba": false,
+        "home": true,
+        "overall": true,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": true,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": true,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "a55xfhol7mt1yalq",
+        "fastdate": 1766098800000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "5800 Godfrey Rd",
+        "city": "Godfrey",
+        "stateCountry": "Madison",
+        "zipCode": "62035",
+        "venue": "George C Terry Riverbend Arena",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Blackburn College",
+            "result": "",
+            "teamId": "vycd3zccfcbksbc4",
+            "winner": false,
+            "cleanName": "blackburn col"
+        },
+        "us": {
+            "name": "Lewis & Clark Community College",
+            "result": "",
+            "teamId": "zulxsmdd5drv096f",
+            "winner": false,
+            "cleanName": "lewis clark community col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "December 18 06:00 PM:"
+}

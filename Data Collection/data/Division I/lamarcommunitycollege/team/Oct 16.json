@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Oct 16",
+    "boxScoreLink": "20251016_9vw4.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Lamar Community College",
+                "result": "",
+                "teamId": "v0uqyhtqkp90p1k5",
+                "winner": false,
+                "cleanName": "lamar community col"
+            },
+            {
+                "name": "Rocky Mountain Jamboree",
+                "result": "",
+                "teamId": "kaxiy7yuvwj4cpbl",
+                "winner": false,
+                "cleanName": "rocky mountain jamboree"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1760587200000,
+        "localTimeZone": "America/Denver",
+        "tba": true,
+        "home": false,
+        "overall": false,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "9vw42tbbuchrdzw8",
+        "fastdate": 1760587200000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "Windsor",
+        "stateCountry": "Colorado",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "tournament",
+            "description": "Tournament",
+            "statsCount": false
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Rocky Mountain Jamboree",
+            "result": "",
+            "teamId": "kaxiy7yuvwj4cpbl",
+            "winner": false,
+            "cleanName": "rocky mountain jamboree"
+        },
+        "us": {
+            "name": "Lamar Community College",
+            "result": "",
+            "teamId": "v0uqyhtqkp90p1k5",
+            "winner": false,
+            "cleanName": "lamar community col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "October 16 12:00 AM:"
+}

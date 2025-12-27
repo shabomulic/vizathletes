@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Sep 20",
+    "boxScoreLink": "20250920_2elo.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "North Arkansas College",
+                "result": "",
+                "teamId": "zjq3nw9r4836ecnm",
+                "winner": false,
+                "cleanName": "n arkansas col"
+            },
+            {
+                "name": "Arkansas Juco Tour Showcase",
+                "result": "",
+                "teamId": "6j48o9x88uqlrzvy",
+                "winner": false,
+                "cleanName": "arkansas juco tour showcase"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "Arkansas Juco Tour Showcase for 4-year Recruiting",
+        "date": 1758382200000,
+        "localTimeZone": "America/Chicago",
+        "tba": false,
+        "home": false,
+        "overall": false,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "National Park College",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "2elogn2t4or296c4",
+        "fastdate": 1758382200000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "National Park College",
+        "city": "Hot Springs",
+        "stateCountry": "AR, USA",
+        "zipCode": "",
+        "venue": "The Kettle",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "preSeason",
+            "description": "Pre-Season",
+            "statsCount": true
+        },
+        "ap2Result": "",
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Arkansas Juco Tour Showcase",
+            "result": "",
+            "teamId": "6j48o9x88uqlrzvy",
+            "winner": false,
+            "cleanName": "arkansas juco tour showcase"
+        },
+        "us": {
+            "name": "North Arkansas College",
+            "result": "",
+            "teamId": "zjq3nw9r4836ecnm",
+            "winner": false,
+            "cleanName": "n arkansas col"
+        },
+        "apresult": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "September 20 11:30 AM:"
+}

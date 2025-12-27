@@ -1,0 +1,161 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Nov 12",
+    "boxScoreLink": "20251112_4snb.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Ohio Valley College",
+                "result": "81",
+                "teamId": "kfypumkd164ww60f",
+                "winner": false,
+                "cleanName": "ohio valley col"
+            },
+            {
+                "name": "Cuyahoga Community College",
+                "result": "100",
+                "teamId": "kqgoy9nt4u9ftkf3",
+                "winner": false,
+                "cleanName": "cuyahoga community col"
+            }
+        ],
+        "status": "Final",
+        "notes": "",
+        "notesShared": "Metro Gymnasium Ft. St. Martin De Porres Band",
+        "date": 1762992000000,
+        "localTimeZone": "America/New_York",
+        "tba": false,
+        "home": true,
+        "overall": true,
+        "conference": false,
+        "division": false,
+        "regional": true,
+        "national": false,
+        "inProgress": false,
+        "statusCode": 0,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "4snbizw8croeoh6i",
+        "fastdate": 1762992000000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "3002 Community College Avenue",
+        "city": "Cleveland",
+        "stateCountry": "OH",
+        "zipCode": "44115",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "conferenceResult": "100-81",
+        "resultAsObject": {
+            "results": [
+                81,
+                100
+            ],
+            "winner": {
+                "name": "Cuyahoga Community College",
+                "result": "100",
+                "teamId": "kqgoy9nt4u9ftkf3",
+                "winner": false,
+                "cleanName": "cuyahoga community col"
+            },
+            "loser": {
+                "name": "Ohio Valley College",
+                "result": "81",
+                "teamId": "kfypumkd164ww60f",
+                "winner": false,
+                "cleanName": "ohio valley col"
+            },
+            "resolved": true,
+            "hasScores": true,
+            "numericResults": [
+                100,
+                81
+            ],
+            "description": "Win",
+            "score": "100-81",
+            "winnerLoser": "100-81",
+            "descriptionShortWithOT": "W"
+        },
+        "opponent": {
+            "name": "Ohio Valley College",
+            "result": "81",
+            "teamId": "kfypumkd164ww60f",
+            "winner": false,
+            "cleanName": "ohio valley col"
+        },
+        "us": {
+            "name": "Cuyahoga Community College",
+            "result": "100",
+            "teamId": "kqgoy9nt4u9ftkf3",
+            "winner": false,
+            "cleanName": "cuyahoga community col"
+        },
+        "winner": {
+            "name": "Cuyahoga Community College",
+            "result": "100",
+            "teamId": "kqgoy9nt4u9ftkf3",
+            "winner": false,
+            "cleanName": "cuyahoga community col"
+        },
+        "loser": {
+            "name": "Ohio Valley College",
+            "result": "81",
+            "teamId": "kfypumkd164ww60f",
+            "winner": false,
+            "cleanName": "ohio valley col"
+        },
+        "apresult": "W, 100-81",
+        "ap2Result": "W, 100-81",
+        "result": {
+            "results": [
+                81,
+                100
+            ],
+            "winner": {
+                "name": "Cuyahoga Community College",
+                "result": "100",
+                "teamId": "kqgoy9nt4u9ftkf3",
+                "winner": false,
+                "cleanName": "cuyahoga community col"
+            },
+            "loser": {
+                "name": "Ohio Valley College",
+                "result": "81",
+                "teamId": "kfypumkd164ww60f",
+                "winner": false,
+                "cleanName": "ohio valley col"
+            },
+            "resolved": true,
+            "hasScores": true,
+            "numericResults": [
+                100,
+                81
+            ],
+            "description": "Win",
+            "score": "100-81",
+            "winnerLoser": "100-81",
+            "descriptionShortWithOT": "W"
+        }
+    },
+    "eventDateFormattedAriaLabel": "November 12 07:00 PM:"
+}

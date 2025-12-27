@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Oct 11",
+    "boxScoreLink": "20251011_uagg.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Northwest College",
+                "result": "",
+                "teamId": "33oaej2up5tcstct",
+                "winner": false,
+                "cleanName": "northwest col"
+            },
+            {
+                "name": "College of Southern Nevada",
+                "result": "",
+                "teamId": "21mh6hyr8blhd5n2",
+                "winner": false,
+                "cleanName": "col s nevada"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1760194800000,
+        "localTimeZone": "America/Denver",
+        "tba": false,
+        "home": false,
+        "overall": false,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "Salt Lake Community College ",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "uaggtjcc7m2z44kg",
+        "fastdate": 1760194800000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "Salt Lake Community College ",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "scrimmage",
+            "description": "Scrimmage",
+            "statsCount": false
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "College of Southern Nevada",
+            "result": "",
+            "teamId": "21mh6hyr8blhd5n2",
+            "winner": false,
+            "cleanName": "col s nevada"
+        },
+        "us": {
+            "name": "Northwest College",
+            "result": "",
+            "teamId": "33oaej2up5tcstct",
+            "winner": false,
+            "cleanName": "northwest col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "October 11 11:00 AM:"
+}

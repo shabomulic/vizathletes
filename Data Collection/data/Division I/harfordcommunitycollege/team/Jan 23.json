@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Jan 23",
+    "boxScoreLink": "20260123_vwmr.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Howard Community College",
+                "result": "",
+                "teamId": "zhqwpfmqecysf01e",
+                "winner": false,
+                "cleanName": "howard community col"
+            },
+            {
+                "name": "Harford Community College",
+                "result": "",
+                "teamId": "u3ulfef0t32qpz3j",
+                "winner": false,
+                "cleanName": "harford community col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1769212800000,
+        "localTimeZone": "America/New_York",
+        "tba": false,
+        "home": true,
+        "overall": true,
+        "conference": true,
+        "division": false,
+        "regional": true,
+        "national": true,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "vwmrfm2omq8pv0i1",
+        "fastdate": 1769212800000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Howard Community College",
+            "result": "",
+            "teamId": "zhqwpfmqecysf01e",
+            "winner": false,
+            "cleanName": "howard community col"
+        },
+        "us": {
+            "name": "Harford Community College",
+            "result": "",
+            "teamId": "u3ulfef0t32qpz3j",
+            "winner": false,
+            "cleanName": "harford community col"
+        },
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "January 23 07:00 PM:"
+}

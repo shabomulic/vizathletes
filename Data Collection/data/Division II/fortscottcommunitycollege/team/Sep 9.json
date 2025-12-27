@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Sep 9",
+    "boxScoreLink": "20250909_by4m.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Region IV KC Area Open Practice Event",
+                "result": "",
+                "teamId": "wd9q9wflxlsy9i88",
+                "winner": false,
+                "cleanName": "region iv kc area open practice event"
+            },
+            {
+                "name": "Fort Scott Community College",
+                "result": "",
+                "teamId": "iyl0uvg9ndxu4pru",
+                "winner": false,
+                "cleanName": "fort scott community col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1757427300000,
+        "localTimeZone": "America/Chicago",
+        "tba": false,
+        "home": true,
+        "overall": false,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "by4m5rko5rjzedvp",
+        "fastdate": 1757427300000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "MOKAN Facility",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "scrimmage",
+            "description": "Scrimmage",
+            "statsCount": false
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Region IV KC Area Open Practice Event",
+            "result": "",
+            "teamId": "wd9q9wflxlsy9i88",
+            "winner": false,
+            "cleanName": "region iv kc area open practice event"
+        },
+        "us": {
+            "name": "Fort Scott Community College",
+            "result": "",
+            "teamId": "iyl0uvg9ndxu4pru",
+            "winner": false,
+            "cleanName": "fort scott community col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "September 9 10:15 AM:"
+}

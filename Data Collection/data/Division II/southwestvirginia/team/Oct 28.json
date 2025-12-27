@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Oct 28",
+    "boxScoreLink": "20251028_vk7u.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Experience Academy",
+                "result": "",
+                "teamId": "j9btmck1g535ynj4",
+                "winner": false,
+                "cleanName": "experience academy"
+            },
+            {
+                "name": "Southwest Virginia",
+                "result": "",
+                "teamId": "k9j00ba916d8t076",
+                "winner": false,
+                "cleanName": "southwest virginia"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1761688800000,
+        "localTimeZone": "America/New_York",
+        "tba": false,
+        "home": true,
+        "overall": false,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "vk7uummd2l1sejky",
+        "fastdate": 1761688800000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "scrimmage",
+            "description": "Scrimmage",
+            "statsCount": false
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Experience Academy",
+            "result": "",
+            "teamId": "j9btmck1g535ynj4",
+            "winner": false,
+            "cleanName": "experience academy"
+        },
+        "us": {
+            "name": "Southwest Virginia",
+            "result": "",
+            "teamId": "k9j00ba916d8t076",
+            "winner": false,
+            "cleanName": "southwest virginia"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "October 28 06:00 PM:"
+}

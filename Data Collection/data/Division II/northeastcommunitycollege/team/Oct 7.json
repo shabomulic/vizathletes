@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Oct 7",
+    "boxScoreLink": "20251007_70ti.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Dakota Wesleyan University",
+                "result": "",
+                "teamId": "c9aiz4qpaufhler2",
+                "winner": false,
+                "cleanName": "dakota wesleyan univ"
+            },
+            {
+                "name": "Northeast Community College",
+                "result": "",
+                "teamId": "3e4v215ujn4av65r",
+                "winner": false,
+                "cleanName": "northeast community col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "Norfolk, Neb.",
+        "date": 1759878000000,
+        "localTimeZone": "America/Chicago",
+        "tba": false,
+        "home": true,
+        "overall": false,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "70timeeifixfmwsx",
+        "fastdate": 1759878000000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "exhibition",
+            "description": "Exhibition",
+            "statsCount": false
+        },
+        "us": {
+            "name": "Northeast Community College",
+            "result": "",
+            "teamId": "3e4v215ujn4av65r",
+            "winner": false,
+            "cleanName": "northeast community col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Dakota Wesleyan University",
+            "result": "",
+            "teamId": "c9aiz4qpaufhler2",
+            "winner": false,
+            "cleanName": "dakota wesleyan univ"
+        },
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "October 7 07:00 PM:"
+}

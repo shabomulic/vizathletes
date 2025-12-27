@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Oct 17",
+    "boxScoreLink": "20251017_b3oi.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Western Nebraska Community College",
+                "result": "",
+                "teamId": "bgeeihf8wftutf81",
+                "winner": false,
+                "cleanName": "w nebraska community col"
+            },
+            {
+                "name": "Colorado Jamboree",
+                "result": "",
+                "teamId": "b3mqtumbeteuhkc0",
+                "winner": false,
+                "cleanName": "colorado jamboree"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "@ Ft. Collins, Colorado",
+        "date": 1760673600000,
+        "localTimeZone": "America/Denver",
+        "tba": true,
+        "home": false,
+        "overall": false,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "b3oijrzpy1ouvxbb",
+        "fastdate": 1760673600000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "scrimmage",
+            "description": "Scrimmage",
+            "statsCount": false
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Colorado Jamboree",
+            "result": "",
+            "teamId": "b3mqtumbeteuhkc0",
+            "winner": false,
+            "cleanName": "colorado jamboree"
+        },
+        "us": {
+            "name": "Western Nebraska Community College",
+            "result": "",
+            "teamId": "bgeeihf8wftutf81",
+            "winner": false,
+            "cleanName": "w nebraska community col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "October 17 12:00 AM:"
+}

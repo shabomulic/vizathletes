@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Jan 24",
+    "boxScoreLink": "20260124_tsai.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Highland Community College - Kansas",
+                "result": "",
+                "teamId": "8h9nr80vuqof14dj",
+                "winner": false,
+                "cleanName": "highland community col kansas"
+            },
+            {
+                "name": "Labette Community College",
+                "result": "",
+                "teamId": "dccwnomai8l3oqdr",
+                "winner": false,
+                "cleanName": "labette community col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1769284800000,
+        "localTimeZone": "America/Chicago",
+        "tba": false,
+        "home": true,
+        "overall": true,
+        "conference": true,
+        "division": false,
+        "regional": false,
+        "national": true,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "tsaibtx2zhiyrdc6",
+        "fastdate": 1769284800000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "Parsons",
+        "stateCountry": "KS",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Highland Community College - Kansas",
+            "result": "",
+            "teamId": "8h9nr80vuqof14dj",
+            "winner": false,
+            "cleanName": "highland community col kansas"
+        },
+        "us": {
+            "name": "Labette Community College",
+            "result": "",
+            "teamId": "dccwnomai8l3oqdr",
+            "winner": false,
+            "cleanName": "labette community col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "January 24 03:00 PM:"
+}

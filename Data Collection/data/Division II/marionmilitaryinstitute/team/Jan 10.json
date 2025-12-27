@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Jan 10",
+    "boxScoreLink": "20260110_a7qv.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Marion Military Institute",
+                "result": "",
+                "teamId": "vkeq3q6q1mgf1d2z",
+                "winner": false,
+                "cleanName": "marion military institute"
+            },
+            {
+                "name": "Wallace State Community College-Hanceville",
+                "result": "",
+                "teamId": "ur0vu3015ky0do6s",
+                "winner": false,
+                "cleanName": "wallace st community col hanceville"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1768071600000,
+        "localTimeZone": "America/Chicago",
+        "tba": false,
+        "home": false,
+        "overall": true,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": true,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "a7qvduia8rlppdoj",
+        "fastdate": 1768071600000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "801 Main St NE",
+        "city": "Hanceville",
+        "stateCountry": "AL",
+        "zipCode": "35077",
+        "venue": "Tom Drake Coliseum",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Wallace State Community College-Hanceville",
+            "result": "",
+            "teamId": "ur0vu3015ky0do6s",
+            "winner": false,
+            "cleanName": "wallace st community col hanceville"
+        },
+        "us": {
+            "name": "Marion Military Institute",
+            "result": "",
+            "teamId": "vkeq3q6q1mgf1d2z",
+            "winner": false,
+            "cleanName": "marion military institute"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "January 10 02:00 PM:"
+}

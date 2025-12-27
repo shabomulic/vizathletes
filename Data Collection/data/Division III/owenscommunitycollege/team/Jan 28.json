@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Jan 28",
+    "boxScoreLink": "20260128_rzqp.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Owens Community College",
+                "result": "",
+                "teamId": "6sawxtrqbrj552xt",
+                "winner": false,
+                "cleanName": "owens community col"
+            },
+            {
+                "name": "Lorain County Community College",
+                "result": "",
+                "teamId": "m6j4y6gqemlv1vju",
+                "winner": false,
+                "cleanName": "lorain county community col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "Ewing Activities Center Gymnasium",
+        "date": 1769646600000,
+        "localTimeZone": "America/New_York",
+        "tba": false,
+        "home": false,
+        "overall": true,
+        "conference": true,
+        "division": false,
+        "regional": true,
+        "national": true,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "rzqpmkh77awovq8x",
+        "fastdate": 1769646600000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "1005 N Abbe",
+        "city": "Elyria",
+        "stateCountry": "Ohio",
+        "zipCode": "44035",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "ap2Result": "",
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Lorain County Community College",
+            "result": "",
+            "teamId": "m6j4y6gqemlv1vju",
+            "winner": false,
+            "cleanName": "lorain county community col"
+        },
+        "us": {
+            "name": "Owens Community College",
+            "result": "",
+            "teamId": "6sawxtrqbrj552xt",
+            "winner": false,
+            "cleanName": "owens community col"
+        },
+        "apresult": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "January 28 07:30 PM:"
+}

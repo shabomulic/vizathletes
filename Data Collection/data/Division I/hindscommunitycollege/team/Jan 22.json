@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Jan 22",
+    "boxScoreLink": "20260122_c1gx.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Hinds Community College",
+                "result": "",
+                "teamId": "0be5p1t3neusd0x1",
+                "winner": false,
+                "cleanName": "hinds community col"
+            },
+            {
+                "name": "Mississippi Gulf Coast Community College",
+                "result": "",
+                "teamId": "jxkq4mk8bbhnvbfe",
+                "winner": false,
+                "cleanName": "mississippi gulf coast community col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1769128200000,
+        "localTimeZone": "America/Chicago",
+        "tba": false,
+        "home": false,
+        "overall": true,
+        "conference": true,
+        "division": false,
+        "regional": true,
+        "national": true,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "c1gxas9yaguj0kj7",
+        "fastdate": 1769128200000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Mississippi Gulf Coast Community College",
+            "result": "",
+            "teamId": "jxkq4mk8bbhnvbfe",
+            "winner": false,
+            "cleanName": "mississippi gulf coast community col"
+        },
+        "us": {
+            "name": "Hinds Community College",
+            "result": "",
+            "teamId": "0be5p1t3neusd0x1",
+            "winner": false,
+            "cleanName": "hinds community col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "January 22 07:30 PM:"
+}

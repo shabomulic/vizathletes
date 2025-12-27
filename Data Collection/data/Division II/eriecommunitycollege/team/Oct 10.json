@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Oct 10",
+    "boxScoreLink": "20251010_6m4f.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Erie Community College",
+                "result": "",
+                "teamId": "g5740upzvughrx7o",
+                "winner": false,
+                "cleanName": "erie community col"
+            },
+            {
+                "name": "Hilbert College",
+                "result": "",
+                "teamId": "igf5addcl2xuugfp",
+                "winner": false,
+                "cleanName": "hilbert col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1760068800000,
+        "localTimeZone": "America/New_York",
+        "tba": true,
+        "home": false,
+        "overall": false,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "6m4f34ouptmmzvl8",
+        "fastdate": 1760068800000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "scrimmage",
+            "description": "Scrimmage",
+            "statsCount": false
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Hilbert College",
+            "result": "",
+            "teamId": "igf5addcl2xuugfp",
+            "winner": false,
+            "cleanName": "hilbert col"
+        },
+        "us": {
+            "name": "Erie Community College",
+            "result": "",
+            "teamId": "g5740upzvughrx7o",
+            "winner": false,
+            "cleanName": "erie community col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "October 10 12:00 AM:"
+}

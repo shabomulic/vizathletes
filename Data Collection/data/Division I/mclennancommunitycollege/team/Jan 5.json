@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Jan 5",
+    "boxScoreLink": "20260105_ikfi.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Eastern Arizona College",
+                "result": "",
+                "teamId": "f0eqvc46m4chuvns",
+                "winner": false,
+                "cleanName": "e arizona col"
+            },
+            {
+                "name": "McLennan Community College",
+                "result": "",
+                "teamId": "qe8wmf9rwf0qx9mu",
+                "winner": false,
+                "cleanName": "mclennan community col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1767639600000,
+        "localTimeZone": "America/Regina",
+        "tba": false,
+        "home": true,
+        "overall": true,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": true,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "ikfibf1xddnp4lw0",
+        "fastdate": 1767639600000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "Thatcher",
+        "stateCountry": "AZ",
+        "zipCode": "85552",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Eastern Arizona College",
+            "result": "",
+            "teamId": "f0eqvc46m4chuvns",
+            "winner": false,
+            "cleanName": "e arizona col"
+        },
+        "us": {
+            "name": "McLennan Community College",
+            "result": "",
+            "teamId": "qe8wmf9rwf0qx9mu",
+            "winner": false,
+            "cleanName": "mclennan community col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "January 5 02:00 PM:"
+}

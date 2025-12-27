@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Feb 28",
+    "boxScoreLink": "20260228_ldtg.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Southern Crescent Technical College",
+                "result": "",
+                "teamId": "rl1w3b90qw3em41k",
+                "winner": false,
+                "cleanName": "s crescent technical col"
+            },
+            {
+                "name": "Central Georgia Technical College",
+                "result": "",
+                "teamId": "8nh9tuxxpmc53hmq",
+                "winner": false,
+                "cleanName": "central georgia technical col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "Macon, GA",
+        "date": 1772308800000,
+        "localTimeZone": "America/New_York",
+        "tba": false,
+        "home": true,
+        "overall": true,
+        "conference": true,
+        "division": false,
+        "regional": false,
+        "national": true,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "ldtg90dkel2dg48z",
+        "fastdate": 1772308800000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "ap2Result": "",
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Southern Crescent Technical College",
+            "result": "",
+            "teamId": "rl1w3b90qw3em41k",
+            "winner": false,
+            "cleanName": "s crescent technical col"
+        },
+        "us": {
+            "name": "Central Georgia Technical College",
+            "result": "",
+            "teamId": "8nh9tuxxpmc53hmq",
+            "winner": false,
+            "cleanName": "central georgia technical col"
+        },
+        "apresult": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "February 28 03:00 PM:"
+}

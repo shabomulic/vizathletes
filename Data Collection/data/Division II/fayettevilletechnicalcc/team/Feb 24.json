@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Feb 24",
+    "boxScoreLink": "20260224_3hb1.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Johnston Community College",
+                "result": "",
+                "teamId": "hr204rbtkwz95sbd",
+                "winner": false,
+                "cleanName": "johnston community col"
+            },
+            {
+                "name": "Fayetteville Technical CC",
+                "result": "",
+                "teamId": "npphpjv2wzdyzxlw",
+                "winner": false,
+                "cleanName": "fayetteville technical cc"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "Sophomore Night",
+        "date": 1771977600000,
+        "localTimeZone": "America/New_York",
+        "tba": false,
+        "home": true,
+        "overall": true,
+        "conference": true,
+        "division": false,
+        "regional": false,
+        "national": true,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "3hb1sozilrj48k4o",
+        "fastdate": 1771977600000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "2201 Hull Rd",
+        "city": "Fayetteville",
+        "stateCountry": "NC",
+        "zipCode": "28303",
+        "venue": "Reid Ross Classical School/ Fayetteville, NC",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Johnston Community College",
+            "result": "",
+            "teamId": "hr204rbtkwz95sbd",
+            "winner": false,
+            "cleanName": "johnston community col"
+        },
+        "us": {
+            "name": "Fayetteville Technical CC",
+            "result": "",
+            "teamId": "npphpjv2wzdyzxlw",
+            "winner": false,
+            "cleanName": "fayetteville technical cc"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "conferenceResult": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "February 24 07:00 PM:"
+}

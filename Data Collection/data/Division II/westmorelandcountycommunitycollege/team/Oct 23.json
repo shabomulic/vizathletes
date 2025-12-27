@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Oct 23",
+    "boxScoreLink": "20251023_ggkm.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Penn State Greater Allegheny",
+                "result": "",
+                "teamId": "viav90n0s8xlyees",
+                "winner": false,
+                "cleanName": "penn st greater allegheny"
+            },
+            {
+                "name": "Westmoreland County Community College",
+                "result": "",
+                "teamId": "0w5b95l39mb4zlb1",
+                "winner": false,
+                "cleanName": "westmoreland county community col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "Scrimmage",
+        "date": 1761256800000,
+        "localTimeZone": "America/New_York",
+        "tba": false,
+        "home": true,
+        "overall": false,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "ggkmr7ydhn1m95k0",
+        "fastdate": 1761256800000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "Scrimmage",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "scrimmage",
+            "description": "Scrimmage",
+            "statsCount": false
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Penn State Greater Allegheny",
+            "result": "",
+            "teamId": "viav90n0s8xlyees",
+            "winner": false,
+            "cleanName": "penn st greater allegheny"
+        },
+        "us": {
+            "name": "Westmoreland County Community College",
+            "result": "",
+            "teamId": "0w5b95l39mb4zlb1",
+            "winner": false,
+            "cleanName": "westmoreland county community col"
+        },
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "October 23 06:00 PM:"
+}

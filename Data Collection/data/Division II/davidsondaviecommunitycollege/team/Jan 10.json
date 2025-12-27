@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Jan 10",
+    "boxScoreLink": "20260110_xfnf.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Davidson-Davie Community College",
+                "result": "",
+                "teamId": "3kd7ku644slaa8vb",
+                "winner": false,
+                "cleanName": "davidson davie community col"
+            },
+            {
+                "name": "Patrick & Henry Community College",
+                "result": "",
+                "teamId": "oevoa83hte8cvzmc",
+                "winner": false,
+                "cleanName": "patrick henry community col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1768075200000,
+        "localTimeZone": "America/New_York",
+        "tba": false,
+        "home": false,
+        "overall": true,
+        "conference": false,
+        "division": false,
+        "regional": true,
+        "national": true,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "xfnfih6dnyf1be0l",
+        "fastdate": 1768075200000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "Martinsville",
+        "stateCountry": "VA",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Patrick & Henry Community College",
+            "result": "",
+            "teamId": "oevoa83hte8cvzmc",
+            "winner": false,
+            "cleanName": "patrick henry community col"
+        },
+        "us": {
+            "name": "Davidson-Davie Community College",
+            "result": "",
+            "teamId": "3kd7ku644slaa8vb",
+            "winner": false,
+            "cleanName": "davidson davie community col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "January 10 03:00 PM:"
+}

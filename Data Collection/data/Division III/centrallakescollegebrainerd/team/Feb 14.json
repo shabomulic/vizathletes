@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Feb 14",
+    "boxScoreLink": "20260214_v4yx.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Central Lakes College-Brainerd",
+                "result": "",
+                "teamId": "7aqcc0o7gcizunm5",
+                "winner": false,
+                "cleanName": "central lakes col brainerd"
+            },
+            {
+                "name": "Minnesota North College-Rainy River",
+                "result": "",
+                "teamId": "2ygwicvvcwc0mn06",
+                "winner": false,
+                "cleanName": "minn n col rainy river"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1771099200000,
+        "localTimeZone": "America/Chicago",
+        "tba": false,
+        "home": false,
+        "overall": true,
+        "conference": true,
+        "division": true,
+        "regional": true,
+        "national": true,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "v4yxk13s6eebcxge",
+        "fastdate": 1771099200000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Minnesota North College-Rainy River",
+            "result": "",
+            "teamId": "2ygwicvvcwc0mn06",
+            "winner": false,
+            "cleanName": "minn n col rainy river"
+        },
+        "us": {
+            "name": "Central Lakes College-Brainerd",
+            "result": "",
+            "teamId": "7aqcc0o7gcizunm5",
+            "winner": false,
+            "cleanName": "central lakes col brainerd"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "February 14 03:00 PM:"
+}

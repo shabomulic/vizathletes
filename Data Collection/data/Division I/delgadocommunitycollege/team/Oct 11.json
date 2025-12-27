@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Oct 11",
+    "boxScoreLink": "20251011_5hwm.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Dillard University",
+                "result": "",
+                "teamId": "3f5z7218nhkar98m",
+                "winner": false,
+                "cleanName": "dillard univ"
+            },
+            {
+                "name": "Delgado Community College",
+                "result": "",
+                "teamId": "nx2w2u2z5of0dvnf",
+                "winner": false,
+                "cleanName": "delgado community col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "Scrimmage",
+        "date": 1760198400000,
+        "localTimeZone": "America/Regina",
+        "tba": false,
+        "home": true,
+        "overall": false,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "5hwmoqc3qe7b5ktt",
+        "fastdate": 1760198400000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "New Orleans, LA",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Dillard University",
+            "result": "",
+            "teamId": "3f5z7218nhkar98m",
+            "winner": false,
+            "cleanName": "dillard univ"
+        },
+        "us": {
+            "name": "Delgado Community College",
+            "result": "",
+            "teamId": "nx2w2u2z5of0dvnf",
+            "winner": false,
+            "cleanName": "delgado community col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "October 11 12:00 PM:"
+}

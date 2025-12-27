@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Oct 11",
+    "boxScoreLink": "20251011_e0i6.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Hocking College",
+                "result": "",
+                "teamId": "ewzncgle2en9pk7y",
+                "winner": false,
+                "cleanName": "hocking col"
+            },
+            {
+                "name": "Owens Community College",
+                "result": "",
+                "teamId": "6sawxtrqbrj552xt",
+                "winner": false,
+                "cleanName": "owens community col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "Owens Jamboree",
+        "date": 1760155200000,
+        "localTimeZone": "America/New_York",
+        "tba": true,
+        "home": true,
+        "overall": false,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "e0i6g9vq2vr1eqoc",
+        "fastdate": 1760155200000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "scrimmage",
+            "description": "Scrimmage",
+            "statsCount": false
+        },
+        "ap2Result": "",
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Hocking College",
+            "result": "",
+            "teamId": "ewzncgle2en9pk7y",
+            "winner": false,
+            "cleanName": "hocking col"
+        },
+        "us": {
+            "name": "Owens Community College",
+            "result": "",
+            "teamId": "6sawxtrqbrj552xt",
+            "winner": false,
+            "cleanName": "owens community col"
+        },
+        "apresult": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "October 11 12:00 AM:"
+}

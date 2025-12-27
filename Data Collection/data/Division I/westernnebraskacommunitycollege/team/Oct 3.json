@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Oct 3",
+    "boxScoreLink": "20251003_j3kc.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Western Nebraska Community College",
+                "result": "",
+                "teamId": "bgeeihf8wftutf81",
+                "winner": false,
+                "cleanName": "w nebraska community col"
+            },
+            {
+                "name": "Wichita Jamboree",
+                "result": "",
+                "teamId": "7f7gg0vqlatnieda",
+                "winner": false,
+                "cleanName": "wichita jamboree"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "@ Wichita, Kansas",
+        "date": 1759464000000,
+        "localTimeZone": "America/Denver",
+        "tba": true,
+        "home": false,
+        "overall": false,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "j3kczblwf7ncb6zh",
+        "fastdate": 1759464000000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "scrimmage",
+            "description": "Scrimmage",
+            "statsCount": false
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Wichita Jamboree",
+            "result": "",
+            "teamId": "7f7gg0vqlatnieda",
+            "winner": false,
+            "cleanName": "wichita jamboree"
+        },
+        "us": {
+            "name": "Western Nebraska Community College",
+            "result": "",
+            "teamId": "bgeeihf8wftutf81",
+            "winner": false,
+            "cleanName": "w nebraska community col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "October 3 12:00 AM:"
+}

@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Feb 18",
+    "boxScoreLink": "20260218_o02p.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Kilgore College",
+                "result": "",
+                "teamId": "e1hfw3ohlljgbq6q",
+                "winner": false,
+                "cleanName": "kilgore col"
+            },
+            {
+                "name": "Navarro College",
+                "result": "",
+                "teamId": "5w4s85o766dapvin",
+                "winner": false,
+                "cleanName": "navarro col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "CORSICANA, TX",
+        "date": 1771461000000,
+        "localTimeZone": "America/Chicago",
+        "tba": false,
+        "home": true,
+        "overall": true,
+        "conference": true,
+        "division": false,
+        "regional": true,
+        "national": true,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "o02pbdq3r5zido4q",
+        "fastdate": 1771461000000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Kilgore College",
+            "result": "",
+            "teamId": "e1hfw3ohlljgbq6q",
+            "winner": false,
+            "cleanName": "kilgore col"
+        },
+        "us": {
+            "name": "Navarro College",
+            "result": "",
+            "teamId": "5w4s85o766dapvin",
+            "winner": false,
+            "cleanName": "navarro col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "February 18 07:30 PM:"
+}

@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Feb 24",
+    "boxScoreLink": "20260224_8ouj.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Oakland Community College",
+                "result": "",
+                "teamId": "86rmnkjfgqqx3va8",
+                "winner": false,
+                "cleanName": "oakland community col"
+            },
+            {
+                "name": "Wayne County Community College",
+                "result": "",
+                "teamId": "ybv1na7z6iwvqeon",
+                "winner": false,
+                "cleanName": "wayne county community col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1771979400000,
+        "localTimeZone": "America/New_York",
+        "tba": false,
+        "home": true,
+        "overall": true,
+        "conference": true,
+        "division": false,
+        "regional": true,
+        "national": true,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "8ouj5jnntvcnm3yi",
+        "fastdate": 1771979400000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "971 W Fort St.",
+        "city": "Detroit",
+        "stateCountry": "Michigan",
+        "zipCode": "48226",
+        "venue": "Curtis L. Ivery Wellness Center ",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Oakland Community College",
+            "result": "",
+            "teamId": "86rmnkjfgqqx3va8",
+            "winner": false,
+            "cleanName": "oakland community col"
+        },
+        "us": {
+            "name": "Wayne County Community College",
+            "result": "",
+            "teamId": "ybv1na7z6iwvqeon",
+            "winner": false,
+            "cleanName": "wayne county community col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "February 24 07:30 PM:"
+}

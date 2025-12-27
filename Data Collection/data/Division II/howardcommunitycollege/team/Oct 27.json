@@ -1,0 +1,119 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Oct 27",
+    "boxScoreLink": "20251027_uzej.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "St. Mary's College of Maryland",
+                "result": "0",
+                "teamId": "aylsnj8y9qxdezz7",
+                "winner": false,
+                "cleanName": "st mary s col maryland"
+            },
+            {
+                "name": "Howard Community College",
+                "result": "0",
+                "teamId": "zhqwpfmqecysf01e",
+                "winner": false,
+                "cleanName": "howard community col"
+            }
+        ],
+        "status": "Final",
+        "notes": "",
+        "notesShared": "",
+        "date": 1761598800000,
+        "localTimeZone": "America/New_York",
+        "tba": false,
+        "home": true,
+        "overall": false,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": 0,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "uzejntg5j9qbhr5m",
+        "fastdate": 1761598800000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "exhibition",
+            "description": "Exhibition",
+            "statsCount": false
+        },
+        "conferenceResult": "0-0",
+        "resultAsObject": {
+            "results": [
+                0,
+                0
+            ],
+            "resolved": true,
+            "hasScores": true,
+            "numericResults": [
+                0,
+                0
+            ],
+            "description": "Tie",
+            "score": "0-0",
+            "winnerLoser": "0-0",
+            "descriptionShortWithOT": "T"
+        },
+        "opponent": {
+            "name": "St. Mary's College of Maryland",
+            "result": "0",
+            "teamId": "aylsnj8y9qxdezz7",
+            "winner": false,
+            "cleanName": "st mary s col maryland"
+        },
+        "us": {
+            "name": "Howard Community College",
+            "result": "0",
+            "teamId": "zhqwpfmqecysf01e",
+            "winner": false,
+            "cleanName": "howard community col"
+        },
+        "apresult": "T, 0-0",
+        "ap2Result": "T, 0-0",
+        "result": {
+            "results": [
+                0,
+                0
+            ],
+            "resolved": true,
+            "hasScores": true,
+            "numericResults": [
+                0,
+                0
+            ],
+            "description": "Tie",
+            "score": "0-0",
+            "winnerLoser": "0-0",
+            "descriptionShortWithOT": "T"
+        }
+    },
+    "eventDateFormattedAriaLabel": "October 27 05:00 PM:"
+}

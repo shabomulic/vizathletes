@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Dec 10",
+    "boxScoreLink": "20251210_kwc1.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Jackson College",
+                "result": "",
+                "teamId": "e4vlvzn1782gvxak",
+                "winner": false,
+                "cleanName": "jackson col"
+            },
+            {
+                "name": "Northwood University JV",
+                "result": "",
+                "teamId": "4rx1st3rpi8ywk00",
+                "winner": false,
+                "cleanName": "northwood univ jv"
+            }
+        ],
+        "status": "Cancelled",
+        "notes": "",
+        "notesShared": "",
+        "date": 1765411200000,
+        "localTimeZone": "America/New_York",
+        "tba": false,
+        "home": false,
+        "overall": true,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": true,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "kwc14wuewywkpvf5",
+        "fastdate": 1765411200000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Northwood University JV",
+            "result": "",
+            "teamId": "4rx1st3rpi8ywk00",
+            "winner": false,
+            "cleanName": "northwood univ jv"
+        },
+        "us": {
+            "name": "Jackson College",
+            "result": "",
+            "teamId": "e4vlvzn1782gvxak",
+            "winner": false,
+            "cleanName": "jackson col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "December 10 07:00 PM:"
+}

@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Feb 18",
+    "boxScoreLink": "20260218_fqdv.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Jackson College",
+                "result": "",
+                "teamId": "e4vlvzn1782gvxak",
+                "winner": false,
+                "cleanName": "jackson col"
+            },
+            {
+                "name": "Mott Community College",
+                "result": "",
+                "teamId": "ou0fisqujnf6oda0",
+                "winner": false,
+                "cleanName": "mott community col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1771461000000,
+        "localTimeZone": "America/New_York",
+        "tba": false,
+        "home": false,
+        "overall": true,
+        "conference": true,
+        "division": false,
+        "regional": false,
+        "national": true,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "fqdvg2zlovi98h1g",
+        "fastdate": 1771461000000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": true,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Mott Community College",
+            "result": "",
+            "teamId": "ou0fisqujnf6oda0",
+            "winner": false,
+            "cleanName": "mott community col"
+        },
+        "us": {
+            "name": "Jackson College",
+            "result": "",
+            "teamId": "e4vlvzn1782gvxak",
+            "winner": false,
+            "cleanName": "jackson col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "February 18 07:30 PM:"
+}

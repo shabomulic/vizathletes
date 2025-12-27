@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Jan 7",
+    "boxScoreLink": "20260107_os2c.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Bay Area Sports Academy",
+                "result": "",
+                "teamId": "2uw64niu4l400idt",
+                "winner": false,
+                "cleanName": "bay area sports academy"
+            },
+            {
+                "name": "Pasco-Hernando State College",
+                "result": "",
+                "teamId": "df666ycmf91sxhs8",
+                "winner": false,
+                "cleanName": "pasco hernando st col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1767826800000,
+        "localTimeZone": "America/New_York",
+        "tba": false,
+        "home": true,
+        "overall": true,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "os2c3y2yojgav83z",
+        "fastdate": 1767826800000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Bay Area Sports Academy",
+            "result": "",
+            "teamId": "2uw64niu4l400idt",
+            "winner": false,
+            "cleanName": "bay area sports academy"
+        },
+        "us": {
+            "name": "Pasco-Hernando State College",
+            "result": "",
+            "teamId": "df666ycmf91sxhs8",
+            "winner": false,
+            "cleanName": "pasco hernando st col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "conferenceResult": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "January 7 06:00 PM:"
+}

@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Feb 19",
+    "boxScoreLink": "20260219_49sf.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Dawson Community College",
+                "result": "",
+                "teamId": "3pim3egp5wrsvj8e",
+                "winner": false,
+                "cleanName": "dawson community col"
+            },
+            {
+                "name": "United Tribes Technical College",
+                "result": "",
+                "teamId": "uk516g77jofrdfkp",
+                "winner": false,
+                "cleanName": "united tribes technical col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "Bismarck, ND",
+        "date": 1771547400000,
+        "localTimeZone": "America/Regina",
+        "tba": false,
+        "home": false,
+        "overall": true,
+        "conference": true,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "49sfbmmh1ylvdj1s",
+        "fastdate": 1771547400000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "Bismarck, ND",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "United Tribes Technical College",
+            "result": "",
+            "teamId": "uk516g77jofrdfkp",
+            "winner": false,
+            "cleanName": "united tribes technical col"
+        },
+        "us": {
+            "name": "Dawson Community College",
+            "result": "",
+            "teamId": "3pim3egp5wrsvj8e",
+            "winner": false,
+            "cleanName": "dawson community col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "conferenceResult": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "February 19 07:30 PM:"
+}

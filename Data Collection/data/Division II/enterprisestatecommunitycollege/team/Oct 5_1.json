@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Oct 5",
+    "boxScoreLink": "20251005_im43.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Enterprise State Community College",
+                "result": "",
+                "teamId": "clf86jhkvm4x7egx",
+                "winner": false,
+                "cleanName": "enterprise st community col"
+            },
+            {
+                "name": "Copiah-Lincoln Community College",
+                "result": "",
+                "teamId": "uh0mt5uwsthsu9ra",
+                "winner": false,
+                "cleanName": "copiah lincoln community col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "COREY BLACK JAMBOREE",
+        "date": 1759719600000,
+        "localTimeZone": "America/Montreal",
+        "tba": false,
+        "home": false,
+        "overall": false,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "Lakepoint,GA",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "im43is3gy6ndh9j1",
+        "fastdate": 1759719600000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "Lakepoint,GA",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "preSeason",
+            "description": "Pre-Season",
+            "statsCount": true
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Copiah-Lincoln Community College",
+            "result": "",
+            "teamId": "uh0mt5uwsthsu9ra",
+            "winner": false,
+            "cleanName": "copiah lincoln community col"
+        },
+        "us": {
+            "name": "Enterprise State Community College",
+            "result": "",
+            "teamId": "clf86jhkvm4x7egx",
+            "winner": false,
+            "cleanName": "enterprise st community col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "October 5 11:00 PM:"
+}

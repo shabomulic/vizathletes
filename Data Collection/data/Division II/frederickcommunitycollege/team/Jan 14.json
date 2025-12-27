@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Jan 14",
+    "boxScoreLink": "20260114_9z98.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Central Penn College",
+                "result": "",
+                "teamId": "1e0pt04px3n8txw0",
+                "winner": false,
+                "cleanName": "central penn col"
+            },
+            {
+                "name": "Frederick Community College",
+                "result": "",
+                "teamId": "gxnr9fkgf8kbnu0y",
+                "winner": false,
+                "cleanName": "frederick community col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1768435200000,
+        "localTimeZone": "America/New_York",
+        "tba": false,
+        "home": true,
+        "overall": true,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "9z98vlqlpd2xdksb",
+        "fastdate": 1768435200000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Central Penn College",
+            "result": "",
+            "teamId": "1e0pt04px3n8txw0",
+            "winner": false,
+            "cleanName": "central penn col"
+        },
+        "us": {
+            "name": "Frederick Community College",
+            "result": "",
+            "teamId": "gxnr9fkgf8kbnu0y",
+            "winner": false,
+            "cleanName": "frederick community col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "January 14 07:00 PM:"
+}

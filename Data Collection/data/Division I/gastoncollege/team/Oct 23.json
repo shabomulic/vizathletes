@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Oct 23",
+    "boxScoreLink": "20251023_dk7i.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Gaston College",
+                "result": "",
+                "teamId": "bav4kxva1lutes5f",
+                "winner": false,
+                "cleanName": "gaston col"
+            },
+            {
+                "name": "Mars Hill University",
+                "result": "",
+                "teamId": "65gohy2rt6vigkim",
+                "winner": false,
+                "cleanName": "mars hill univ"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "(Closed scrimmage)",
+        "date": 1761260400000,
+        "localTimeZone": "America/New_York",
+        "tba": false,
+        "home": false,
+        "overall": false,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "dk7imfqn7p6ww3h5",
+        "fastdate": 1761260400000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "scrimmage",
+            "description": "Scrimmage",
+            "statsCount": false
+        },
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Mars Hill University",
+            "result": "",
+            "teamId": "65gohy2rt6vigkim",
+            "winner": false,
+            "cleanName": "mars hill univ"
+        },
+        "us": {
+            "name": "Gaston College",
+            "result": "",
+            "teamId": "bav4kxva1lutes5f",
+            "winner": false,
+            "cleanName": "gaston col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "conferenceResult": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "October 23 07:00 PM:"
+}

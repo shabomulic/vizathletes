@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Feb 4",
+    "boxScoreLink": "20260204_qpuo.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Cochise College",
+                "result": "",
+                "teamId": "nsakhgyo3kdpnvju",
+                "winner": false,
+                "cleanName": "cochise col"
+            },
+            {
+                "name": "Eastern Arizona College",
+                "result": "",
+                "teamId": "f0eqvc46m4chuvns",
+                "winner": false,
+                "cleanName": "e arizona col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "Thatcher, AZ",
+        "date": 1770251400000,
+        "localTimeZone": "America/Phoenix",
+        "tba": false,
+        "home": true,
+        "overall": true,
+        "conference": true,
+        "division": true,
+        "regional": true,
+        "national": true,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "qpuojmj7s9jk7rx0",
+        "fastdate": 1770251400000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "615 N. Stadium Ave.",
+        "city": "Thatcher",
+        "stateCountry": "AZ",
+        "zipCode": "85552",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Cochise College",
+            "result": "",
+            "teamId": "nsakhgyo3kdpnvju",
+            "winner": false,
+            "cleanName": "cochise col"
+        },
+        "us": {
+            "name": "Eastern Arizona College",
+            "result": "",
+            "teamId": "f0eqvc46m4chuvns",
+            "winner": false,
+            "cleanName": "e arizona col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "February 4 07:30 PM:"
+}

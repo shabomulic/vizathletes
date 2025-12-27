@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Feb 24",
+    "boxScoreLink": "20260224_1p54.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Marshalltown CC",
+                "result": "",
+                "teamId": "179mnnc9zro3bcbz",
+                "winner": false,
+                "cleanName": "marshalltown cc"
+            },
+            {
+                "name": "Indian Hills Community College",
+                "result": "",
+                "teamId": "ovzmia8ifzqijipj",
+                "winner": false,
+                "cleanName": "indian hills community col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "Ottumwa, IA",
+        "date": 1771977600000,
+        "localTimeZone": "America/Chicago",
+        "tba": false,
+        "home": true,
+        "overall": true,
+        "conference": true,
+        "division": false,
+        "regional": false,
+        "national": true,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "1p540nqm24ezy0h0",
+        "fastdate": 1771977600000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": true,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Marshalltown CC",
+            "result": "",
+            "teamId": "179mnnc9zro3bcbz",
+            "winner": false,
+            "cleanName": "marshalltown cc"
+        },
+        "us": {
+            "name": "Indian Hills Community College",
+            "result": "",
+            "teamId": "ovzmia8ifzqijipj",
+            "winner": false,
+            "cleanName": "indian hills community col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "February 24 07:00 PM:"
+}

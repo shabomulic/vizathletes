@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Oct 11",
+    "boxScoreLink": "20251011_xrux.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "CCBC Catonsville",
+                "result": "",
+                "teamId": "mbhu3rvpbgorzyuu",
+                "winner": false,
+                "cleanName": "ccbc catonsville"
+            },
+            {
+                "name": "Massanutten Prep",
+                "result": "",
+                "teamId": "mgbh0wkuufzxj8dn",
+                "winner": false,
+                "cleanName": "massanutten prep"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1760203800000,
+        "localTimeZone": "America/New_York",
+        "tba": false,
+        "home": false,
+        "overall": false,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "Richmond Jamboree",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "xrux8cvuq67exv82",
+        "fastdate": 1760203800000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "Richmond Jamboree",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "scrimmage",
+            "description": "Scrimmage",
+            "statsCount": false
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Massanutten Prep",
+            "result": "",
+            "teamId": "mgbh0wkuufzxj8dn",
+            "winner": false,
+            "cleanName": "massanutten prep"
+        },
+        "us": {
+            "name": "CCBC Catonsville",
+            "result": "",
+            "teamId": "mbhu3rvpbgorzyuu",
+            "winner": false,
+            "cleanName": "ccbc catonsville"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "October 11 01:30 PM:"
+}

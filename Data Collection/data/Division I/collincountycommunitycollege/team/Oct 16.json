@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Oct 16",
+    "boxScoreLink": "20251016_zmec.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "oklahoma wesleyan",
+                "result": "",
+                "teamId": "0rz9v59npwg22rtm",
+                "winner": false,
+                "cleanName": "oklahoma wesleyan"
+            },
+            {
+                "name": "Collin County Community College",
+                "result": "",
+                "teamId": "rkb9l8wxq80safko",
+                "winner": false,
+                "cleanName": "collin county community col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1760587200000,
+        "localTimeZone": "America/Chicago",
+        "tba": true,
+        "home": true,
+        "overall": false,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "zmecq8mjstapml40",
+        "fastdate": 1760587200000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "scrimmage",
+            "description": "Scrimmage",
+            "statsCount": false
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "numericResults": [],
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "oklahoma wesleyan",
+            "result": "",
+            "teamId": "0rz9v59npwg22rtm",
+            "winner": false,
+            "cleanName": "oklahoma wesleyan"
+        },
+        "us": {
+            "name": "Collin County Community College",
+            "result": "",
+            "teamId": "rkb9l8wxq80safko",
+            "winner": false,
+            "cleanName": "collin county community col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "numericResults": [],
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "October 16 12:00 AM:"
+}

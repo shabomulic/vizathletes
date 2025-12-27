@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Jan 17",
+    "boxScoreLink": "20260117_7qqj.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "CC of Allegheny County",
+                "result": "",
+                "teamId": "1ojqykzmgiil2t8s",
+                "winner": false,
+                "cleanName": "cc allegheny county"
+            },
+            {
+                "name": "College of Southern Maryland",
+                "result": "",
+                "teamId": "zywlhklck1vv24kq",
+                "winner": false,
+                "cleanName": "col s maryland"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1768676400000,
+        "localTimeZone": "America/New_York",
+        "tba": false,
+        "home": true,
+        "overall": true,
+        "conference": false,
+        "division": false,
+        "regional": true,
+        "national": true,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "7qqj4g4r1qy8vewh",
+        "fastdate": 1768676400000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": true,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "ap2Result": "",
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "CC of Allegheny County",
+            "result": "",
+            "teamId": "1ojqykzmgiil2t8s",
+            "winner": false,
+            "cleanName": "cc allegheny county"
+        },
+        "us": {
+            "name": "College of Southern Maryland",
+            "result": "",
+            "teamId": "zywlhklck1vv24kq",
+            "winner": false,
+            "cleanName": "col s maryland"
+        },
+        "apresult": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "January 17 02:00 PM:"
+}

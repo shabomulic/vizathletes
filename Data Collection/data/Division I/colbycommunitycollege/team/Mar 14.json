@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Mar 14",
+    "boxScoreLink": "20260314_h4k3.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Colby Community College",
+                "result": "",
+                "teamId": "r3ikdzoodh1heb91",
+                "winner": false,
+                "cleanName": "colby community col"
+            },
+            {
+                "name": "Region VI Championship",
+                "result": "",
+                "teamId": "0f9azbdt0nje2kuh",
+                "winner": false,
+                "cleanName": "region vi championship"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1773460800000,
+        "localTimeZone": "America/Chicago",
+        "tba": true,
+        "home": false,
+        "overall": true,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": true,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "h4k3m3sajyqz3nlm",
+        "fastdate": 1773460800000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Region VI Championship",
+            "result": "",
+            "teamId": "0f9azbdt0nje2kuh",
+            "winner": false,
+            "cleanName": "region vi championship"
+        },
+        "us": {
+            "name": "Colby Community College",
+            "result": "",
+            "teamId": "r3ikdzoodh1heb91",
+            "winner": false,
+            "cleanName": "colby community col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "March 14 12:00 AM:"
+}

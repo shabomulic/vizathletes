@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Oct 9",
+    "boxScoreLink": "20251009_qfch.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Putnam Science Academy",
+                "result": "",
+                "teamId": "l80vu3n8b5456rc1",
+                "winner": false,
+                "cleanName": "putnam science academy"
+            },
+            {
+                "name": "Community College of Rhode Island",
+                "result": "",
+                "teamId": "81gbit2ekwb6c29e",
+                "winner": false,
+                "cleanName": "community col rhode island"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1760043600000,
+        "localTimeZone": "America/New_York",
+        "tba": false,
+        "home": true,
+        "overall": false,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "qfch92g46kkfcmwu",
+        "fastdate": 1760043600000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "scrimmage",
+            "description": "Scrimmage",
+            "statsCount": false
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Putnam Science Academy",
+            "result": "",
+            "teamId": "l80vu3n8b5456rc1",
+            "winner": false,
+            "cleanName": "putnam science academy"
+        },
+        "us": {
+            "name": "Community College of Rhode Island",
+            "result": "",
+            "teamId": "81gbit2ekwb6c29e",
+            "winner": false,
+            "cleanName": "community col rhode island"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "October 9 05:00 PM:"
+}

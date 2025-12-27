@@ -1,0 +1,119 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Dec 13",
+    "boxScoreLink": "20251213_yowy.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Western Iowa Tech",
+                "result": "22",
+                "teamId": "pdtwrwcoh5g34ap1",
+                "winner": false,
+                "cleanName": "w iowa tech"
+            },
+            {
+                "name": "Central Community College",
+                "result": "13",
+                "teamId": "v486423veuv6xhol",
+                "winner": false,
+                "cleanName": "central community col"
+            }
+        ],
+        "status": "1st - 10:23",
+        "notes": "",
+        "notesShared": "Game suspended due equipment issues. ",
+        "date": 1765656000000,
+        "localTimeZone": "America/Chicago",
+        "tba": false,
+        "home": true,
+        "overall": true,
+        "conference": true,
+        "division": false,
+        "regional": true,
+        "national": true,
+        "inProgress": true,
+        "statusCode": -1,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "yowypzyd05ma50b9",
+        "fastdate": 1765656000000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "Columbus",
+        "stateCountry": "NE",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "results": [
+                22,
+                13
+            ],
+            "resolved": false,
+            "hasScores": true,
+            "description": "",
+            "score": "13-22",
+            "numericResults": [
+                13,
+                22
+            ],
+            "winnerLoser": "13-22",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Western Iowa Tech",
+            "result": "22",
+            "teamId": "pdtwrwcoh5g34ap1",
+            "winner": false,
+            "cleanName": "w iowa tech"
+        },
+        "us": {
+            "name": "Central Community College",
+            "result": "13",
+            "teamId": "v486423veuv6xhol",
+            "winner": false,
+            "cleanName": "central community col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "results": [
+                22,
+                13
+            ],
+            "resolved": false,
+            "hasScores": true,
+            "description": "",
+            "score": "13-22",
+            "numericResults": [
+                13,
+                22
+            ],
+            "winnerLoser": "13-22",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "December 13 03:00 PM:"
+}

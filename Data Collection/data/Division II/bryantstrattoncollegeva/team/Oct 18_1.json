@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Oct 18",
+    "boxScoreLink": "20251018_m3v3.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Bryant & Stratton College (VA)",
+                "result": "",
+                "teamId": "7p3d5njh90jw3zdt",
+                "winner": false,
+                "cleanName": "bryant stratton col va"
+            },
+            {
+                "name": "Newport News Apprentice School",
+                "result": "",
+                "teamId": "k8686ngruib4m4ed",
+                "winner": false,
+                "cleanName": "newport news apprentice school"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1760821200000,
+        "localTimeZone": "America/New_York",
+        "tba": false,
+        "home": false,
+        "overall": false,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "m3v3t1llxpbl6dxw",
+        "fastdate": 1760821200000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "scrimmage",
+            "description": "Scrimmage",
+            "statsCount": false
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Newport News Apprentice School",
+            "result": "",
+            "teamId": "k8686ngruib4m4ed",
+            "winner": false,
+            "cleanName": "newport news apprentice school"
+        },
+        "us": {
+            "name": "Bryant & Stratton College (VA)",
+            "result": "",
+            "teamId": "7p3d5njh90jw3zdt",
+            "winner": false,
+            "cleanName": "bryant stratton col va"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "October 18 05:00 PM:"
+}

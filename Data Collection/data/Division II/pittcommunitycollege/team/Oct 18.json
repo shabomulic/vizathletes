@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Oct 18",
+    "boxScoreLink": "20251018_fv1i.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Seymour Johnson MBB",
+                "result": "",
+                "teamId": "t1hd1f12xh4s86si",
+                "winner": false,
+                "cleanName": "seymour johnson mbb"
+            },
+            {
+                "name": "Pitt Community College",
+                "result": "",
+                "teamId": "avv6sdoji7liwtnx",
+                "winner": false,
+                "cleanName": "pitt community col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "PCC JV Invitational",
+        "date": 1760760000000,
+        "localTimeZone": "America/New_York",
+        "tba": true,
+        "home": true,
+        "overall": false,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "fv1ieone1dnoddy8",
+        "fastdate": 1760760000000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": true,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Seymour Johnson MBB",
+            "result": "",
+            "teamId": "t1hd1f12xh4s86si",
+            "winner": false,
+            "cleanName": "seymour johnson mbb"
+        },
+        "us": {
+            "name": "Pitt Community College",
+            "result": "",
+            "teamId": "avv6sdoji7liwtnx",
+            "winner": false,
+            "cleanName": "pitt community col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "October 18 12:00 AM:"
+}

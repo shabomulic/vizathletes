@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Feb 15",
+    "boxScoreLink": "20260215_8nky.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Monroe University",
+                "result": "",
+                "teamId": "pg7evkto1by6c35m",
+                "winner": false,
+                "cleanName": "monroe univ"
+            },
+            {
+                "name": "Howard Community College",
+                "result": "",
+                "teamId": "zhqwpfmqecysf01e",
+                "winner": false,
+                "cleanName": "howard community col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1771131600000,
+        "localTimeZone": "America/New_York",
+        "tba": true,
+        "home": true,
+        "overall": true,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": true,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "8nkykwd7bb3zn2jp",
+        "fastdate": 1771131600000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": true,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Monroe University",
+            "result": "",
+            "teamId": "pg7evkto1by6c35m",
+            "winner": false,
+            "cleanName": "monroe univ"
+        },
+        "us": {
+            "name": "Howard Community College",
+            "result": "",
+            "teamId": "zhqwpfmqecysf01e",
+            "winner": false,
+            "cleanName": "howard community col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "February 15 12:00 AM:"
+}

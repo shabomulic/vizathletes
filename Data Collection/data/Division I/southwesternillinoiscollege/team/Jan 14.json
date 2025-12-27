@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Jan 14",
+    "boxScoreLink": "20260114_lfhj.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Rend Lake College",
+                "result": "",
+                "teamId": "blan21j27flx4c9r",
+                "winner": false,
+                "cleanName": "rend lake col"
+            },
+            {
+                "name": "Southwestern Illinois College",
+                "result": "",
+                "teamId": "t093fqpr0qktqr15",
+                "winner": false,
+                "cleanName": "southwestern illinois col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1768435200000,
+        "localTimeZone": "America/Chicago",
+        "tba": false,
+        "home": true,
+        "overall": true,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": true,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "lfhjxnja8ho6e766",
+        "fastdate": 1768435200000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "Belleville",
+        "stateCountry": "IL",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Rend Lake College",
+            "result": "",
+            "teamId": "blan21j27flx4c9r",
+            "winner": false,
+            "cleanName": "rend lake col"
+        },
+        "us": {
+            "name": "Southwestern Illinois College",
+            "result": "",
+            "teamId": "t093fqpr0qktqr15",
+            "winner": false,
+            "cleanName": "southwestern illinois col"
+        },
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "January 14 07:00 PM:"
+}

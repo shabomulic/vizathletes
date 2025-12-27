@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Oct 25",
+    "boxScoreLink": "20251025_m4yq.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Montgomery County Community College (PA)",
+                "result": "",
+                "teamId": "fu83s3hobtg0ghx6",
+                "winner": false,
+                "cleanName": "montgomery county community col pa"
+            },
+            {
+                "name": "CCBC Catonsvile Jamboree",
+                "result": "",
+                "teamId": "x5rgm4719w4a7cab",
+                "winner": false,
+                "cleanName": "ccbc catonsvile jamboree"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1761404400000,
+        "localTimeZone": "America/New_York",
+        "tba": false,
+        "home": false,
+        "overall": true,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "m4yqxd8pvzal3fe2",
+        "fastdate": 1761404400000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "scrimmage",
+            "description": "Scrimmage",
+            "statsCount": false
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "CCBC Catonsvile Jamboree",
+            "result": "",
+            "teamId": "x5rgm4719w4a7cab",
+            "winner": false,
+            "cleanName": "ccbc catonsvile jamboree"
+        },
+        "us": {
+            "name": "Montgomery County Community College (PA)",
+            "result": "",
+            "teamId": "fu83s3hobtg0ghx6",
+            "winner": false,
+            "cleanName": "montgomery county community col pa"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "October 25 11:00 AM:"
+}

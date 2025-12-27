@@ -1,0 +1,161 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Dec 4",
+    "boxScoreLink": "20251204_h2vr.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Southwest Virginia",
+                "result": "98",
+                "teamId": "k9j00ba916d8t076",
+                "winner": false,
+                "cleanName": "southwest virginia"
+            },
+            {
+                "name": "Milligan University JV",
+                "result": "69",
+                "teamId": "nc572tygo3fdxkm2",
+                "winner": false,
+                "cleanName": "milligan univ jv"
+            }
+        ],
+        "status": "Final",
+        "notes": "",
+        "notesShared": "",
+        "date": 1764889200000,
+        "localTimeZone": "America/New_York",
+        "tba": false,
+        "home": false,
+        "overall": true,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": 0,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "h2vru9i20ujdmol9",
+        "fastdate": 1764889200000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "conferenceResult": "98-69",
+        "resultAsObject": {
+            "results": [
+                98,
+                69
+            ],
+            "winner": {
+                "name": "Southwest Virginia",
+                "result": "98",
+                "teamId": "k9j00ba916d8t076",
+                "winner": false,
+                "cleanName": "southwest virginia"
+            },
+            "loser": {
+                "name": "Milligan University JV",
+                "result": "69",
+                "teamId": "nc572tygo3fdxkm2",
+                "winner": false,
+                "cleanName": "milligan univ jv"
+            },
+            "resolved": true,
+            "hasScores": true,
+            "description": "Win",
+            "score": "98-69",
+            "numericResults": [
+                98,
+                69
+            ],
+            "winnerLoser": "98-69",
+            "descriptionShortWithOT": "W"
+        },
+        "opponent": {
+            "name": "Milligan University JV",
+            "result": "69",
+            "teamId": "nc572tygo3fdxkm2",
+            "winner": false,
+            "cleanName": "milligan univ jv"
+        },
+        "us": {
+            "name": "Southwest Virginia",
+            "result": "98",
+            "teamId": "k9j00ba916d8t076",
+            "winner": false,
+            "cleanName": "southwest virginia"
+        },
+        "winner": {
+            "name": "Southwest Virginia",
+            "result": "98",
+            "teamId": "k9j00ba916d8t076",
+            "winner": false,
+            "cleanName": "southwest virginia"
+        },
+        "loser": {
+            "name": "Milligan University JV",
+            "result": "69",
+            "teamId": "nc572tygo3fdxkm2",
+            "winner": false,
+            "cleanName": "milligan univ jv"
+        },
+        "apresult": "W, 98-69",
+        "ap2Result": "W, 98-69",
+        "result": {
+            "results": [
+                98,
+                69
+            ],
+            "winner": {
+                "name": "Southwest Virginia",
+                "result": "98",
+                "teamId": "k9j00ba916d8t076",
+                "winner": false,
+                "cleanName": "southwest virginia"
+            },
+            "loser": {
+                "name": "Milligan University JV",
+                "result": "69",
+                "teamId": "nc572tygo3fdxkm2",
+                "winner": false,
+                "cleanName": "milligan univ jv"
+            },
+            "resolved": true,
+            "hasScores": true,
+            "description": "Win",
+            "score": "98-69",
+            "numericResults": [
+                98,
+                69
+            ],
+            "winnerLoser": "98-69",
+            "descriptionShortWithOT": "W"
+        }
+    },
+    "eventDateFormattedAriaLabel": "December 4 06:00 PM:"
+}

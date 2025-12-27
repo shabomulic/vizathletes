@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Jan 31",
+    "boxScoreLink": "20260131_uwa5.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Delaware County Community College",
+                "result": "",
+                "teamId": "q6go92a6nvmngt9e",
+                "winner": false,
+                "cleanName": "delaware county community col"
+            },
+            {
+                "name": "Williamson College of the Trades",
+                "result": "",
+                "teamId": "qyyzb34fo7cvxnxd",
+                "winner": false,
+                "cleanName": "williamson col trades"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1769886000000,
+        "localTimeZone": "America/New_York",
+        "tba": false,
+        "home": false,
+        "overall": true,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "uwa557mgsvkvos4y",
+        "fastdate": 1769886000000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "opponent": {
+            "name": "Williamson College of the Trades",
+            "result": "",
+            "teamId": "qyyzb34fo7cvxnxd",
+            "winner": false,
+            "cleanName": "williamson col trades"
+        },
+        "us": {
+            "name": "Delaware County Community College",
+            "result": "",
+            "teamId": "q6go92a6nvmngt9e",
+            "winner": false,
+            "cleanName": "delaware county community col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "January 31 02:00 PM:"
+}

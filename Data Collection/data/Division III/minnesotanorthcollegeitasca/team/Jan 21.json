@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Jan 21",
+    "boxScoreLink": "20260121_uh8e.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Minnesota North College-Itasca",
+                "result": "",
+                "teamId": "8d37zc2z2toqk8ha",
+                "winner": false,
+                "cleanName": "minn n col itasca"
+            },
+            {
+                "name": "Gogebic Community College",
+                "result": "",
+                "teamId": "7zh96cc7hy8tslar",
+                "winner": false,
+                "cleanName": "gogebic community col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1769040000000,
+        "localTimeZone": "America/Chicago",
+        "tba": false,
+        "home": false,
+        "overall": true,
+        "conference": true,
+        "division": false,
+        "regional": false,
+        "national": true,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "uh8ezmfb0a82ioe4",
+        "fastdate": 1769040000000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Gogebic Community College",
+            "result": "",
+            "teamId": "7zh96cc7hy8tslar",
+            "winner": false,
+            "cleanName": "gogebic community col"
+        },
+        "us": {
+            "name": "Minnesota North College-Itasca",
+            "result": "",
+            "teamId": "8d37zc2z2toqk8ha",
+            "winner": false,
+            "cleanName": "minn n col itasca"
+        },
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "January 21 07:00 PM:"
+}

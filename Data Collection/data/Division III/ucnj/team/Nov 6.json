@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Nov 6",
+    "boxScoreLink": "20251106_qthn.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "UCNJ",
+                "result": "",
+                "teamId": "ws7omr5o5bjxw34d",
+                "winner": false,
+                "cleanName": "ucnj"
+            },
+            {
+                "name": "Mercy University",
+                "result": "",
+                "teamId": "46j82kgsqg21ifp5",
+                "winner": false,
+                "cleanName": "mercy univ"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "Scrimmage ",
+        "date": 1762405200000,
+        "localTimeZone": "America/New_York",
+        "tba": true,
+        "home": false,
+        "overall": false,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "qthn72acrrlq8xai",
+        "fastdate": 1762405200000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "scrimmage",
+            "description": "Scrimmage",
+            "statsCount": false
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Mercy University",
+            "result": "",
+            "teamId": "46j82kgsqg21ifp5",
+            "winner": false,
+            "cleanName": "mercy univ"
+        },
+        "us": {
+            "name": "UCNJ",
+            "result": "",
+            "teamId": "ws7omr5o5bjxw34d",
+            "winner": false,
+            "cleanName": "ucnj"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "November 6 12:00 AM:"
+}

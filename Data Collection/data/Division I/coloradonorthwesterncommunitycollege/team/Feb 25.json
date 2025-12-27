@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Feb 25",
+    "boxScoreLink": "20260225_5wto.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Colorado Northwestern Community College",
+                "result": "",
+                "teamId": "2ycvhalf6bmuc206",
+                "winner": false,
+                "cleanName": "colorado northwestern community col"
+            },
+            {
+                "name": "Salt Lake Community College",
+                "result": "",
+                "teamId": "99m8ik3ui1gro4ms",
+                "winner": false,
+                "cleanName": "salt lake community col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1772064000000,
+        "localTimeZone": "America/Denver",
+        "tba": false,
+        "home": false,
+        "overall": true,
+        "conference": true,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "5wtoyqtp459j3zkw",
+        "fastdate": 1772064000000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Salt Lake Community College",
+            "result": "",
+            "teamId": "99m8ik3ui1gro4ms",
+            "winner": false,
+            "cleanName": "salt lake community col"
+        },
+        "us": {
+            "name": "Colorado Northwestern Community College",
+            "result": "",
+            "teamId": "2ycvhalf6bmuc206",
+            "winner": false,
+            "cleanName": "colorado northwestern community col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "February 25 07:00 PM:"
+}

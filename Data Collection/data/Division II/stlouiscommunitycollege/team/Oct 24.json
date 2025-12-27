@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Oct 24",
+    "boxScoreLink": "20251024_yszk.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Danville Area Community College",
+                "result": "",
+                "teamId": "bp27mfuj2u9zcxf2",
+                "winner": false,
+                "cleanName": "danville area community col"
+            },
+            {
+                "name": "St. Louis Community College",
+                "result": "",
+                "teamId": "bd2z1y18lxwvlugp",
+                "winner": false,
+                "cleanName": "st louis community col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "STLCC Forest Park",
+        "date": 1761341400000,
+        "localTimeZone": "America/Chicago",
+        "tba": false,
+        "home": true,
+        "overall": false,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "yszktgxlewrbrdpt",
+        "fastdate": 1761341400000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "St.Louis Community College scrimmage",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "scrimmage",
+            "description": "Scrimmage",
+            "statsCount": false
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Danville Area Community College",
+            "result": "",
+            "teamId": "bp27mfuj2u9zcxf2",
+            "winner": false,
+            "cleanName": "danville area community col"
+        },
+        "us": {
+            "name": "St. Louis Community College",
+            "result": "",
+            "teamId": "bd2z1y18lxwvlugp",
+            "winner": false,
+            "cleanName": "st louis community col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "October 24 05:30 PM:"
+}

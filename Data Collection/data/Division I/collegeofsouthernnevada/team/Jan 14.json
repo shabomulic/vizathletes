@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Jan 14",
+    "boxScoreLink": "20260114_70hx.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Yavapai College",
+                "result": "",
+                "teamId": "cxdgnzc9pzafabbu",
+                "winner": false,
+                "cleanName": "yavapai col"
+            },
+            {
+                "name": "College of Southern Nevada",
+                "result": "",
+                "teamId": "21mh6hyr8blhd5n2",
+                "winner": false,
+                "cleanName": "col s nevada"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1768437000000,
+        "localTimeZone": "America/Los_Angeles",
+        "tba": false,
+        "home": true,
+        "overall": true,
+        "conference": true,
+        "division": false,
+        "regional": true,
+        "national": true,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "70hx7gvus1u2j9z0",
+        "fastdate": 1768437000000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "North Las Vegas",
+        "stateCountry": "NV",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Yavapai College",
+            "result": "",
+            "teamId": "cxdgnzc9pzafabbu",
+            "winner": false,
+            "cleanName": "yavapai col"
+        },
+        "us": {
+            "name": "College of Southern Nevada",
+            "result": "",
+            "teamId": "21mh6hyr8blhd5n2",
+            "winner": false,
+            "cleanName": "col s nevada"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "January 14 07:30 PM:"
+}

@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Jan 21",
+    "boxScoreLink": "20260121_dvt6.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "DME Acadamy",
+                "result": "",
+                "teamId": "9c2k4q6xu483f8ad",
+                "winner": false,
+                "cleanName": "dme acadamy"
+            },
+            {
+                "name": "Florida State College at Jacksonville",
+                "result": "",
+                "teamId": "x5jb43ul4diaisfi",
+                "winner": false,
+                "cleanName": "florida st col at jacksonville"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "The Reef",
+        "date": 1769036400000,
+        "localTimeZone": "America/New_York",
+        "tba": false,
+        "home": true,
+        "overall": true,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": true,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "dvt6t6i3rhx1p4by",
+        "fastdate": 1769036400000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "11901 Beach Blvd",
+        "city": "Jacksonville",
+        "stateCountry": "FL",
+        "zipCode": "32246",
+        "venue": "The Reef",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "DME Acadamy",
+            "result": "",
+            "teamId": "9c2k4q6xu483f8ad",
+            "winner": false,
+            "cleanName": "dme acadamy"
+        },
+        "us": {
+            "name": "Florida State College at Jacksonville",
+            "result": "",
+            "teamId": "x5jb43ul4diaisfi",
+            "winner": false,
+            "cleanName": "florida st col at jacksonville"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "January 21 06:00 PM:"
+}

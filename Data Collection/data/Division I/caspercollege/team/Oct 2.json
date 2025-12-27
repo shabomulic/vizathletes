@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Oct 2",
+    "boxScoreLink": "20251002_bzer.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Casper College",
+                "result": "",
+                "teamId": "w8g2dca924qjmb6j",
+                "winner": false,
+                "cleanName": "casper col"
+            },
+            {
+                "name": "Casper College",
+                "result": "",
+                "teamId": "w8g2dca924qjmb6j",
+                "winner": false,
+                "cleanName": "casper col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "Black vs White Scrimmage",
+        "date": 1759437000000,
+        "localTimeZone": "America/Denver",
+        "tba": false,
+        "home": true,
+        "overall": false,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "bzerm6pw6krp63u0",
+        "fastdate": 1759437000000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "125 College Drive ",
+        "city": "Casper",
+        "stateCountry": "Wyoming ",
+        "zipCode": "82601",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "scrimmage",
+            "description": "Scrimmage",
+            "statsCount": false
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Casper College",
+            "result": "",
+            "teamId": "w8g2dca924qjmb6j",
+            "winner": false,
+            "cleanName": "casper col"
+        },
+        "us": {
+            "name": "Casper College",
+            "result": "",
+            "teamId": "w8g2dca924qjmb6j",
+            "winner": false,
+            "cleanName": "casper col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "October 2 04:30 PM:"
+}

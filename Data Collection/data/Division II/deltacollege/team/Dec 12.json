@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Dec 12",
+    "boxScoreLink": "20251212_sf8l.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Delta College",
+                "result": "",
+                "teamId": "2yxlcx1vv1teaytn",
+                "winner": false,
+                "cleanName": "delta col"
+            },
+            {
+                "name": "Wayne County Community College",
+                "result": "",
+                "teamId": "ybv1na7z6iwvqeon",
+                "winner": false,
+                "cleanName": "wayne county community col"
+            }
+        ],
+        "status": "Cancelled",
+        "notes": "",
+        "notesShared": "",
+        "date": 1765585800000,
+        "localTimeZone": "America/New_York",
+        "tba": false,
+        "home": false,
+        "overall": true,
+        "conference": false,
+        "division": false,
+        "regional": true,
+        "national": true,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": true,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "sf8lroqxgmecc37j",
+        "fastdate": 1765585800000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "1961 Delta Rd",
+        "city": "University Center",
+        "stateCountry": "MI",
+        "zipCode": "48710",
+        "venue": "",
+        "primetime": true,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "us": {
+            "name": "Delta College",
+            "result": "",
+            "teamId": "2yxlcx1vv1teaytn",
+            "winner": false,
+            "cleanName": "delta col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Wayne County Community College",
+            "result": "",
+            "teamId": "ybv1na7z6iwvqeon",
+            "winner": false,
+            "cleanName": "wayne county community col"
+        },
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "December 12 07:30 PM:"
+}

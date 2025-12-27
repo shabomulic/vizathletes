@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Jan 31",
+    "boxScoreLink": "20260131_y4re.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Harrisburg Area Community College",
+                "result": "",
+                "teamId": "ozuv0qhg9rca9o93",
+                "winner": false,
+                "cleanName": "harrisburg area community col"
+            },
+            {
+                "name": "Passaic County Community College",
+                "result": "",
+                "teamId": "5m7q66nubdu025ts",
+                "winner": false,
+                "cleanName": "passaic county community col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1769878800000,
+        "localTimeZone": "America/New_York",
+        "tba": false,
+        "home": true,
+        "overall": true,
+        "conference": true,
+        "division": false,
+        "regional": false,
+        "national": true,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "y4renua95ooz94eq",
+        "fastdate": 1769878800000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "ap2Result": "",
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Harrisburg Area Community College",
+            "result": "",
+            "teamId": "ozuv0qhg9rca9o93",
+            "winner": false,
+            "cleanName": "harrisburg area community col"
+        },
+        "us": {
+            "name": "Passaic County Community College",
+            "result": "",
+            "teamId": "5m7q66nubdu025ts",
+            "winner": false,
+            "cleanName": "passaic county community col"
+        },
+        "apresult": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "January 31 12:00 PM:"
+}

@@ -1,0 +1,119 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Oct 22",
+    "boxScoreLink": "20251022_0f1k.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Grace Christian University",
+                "result": "0",
+                "teamId": "53xtl8akem5wnyix",
+                "winner": false,
+                "cleanName": "grace christian univ"
+            },
+            {
+                "name": "Montcalm Community College",
+                "result": "0",
+                "teamId": "6r56qzx4vmr841ml",
+                "winner": false,
+                "cleanName": "montcalm community col"
+            }
+        ],
+        "status": "Final",
+        "notes": "",
+        "notesShared": "SCRIMMAGE",
+        "date": 1761174000000,
+        "localTimeZone": "America/New_York",
+        "tba": false,
+        "home": true,
+        "overall": false,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": 0,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "Belding High School",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "0f1kkykxa4q11anl",
+        "fastdate": 1761174000000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "Belding High School",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "scrimmage",
+            "description": "Scrimmage",
+            "statsCount": false
+        },
+        "conferenceResult": "0-0",
+        "resultAsObject": {
+            "results": [
+                0,
+                0
+            ],
+            "resolved": true,
+            "hasScores": true,
+            "description": "Tie",
+            "score": "0-0",
+            "numericResults": [
+                0,
+                0
+            ],
+            "winnerLoser": "0-0",
+            "descriptionShortWithOT": "T"
+        },
+        "opponent": {
+            "name": "Grace Christian University",
+            "result": "0",
+            "teamId": "53xtl8akem5wnyix",
+            "winner": false,
+            "cleanName": "grace christian univ"
+        },
+        "us": {
+            "name": "Montcalm Community College",
+            "result": "0",
+            "teamId": "6r56qzx4vmr841ml",
+            "winner": false,
+            "cleanName": "montcalm community col"
+        },
+        "apresult": "T, 0-0",
+        "ap2Result": "T, 0-0",
+        "result": {
+            "results": [
+                0,
+                0
+            ],
+            "resolved": true,
+            "hasScores": true,
+            "description": "Tie",
+            "score": "0-0",
+            "numericResults": [
+                0,
+                0
+            ],
+            "winnerLoser": "0-0",
+            "descriptionShortWithOT": "T"
+        }
+    },
+    "eventDateFormattedAriaLabel": "October 22 07:00 PM:"
+}

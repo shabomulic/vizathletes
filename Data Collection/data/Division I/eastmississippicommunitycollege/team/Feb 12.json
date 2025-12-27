@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Feb 12",
+    "boxScoreLink": "20260212_q71r.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Mississippi Delta Community College",
+                "result": "",
+                "teamId": "iy0umlslkmnboy9c",
+                "winner": false,
+                "cleanName": "mississippi delta community col"
+            },
+            {
+                "name": "East Mississippi Community College",
+                "result": "",
+                "teamId": "jo27rcg5zs9hriq0",
+                "winner": false,
+                "cleanName": "e mississippi community col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1770942600000,
+        "localTimeZone": "America/Chicago",
+        "tba": false,
+        "home": true,
+        "overall": true,
+        "conference": true,
+        "division": false,
+        "regional": true,
+        "national": true,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "q71r0hw0he44d1k0",
+        "fastdate": 1770942600000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Mississippi Delta Community College",
+            "result": "",
+            "teamId": "iy0umlslkmnboy9c",
+            "winner": false,
+            "cleanName": "mississippi delta community col"
+        },
+        "us": {
+            "name": "East Mississippi Community College",
+            "result": "",
+            "teamId": "jo27rcg5zs9hriq0",
+            "winner": false,
+            "cleanName": "e mississippi community col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "February 12 07:30 PM:"
+}

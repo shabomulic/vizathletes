@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Oct 21",
+    "boxScoreLink": "20251021_aksg.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Northampton Community College",
+                "result": "",
+                "teamId": "nif0h61bqhswqozb",
+                "winner": false,
+                "cleanName": "northampton community col"
+            },
+            {
+                "name": "Cairn University",
+                "result": "",
+                "teamId": "d730ti2zhpjscsp3",
+                "winner": false,
+                "cleanName": "cairn univ"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1761091200000,
+        "localTimeZone": "America/New_York",
+        "tba": false,
+        "home": false,
+        "overall": false,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "aksgp6oh32bl3l9a",
+        "fastdate": 1761091200000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "scrimmage",
+            "description": "Scrimmage",
+            "statsCount": false
+        },
+        "opponent": {
+            "name": "Cairn University",
+            "result": "",
+            "teamId": "d730ti2zhpjscsp3",
+            "winner": false,
+            "cleanName": "cairn univ"
+        },
+        "us": {
+            "name": "Northampton Community College",
+            "result": "",
+            "teamId": "nif0h61bqhswqozb",
+            "winner": false,
+            "cleanName": "northampton community col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "October 21 08:00 PM:"
+}

@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Oct 27",
+    "boxScoreLink": "20251027_dxpx.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Middle Georgia Prep",
+                "result": "",
+                "teamId": "u2hkypkr4svd67jr",
+                "winner": false,
+                "cleanName": "middle georgia prep"
+            },
+            {
+                "name": "Oxford College of Emory University",
+                "result": "",
+                "teamId": "tsjau2er592nza5k",
+                "winner": false,
+                "cleanName": "oxford col emory univ"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1761606000000,
+        "localTimeZone": "America/New_York",
+        "tba": false,
+        "home": true,
+        "overall": false,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "dxpxynbudbvrjumh",
+        "fastdate": 1761606000000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "scrimmage",
+            "description": "Scrimmage",
+            "statsCount": false
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Middle Georgia Prep",
+            "result": "",
+            "teamId": "u2hkypkr4svd67jr",
+            "winner": false,
+            "cleanName": "middle georgia prep"
+        },
+        "us": {
+            "name": "Oxford College of Emory University",
+            "result": "",
+            "teamId": "tsjau2er592nza5k",
+            "winner": false,
+            "cleanName": "oxford col emory univ"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "October 27 07:00 PM:"
+}
