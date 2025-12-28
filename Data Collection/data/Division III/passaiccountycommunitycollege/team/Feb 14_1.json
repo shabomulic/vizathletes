@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Feb 14",
+    "boxScoreLink": "20260214_bph6.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Community College of Philadelphia",
+                "result": "",
+                "teamId": "5bcje1vlgqx2q7rz",
+                "winner": false,
+                "cleanName": "community col philadelphia"
+            },
+            {
+                "name": "Passaic County Community College",
+                "result": "",
+                "teamId": "5m7q66nubdu025ts",
+                "winner": false,
+                "cleanName": "passaic county community col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1771095600000,
+        "localTimeZone": "America/New_York",
+        "tba": false,
+        "home": true,
+        "overall": true,
+        "conference": true,
+        "division": true,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "bph68dte6apuuhts",
+        "fastdate": 1771095600000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "ap2Result": "",
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Community College of Philadelphia",
+            "result": "",
+            "teamId": "5bcje1vlgqx2q7rz",
+            "winner": false,
+            "cleanName": "community col philadelphia"
+        },
+        "us": {
+            "name": "Passaic County Community College",
+            "result": "",
+            "teamId": "5m7q66nubdu025ts",
+            "winner": false,
+            "cleanName": "passaic county community col"
+        },
+        "apresult": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "February 14 02:00 PM:"
+}

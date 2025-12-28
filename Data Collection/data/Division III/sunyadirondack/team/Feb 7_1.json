@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Feb 7",
+    "boxScoreLink": "20260207_s6f0.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Clinton Community College-NY",
+                "result": "",
+                "teamId": "c9fd9slw2398gyeo",
+                "winner": false,
+                "cleanName": "clinton community col ny"
+            },
+            {
+                "name": "SUNY Adirondack",
+                "result": "",
+                "teamId": "lm3s50slk15tir9w",
+                "winner": false,
+                "cleanName": "suny adirondack"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1770487200000,
+        "localTimeZone": "America/New_York",
+        "tba": false,
+        "home": true,
+        "overall": true,
+        "conference": true,
+        "division": false,
+        "regional": true,
+        "national": true,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "s6f0cpf6igoas00s",
+        "fastdate": 1770487200000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Clinton Community College-NY",
+            "result": "",
+            "teamId": "c9fd9slw2398gyeo",
+            "winner": false,
+            "cleanName": "clinton community col ny"
+        },
+        "us": {
+            "name": "SUNY Adirondack",
+            "result": "",
+            "teamId": "lm3s50slk15tir9w",
+            "winner": false,
+            "cleanName": "suny adirondack"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "February 7 01:00 PM:"
+}

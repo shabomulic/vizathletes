@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Oct 18",
+    "boxScoreLink": "20251018_vgs2.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Dallas College Eastfield",
+                "result": "",
+                "teamId": "nfft4m3t7ubbrdvx",
+                "winner": false,
+                "cleanName": "dallas col eastfield"
+            },
+            {
+                "name": "Western Texas College",
+                "result": "",
+                "teamId": "mr9w6vptam5l49ii",
+                "winner": false,
+                "cleanName": "w texas col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "GASO Jamboree ",
+        "date": 1760818500000,
+        "localTimeZone": "America/Chicago",
+        "tba": false,
+        "home": false,
+        "overall": false,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "vgs2tc9h7o642xtl",
+        "fastdate": 1760818500000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "Duncanville, Texas",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "scrimmage",
+            "description": "Scrimmage",
+            "statsCount": false
+        },
+        "ap2Result": "",
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Western Texas College",
+            "result": "",
+            "teamId": "mr9w6vptam5l49ii",
+            "winner": false,
+            "cleanName": "w texas col"
+        },
+        "us": {
+            "name": "Dallas College Eastfield",
+            "result": "",
+            "teamId": "nfft4m3t7ubbrdvx",
+            "winner": false,
+            "cleanName": "dallas col eastfield"
+        },
+        "apresult": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "October 18 04:15 PM:"
+}

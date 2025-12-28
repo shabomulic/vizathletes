@@ -173,21 +173,26 @@ def scrape_stats(target_division=None):
                              team_data_list = data['events']
                         else:
                              team_data_list = [v for v in data.values() if isinstance(v, dict)]
+                        
+                        # New: Check attributes for teamId
+                        if not my_team_id and 'attributes' in data and 'teamId' in data['attributes']:
+                            my_team_id = data['attributes']['teamId']
                     else:
                         team_data_list = data
                         
-                    # Find Team ID
-                    for game in team_data_list:
-                        if not isinstance(game, dict): continue
-                        if 'event' in game and 'teams' in game['event']:
-                            for t in game['event']['teams']:
-                                if t.get('name') == name:
-                                    my_team_id = t.get('teamId')
-                                    break
-                                if t.get('name', '').lower().replace(' ','') == name.lower().replace(' ',''):
-                                    my_team_id = t.get('teamId')
-                                    break
-                        if my_team_id: break
+                    # Find Team ID from events if not found yet
+                    if not my_team_id:
+                        for game in team_data_list:
+                            if not isinstance(game, dict): continue
+                            if 'event' in game and 'teams' in game['event']:
+                                for t in game['event']['teams']:
+                                    if t.get('name') == name:
+                                        my_team_id = t.get('teamId')
+                                        break
+                                    if t.get('name', '').lower().replace(' ','') == name.lower().replace(' ',''):
+                                        my_team_id = t.get('teamId')
+                                        break
+                            if my_team_id: break
                         
                     if my_team_id:
                         print(f"  Team ID: {my_team_id}")
@@ -234,13 +239,35 @@ def scrape_stats(target_division=None):
                     else:
                         p_list = p_data
                         
+                    # Load roster for filtering
+                    roster_names = set()
+                    roster_path = os.path.join(team_dir, 'roster.json')
+                    if os.path.exists(roster_path):
+                        try:
+                            with open(roster_path, 'r', encoding='utf-8') as rf:
+                                r_data = json.load(rf)
+                                for rp in r_data:
+                                    nm = rp.get('name', '').strip()
+                                    if nm: roster_names.add(nm.lower())
+                            print(f"  Loaded {len(roster_names)} players from roster.json")
+                        except Exception as roster_err:
+                            print(f"  Error loading roster: {roster_err}")
+                        
                     players_root = os.path.join(team_dir, "players")
                     os.makedirs(players_root, exist_ok=True)
                     
                     count = 0
                     for p in p_list:
                         if not isinstance(p, dict): continue
-                        if my_team_id and p.get('teamId') != my_team_id:
+                        
+                        p_team_id = p.get('teamId')
+                        p_full_name = p.get('fullName', '').strip().lower()
+                        
+                        match_by_id = (my_team_id and p_team_id == my_team_id)
+                        match_by_roster = (p_full_name in roster_names)
+                        
+                        # Only proceed if we match by ID OR by roster name
+                        if not (match_by_id or match_by_roster):
                             continue
                             
                         full_name = p.get('fullName')
@@ -307,9 +334,7 @@ def scrape_stats(target_division=None):
                             if scraped_name.lower() == fp_name.lower():
                                 matched_player = fp
                                 break
-                            if scraped_name.lower() in fp_name.lower() or fp_name.lower() in scraped_name.lower():
-                                matched_player = fp
-                                break
+                            # Removed loose matching (in) to avoid misattribution
                         
                         if matched_player:
                             safe_date = sanitize_filename(date_fmt)

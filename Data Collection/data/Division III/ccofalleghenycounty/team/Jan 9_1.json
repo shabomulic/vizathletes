@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Jan 9",
+    "boxScoreLink": "20260109_8jwq.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "CC of Allegheny County",
+                "result": "",
+                "teamId": "1ojqykzmgiil2t8s",
+                "winner": false,
+                "cleanName": "cc allegheny county"
+            },
+            {
+                "name": "Pennsylvania Highlands Community College",
+                "result": "",
+                "teamId": "rrp2nkzjmx8eum62",
+                "winner": false,
+                "cleanName": "pennsylvania highlands community col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1768003200000,
+        "localTimeZone": "America/New_York",
+        "tba": false,
+        "home": false,
+        "overall": true,
+        "conference": true,
+        "division": true,
+        "regional": true,
+        "national": true,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "8jwq3lr6bdqixoqx",
+        "fastdate": 1768003200000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Pennsylvania Highlands Community College",
+            "result": "",
+            "teamId": "rrp2nkzjmx8eum62",
+            "winner": false,
+            "cleanName": "pennsylvania highlands community col"
+        },
+        "us": {
+            "name": "CC of Allegheny County",
+            "result": "",
+            "teamId": "1ojqykzmgiil2t8s",
+            "winner": false,
+            "cleanName": "cc allegheny county"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "January 9 07:00 PM:"
+}

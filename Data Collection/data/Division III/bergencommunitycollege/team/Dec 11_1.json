@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Dec 11",
+    "boxScoreLink": "20251211_xdun.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Bergen Community College",
+                "result": "",
+                "teamId": "i3t37vz94okcfbea",
+                "winner": false,
+                "cleanName": "bergen community col"
+            },
+            {
+                "name": "Dutchess Community College",
+                "result": "",
+                "teamId": "fra7bwunet0xauvf",
+                "winner": false,
+                "cleanName": "dutchess community col"
+            }
+        ],
+        "status": "Cancelled",
+        "notes": "",
+        "notesShared": "",
+        "date": 1765497600000,
+        "localTimeZone": "America/New_York",
+        "tba": false,
+        "home": false,
+        "overall": true,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": true,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": true,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "xdun3e0r5rzwg5wi",
+        "fastdate": 1765497600000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Dutchess Community College",
+            "result": "",
+            "teamId": "fra7bwunet0xauvf",
+            "winner": false,
+            "cleanName": "dutchess community col"
+        },
+        "us": {
+            "name": "Bergen Community College",
+            "result": "",
+            "teamId": "i3t37vz94okcfbea",
+            "winner": false,
+            "cleanName": "bergen community col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "December 11 07:00 PM:"
+}

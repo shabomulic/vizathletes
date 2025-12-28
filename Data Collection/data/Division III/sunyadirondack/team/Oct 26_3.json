@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Oct 26",
+    "boxScoreLink": "20251026_fba5.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Fulton-Montgomery Community College",
+                "result": "",
+                "teamId": "d0f0kqbnvg80n5o5",
+                "winner": false,
+                "cleanName": "fulton montgomery community col"
+            },
+            {
+                "name": "SUNY Adirondack",
+                "result": "",
+                "teamId": "lm3s50slk15tir9w",
+                "winner": false,
+                "cleanName": "suny adirondack"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "ADK Jam Scrimmage",
+        "date": 1761487200000,
+        "localTimeZone": "America/New_York",
+        "tba": false,
+        "home": true,
+        "overall": false,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "fba5rapm7mxds6t0",
+        "fastdate": 1761487200000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": true,
+        "eventType": {
+            "code": "scrimmage",
+            "description": "Scrimmage",
+            "statsCount": false
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Fulton-Montgomery Community College",
+            "result": "",
+            "teamId": "d0f0kqbnvg80n5o5",
+            "winner": false,
+            "cleanName": "fulton montgomery community col"
+        },
+        "us": {
+            "name": "SUNY Adirondack",
+            "result": "",
+            "teamId": "lm3s50slk15tir9w",
+            "winner": false,
+            "cleanName": "suny adirondack"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "October 26 10:00 AM:"
+}

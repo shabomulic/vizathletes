@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Oct 10",
+    "boxScoreLink": "20251010_kygz.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Riverland Community College",
+                "result": "",
+                "teamId": "73qit45qksijxjez",
+                "winner": false,
+                "cleanName": "riverland community col"
+            },
+            {
+                "name": "Waldorf University",
+                "result": "",
+                "teamId": "u1wvfly0hmy2876v",
+                "winner": false,
+                "cleanName": "waldorf univ"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1760137200000,
+        "localTimeZone": "America/Chicago",
+        "tba": false,
+        "home": false,
+        "overall": false,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "kygzl5n5cad7qedh",
+        "fastdate": 1760137200000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": true,
+        "eventType": {
+            "code": "exhibition",
+            "description": "Exhibition",
+            "statsCount": false
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Waldorf University",
+            "result": "",
+            "teamId": "u1wvfly0hmy2876v",
+            "winner": false,
+            "cleanName": "waldorf univ"
+        },
+        "us": {
+            "name": "Riverland Community College",
+            "result": "",
+            "teamId": "73qit45qksijxjez",
+            "winner": false,
+            "cleanName": "riverland community col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "October 10 07:00 PM:"
+}

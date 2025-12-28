@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Jan 5",
+    "boxScoreLink": "20260105_a6ee.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Community Christian College",
+                "result": "",
+                "teamId": "7cbrwqdlxehqjg7l",
+                "winner": false,
+                "cleanName": "community christian col"
+            },
+            {
+                "name": "Dallas College Eastfield",
+                "result": "",
+                "teamId": "nfft4m3t7ubbrdvx",
+                "winner": false,
+                "cleanName": "dallas col eastfield"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1767654000000,
+        "localTimeZone": "America/Winnipeg",
+        "tba": false,
+        "home": true,
+        "overall": true,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "a6eebrgz57cio3fb",
+        "fastdate": 1767654000000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "3737 Motley Dr.",
+        "city": "Mesquite",
+        "stateCountry": "texas",
+        "zipCode": "75150",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "ap2Result": "",
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Community Christian College",
+            "result": "",
+            "teamId": "7cbrwqdlxehqjg7l",
+            "winner": false,
+            "cleanName": "community christian col"
+        },
+        "us": {
+            "name": "Dallas College Eastfield",
+            "result": "",
+            "teamId": "nfft4m3t7ubbrdvx",
+            "winner": false,
+            "cleanName": "dallas col eastfield"
+        },
+        "apresult": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "January 5 06:00 PM:"
+}

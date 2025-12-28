@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Feb 7",
+    "boxScoreLink": "20260207_lnga.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Washington County Community College",
+                "result": "",
+                "teamId": "t666x7j6e7hqf60l",
+                "winner": false,
+                "cleanName": "washington county community col"
+            },
+            {
+                "name": "Fulton-Montgomery Community College",
+                "result": "",
+                "teamId": "d0f0kqbnvg80n5o5",
+                "winner": false,
+                "cleanName": "fulton montgomery community col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1770490800000,
+        "localTimeZone": "America/New_York",
+        "tba": false,
+        "home": true,
+        "overall": true,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "lnga3hwl03mrw2ad",
+        "fastdate": 1770490800000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Washington County Community College",
+            "result": "",
+            "teamId": "t666x7j6e7hqf60l",
+            "winner": false,
+            "cleanName": "washington county community col"
+        },
+        "us": {
+            "name": "Fulton-Montgomery Community College",
+            "result": "",
+            "teamId": "d0f0kqbnvg80n5o5",
+            "winner": false,
+            "cleanName": "fulton montgomery community col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "February 7 02:00 PM:"
+}

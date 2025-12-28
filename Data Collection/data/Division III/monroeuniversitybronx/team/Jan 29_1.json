@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Jan 29",
+    "boxScoreLink": "20260129_hp3u.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "LaGuardia Community College",
+                "result": "",
+                "teamId": "1vi9pne0oljt02sk",
+                "winner": false,
+                "cleanName": "laguardia community col"
+            },
+            {
+                "name": "Monroe University - Bronx",
+                "result": "",
+                "teamId": "nsnti2mp198u9hry",
+                "winner": false,
+                "cleanName": "monroe univ bronx"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1769734800000,
+        "localTimeZone": "America/New_York",
+        "tba": false,
+        "home": true,
+        "overall": true,
+        "conference": true,
+        "division": false,
+        "regional": true,
+        "national": true,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "hp3uzx48ahm3hust",
+        "fastdate": 1769734800000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "LaGuardia Community College",
+            "result": "",
+            "teamId": "1vi9pne0oljt02sk",
+            "winner": false,
+            "cleanName": "laguardia community col"
+        },
+        "us": {
+            "name": "Monroe University - Bronx",
+            "result": "",
+            "teamId": "nsnti2mp198u9hry",
+            "winner": false,
+            "cleanName": "monroe univ bronx"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "January 29 08:00 PM:"
+}

@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Jan 29",
+    "boxScoreLink": "20260129_m8zq.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Community College of Philadelphia",
+                "result": "",
+                "teamId": "5bcje1vlgqx2q7rz",
+                "winner": false,
+                "cleanName": "community col philadelphia"
+            },
+            {
+                "name": "Luzerne County Community College",
+                "result": "",
+                "teamId": "rgvrxgnixu46wni1",
+                "winner": false,
+                "cleanName": "luzerne county community col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1769727600000,
+        "localTimeZone": "America/New_York",
+        "tba": false,
+        "home": true,
+        "overall": true,
+        "conference": false,
+        "division": true,
+        "regional": false,
+        "national": true,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "m8zqft0o1z9qxr38",
+        "fastdate": 1769727600000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "521 Trailblazer Drive",
+        "city": "Nanticoke",
+        "stateCountry": "PA",
+        "zipCode": "18634",
+        "venue": "James T. Atherton Gymnasium",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Community College of Philadelphia",
+            "result": "",
+            "teamId": "5bcje1vlgqx2q7rz",
+            "winner": false,
+            "cleanName": "community col philadelphia"
+        },
+        "us": {
+            "name": "Luzerne County Community College",
+            "result": "",
+            "teamId": "rgvrxgnixu46wni1",
+            "winner": false,
+            "cleanName": "luzerne county community col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "January 29 06:00 PM:"
+}

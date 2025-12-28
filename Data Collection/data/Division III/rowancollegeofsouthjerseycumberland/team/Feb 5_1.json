@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Feb 5",
+    "boxScoreLink": "20260205_d0ad.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Delaware County Community College",
+                "result": "",
+                "teamId": "q6go92a6nvmngt9e",
+                "winner": false,
+                "cleanName": "delaware county community col"
+            },
+            {
+                "name": "Rowan College of South Jersey-Cumberland",
+                "result": "",
+                "teamId": "6a3mpfgzde7oiihd",
+                "winner": false,
+                "cleanName": "rowan col s jersey cumberland"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1770336000000,
+        "localTimeZone": "America/New_York",
+        "tba": false,
+        "home": true,
+        "overall": true,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": true,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "d0ad4fib9ysteuyv",
+        "fastdate": 1770336000000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Delaware County Community College",
+            "result": "",
+            "teamId": "q6go92a6nvmngt9e",
+            "winner": false,
+            "cleanName": "delaware county community col"
+        },
+        "us": {
+            "name": "Rowan College of South Jersey-Cumberland",
+            "result": "",
+            "teamId": "6a3mpfgzde7oiihd",
+            "winner": false,
+            "cleanName": "rowan col s jersey cumberland"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "February 5 07:00 PM:"
+}

@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Jan 17",
+    "boxScoreLink": "20260117_v3ib.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Malcolm X College",
+                "result": "",
+                "teamId": "0u4hxgqbvvvqmldp",
+                "winner": false,
+                "cleanName": "malcolm x col"
+            },
+            {
+                "name": "Joliet Junior College",
+                "result": "",
+                "teamId": "5z6hp6sph4uepdkg",
+                "winner": false,
+                "cleanName": "joliet junior col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1768680000000,
+        "localTimeZone": "America/Chicago",
+        "tba": false,
+        "home": true,
+        "overall": true,
+        "conference": false,
+        "division": false,
+        "regional": true,
+        "national": true,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "v3ibt8qtun14qzs8",
+        "fastdate": 1768680000000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "1215 Houbolt Road",
+        "city": "Joliet, Illinois",
+        "stateCountry": "IL",
+        "zipCode": "60431",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Malcolm X College",
+            "result": "",
+            "teamId": "0u4hxgqbvvvqmldp",
+            "winner": false,
+            "cleanName": "malcolm x col"
+        },
+        "us": {
+            "name": "Joliet Junior College",
+            "result": "",
+            "teamId": "5z6hp6sph4uepdkg",
+            "winner": false,
+            "cleanName": "joliet junior col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "January 17 03:00 PM:"
+}

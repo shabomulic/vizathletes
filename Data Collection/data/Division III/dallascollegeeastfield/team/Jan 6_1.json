@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Jan 6",
+    "boxScoreLink": "20260106_vjr0.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Loyalty College Prep",
+                "result": "",
+                "teamId": "d6kdezxfo6d6w4yv",
+                "winner": false,
+                "cleanName": "loyalty col prep"
+            },
+            {
+                "name": "Dallas College Eastfield",
+                "result": "",
+                "teamId": "nfft4m3t7ubbrdvx",
+                "winner": false,
+                "cleanName": "dallas col eastfield"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1767740400000,
+        "localTimeZone": "America/Winnipeg",
+        "tba": false,
+        "home": true,
+        "overall": true,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "vjr0tfukupyz486s",
+        "fastdate": 1767740400000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "3737 Motley Dr.",
+        "city": "Mesquite",
+        "stateCountry": "texas",
+        "zipCode": "75150",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "ap2Result": "",
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Loyalty College Prep",
+            "result": "",
+            "teamId": "d6kdezxfo6d6w4yv",
+            "winner": false,
+            "cleanName": "loyalty col prep"
+        },
+        "us": {
+            "name": "Dallas College Eastfield",
+            "result": "",
+            "teamId": "nfft4m3t7ubbrdvx",
+            "winner": false,
+            "cleanName": "dallas col eastfield"
+        },
+        "apresult": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "January 6 06:00 PM:"
+}

@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Oct 17",
+    "boxScoreLink": "20251017_47jf.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Dallas College Mountain View",
+                "result": "",
+                "teamId": "3fjptjvq6tcriwu5",
+                "winner": false,
+                "cleanName": "dallas col mountain view"
+            },
+            {
+                "name": "Trinity Valley Community College",
+                "result": "",
+                "teamId": "jy0uudw03xcgsp5h",
+                "winner": false,
+                "cleanName": "trinity valley community col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "Scrimmmage game",
+        "date": 1760730300000,
+        "localTimeZone": "America/Chicago",
+        "tba": false,
+        "home": false,
+        "overall": false,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "Duncanville Field house",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "47jf5pb4ofkcbj9z",
+        "fastdate": 1760730300000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "Duncanville Field house",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "scrimmage",
+            "description": "Scrimmage",
+            "statsCount": false
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Trinity Valley Community College",
+            "result": "",
+            "teamId": "jy0uudw03xcgsp5h",
+            "winner": false,
+            "cleanName": "trinity valley community col"
+        },
+        "us": {
+            "name": "Dallas College Mountain View",
+            "result": "",
+            "teamId": "3fjptjvq6tcriwu5",
+            "winner": false,
+            "cleanName": "dallas col mountain view"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "October 17 03:45 PM:"
+}

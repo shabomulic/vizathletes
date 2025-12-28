@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Feb 14",
+    "boxScoreLink": "20260214_ub39.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Edison State",
+                "result": "",
+                "teamId": "6qq5xx78mp52h1l6",
+                "winner": false,
+                "cleanName": "edison st"
+            },
+            {
+                "name": "Lorain County Community College",
+                "result": "",
+                "teamId": "m6j4y6gqemlv1vju",
+                "winner": false,
+                "cleanName": "lorain county community col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "Ewing Activities Center Gymnasium",
+        "date": 1771084800000,
+        "localTimeZone": "America/New_York",
+        "tba": false,
+        "home": true,
+        "overall": true,
+        "conference": true,
+        "division": false,
+        "regional": false,
+        "national": true,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "ub39c1hzsf1bn7i5",
+        "fastdate": 1771084800000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "1005 N Abbe",
+        "city": "Elyria",
+        "stateCountry": "Ohio",
+        "zipCode": "44035",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "ap2Result": "",
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Edison State",
+            "result": "",
+            "teamId": "6qq5xx78mp52h1l6",
+            "winner": false,
+            "cleanName": "edison st"
+        },
+        "us": {
+            "name": "Lorain County Community College",
+            "result": "",
+            "teamId": "m6j4y6gqemlv1vju",
+            "winner": false,
+            "cleanName": "lorain county community col"
+        },
+        "apresult": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "February 14 11:00 AM:"
+}
