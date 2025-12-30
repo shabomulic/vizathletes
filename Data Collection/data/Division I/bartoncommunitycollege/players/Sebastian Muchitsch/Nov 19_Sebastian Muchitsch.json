@@ -1,17 +1,17 @@
 {
     "Player Name": "Sebastian Muchitsch",
+    "MIN": "28",
     "FGM-A": "3-6",
     "3PM-A": "1-1",
     "FTM-A": "1-3",
     "OREB": "4",
     "DREB": "4",
     "REB": "8",
+    "AST": "0",
+    "STL": "1",
+    "BLK": "1",
+    "TO": "1",
     "PF": "3",
     "TP": "8",
-    "AST": "0",
-    "TO": "1",
-    "BLK": "1",
-    "STL": "1",
-    "MIN": "28",
     "eventDateFormatted": "Nov 19"
 }

@@ -1,17 +1,17 @@
 {
     "Player Name": "Etling Jr. Lawrence",
+    "MIN": "1",
     "FGM-A": "2-5",
     "3PM-A": "2-4",
     "FTM-A": "4-4",
     "OREB": "1",
     "DREB": "4",
     "REB": "5",
+    "AST": "1",
+    "STL": "1",
+    "BLK": "0",
+    "TO": "1",
     "PF": "2",
     "TP": "10",
-    "AST": "1",
-    "TO": "1",
-    "BLK": "0",
-    "STL": "1",
-    "MIN": "1",
     "eventDateFormatted": "Dec 6"
 }

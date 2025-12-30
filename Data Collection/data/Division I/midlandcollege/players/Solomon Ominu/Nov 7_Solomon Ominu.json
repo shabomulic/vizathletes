@@ -1,17 +1,17 @@
 {
     "Player Name": "Solomon Ominu",
+    "MIN": "15",
     "FGM-A": "5-5",
     "3PM-A": "0-0",
     "FTM-A": "2-2",
     "OREB": "1",
     "DREB": "4",
     "REB": "5",
+    "AST": "1",
+    "STL": "3",
+    "BLK": "1",
+    "TO": "4",
     "PF": "4",
     "TP": "12",
-    "AST": "1",
-    "TO": "4",
-    "BLK": "1",
-    "STL": "3",
-    "MIN": "15",
     "eventDateFormatted": "Nov 7"
 }

@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Sep 20",
+    "boxScoreLink": "20250920_odp1.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Arkansas Juco Showcase",
+                "result": "",
+                "teamId": "110j02acalfocht9",
+                "winner": false,
+                "cleanName": "arkansas juco showcase"
+            },
+            {
+                "name": "South Arkansas College",
+                "result": "",
+                "teamId": "nu5xpwr1ez52zl87",
+                "winner": false,
+                "cleanName": "s arkansas col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "juco showcase",
+        "date": 1758403800000,
+        "localTimeZone": "America/Regina",
+        "tba": false,
+        "home": true,
+        "overall": true,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "odp1vwgxoqba0e8o",
+        "fastdate": 1758403800000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "201 rockefeller Dr hot springs , AR 71913",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "scrimmage",
+            "description": "Scrimmage",
+            "statsCount": false
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Arkansas Juco Showcase",
+            "result": "",
+            "teamId": "110j02acalfocht9",
+            "winner": false,
+            "cleanName": "arkansas juco showcase"
+        },
+        "us": {
+            "name": "South Arkansas College",
+            "result": "",
+            "teamId": "nu5xpwr1ez52zl87",
+            "winner": false,
+            "cleanName": "s arkansas col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "September 20 05:30 PM:"
+}

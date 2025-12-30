@@ -1,17 +1,17 @@
 {
     "Player Name": "Justin McCarter",
+    "MIN": "1",
     "FGM-A": "7-10",
     "3PM-A": "1-1",
     "FTM-A": "4-4",
     "OREB": "5",
     "DREB": "3",
     "REB": "8",
+    "AST": "11",
+    "STL": "0",
+    "BLK": "1",
+    "TO": "1",
     "PF": "0",
     "TP": "19",
-    "AST": "11",
-    "TO": "1",
-    "BLK": "1",
-    "STL": "0",
-    "MIN": "1",
     "eventDateFormatted": "Nov 5"
 }

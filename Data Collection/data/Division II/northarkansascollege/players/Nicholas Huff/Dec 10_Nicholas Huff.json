@@ -1,17 +1,17 @@
 {
     "Player Name": "Nicholas Huff",
+    "MIN": "33",
     "FGM-A": "7-13",
     "3PM-A": "0-4",
     "FTM-A": "4-5",
     "OREB": "1",
     "DREB": "7",
     "REB": "8",
+    "AST": "2",
+    "STL": "1",
+    "BLK": "8",
+    "TO": "2",
     "PF": "1",
     "TP": "18",
-    "AST": "2",
-    "TO": "2",
-    "BLK": "8",
-    "STL": "1",
-    "MIN": "33",
     "eventDateFormatted": "Dec 10"
 }

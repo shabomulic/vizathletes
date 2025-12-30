@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Oct 5",
+    "boxScoreLink": "20251005_sxvm.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Southeast Community College",
+                "result": "",
+                "teamId": "c3rzvzeqhixf3rzz",
+                "winner": false,
+                "cleanName": "southeast community col"
+            },
+            {
+                "name": "Fort Hays Tech Northwest",
+                "result": "",
+                "teamId": "vxc4dwl1888maiyg",
+                "winner": false,
+                "cleanName": "fort hays tech northwest"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1759687200000,
+        "localTimeZone": "America/Denver",
+        "tba": false,
+        "home": false,
+        "overall": false,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "ICCAC JUCO JAM",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "sxvm3yfaxm46vsf0",
+        "fastdate": 1759687200000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "scrimmage",
+            "description": "Scrimmage",
+            "statsCount": false
+        },
+        "opponent": {
+            "name": "Fort Hays Tech Northwest",
+            "result": "",
+            "teamId": "vxc4dwl1888maiyg",
+            "winner": false,
+            "cleanName": "fort hays tech northwest"
+        },
+        "us": {
+            "name": "Southeast Community College",
+            "result": "",
+            "teamId": "c3rzvzeqhixf3rzz",
+            "winner": false,
+            "cleanName": "southeast community col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "October 5 02:00 PM:"
+}

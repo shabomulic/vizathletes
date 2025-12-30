@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Feb 18",
+    "boxScoreLink": "20260218_7vgt.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Tallahassee State College",
+                "result": "",
+                "teamId": "ddinsphor0wghmes",
+                "winner": false,
+                "cleanName": "tallahassee st col"
+            },
+            {
+                "name": "Pensacola State College",
+                "result": "",
+                "teamId": "32iri9q24nfwy008",
+                "winner": false,
+                "cleanName": "pensacola st col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "Pensacola, FL",
+        "date": 1771461000000,
+        "localTimeZone": "America/Chicago",
+        "tba": false,
+        "home": true,
+        "overall": true,
+        "conference": true,
+        "division": false,
+        "regional": true,
+        "national": true,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "7vgtemp472k7zdb2",
+        "fastdate": 1771461000000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "Pensacola, FL",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "Pensacola State College",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Tallahassee State College",
+            "result": "",
+            "teamId": "ddinsphor0wghmes",
+            "winner": false,
+            "cleanName": "tallahassee st col"
+        },
+        "us": {
+            "name": "Pensacola State College",
+            "result": "",
+            "teamId": "32iri9q24nfwy008",
+            "winner": false,
+            "cleanName": "pensacola st col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "February 18 07:30 PM:"
+}

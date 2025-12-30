@@ -1,17 +1,17 @@
 {
     "Player Name": "Dontae Graham-Hudspeth",
+    "MIN": "1",
     "FGM-A": "4-7",
     "3PM-A": "1-2",
     "FTM-A": "2-4",
     "OREB": "2",
     "DREB": "4",
     "REB": "6",
+    "AST": "4",
+    "STL": "1",
+    "BLK": "0",
+    "TO": "2",
     "PF": "2",
     "TP": "11",
-    "AST": "4",
-    "TO": "2",
-    "BLK": "0",
-    "STL": "1",
-    "MIN": "1",
     "eventDateFormatted": "Nov 22"
 }

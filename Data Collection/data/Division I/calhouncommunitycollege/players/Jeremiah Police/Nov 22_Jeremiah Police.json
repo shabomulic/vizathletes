@@ -1,17 +1,17 @@
 {
     "Player Name": "Jeremiah Police",
+    "MIN": "30",
     "FGM-A": "5-11",
     "3PM-A": "3-7",
     "FTM-A": "2-2",
     "OREB": "3",
     "DREB": "8",
     "REB": "11",
+    "AST": "3",
+    "STL": "3",
+    "BLK": "1",
+    "TO": "3",
     "PF": "0",
     "TP": "15",
-    "AST": "3",
-    "TO": "3",
-    "BLK": "1",
-    "STL": "3",
-    "MIN": "30",
     "eventDateFormatted": "Nov 22"
 }

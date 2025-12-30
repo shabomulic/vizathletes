@@ -1,17 +1,17 @@
 {
     "Player Name": "Caleb Rivera",
+    "MIN": "17",
     "FGM-A": "3-4",
     "3PM-A": "2-3",
     "FTM-A": "0-0",
     "OREB": "1",
     "DREB": "3",
     "REB": "4",
+    "AST": "5",
+    "STL": "3",
+    "BLK": "0",
+    "TO": "2",
     "PF": "2",
     "TP": "8",
-    "AST": "5",
-    "TO": "2",
-    "BLK": "0",
-    "STL": "3",
-    "MIN": "17",
     "eventDateFormatted": "Nov 1"
 }

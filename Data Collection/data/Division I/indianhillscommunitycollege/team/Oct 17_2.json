@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Oct 17",
+    "boxScoreLink": "20251017_sksx.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Indian Hills Community College",
+                "result": "",
+                "teamId": "ovzmia8ifzqijipj",
+                "winner": false,
+                "cleanName": "indian hills community col"
+            },
+            {
+                "name": "Hutchinson Community College",
+                "result": "",
+                "teamId": "pc72uz7fojm87pro",
+                "winner": false,
+                "cleanName": "hutchinson community col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1760730300000,
+        "localTimeZone": "America/Chicago",
+        "tba": false,
+        "home": false,
+        "overall": true,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "Overland Park, KS",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "sksxy3mkk8h8dbqk",
+        "fastdate": 1760730300000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "Overland Park, KS",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "exhibition",
+            "description": "Exhibition",
+            "statsCount": false
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Hutchinson Community College",
+            "result": "",
+            "teamId": "pc72uz7fojm87pro",
+            "winner": false,
+            "cleanName": "hutchinson community col"
+        },
+        "us": {
+            "name": "Indian Hills Community College",
+            "result": "",
+            "teamId": "ovzmia8ifzqijipj",
+            "winner": false,
+            "cleanName": "indian hills community col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "October 17 03:45 PM:"
+}

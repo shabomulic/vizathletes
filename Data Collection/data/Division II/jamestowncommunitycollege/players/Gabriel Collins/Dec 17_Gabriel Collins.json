@@ -1,17 +1,17 @@
 {
     "Player Name": "Gabriel Collins",
+    "MIN": "21",
     "FGM-A": "4-8",
     "3PM-A": "1-2",
     "FTM-A": "0-0",
     "OREB": "4",
     "DREB": "5",
     "REB": "9",
+    "AST": "1",
+    "STL": "1",
+    "BLK": "0",
+    "TO": "0",
     "PF": "3",
     "TP": "9",
-    "AST": "1",
-    "TO": "0",
-    "BLK": "0",
-    "STL": "1",
-    "MIN": "21",
     "eventDateFormatted": "Dec 17"
 }

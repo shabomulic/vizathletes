@@ -1,17 +1,17 @@
 {
     "Player Name": "Levi Goad",
+    "MIN": "27",
     "FGM-A": "3-5",
     "3PM-A": "2-3",
     "FTM-A": "0-1",
     "OREB": "0",
     "DREB": "6",
     "REB": "6",
+    "AST": "3",
+    "STL": "1",
+    "BLK": "0",
+    "TO": "2",
     "PF": "2",
     "TP": "8",
-    "AST": "3",
-    "TO": "2",
-    "BLK": "0",
-    "STL": "1",
-    "MIN": "27",
     "eventDateFormatted": "Dec 20"
 }

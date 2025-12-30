@@ -1,17 +1,17 @@
 {
     "Player Name": "Glen Mcbeth jr",
+    "MIN": "12",
     "FGM-A": "4-13",
     "3PM-A": "1-7",
     "FTM-A": "1-2",
     "OREB": "1",
     "DREB": "0",
     "REB": "1",
+    "AST": "1",
+    "STL": "0",
+    "BLK": "1",
+    "TO": "2",
     "PF": "1",
     "TP": "10",
-    "AST": "1",
-    "TO": "2",
-    "BLK": "1",
-    "STL": "0",
-    "MIN": "12",
     "eventDateFormatted": "Nov 1"
 }

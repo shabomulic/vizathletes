@@ -1,17 +1,17 @@
 {
     "Player Name": "Noah Elias",
+    "MIN": "26:50",
     "FGM-A": "3-8",
     "3PM-A": "2-6",
     "FTM-A": "0-1",
     "OREB": "0",
     "DREB": "6",
     "REB": "6",
+    "AST": "5",
+    "STL": "0",
+    "BLK": "1",
+    "TO": "1",
     "PF": "2",
     "TP": "8",
-    "AST": "5",
-    "TO": "1",
-    "BLK": "1",
-    "STL": "0",
-    "MIN": "26:50",
     "eventDateFormatted": "Nov 6"
 }

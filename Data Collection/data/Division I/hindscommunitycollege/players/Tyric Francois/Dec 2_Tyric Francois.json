@@ -1,17 +1,17 @@
 {
     "Player Name": "Tyric Francois",
+    "MIN": "23",
     "FGM-A": "2-7",
     "3PM-A": "0-2",
     "FTM-A": "0-2",
     "OREB": "1",
     "DREB": "3",
     "REB": "4",
+    "AST": "3",
+    "STL": "2",
+    "BLK": "0",
+    "TO": "3",
     "PF": "4",
     "TP": "4",
-    "AST": "3",
-    "TO": "3",
-    "BLK": "0",
-    "STL": "2",
-    "MIN": "23",
     "eventDateFormatted": "Dec 2"
 }

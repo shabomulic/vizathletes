@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Jan 15",
+    "boxScoreLink": "20260115_rhe7.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Quinsigamond Community College",
+                "result": "",
+                "teamId": "ju9bft1bl8qs0kh2",
+                "winner": false,
+                "cleanName": "quinsigamond community col"
+            },
+            {
+                "name": "Bunker Hill Community College",
+                "result": "",
+                "teamId": "db2l1w4uehl9q2hg",
+                "winner": false,
+                "cleanName": "bunker hill community col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1768523400000,
+        "localTimeZone": "America/New_York",
+        "tba": false,
+        "home": true,
+        "overall": true,
+        "conference": true,
+        "division": true,
+        "regional": false,
+        "national": true,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "rhe72hkt0mmlllys",
+        "fastdate": 1768523400000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "250 New Rutherford Avenue",
+        "city": "Boston",
+        "stateCountry": "MA",
+        "zipCode": "02129",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Quinsigamond Community College",
+            "result": "",
+            "teamId": "ju9bft1bl8qs0kh2",
+            "winner": false,
+            "cleanName": "quinsigamond community col"
+        },
+        "us": {
+            "name": "Bunker Hill Community College",
+            "result": "",
+            "teamId": "db2l1w4uehl9q2hg",
+            "winner": false,
+            "cleanName": "bunker hill community col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "January 15 07:30 PM:"
+}

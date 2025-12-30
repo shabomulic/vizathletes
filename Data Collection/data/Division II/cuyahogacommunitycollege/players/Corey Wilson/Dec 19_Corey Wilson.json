@@ -1,17 +1,17 @@
 {
     "Player Name": "Corey Wilson",
+    "MIN": "26",
     "FGM-A": "3-5",
     "3PM-A": "0-1",
     "FTM-A": "2-4",
     "OREB": "2",
     "DREB": "2",
     "REB": "4",
+    "AST": "1",
+    "STL": "3",
+    "BLK": "1",
+    "TO": "2",
     "PF": "5",
     "TP": "8",
-    "AST": "1",
-    "TO": "2",
-    "BLK": "1",
-    "STL": "3",
-    "MIN": "26",
     "eventDateFormatted": "Dec 19"
 }

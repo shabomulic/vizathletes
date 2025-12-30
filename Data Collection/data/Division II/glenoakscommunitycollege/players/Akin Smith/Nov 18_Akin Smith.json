@@ -1,17 +1,17 @@
 {
     "Player Name": "Akin Smith",
+    "MIN": "33",
     "FGM-A": "7-9",
     "3PM-A": "3-5",
     "FTM-A": "1-1",
     "OREB": "2",
     "DREB": "7",
     "REB": "9",
+    "AST": "3",
+    "STL": "2",
+    "BLK": "0",
+    "TO": "1",
     "PF": "1",
     "TP": "18",
-    "AST": "3",
-    "TO": "1",
-    "BLK": "0",
-    "STL": "2",
-    "MIN": "33",
     "eventDateFormatted": "Nov 18"
 }

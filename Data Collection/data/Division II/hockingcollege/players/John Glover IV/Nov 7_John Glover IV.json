@@ -1,17 +1,17 @@
 {
     "Player Name": "John Glover IV",
+    "MIN": "33",
     "FGM-A": "6-12",
     "3PM-A": "0-3",
     "FTM-A": "2-2",
     "OREB": "0",
     "DREB": "4",
     "REB": "4",
+    "AST": "4",
+    "STL": "7",
+    "BLK": "0",
+    "TO": "2",
     "PF": "2",
     "TP": "14",
-    "AST": "4",
-    "TO": "2",
-    "BLK": "0",
-    "STL": "7",
-    "MIN": "33",
     "eventDateFormatted": "Nov 7"
 }

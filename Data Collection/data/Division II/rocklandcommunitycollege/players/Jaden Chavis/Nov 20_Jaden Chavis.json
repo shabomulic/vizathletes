@@ -1,17 +1,17 @@
 {
     "Player Name": "Jaden Chavis",
+    "MIN": "1",
     "FGM-A": "7-11",
     "3PM-A": "2-4",
     "FTM-A": "5-7",
     "OREB": "0",
     "DREB": "9",
     "REB": "9",
+    "AST": "7",
+    "STL": "0",
+    "BLK": "0",
+    "TO": "1",
     "PF": "0",
     "TP": "21",
-    "AST": "7",
-    "TO": "1",
-    "BLK": "0",
-    "STL": "0",
-    "MIN": "1",
     "eventDateFormatted": "Nov 20"
 }

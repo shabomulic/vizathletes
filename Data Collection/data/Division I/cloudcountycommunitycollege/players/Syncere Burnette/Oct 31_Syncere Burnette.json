@@ -1,17 +1,17 @@
 {
     "Player Name": "Syncere Burnette",
+    "MIN": "16",
     "FGM-A": "2-5",
     "3PM-A": "0-3",
     "FTM-A": "3-3",
     "OREB": "0",
     "DREB": "4",
     "REB": "4",
+    "AST": "3",
+    "STL": "3",
+    "BLK": "0",
+    "TO": "1",
     "PF": "1",
     "TP": "7",
-    "AST": "3",
-    "TO": "1",
-    "BLK": "0",
-    "STL": "3",
-    "MIN": "16",
     "eventDateFormatted": "Oct 31"
 }

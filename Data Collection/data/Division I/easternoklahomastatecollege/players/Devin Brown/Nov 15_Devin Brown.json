@@ -1,17 +1,17 @@
 {
     "Player Name": "Devin Brown",
+    "MIN": "1",
     "FGM-A": "3-7",
     "3PM-A": "0-2",
     "FTM-A": "4-6",
     "OREB": "0",
     "DREB": "9",
     "REB": "9",
+    "AST": "8",
+    "STL": "1",
+    "BLK": "1",
+    "TO": "2",
     "PF": "5",
     "TP": "10",
-    "AST": "8",
-    "TO": "2",
-    "BLK": "1",
-    "STL": "1",
-    "MIN": "1",
     "eventDateFormatted": "Nov 15"
 }

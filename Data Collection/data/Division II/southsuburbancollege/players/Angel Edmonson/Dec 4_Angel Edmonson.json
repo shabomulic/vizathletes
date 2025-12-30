@@ -1,17 +1,17 @@
 {
     "Player Name": "Angel Edmonson",
+    "MIN": "29",
     "FGM-A": "6-8",
     "3PM-A": "0-0",
     "FTM-A": "1-1",
     "OREB": "5",
     "DREB": "7",
     "REB": "12",
+    "AST": "3",
+    "STL": "0",
+    "BLK": "3",
+    "TO": "3",
     "PF": "5",
     "TP": "13",
-    "AST": "3",
-    "TO": "3",
-    "BLK": "3",
-    "STL": "0",
-    "MIN": "29",
     "eventDateFormatted": "Dec 4"
 }

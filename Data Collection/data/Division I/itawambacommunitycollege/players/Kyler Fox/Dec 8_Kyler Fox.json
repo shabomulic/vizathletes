@@ -1,17 +1,17 @@
 {
     "Player Name": "Kyler Fox",
+    "MIN": "27",
     "FGM-A": "6-7",
     "3PM-A": "0-0",
     "FTM-A": "1-1",
     "OREB": "3",
     "DREB": "6",
     "REB": "9",
+    "AST": "4",
+    "STL": "1",
+    "BLK": "3",
+    "TO": "3",
     "PF": "5",
     "TP": "13",
-    "AST": "4",
-    "TO": "3",
-    "BLK": "3",
-    "STL": "1",
-    "MIN": "27",
     "eventDateFormatted": "Dec 8"
 }

@@ -1,17 +1,17 @@
 {
     "Player Name": "Donny Thomas",
+    "MIN": "1",
     "FGM-A": "9-18",
     "3PM-A": "5-14",
     "FTM-A": "5-6",
     "OREB": "0",
     "DREB": "6",
     "REB": "6",
+    "AST": "1",
+    "STL": "2",
+    "BLK": "0",
+    "TO": "0",
     "PF": "1",
     "TP": "28",
-    "AST": "1",
-    "TO": "0",
-    "BLK": "0",
-    "STL": "2",
-    "MIN": "1",
     "eventDateFormatted": "Dec 6"
 }

@@ -1,17 +1,17 @@
 {
     "Player Name": "Justen Goudelock",
+    "MIN": "29",
     "FGM-A": "3-12",
     "3PM-A": "0-2",
     "FTM-A": "4-7",
     "OREB": "4",
     "DREB": "4",
     "REB": "8",
+    "AST": "3",
+    "STL": "4",
+    "BLK": "0",
+    "TO": "2",
     "PF": "1",
     "TP": "10",
-    "AST": "3",
-    "TO": "2",
-    "BLK": "0",
-    "STL": "4",
-    "MIN": "29",
     "eventDateFormatted": "Nov 1"
 }

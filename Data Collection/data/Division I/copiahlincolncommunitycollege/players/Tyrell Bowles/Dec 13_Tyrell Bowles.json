@@ -1,17 +1,17 @@
 {
     "Player Name": "Tyrell Bowles",
+    "MIN": "32",
     "FGM-A": "9-17",
     "3PM-A": "0-0",
     "FTM-A": "4-7",
     "OREB": "1",
     "DREB": "15",
     "REB": "16",
+    "AST": "1",
+    "STL": "2",
+    "BLK": "5",
+    "TO": "2",
     "PF": "1",
     "TP": "22",
-    "AST": "1",
-    "TO": "2",
-    "BLK": "5",
-    "STL": "2",
-    "MIN": "32",
     "eventDateFormatted": "Dec 13"
 }

@@ -1,17 +1,17 @@
 {
     "Player Name": "Jalen Debose",
+    "MIN": "32",
     "FGM-A": "7-15",
     "3PM-A": "1-5",
     "FTM-A": "0-0",
     "OREB": "1",
     "DREB": "3",
     "REB": "4",
+    "AST": "0",
+    "STL": "8",
+    "BLK": "0",
+    "TO": "3",
     "PF": "1",
     "TP": "15",
-    "AST": "0",
-    "TO": "3",
-    "BLK": "0",
-    "STL": "8",
-    "MIN": "32",
     "eventDateFormatted": "Nov 22"
 }

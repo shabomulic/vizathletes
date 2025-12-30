@@ -1,17 +1,17 @@
 {
     "Player Name": "Sean Harmon",
+    "MIN": "40",
     "FGM-A": "5-10",
     "3PM-A": "2-8",
     "FTM-A": "0-4",
     "OREB": "3",
     "DREB": "2",
     "REB": "5",
+    "AST": "6",
+    "STL": "5",
+    "BLK": "0",
+    "TO": "3",
     "PF": "1",
     "TP": "12",
-    "AST": "6",
-    "TO": "3",
-    "BLK": "0",
-    "STL": "5",
-    "MIN": "40",
     "eventDateFormatted": "Nov 7"
 }

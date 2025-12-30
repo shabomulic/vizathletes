@@ -1,17 +1,17 @@
 {
     "Player Name": "Kevin Stubblefield Jr",
+    "MIN": "25",
     "FGM-A": "8-18",
     "3PM-A": "3-7",
     "FTM-A": "1-2",
     "OREB": "0",
     "DREB": "5",
     "REB": "5",
+    "AST": "2",
+    "STL": "1",
+    "BLK": "0",
+    "TO": "0",
     "PF": "0",
     "TP": "20",
-    "AST": "2",
-    "TO": "0",
-    "BLK": "0",
-    "STL": "1",
-    "MIN": "25",
     "eventDateFormatted": "Nov 8"
 }

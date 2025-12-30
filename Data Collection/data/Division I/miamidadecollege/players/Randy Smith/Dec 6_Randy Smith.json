@@ -1,17 +1,17 @@
 {
     "Player Name": "Randy Smith",
+    "MIN": "39",
     "FGM-A": "6-13",
     "3PM-A": "4-10",
     "FTM-A": "1-2",
     "OREB": "0",
     "DREB": "4",
     "REB": "4",
+    "AST": "0",
+    "STL": "2",
+    "BLK": "0",
+    "TO": "0",
     "PF": "2",
     "TP": "17",
-    "AST": "0",
-    "TO": "0",
-    "BLK": "0",
-    "STL": "2",
-    "MIN": "39",
     "eventDateFormatted": "Dec 6"
 }

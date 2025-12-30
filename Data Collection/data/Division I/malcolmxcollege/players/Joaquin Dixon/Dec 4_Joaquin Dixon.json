@@ -1,17 +1,17 @@
 {
     "Player Name": "Joaquin Dixon",
+    "MIN": "1",
     "FGM-A": "10-22",
     "3PM-A": "3-6",
     "FTM-A": "4-7",
     "OREB": "2",
     "DREB": "6",
     "REB": "8",
+    "AST": "2",
+    "STL": "3",
+    "BLK": "1",
+    "TO": "2",
     "PF": "1",
     "TP": "27",
-    "AST": "2",
-    "TO": "2",
-    "BLK": "1",
-    "STL": "3",
-    "MIN": "1",
     "eventDateFormatted": "Dec 4"
 }

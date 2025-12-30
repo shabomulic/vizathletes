@@ -220,12 +220,12 @@
             "name": "integer",
             "primitiveClass": "int",
             "defaultValue": 0,
-            "componentType": false,
             "mutable": false,
-            "collectionType": false,
+            "componentType": false,
             "entityType": false,
             "associationType": false,
             "xmlelement": false,
+            "collectionType": false,
             "anyType": false
         },
         "mutable": false

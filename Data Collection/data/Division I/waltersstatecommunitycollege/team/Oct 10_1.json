@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Oct 10",
+    "boxScoreLink": "20251010_n5bg.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Walters State Community College",
+                "result": "",
+                "teamId": "9n6h3kicega99oc0",
+                "winner": false,
+                "cleanName": "walters st community col"
+            },
+            {
+                "name": "Union College",
+                "result": "",
+                "teamId": "20ver0hlborpi7vv",
+                "winner": false,
+                "cleanName": "union col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "Scrimmage",
+        "date": 1760115600000,
+        "localTimeZone": "America/New_York",
+        "tba": false,
+        "home": false,
+        "overall": false,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "n5bg8nw22hs9sjr3",
+        "fastdate": 1760115600000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "scrimmage",
+            "description": "Scrimmage",
+            "statsCount": false
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Union College",
+            "result": "",
+            "teamId": "20ver0hlborpi7vv",
+            "winner": false,
+            "cleanName": "union col"
+        },
+        "us": {
+            "name": "Walters State Community College",
+            "result": "",
+            "teamId": "9n6h3kicega99oc0",
+            "winner": false,
+            "cleanName": "walters st community col"
+        },
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "October 10 01:00 PM:"
+}

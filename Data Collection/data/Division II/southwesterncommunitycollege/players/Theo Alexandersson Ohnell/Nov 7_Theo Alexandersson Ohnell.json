@@ -1,17 +1,17 @@
 {
     "Player Name": "Theo Alexandersson Ohnell",
+    "MIN": "38",
     "FGM-A": "4-11",
     "3PM-A": "2-7",
     "FTM-A": "4-6",
     "OREB": "0",
     "DREB": "4",
     "REB": "4",
+    "AST": "1",
+    "STL": "4",
+    "BLK": "0",
+    "TO": "6",
     "PF": "4",
     "TP": "14",
-    "AST": "1",
-    "TO": "6",
-    "BLK": "0",
-    "STL": "4",
-    "MIN": "38",
     "eventDateFormatted": "Nov 7"
 }

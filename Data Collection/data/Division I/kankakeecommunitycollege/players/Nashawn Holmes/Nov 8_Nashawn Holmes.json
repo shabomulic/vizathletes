@@ -1,17 +1,17 @@
 {
     "Player Name": "Nashawn Holmes",
+    "MIN": "1",
     "FGM-A": "11-17",
     "3PM-A": "4-6",
     "FTM-A": "1-2",
     "OREB": "1",
     "DREB": "3",
     "REB": "4",
+    "AST": "2",
+    "STL": "2",
+    "BLK": "0",
+    "TO": "4",
     "PF": "1",
     "TP": "27",
-    "AST": "2",
-    "TO": "4",
-    "BLK": "0",
-    "STL": "2",
-    "MIN": "1",
     "eventDateFormatted": "Nov 8"
 }

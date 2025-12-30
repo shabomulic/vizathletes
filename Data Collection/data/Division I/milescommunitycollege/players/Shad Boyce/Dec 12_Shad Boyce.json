@@ -1,17 +1,17 @@
 {
     "Player Name": "Shad Boyce",
+    "MIN": "36",
     "FGM-A": "3-8",
     "3PM-A": "0-0",
     "FTM-A": "3-6",
     "OREB": "5",
     "DREB": "7",
     "REB": "12",
+    "AST": "0",
+    "STL": "2",
+    "BLK": "0",
+    "TO": "3",
     "PF": "4",
     "TP": "9",
-    "AST": "0",
-    "TO": "3",
-    "BLK": "0",
-    "STL": "2",
-    "MIN": "36",
     "eventDateFormatted": "Dec 12"
 }

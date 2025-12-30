@@ -1,17 +1,17 @@
 {
     "Player Name": "D.J. Cason",
+    "MIN": "17",
     "FGM-A": "4-6",
     "3PM-A": "4-6",
     "FTM-A": "0-0",
     "OREB": "2",
     "DREB": "2",
     "REB": "4",
+    "AST": "2",
+    "STL": "1",
+    "BLK": "0",
+    "TO": "2",
     "PF": "1",
     "TP": "12",
-    "AST": "2",
-    "TO": "2",
-    "BLK": "0",
-    "STL": "1",
-    "MIN": "17",
     "eventDateFormatted": "Nov 1"
 }

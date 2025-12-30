@@ -1,17 +1,17 @@
 {
     "Player Name": "Darrion Pippen",
+    "MIN": "25",
     "FGM-A": "2-7",
     "3PM-A": "1-1",
     "FTM-A": "2-2",
     "OREB": "1",
     "DREB": "0",
     "REB": "1",
+    "AST": "3",
+    "STL": "1",
+    "BLK": "0",
+    "TO": "2",
     "PF": "0",
     "TP": "7",
-    "AST": "3",
-    "TO": "2",
-    "BLK": "0",
-    "STL": "1",
-    "MIN": "25",
     "eventDateFormatted": "Dec 18"
 }

@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Oct 10",
+    "boxScoreLink": "20251010_99gm.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Tyler Junior College",
+                "result": "",
+                "teamId": "0bu4f5s1ma74t2fw",
+                "winner": false,
+                "cleanName": "tyler junior col"
+            },
+            {
+                "name": "Western Texas College",
+                "result": "",
+                "teamId": "mr9w6vptam5l49ii",
+                "winner": false,
+                "cleanName": "w texas col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "Scrimmage Mullens Jamboree ",
+        "date": 1760133600000,
+        "localTimeZone": "America/Chicago",
+        "tba": false,
+        "home": true,
+        "overall": false,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "99gmjflu6v94wtzj",
+        "fastdate": 1760133600000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "Fort Worth, Texas",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "scrimmage",
+            "description": "Scrimmage",
+            "statsCount": false
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "numericResults": [],
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Tyler Junior College",
+            "result": "",
+            "teamId": "0bu4f5s1ma74t2fw",
+            "winner": false,
+            "cleanName": "tyler junior col"
+        },
+        "us": {
+            "name": "Western Texas College",
+            "result": "",
+            "teamId": "mr9w6vptam5l49ii",
+            "winner": false,
+            "cleanName": "w texas col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "numericResults": [],
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "October 10 06:00 PM:"
+}

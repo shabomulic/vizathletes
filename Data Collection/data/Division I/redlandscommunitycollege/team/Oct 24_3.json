@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Oct 24",
+    "boxScoreLink": "20251024_iq67.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Cowley County Community College",
+                "result": "",
+                "teamId": "d3r8e6jwrqcfngtu",
+                "winner": false,
+                "cleanName": "cowley county community col"
+            },
+            {
+                "name": "Redlands Community College",
+                "result": "",
+                "teamId": "49pazd0dt56oo0sy",
+                "winner": false,
+                "cleanName": "redlands community col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1761343200000,
+        "localTimeZone": "America/Chicago",
+        "tba": false,
+        "home": true,
+        "overall": false,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "El Reno, OK",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "iq675zjyfa3jh1ib",
+        "fastdate": 1761343200000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "El Reno",
+        "stateCountry": "Oklahoma",
+        "zipCode": "",
+        "venue": "Redlands",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "scrimmage",
+            "description": "Scrimmage",
+            "statsCount": false
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "numericResults": [],
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Cowley County Community College",
+            "result": "",
+            "teamId": "d3r8e6jwrqcfngtu",
+            "winner": false,
+            "cleanName": "cowley county community col"
+        },
+        "us": {
+            "name": "Redlands Community College",
+            "result": "",
+            "teamId": "49pazd0dt56oo0sy",
+            "winner": false,
+            "cleanName": "redlands community col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "numericResults": [],
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "October 24 06:00 PM:"
+}

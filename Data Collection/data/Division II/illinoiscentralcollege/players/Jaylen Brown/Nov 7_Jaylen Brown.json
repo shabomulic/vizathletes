@@ -1,17 +1,17 @@
 {
     "Player Name": "Jaylen Brown",
+    "MIN": "26",
     "FGM-A": "4-14",
     "3PM-A": "2-8",
     "FTM-A": "2-2",
     "OREB": "2",
     "DREB": "2",
     "REB": "4",
+    "AST": "0",
+    "STL": "1",
+    "BLK": "0",
+    "TO": "0",
     "PF": "1",
     "TP": "12",
-    "AST": "0",
-    "TO": "0",
-    "BLK": "0",
-    "STL": "1",
-    "MIN": "26",
     "eventDateFormatted": "Nov 7"
 }

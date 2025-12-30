@@ -1,17 +1,17 @@
 {
     "Player Name": "Isaac Castagnetto",
+    "MIN": "29",
     "FGM-A": "8-12",
     "3PM-A": "4-7",
     "FTM-A": "2-2",
     "OREB": "0",
     "DREB": "3",
     "REB": "3",
+    "AST": "3",
+    "STL": "0",
+    "BLK": "1",
+    "TO": "1",
     "PF": "4",
     "TP": "22",
-    "AST": "3",
-    "TO": "1",
-    "BLK": "1",
-    "STL": "0",
-    "MIN": "29",
     "eventDateFormatted": "Nov 7"
 }

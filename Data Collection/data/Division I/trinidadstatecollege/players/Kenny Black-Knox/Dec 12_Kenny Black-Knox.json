@@ -1,17 +1,17 @@
 {
     "Player Name": "Kenny Black-Knox",
+    "MIN": "22",
     "FGM-A": "2-5",
     "3PM-A": "1-2",
     "FTM-A": "0-0",
     "OREB": "1",
     "DREB": "9",
     "REB": "10",
+    "AST": "0",
+    "STL": "0",
+    "BLK": "1",
+    "TO": "3",
     "PF": "3",
     "TP": "5",
-    "AST": "0",
-    "TO": "3",
-    "BLK": "1",
-    "STL": "0",
-    "MIN": "22",
     "eventDateFormatted": "Dec 12"
 }

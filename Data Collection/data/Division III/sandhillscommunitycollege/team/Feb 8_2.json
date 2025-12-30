@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Feb 8",
+    "boxScoreLink": "20260208_t3bj.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Oxford College of Emory University",
+                "result": "",
+                "teamId": "tsjau2er592nza5k",
+                "winner": false,
+                "cleanName": "oxford col emory univ"
+            },
+            {
+                "name": "Sandhills Community College",
+                "result": "",
+                "teamId": "mdp6nv62a0zpsbxn",
+                "winner": false,
+                "cleanName": "sandhills community col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1770573600000,
+        "localTimeZone": "America/New_York",
+        "tba": false,
+        "home": true,
+        "overall": true,
+        "conference": true,
+        "division": false,
+        "regional": true,
+        "national": true,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "t3bjgjr8c3v1swnb",
+        "fastdate": 1770573600000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "ap2Result": "",
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Oxford College of Emory University",
+            "result": "",
+            "teamId": "tsjau2er592nza5k",
+            "winner": false,
+            "cleanName": "oxford col emory univ"
+        },
+        "us": {
+            "name": "Sandhills Community College",
+            "result": "",
+            "teamId": "mdp6nv62a0zpsbxn",
+            "winner": false,
+            "cleanName": "sandhills community col"
+        },
+        "apresult": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "February 8 01:00 PM:"
+}

@@ -1,17 +1,17 @@
 {
     "Player Name": "Jared Taylor",
+    "MIN": "1",
     "FGM-A": "7-12",
     "3PM-A": "1-1",
     "FTM-A": "6-8",
     "OREB": "5",
     "DREB": "7",
     "REB": "12",
+    "AST": "0",
+    "STL": "0",
+    "BLK": "2",
+    "TO": "4",
     "PF": "0",
     "TP": "21",
-    "AST": "0",
-    "TO": "4",
-    "BLK": "2",
-    "STL": "0",
-    "MIN": "1",
     "eventDateFormatted": "Nov 30"
 }

@@ -1,17 +1,17 @@
 {
     "Player Name": "Shateek Harris",
+    "MIN": "22",
     "FGM-A": "2-6",
     "3PM-A": "0-0",
     "FTM-A": "0-2",
     "OREB": "2",
     "DREB": "3",
     "REB": "5",
+    "AST": "5",
+    "STL": "1",
+    "BLK": "0",
+    "TO": "4",
     "PF": "3",
     "TP": "4",
-    "AST": "5",
-    "TO": "4",
-    "BLK": "0",
-    "STL": "1",
-    "MIN": "22",
     "eventDateFormatted": "Nov 2"
 }

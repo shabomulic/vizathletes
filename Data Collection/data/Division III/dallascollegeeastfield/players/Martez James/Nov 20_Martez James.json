@@ -1,17 +1,17 @@
 {
     "Player Name": "Martez James",
+    "MIN": "1",
     "FGM-A": "5-8",
     "3PM-A": "0-1",
     "FTM-A": "0-0",
     "OREB": "4",
     "DREB": "6",
     "REB": "10",
+    "AST": "6",
+    "STL": "1",
+    "BLK": "2",
+    "TO": "0",
     "PF": "0",
     "TP": "10",
-    "AST": "6",
-    "TO": "0",
-    "BLK": "2",
-    "STL": "1",
-    "MIN": "1",
     "eventDateFormatted": "Nov 20"
 }

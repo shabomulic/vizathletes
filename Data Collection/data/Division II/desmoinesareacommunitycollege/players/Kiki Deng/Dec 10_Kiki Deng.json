@@ -1,17 +1,17 @@
 {
     "Player Name": "Kiki Deng",
+    "MIN": "20",
     "FGM-A": "4-7",
     "3PM-A": "0-2",
     "FTM-A": "1-1",
     "OREB": "0",
     "DREB": "0",
     "REB": "0",
+    "AST": "3",
+    "STL": "0",
+    "BLK": "0",
+    "TO": "3",
     "PF": "0",
     "TP": "9",
-    "AST": "3",
-    "TO": "3",
-    "BLK": "0",
-    "STL": "0",
-    "MIN": "20",
     "eventDateFormatted": "Dec 10"
 }

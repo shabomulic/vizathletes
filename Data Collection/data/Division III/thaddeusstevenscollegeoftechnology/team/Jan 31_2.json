@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Jan 31",
+    "boxScoreLink": "20260131_2fds.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Montgomery County Community College (PA)",
+                "result": "",
+                "teamId": "fu83s3hobtg0ghx6",
+                "winner": false,
+                "cleanName": "montgomery county community col pa"
+            },
+            {
+                "name": "Thaddeus Stevens College of Technology",
+                "result": "",
+                "teamId": "nnj3rf2k5qei5wl9",
+                "winner": false,
+                "cleanName": "thaddeus stevens col technology"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1769882400000,
+        "localTimeZone": "America/New_York",
+        "tba": false,
+        "home": true,
+        "overall": true,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "2fdsanvr2ozygkaw",
+        "fastdate": 1769882400000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "ap2Result": "",
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Montgomery County Community College (PA)",
+            "result": "",
+            "teamId": "fu83s3hobtg0ghx6",
+            "winner": false,
+            "cleanName": "montgomery county community col pa"
+        },
+        "us": {
+            "name": "Thaddeus Stevens College of Technology",
+            "result": "",
+            "teamId": "nnj3rf2k5qei5wl9",
+            "winner": false,
+            "cleanName": "thaddeus stevens col technology"
+        },
+        "apresult": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "January 31 01:00 PM:"
+}

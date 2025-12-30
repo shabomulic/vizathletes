@@ -1,17 +1,17 @@
 {
     "Player Name": "Damontae May",
+    "MIN": "36",
     "FGM-A": "5-9",
     "3PM-A": "3-6",
     "FTM-A": "4-4",
     "OREB": "0",
     "DREB": "5",
     "REB": "5",
+    "AST": "7",
+    "STL": "3",
+    "BLK": "0",
+    "TO": "3",
     "PF": "1",
     "TP": "17",
-    "AST": "7",
-    "TO": "3",
-    "BLK": "0",
-    "STL": "3",
-    "MIN": "36",
     "eventDateFormatted": "Dec 22"
 }

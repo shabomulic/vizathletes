@@ -1,17 +1,17 @@
 {
-    "Player Name": "Clyde Davis Jr",
+    "Player Name": "Clyde Davis Jr.",
+    "MIN": "33",
     "FGM-A": "9-22",
     "3PM-A": "4-9",
     "FTM-A": "1-2",
     "OREB": "0",
     "DREB": "7",
     "REB": "7",
+    "AST": "8",
+    "STL": "3",
+    "BLK": "0",
+    "TO": "5",
     "PF": "4",
     "TP": "23",
-    "AST": "8",
-    "TO": "5",
-    "BLK": "0",
-    "STL": "3",
-    "MIN": "33",
     "eventDateFormatted": "Nov 24"
 }

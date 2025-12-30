@@ -1,17 +1,17 @@
 {
     "Player Name": "Carlito McBryde",
+    "MIN": "31",
     "FGM-A": "4-10",
     "3PM-A": "0-1",
     "FTM-A": "0-1",
     "OREB": "10",
     "DREB": "6",
     "REB": "16",
+    "AST": "1",
+    "STL": "2",
+    "BLK": "1",
+    "TO": "4",
     "PF": "4",
     "TP": "8",
-    "AST": "1",
-    "TO": "4",
-    "BLK": "1",
-    "STL": "2",
-    "MIN": "31",
     "eventDateFormatted": "Dec 16"
 }

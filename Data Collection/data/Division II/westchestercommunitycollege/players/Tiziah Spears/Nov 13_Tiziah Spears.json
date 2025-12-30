@@ -1,17 +1,17 @@
 {
     "Player Name": "Tiziah Spears",
+    "MIN": "20",
     "FGM-A": "7-11",
     "3PM-A": "3-5",
     "FTM-A": "0-0",
     "OREB": "1",
     "DREB": "1",
     "REB": "2",
+    "AST": "6",
+    "STL": "7",
+    "BLK": "0",
+    "TO": "4",
     "PF": "1",
     "TP": "17",
-    "AST": "6",
-    "TO": "4",
-    "BLK": "0",
-    "STL": "7",
-    "MIN": "20",
     "eventDateFormatted": "Nov 13"
 }

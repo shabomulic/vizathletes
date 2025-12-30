@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Feb 2",
+    "boxScoreLink": "20260202_1ddh.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Bryant & Stratton (Ohio)",
+                "result": "",
+                "teamId": "0s9p6o9cqei0erdc",
+                "winner": false,
+                "cleanName": "bryant stratton ohio"
+            },
+            {
+                "name": "Hiram College (Reserve Team)",
+                "result": "",
+                "teamId": "fwbtznp2v3lcpkw2",
+                "winner": false,
+                "cleanName": "hiram col reserve team"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1770076800000,
+        "localTimeZone": "America/New_York",
+        "tba": false,
+        "home": false,
+        "overall": true,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": true,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "1ddhnwul6rnicaw3",
+        "fastdate": 1770076800000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "11715 Garfield Rd, Hiram, OH 44234",
+        "city": "Hiram",
+        "stateCountry": "Ohio",
+        "zipCode": "44234",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Hiram College (Reserve Team)",
+            "result": "",
+            "teamId": "fwbtznp2v3lcpkw2",
+            "winner": false,
+            "cleanName": "hiram col reserve team"
+        },
+        "us": {
+            "name": "Bryant & Stratton (Ohio)",
+            "result": "",
+            "teamId": "0s9p6o9cqei0erdc",
+            "winner": false,
+            "cleanName": "bryant stratton ohio"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "February 2 07:00 PM:"
+}

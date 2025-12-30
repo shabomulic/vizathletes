@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Jan 18",
+    "boxScoreLink": "20260118_ykiz.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Nassau Community College",
+                "result": "",
+                "teamId": "lk05dtegn0g3gge8",
+                "winner": false,
+                "cleanName": "nassau community col"
+            },
+            {
+                "name": "Community College of Rhode Island",
+                "result": "",
+                "teamId": "81gbit2ekwb6c29e",
+                "winner": false,
+                "cleanName": "community col rhode island"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1768762800000,
+        "localTimeZone": "America/New_York",
+        "tba": false,
+        "home": true,
+        "overall": true,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": true,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "ykiziw84zt3d3p4g",
+        "fastdate": 1768762800000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Nassau Community College",
+            "result": "",
+            "teamId": "lk05dtegn0g3gge8",
+            "winner": false,
+            "cleanName": "nassau community col"
+        },
+        "us": {
+            "name": "Community College of Rhode Island",
+            "result": "",
+            "teamId": "81gbit2ekwb6c29e",
+            "winner": false,
+            "cleanName": "community col rhode island"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "January 18 02:00 PM:"
+}

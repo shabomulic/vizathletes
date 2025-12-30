@@ -1,17 +1,17 @@
 {
     "Player Name": "Joel Webb",
+    "MIN": "29",
     "FGM-A": "9-14",
     "3PM-A": "4-7",
     "FTM-A": "4-5",
     "OREB": "1",
     "DREB": "6",
     "REB": "7",
+    "AST": "4",
+    "STL": "3",
+    "BLK": "0",
+    "TO": "1",
     "PF": "4",
     "TP": "26",
-    "AST": "4",
-    "TO": "1",
-    "BLK": "0",
-    "STL": "3",
-    "MIN": "29",
     "eventDateFormatted": "Nov 22"
 }

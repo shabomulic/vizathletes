@@ -1,17 +1,17 @@
 {
     "Player Name": "Kavon Patterson",
+    "MIN": "30",
     "FGM-A": "12-19",
     "3PM-A": "0-1",
     "FTM-A": "6-7",
     "OREB": "4",
     "DREB": "4",
     "REB": "8",
+    "AST": "2",
+    "STL": "4",
+    "BLK": "0",
+    "TO": "2",
     "PF": "5",
     "TP": "30",
-    "AST": "2",
-    "TO": "2",
-    "BLK": "0",
-    "STL": "4",
-    "MIN": "30",
     "eventDateFormatted": "Nov 21"
 }

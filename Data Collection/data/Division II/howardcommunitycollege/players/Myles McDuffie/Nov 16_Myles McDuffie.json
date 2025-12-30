@@ -1,17 +1,17 @@
 {
     "Player Name": "Myles McDuffie",
+    "MIN": "35",
     "FGM-A": "5-17",
     "3PM-A": "0-2",
     "FTM-A": "8-12",
     "OREB": "5",
     "DREB": "2",
     "REB": "7",
+    "AST": "4",
+    "STL": "2",
+    "BLK": "0",
+    "TO": "4",
     "PF": "0",
     "TP": "18",
-    "AST": "4",
-    "TO": "4",
-    "BLK": "0",
-    "STL": "2",
-    "MIN": "35",
     "eventDateFormatted": "Nov 16"
 }

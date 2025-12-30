@@ -1,17 +1,17 @@
 {
     "Player Name": "Blake Rucker",
+    "MIN": "13:44",
     "FGM-A": "0-3",
     "3PM-A": "0-2",
     "FTM-A": "0-0",
     "OREB": "0",
     "DREB": "0",
     "REB": "0",
+    "AST": "0",
+    "STL": "0",
+    "BLK": "1",
+    "TO": "0",
     "PF": "2",
     "TP": "0",
-    "AST": "0",
-    "TO": "0",
-    "BLK": "1",
-    "STL": "0",
-    "MIN": "13:44",
     "eventDateFormatted": "Nov 29"
 }

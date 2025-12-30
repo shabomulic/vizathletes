@@ -1,17 +1,17 @@
 {
     "Player Name": "Chioke Marshall",
+    "MIN": "22",
     "FGM-A": "8-16",
     "3PM-A": "2-6",
     "FTM-A": "7-9",
     "OREB": "1",
     "DREB": "4",
     "REB": "5",
+    "AST": "3",
+    "STL": "2",
+    "BLK": "0",
+    "TO": "4",
     "PF": "3",
     "TP": "25",
-    "AST": "3",
-    "TO": "4",
-    "BLK": "0",
-    "STL": "2",
-    "MIN": "22",
     "eventDateFormatted": "Nov 1"
 }

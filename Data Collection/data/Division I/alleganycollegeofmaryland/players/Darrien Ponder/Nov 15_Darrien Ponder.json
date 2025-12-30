@@ -1,17 +1,17 @@
 {
     "Player Name": "Darrien Ponder",
+    "MIN": "33",
     "FGM-A": "12-17",
     "3PM-A": "7-11",
     "FTM-A": "3-4",
     "OREB": "1",
     "DREB": "4",
     "REB": "5",
+    "AST": "2",
+    "STL": "3",
+    "BLK": "0",
+    "TO": "3",
     "PF": "2",
     "TP": "34",
-    "AST": "2",
-    "TO": "3",
-    "BLK": "0",
-    "STL": "3",
-    "MIN": "33",
     "eventDateFormatted": "Nov 15"
 }

@@ -1,17 +1,17 @@
 {
     "Player Name": "Will Scott",
+    "MIN": "1",
     "FGM-A": "6-16",
     "3PM-A": "3-8",
     "FTM-A": "3-4",
     "OREB": "2",
     "DREB": "2",
     "REB": "4",
+    "AST": "3",
+    "STL": "0",
+    "BLK": "0",
+    "TO": "4",
     "PF": "2",
     "TP": "18",
-    "AST": "3",
-    "TO": "4",
-    "BLK": "0",
-    "STL": "0",
-    "MIN": "1",
     "eventDateFormatted": "Dec 16"
 }

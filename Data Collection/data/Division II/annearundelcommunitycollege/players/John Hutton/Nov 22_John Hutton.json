@@ -1,17 +1,17 @@
 {
     "Player Name": "John Hutton",
+    "MIN": "34",
     "FGM-A": "5-8",
     "3PM-A": "2-2",
     "FTM-A": "0-0",
     "OREB": "1",
     "DREB": "5",
     "REB": "6",
+    "AST": "0",
+    "STL": "0",
+    "BLK": "1",
+    "TO": "2",
     "PF": "3",
     "TP": "12",
-    "AST": "0",
-    "TO": "2",
-    "BLK": "1",
-    "STL": "0",
-    "MIN": "34",
     "eventDateFormatted": "Nov 22"
 }

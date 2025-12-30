@@ -1,17 +1,17 @@
 {
     "Player Name": "Da'King Smith",
+    "MIN": "28",
     "FGM-A": "2-9",
     "3PM-A": "1-8",
     "FTM-A": "4-4",
     "OREB": "3",
     "DREB": "1",
     "REB": "4",
+    "AST": "4",
+    "STL": "0",
+    "BLK": "0",
+    "TO": "3",
     "PF": "1",
     "TP": "9",
-    "AST": "4",
-    "TO": "3",
-    "BLK": "0",
-    "STL": "0",
-    "MIN": "28",
     "eventDateFormatted": "Nov 8"
 }

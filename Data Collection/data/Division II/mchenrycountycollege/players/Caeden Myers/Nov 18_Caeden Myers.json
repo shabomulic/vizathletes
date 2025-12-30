@@ -1,17 +1,17 @@
 {
     "Player Name": "Caeden Myers",
+    "MIN": "34",
     "FGM-A": "12-20",
     "3PM-A": "0-1",
     "FTM-A": "2-2",
     "OREB": "3",
     "DREB": "7",
     "REB": "10",
+    "AST": "3",
+    "STL": "2",
+    "BLK": "0",
+    "TO": "6",
     "PF": "3",
     "TP": "26",
-    "AST": "3",
-    "TO": "6",
-    "BLK": "0",
-    "STL": "2",
-    "MIN": "34",
     "eventDateFormatted": "Nov 18"
 }

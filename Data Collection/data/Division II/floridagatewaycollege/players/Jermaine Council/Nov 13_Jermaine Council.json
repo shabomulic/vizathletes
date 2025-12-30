@@ -1,17 +1,17 @@
 {
     "Player Name": "Jermaine Council",
+    "MIN": "44",
     "FGM-A": "4-12",
     "3PM-A": "1-3",
     "FTM-A": "3-3",
     "OREB": "3",
     "DREB": "0",
     "REB": "3",
+    "AST": "7",
+    "STL": "1",
+    "BLK": "0",
+    "TO": "3",
     "PF": "5",
     "TP": "12",
-    "AST": "7",
-    "TO": "3",
-    "BLK": "0",
-    "STL": "1",
-    "MIN": "44",
     "eventDateFormatted": "Nov 13"
 }

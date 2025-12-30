@@ -1,17 +1,17 @@
 {
     "Player Name": "Tyler Rivers",
+    "MIN": "23",
     "FGM-A": "5-6",
     "3PM-A": "0-0",
     "FTM-A": "1-2",
     "OREB": "3",
     "DREB": "2",
     "REB": "5",
+    "AST": "3",
+    "STL": "2",
+    "BLK": "0",
+    "TO": "2",
     "PF": "0",
     "TP": "11",
-    "AST": "3",
-    "TO": "2",
-    "BLK": "0",
-    "STL": "2",
-    "MIN": "23",
     "eventDateFormatted": "Nov 20"
 }

@@ -1,17 +1,17 @@
 {
     "Player Name": "Taj Au-Duke",
+    "MIN": "36",
     "FGM-A": "9-15",
     "3PM-A": "3-7",
     "FTM-A": "0-0",
     "OREB": "1",
     "DREB": "4",
     "REB": "5",
+    "AST": "7",
+    "STL": "1",
+    "BLK": "1",
+    "TO": "4",
     "PF": "3",
     "TP": "21",
-    "AST": "7",
-    "TO": "4",
-    "BLK": "1",
-    "STL": "1",
-    "MIN": "36",
     "eventDateFormatted": "Nov 21"
 }

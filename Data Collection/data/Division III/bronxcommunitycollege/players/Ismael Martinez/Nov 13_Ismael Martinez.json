@@ -1,17 +1,17 @@
 {
     "Player Name": "Ismael Martinez",
+    "MIN": "22",
     "FGM-A": "2-7",
     "3PM-A": "1-4",
     "FTM-A": "1-4",
     "OREB": "0",
     "DREB": "4",
     "REB": "4",
+    "AST": "2",
+    "STL": "3",
+    "BLK": "1",
+    "TO": "1",
     "PF": "2",
     "TP": "6",
-    "AST": "2",
-    "TO": "1",
-    "BLK": "1",
-    "STL": "3",
-    "MIN": "22",
     "eventDateFormatted": "Nov 13"
 }

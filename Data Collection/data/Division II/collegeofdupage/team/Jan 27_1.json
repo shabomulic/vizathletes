@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Jan 27",
+    "boxScoreLink": "20260127_xug7.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "College of DuPage",
+                "result": "",
+                "teamId": "7p9wu4ab2mzjq40d",
+                "winner": false,
+                "cleanName": "col dupage"
+            },
+            {
+                "name": "Rock Valley College",
+                "result": "",
+                "teamId": "m9l3rasfuzoay997",
+                "winner": false,
+                "cleanName": "rock valley col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1769558400000,
+        "localTimeZone": "America/Chicago",
+        "tba": false,
+        "home": false,
+        "overall": true,
+        "conference": false,
+        "division": false,
+        "regional": true,
+        "national": true,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "xug7aogp834hmiqc",
+        "fastdate": 1769558400000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Rock Valley College",
+            "result": "",
+            "teamId": "m9l3rasfuzoay997",
+            "winner": false,
+            "cleanName": "rock valley col"
+        },
+        "us": {
+            "name": "College of DuPage",
+            "result": "",
+            "teamId": "7p9wu4ab2mzjq40d",
+            "winner": false,
+            "cleanName": "col dupage"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "January 27 07:00 PM:"
+}

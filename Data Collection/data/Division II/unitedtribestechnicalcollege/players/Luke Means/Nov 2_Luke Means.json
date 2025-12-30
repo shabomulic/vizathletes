@@ -1,17 +1,17 @@
 {
     "Player Name": "Luke Means",
+    "MIN": "15",
     "FGM-A": "3-10",
     "3PM-A": "2-8",
     "FTM-A": "0-0",
     "OREB": "0",
     "DREB": "1",
     "REB": "1",
+    "AST": "1",
+    "STL": "1",
+    "BLK": "0",
+    "TO": "1",
     "PF": "1",
     "TP": "8",
-    "AST": "1",
-    "TO": "1",
-    "BLK": "0",
-    "STL": "1",
-    "MIN": "15",
     "eventDateFormatted": "Nov 2"
 }

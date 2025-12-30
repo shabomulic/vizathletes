@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Feb 21",
+    "boxScoreLink": "20260221_0afr.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Nassau Community College",
+                "result": "",
+                "teamId": "lk05dtegn0g3gge8",
+                "winner": false,
+                "cleanName": "nassau community col"
+            },
+            {
+                "name": "Sullivan County Community College",
+                "result": "",
+                "teamId": "op2zgrstgqcmsocv",
+                "winner": false,
+                "cleanName": "sullivan county community col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1771704000000,
+        "localTimeZone": "America/New_York",
+        "tba": false,
+        "home": true,
+        "overall": true,
+        "conference": true,
+        "division": false,
+        "regional": true,
+        "national": true,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "0afr779cbh0hcmf1",
+        "fastdate": 1771704000000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "112 College Rd Loch Sheldrake, NY 12759",
+        "city": "Loch Sheldrake",
+        "stateCountry": "NY",
+        "zipCode": "12759",
+        "venue": "SUNY Sullivan Paul Gerry Fieldhouse",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Nassau Community College",
+            "result": "",
+            "teamId": "lk05dtegn0g3gge8",
+            "winner": false,
+            "cleanName": "nassau community col"
+        },
+        "us": {
+            "name": "Sullivan County Community College",
+            "result": "",
+            "teamId": "op2zgrstgqcmsocv",
+            "winner": false,
+            "cleanName": "sullivan county community col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "February 21 03:00 PM:"
+}

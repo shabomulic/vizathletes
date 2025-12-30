@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Oct 19",
+    "boxScoreLink": "20251019_1967.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Malcolm X College",
+                "result": "",
+                "teamId": "0u4hxgqbvvvqmldp",
+                "winner": false,
+                "cleanName": "malcolm x col"
+            },
+            {
+                "name": "Southwestern Michigan",
+                "result": "",
+                "teamId": "ncifb9cqkodtcalk",
+                "winner": false,
+                "cleanName": "southwestern michigan"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "Danville Jamboree ",
+        "date": 1760882400000,
+        "localTimeZone": "America/Chicago",
+        "tba": false,
+        "home": false,
+        "overall": false,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": true,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "DACC Main Gym",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "1967rpn5q4ye9i1z",
+        "fastdate": 1760882400000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "Danville",
+        "stateCountry": "IL",
+        "zipCode": "",
+        "venue": "DACC Main Gym",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "scrimmage",
+            "description": "Scrimmage",
+            "statsCount": false
+        },
+        "us": {
+            "name": "Malcolm X College",
+            "result": "",
+            "teamId": "0u4hxgqbvvvqmldp",
+            "winner": false,
+            "cleanName": "malcolm x col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Southwestern Michigan",
+            "result": "",
+            "teamId": "ncifb9cqkodtcalk",
+            "winner": false,
+            "cleanName": "southwestern michigan"
+        },
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "October 19 10:00 AM:"
+}

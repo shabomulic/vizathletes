@@ -1,17 +1,17 @@
 {
     "Player Name": "Joell Idrovo",
+    "MIN": "36",
     "FGM-A": "7-15",
     "3PM-A": "3-7",
     "FTM-A": "4-4",
     "OREB": "0",
     "DREB": "7",
     "REB": "7",
+    "AST": "3",
+    "STL": "3",
+    "BLK": "0",
+    "TO": "3",
     "PF": "1",
     "TP": "21",
-    "AST": "3",
-    "TO": "3",
-    "BLK": "0",
-    "STL": "3",
-    "MIN": "36",
     "eventDateFormatted": "Nov 1"
 }

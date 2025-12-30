@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Feb 3",
+    "boxScoreLink": "20260203_ww6b.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Finger Lakes Community College",
+                "result": "",
+                "teamId": "samy42n5pvho9vd7",
+                "winner": false,
+                "cleanName": "finger lakes community col"
+            },
+            {
+                "name": "Cayuga Community College",
+                "result": "",
+                "teamId": "0h9t31uhi7lmn3st",
+                "winner": false,
+                "cleanName": "cayuga community col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1770156000000,
+        "localTimeZone": "America/New_York",
+        "tba": false,
+        "home": false,
+        "overall": true,
+        "conference": true,
+        "division": true,
+        "regional": true,
+        "national": true,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "ww6b9q2btt31714s",
+        "fastdate": 1770156000000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Cayuga Community College",
+            "result": "",
+            "teamId": "0h9t31uhi7lmn3st",
+            "winner": false,
+            "cleanName": "cayuga community col"
+        },
+        "us": {
+            "name": "Finger Lakes Community College",
+            "result": "",
+            "teamId": "samy42n5pvho9vd7",
+            "winner": false,
+            "cleanName": "finger lakes community col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "February 3 05:00 PM:"
+}

@@ -1,17 +1,17 @@
 {
     "Player Name": "Kasson James",
+    "MIN": "1",
     "FGM-A": "10-24",
     "3PM-A": "3-13",
     "FTM-A": "1-2",
     "OREB": "1",
     "DREB": "5",
     "REB": "6",
+    "AST": "2",
+    "STL": "4",
+    "BLK": "0",
+    "TO": "3",
     "PF": "3",
     "TP": "24",
-    "AST": "2",
-    "TO": "3",
-    "BLK": "0",
-    "STL": "4",
-    "MIN": "1",
     "eventDateFormatted": "Nov 8"
 }

@@ -1,17 +1,17 @@
 {
     "Player Name": "Jay Summitt",
+    "MIN": "1",
     "FGM-A": "5-8",
     "3PM-A": "0-0",
     "FTM-A": "2-2",
     "OREB": "6",
     "DREB": "9",
     "REB": "15",
+    "AST": "4",
+    "STL": "1",
+    "BLK": "1",
+    "TO": "2",
     "PF": "3",
     "TP": "12",
-    "AST": "4",
-    "TO": "2",
-    "BLK": "1",
-    "STL": "1",
-    "MIN": "1",
     "eventDateFormatted": "Nov 21"
 }

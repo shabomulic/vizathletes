@@ -1,17 +1,17 @@
 {
     "Player Name": "Braylen Blue",
+    "MIN": "33",
     "FGM-A": "1-8",
     "3PM-A": "1-6",
     "FTM-A": "0-0",
     "OREB": "0",
     "DREB": "3",
     "REB": "3",
+    "AST": "0",
+    "STL": "0",
+    "BLK": "0",
+    "TO": "0",
     "PF": "1",
     "TP": "3",
-    "AST": "0",
-    "TO": "0",
-    "BLK": "0",
-    "STL": "0",
-    "MIN": "33",
     "eventDateFormatted": "Nov 25"
 }

@@ -1,17 +1,17 @@
 {
     "Player Name": "Ryan Burkart",
+    "MIN": "35",
     "FGM-A": "11-20",
     "3PM-A": "3-6",
     "FTM-A": "1-2",
     "OREB": "2",
     "DREB": "6",
     "REB": "8",
+    "AST": "7",
+    "STL": "3",
+    "BLK": "0",
+    "TO": "4",
     "PF": "4",
     "TP": "26",
-    "AST": "7",
-    "TO": "4",
-    "BLK": "0",
-    "STL": "3",
-    "MIN": "35",
     "eventDateFormatted": "Dec 7"
 }

@@ -1,17 +1,17 @@
 {
     "Player Name": "Zechariah Canidate",
+    "MIN": "26",
     "FGM-A": "4-8",
     "3PM-A": "0-0",
     "FTM-A": "3-3",
     "OREB": "2",
     "DREB": "2",
     "REB": "4",
+    "AST": "4",
+    "STL": "1",
+    "BLK": "1",
+    "TO": "0",
     "PF": "0",
     "TP": "11",
-    "AST": "4",
-    "TO": "0",
-    "BLK": "1",
-    "STL": "1",
-    "MIN": "26",
     "eventDateFormatted": "Dec 10"
 }

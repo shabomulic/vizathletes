@@ -1,17 +1,17 @@
 {
     "Player Name": "Kacee Hewitt",
+    "MIN": "25",
     "FGM-A": "1-4",
     "3PM-A": "1-4",
     "FTM-A": "0-0",
     "OREB": "0",
     "DREB": "1",
     "REB": "1",
+    "AST": "4",
+    "STL": "3",
+    "BLK": "0",
+    "TO": "1",
     "PF": "0",
     "TP": "3",
-    "AST": "4",
-    "TO": "1",
-    "BLK": "0",
-    "STL": "3",
-    "MIN": "25",
     "eventDateFormatted": "Dec 11"
 }

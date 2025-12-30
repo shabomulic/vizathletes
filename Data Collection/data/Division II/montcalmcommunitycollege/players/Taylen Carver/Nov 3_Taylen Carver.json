@@ -1,17 +1,17 @@
 {
     "Player Name": "Taylen Carver",
+    "MIN": "35",
     "FGM-A": "6-16",
     "3PM-A": "3-11",
     "FTM-A": "1-3",
     "OREB": "3",
     "DREB": "2",
     "REB": "5",
+    "AST": "1",
+    "STL": "1",
+    "BLK": "0",
+    "TO": "2",
     "PF": "1",
     "TP": "16",
-    "AST": "1",
-    "TO": "2",
-    "BLK": "0",
-    "STL": "1",
-    "MIN": "35",
     "eventDateFormatted": "Nov 3"
 }

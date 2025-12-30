@@ -1,17 +1,17 @@
 {
     "Player Name": "Karmari james",
+    "MIN": "25",
     "FGM-A": "5-11",
     "3PM-A": "3-5",
     "FTM-A": "1-2",
     "OREB": "0",
     "DREB": "0",
     "REB": "0",
+    "AST": "1",
+    "STL": "1",
+    "BLK": "0",
+    "TO": "4",
     "PF": "3",
     "TP": "14",
-    "AST": "1",
-    "TO": "4",
-    "BLK": "0",
-    "STL": "1",
-    "MIN": "25",
     "eventDateFormatted": "Nov 2"
 }

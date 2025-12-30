@@ -1,17 +1,17 @@
 {
     "Player Name": "Jordan Summers",
+    "MIN": "25",
     "FGM-A": "6-16",
     "3PM-A": "2-8",
     "FTM-A": "1-4",
     "OREB": "3",
     "DREB": "5",
     "REB": "8",
+    "AST": "4",
+    "STL": "0",
+    "BLK": "0",
+    "TO": "5",
     "PF": "1",
     "TP": "15",
-    "AST": "4",
-    "TO": "5",
-    "BLK": "0",
-    "STL": "0",
-    "MIN": "25",
     "eventDateFormatted": "Nov 16"
 }

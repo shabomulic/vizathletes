@@ -1,17 +1,17 @@
 {
     "Player Name": "Justin Jones",
+    "MIN": "1",
     "FGM-A": "8-15",
     "3PM-A": "0-0",
     "FTM-A": "2-4",
     "OREB": "2",
     "DREB": "4",
     "REB": "6",
+    "AST": "1",
+    "STL": "1",
+    "BLK": "0",
+    "TO": "0",
     "PF": "0",
     "TP": "18",
-    "AST": "1",
-    "TO": "0",
-    "BLK": "0",
-    "STL": "1",
-    "MIN": "1",
     "eventDateFormatted": "Dec 11"
 }

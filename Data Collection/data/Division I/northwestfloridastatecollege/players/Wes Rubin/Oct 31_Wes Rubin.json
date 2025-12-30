@@ -1,17 +1,17 @@
 {
     "Player Name": "Wes Rubin",
+    "MIN": "17",
     "FGM-A": "2-5",
     "3PM-A": "0-0",
     "FTM-A": "2-4",
     "OREB": "1",
     "DREB": "4",
     "REB": "5",
+    "AST": "2",
+    "STL": "0",
+    "BLK": "0",
+    "TO": "1",
     "PF": "0",
     "TP": "6",
-    "AST": "2",
-    "TO": "1",
-    "BLK": "0",
-    "STL": "0",
-    "MIN": "17",
     "eventDateFormatted": "Oct 31"
 }

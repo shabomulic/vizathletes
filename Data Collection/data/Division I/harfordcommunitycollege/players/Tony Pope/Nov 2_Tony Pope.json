@@ -1,17 +1,17 @@
 {
     "Player Name": "Tony Pope",
+    "MIN": "40",
     "FGM-A": "8-20",
     "3PM-A": "3-10",
     "FTM-A": "3-5",
     "OREB": "0",
     "DREB": "6",
     "REB": "6",
+    "AST": "7",
+    "STL": "1",
+    "BLK": "0",
+    "TO": "2",
     "PF": "1",
     "TP": "22",
-    "AST": "7",
-    "TO": "2",
-    "BLK": "0",
-    "STL": "1",
-    "MIN": "40",
     "eventDateFormatted": "Nov 2"
 }

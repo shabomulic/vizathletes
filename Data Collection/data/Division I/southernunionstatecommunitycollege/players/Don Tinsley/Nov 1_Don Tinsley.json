@@ -1,17 +1,17 @@
 {
     "Player Name": "Don Tinsley",
+    "MIN": "36",
     "FGM-A": "5-12",
     "3PM-A": "1-2",
     "FTM-A": "15-19",
     "OREB": "1",
     "DREB": "4",
     "REB": "5",
+    "AST": "1",
+    "STL": "3",
+    "BLK": "0",
+    "TO": "4",
     "PF": "1",
     "TP": "26",
-    "AST": "1",
-    "TO": "4",
-    "BLK": "0",
-    "STL": "3",
-    "MIN": "36",
     "eventDateFormatted": "Nov 1"
 }

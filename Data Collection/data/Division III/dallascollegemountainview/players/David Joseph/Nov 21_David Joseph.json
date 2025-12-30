@@ -1,17 +1,17 @@
 {
     "Player Name": "David Joseph",
+    "MIN": "15",
     "FGM-A": "0-2",
     "3PM-A": "0-0",
     "FTM-A": "0-0",
     "OREB": "2",
     "DREB": "3",
     "REB": "5",
+    "AST": "0",
+    "STL": "0",
+    "BLK": "3",
+    "TO": "0",
     "PF": "4",
     "TP": "0",
-    "AST": "0",
-    "TO": "0",
-    "BLK": "3",
-    "STL": "0",
-    "MIN": "15",
     "eventDateFormatted": "Nov 21"
 }

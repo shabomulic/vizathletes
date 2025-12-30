@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Feb 24",
+    "boxScoreLink": "20260224_7yd8.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Glen Oaks Community College",
+                "result": "",
+                "teamId": "9k18utbdbe4o26f1",
+                "winner": false,
+                "cleanName": "glen oaks community col"
+            },
+            {
+                "name": "Kalamazoo Valley Community College",
+                "result": "",
+                "teamId": "oh95tq6ziwxt3yid",
+                "winner": false,
+                "cleanName": "kalamazoo valley community col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1771979400000,
+        "localTimeZone": "America/New_York",
+        "tba": false,
+        "home": false,
+        "overall": true,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": true,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "7yd8e1hupe6rg1i8",
+        "fastdate": 1771979400000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Kalamazoo Valley Community College",
+            "result": "",
+            "teamId": "oh95tq6ziwxt3yid",
+            "winner": false,
+            "cleanName": "kalamazoo valley community col"
+        },
+        "us": {
+            "name": "Glen Oaks Community College",
+            "result": "",
+            "teamId": "9k18utbdbe4o26f1",
+            "winner": false,
+            "cleanName": "glen oaks community col"
+        },
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "February 24 07:30 PM:"
+}

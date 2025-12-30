@@ -1,17 +1,17 @@
 {
     "Player Name": "Bertran Walthour Jr",
+    "MIN": "25",
     "FGM-A": "3-9",
     "3PM-A": "0-3",
     "FTM-A": "2-2",
     "OREB": "2",
     "DREB": "4",
     "REB": "6",
+    "AST": "1",
+    "STL": "1",
+    "BLK": "0",
+    "TO": "4",
     "PF": "1",
     "TP": "8",
-    "AST": "1",
-    "TO": "4",
-    "BLK": "0",
-    "STL": "1",
-    "MIN": "25",
     "eventDateFormatted": "Nov 14"
 }

@@ -1,17 +1,17 @@
 {
     "Player Name": "Lavell Tinsley",
+    "MIN": "1",
     "FGM-A": "7-13",
     "3PM-A": "3-6",
     "FTM-A": "0-0",
     "OREB": "2",
     "DREB": "3",
     "REB": "5",
+    "AST": "2",
+    "STL": "1",
+    "BLK": "1",
+    "TO": "4",
     "PF": "2",
     "TP": "17",
-    "AST": "2",
-    "TO": "4",
-    "BLK": "1",
-    "STL": "1",
-    "MIN": "1",
     "eventDateFormatted": "Dec 3"
 }

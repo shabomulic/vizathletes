@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Oct 12",
+    "boxScoreLink": "20251012_l837.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Vincennes Jamboree",
+                "result": "",
+                "teamId": "vx0uuhae4c0q4rot",
+                "winner": false,
+                "cleanName": "vincennes jamboree"
+            },
+            {
+                "name": "Columbia State Community College",
+                "result": "",
+                "teamId": "fcf6txu96s3oy2cv",
+                "winner": false,
+                "cleanName": "columbia st community col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1760241600000,
+        "localTimeZone": "America/New_York",
+        "tba": true,
+        "home": true,
+        "overall": true,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "l837a2mfo24ihyw5",
+        "fastdate": 1760241600000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "Vincennes, IN",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "descriptionShortWithOT": "",
+            "winnerLoser": ""
+        },
+        "opponent": {
+            "name": "Vincennes Jamboree",
+            "result": "",
+            "teamId": "vx0uuhae4c0q4rot",
+            "winner": false,
+            "cleanName": "vincennes jamboree"
+        },
+        "us": {
+            "name": "Columbia State Community College",
+            "result": "",
+            "teamId": "fcf6txu96s3oy2cv",
+            "winner": false,
+            "cleanName": "columbia st community col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "descriptionShortWithOT": "",
+            "winnerLoser": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "October 12 12:00 AM:"
+}

@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Oct 16",
+    "boxScoreLink": "20251016_76i6.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "North Platte Community College",
+                "result": "",
+                "teamId": "k5ubq4182upqgb24",
+                "winner": false,
+                "cleanName": "n platte community col"
+            },
+            {
+                "name": "Utah State Eastern College",
+                "result": "",
+                "teamId": "fzepzidhyf2pyl68",
+                "winner": false,
+                "cleanName": "utah st e col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1760650200000,
+        "localTimeZone": "America/Chicago",
+        "tba": false,
+        "home": false,
+        "overall": false,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "Rocky Mountain Jamboree | Windsor, Colo. ",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "76i6t49by2brc1lk",
+        "fastdate": 1760650200000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "Rocky Mountain Jamboree | Windsor, Colo. ",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "exhibition",
+            "description": "Exhibition",
+            "statsCount": false
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Utah State Eastern College",
+            "result": "",
+            "teamId": "fzepzidhyf2pyl68",
+            "winner": false,
+            "cleanName": "utah st e col"
+        },
+        "us": {
+            "name": "North Platte Community College",
+            "result": "",
+            "teamId": "k5ubq4182upqgb24",
+            "winner": false,
+            "cleanName": "n platte community col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "October 16 05:30 PM:"
+}

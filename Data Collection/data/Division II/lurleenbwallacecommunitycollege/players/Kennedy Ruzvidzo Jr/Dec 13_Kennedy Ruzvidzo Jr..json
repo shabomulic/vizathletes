@@ -1,17 +1,17 @@
 {
-    "Player Name": "Kennedy Ruzvidzo Jr",
+    "Player Name": "Kennedy Ruzvidzo Jr.",
+    "MIN": "1",
     "FGM-A": "8-16",
     "3PM-A": "1-2",
     "FTM-A": "4-5",
     "OREB": "1",
     "DREB": "4",
     "REB": "5",
+    "AST": "2",
+    "STL": "0",
+    "BLK": "1",
+    "TO": "4",
     "PF": "1",
     "TP": "21",
-    "AST": "2",
-    "TO": "4",
-    "BLK": "1",
-    "STL": "0",
-    "MIN": "1",
     "eventDateFormatted": "Dec 13"
 }

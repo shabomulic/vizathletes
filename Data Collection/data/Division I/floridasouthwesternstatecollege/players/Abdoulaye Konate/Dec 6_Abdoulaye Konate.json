@@ -1,17 +1,17 @@
 {
     "Player Name": "Abdoulaye Konate",
+    "MIN": "33",
     "FGM-A": "6-19",
     "3PM-A": "2-8",
     "FTM-A": "2-3",
     "OREB": "1",
     "DREB": "7",
     "REB": "8",
+    "AST": "1",
+    "STL": "1",
+    "BLK": "1",
+    "TO": "1",
     "PF": "2",
     "TP": "16",
-    "AST": "1",
-    "TO": "1",
-    "BLK": "1",
-    "STL": "1",
-    "MIN": "33",
     "eventDateFormatted": "Dec 6"
 }

@@ -1,17 +1,17 @@
 {
     "Player Name": "Willie Evans",
+    "MIN": "23",
     "FGM-A": "3-5",
     "3PM-A": "0-0",
     "FTM-A": "0-0",
     "OREB": "2",
     "DREB": "6",
     "REB": "8",
+    "AST": "1",
+    "STL": "1",
+    "BLK": "5",
+    "TO": "1",
     "PF": "0",
     "TP": "6",
-    "AST": "1",
-    "TO": "1",
-    "BLK": "5",
-    "STL": "1",
-    "MIN": "23",
     "eventDateFormatted": "Nov 3"
 }

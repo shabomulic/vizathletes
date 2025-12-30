@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Jan 17",
+    "boxScoreLink": "20260117_4x5u.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Mott Community College",
+                "result": "",
+                "teamId": "ou0fisqujnf6oda0",
+                "winner": false,
+                "cleanName": "mott community col"
+            },
+            {
+                "name": "Macomb Community College",
+                "result": "",
+                "teamId": "qtwgbpgu0oeio8bq",
+                "winner": false,
+                "cleanName": "macomb community col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "Played at Wayne State's Matthaei Center",
+        "date": 1768680000000,
+        "localTimeZone": "America/New_York",
+        "tba": false,
+        "home": false,
+        "overall": true,
+        "conference": true,
+        "division": false,
+        "regional": false,
+        "national": true,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "4x5uuuqu92tecpif",
+        "fastdate": 1768680000000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Macomb Community College",
+            "result": "",
+            "teamId": "qtwgbpgu0oeio8bq",
+            "winner": false,
+            "cleanName": "macomb community col"
+        },
+        "us": {
+            "name": "Mott Community College",
+            "result": "",
+            "teamId": "ou0fisqujnf6oda0",
+            "winner": false,
+            "cleanName": "mott community col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "January 17 03:00 PM:"
+}

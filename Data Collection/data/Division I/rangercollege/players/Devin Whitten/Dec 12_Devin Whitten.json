@@ -1,17 +1,17 @@
 {
     "Player Name": "Devin Whitten",
+    "MIN": "21",
     "FGM-A": "4-11",
     "3PM-A": "2-5",
     "FTM-A": "3-6",
     "OREB": "3",
     "DREB": "2",
     "REB": "5",
+    "AST": "0",
+    "STL": "0",
+    "BLK": "0",
+    "TO": "0",
     "PF": "0",
     "TP": "13",
-    "AST": "0",
-    "TO": "0",
-    "BLK": "0",
-    "STL": "0",
-    "MIN": "21",
     "eventDateFormatted": "Dec 12"
 }

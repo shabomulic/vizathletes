@@ -1,17 +1,17 @@
 {
     "Player Name": "Elijah Pippins",
+    "MIN": "1",
     "FGM-A": "4-8",
     "3PM-A": "0-2",
     "FTM-A": "7-8",
     "OREB": "0",
     "DREB": "0",
     "REB": "0",
+    "AST": "6",
+    "STL": "1",
+    "BLK": "0",
+    "TO": "2",
     "PF": "3",
     "TP": "15",
-    "AST": "6",
-    "TO": "2",
-    "BLK": "0",
-    "STL": "1",
-    "MIN": "1",
     "eventDateFormatted": "Nov 1"
 }

@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Feb 7",
+    "boxScoreLink": "20260207_l12r.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Northland Community & Technical College",
+                "result": "",
+                "teamId": "7x0gitqnr71vh7kx",
+                "winner": false,
+                "cleanName": "northland community technical col"
+            },
+            {
+                "name": "Minnesota North College-Rainy River",
+                "result": "",
+                "teamId": "2ygwicvvcwc0mn06",
+                "winner": false,
+                "cleanName": "minn n col rainy river"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1770494400000,
+        "localTimeZone": "America/Winnipeg",
+        "tba": false,
+        "home": false,
+        "overall": true,
+        "conference": true,
+        "division": true,
+        "regional": true,
+        "national": true,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "l12rqgrxsmwioh99",
+        "fastdate": 1770494400000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Minnesota North College-Rainy River",
+            "result": "",
+            "teamId": "2ygwicvvcwc0mn06",
+            "winner": false,
+            "cleanName": "minn n col rainy river"
+        },
+        "us": {
+            "name": "Northland Community & Technical College",
+            "result": "",
+            "teamId": "7x0gitqnr71vh7kx",
+            "winner": false,
+            "cleanName": "northland community technical col"
+        },
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "February 7 03:00 PM:"
+}

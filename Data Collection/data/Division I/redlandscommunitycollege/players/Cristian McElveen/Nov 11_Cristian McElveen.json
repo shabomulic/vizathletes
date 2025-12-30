@@ -1,17 +1,17 @@
 {
     "Player Name": "Cristian McElveen",
+    "MIN": "26",
     "FGM-A": "5-11",
     "3PM-A": "0-2",
     "FTM-A": "2-4",
     "OREB": "2",
     "DREB": "4",
     "REB": "6",
+    "AST": "1",
+    "STL": "2",
+    "BLK": "2",
+    "TO": "1",
     "PF": "3",
     "TP": "12",
-    "AST": "1",
-    "TO": "1",
-    "BLK": "2",
-    "STL": "2",
-    "MIN": "26",
     "eventDateFormatted": "Nov 11"
 }

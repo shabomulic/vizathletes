@@ -1,17 +1,17 @@
 {
     "Player Name": "Jaden French",
+    "MIN": "20",
     "FGM-A": "2-10",
     "3PM-A": "1-6",
     "FTM-A": "0-1",
     "OREB": "0",
     "DREB": "2",
     "REB": "2",
+    "AST": "3",
+    "STL": "2",
+    "BLK": "0",
+    "TO": "4",
     "PF": "4",
     "TP": "5",
-    "AST": "3",
-    "TO": "4",
-    "BLK": "0",
-    "STL": "2",
-    "MIN": "20",
     "eventDateFormatted": "Nov 1"
 }

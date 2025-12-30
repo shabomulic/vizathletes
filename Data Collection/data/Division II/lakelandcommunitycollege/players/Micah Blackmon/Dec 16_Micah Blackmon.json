@@ -1,17 +1,17 @@
 {
     "Player Name": "Micah Blackmon",
+    "MIN": "30",
     "FGM-A": "3-5",
     "3PM-A": "0-0",
     "FTM-A": "3-8",
     "OREB": "1",
     "DREB": "6",
     "REB": "7",
+    "AST": "2",
+    "STL": "1",
+    "BLK": "2",
+    "TO": "0",
     "PF": "0",
     "TP": "9",
-    "AST": "2",
-    "TO": "0",
-    "BLK": "2",
-    "STL": "1",
-    "MIN": "30",
     "eventDateFormatted": "Dec 16"
 }

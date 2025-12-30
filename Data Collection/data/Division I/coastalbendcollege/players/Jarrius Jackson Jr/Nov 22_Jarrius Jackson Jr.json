@@ -1,17 +1,17 @@
 {
     "Player Name": "Jarrius Jackson Jr",
+    "MIN": "1",
     "FGM-A": "3-10",
     "3PM-A": "1-6",
     "FTM-A": "0-0",
     "OREB": "1",
     "DREB": "7",
     "REB": "8",
+    "AST": "4",
+    "STL": "3",
+    "BLK": "0",
+    "TO": "2",
     "PF": "1",
     "TP": "7",
-    "AST": "4",
-    "TO": "2",
-    "BLK": "0",
-    "STL": "3",
-    "MIN": "1",
     "eventDateFormatted": "Nov 22"
 }

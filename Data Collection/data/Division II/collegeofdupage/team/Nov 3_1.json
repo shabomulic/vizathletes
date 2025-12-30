@@ -1,0 +1,161 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Nov 3",
+    "boxScoreLink": "20251103_oyxn.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Olivet Nazarene JV",
+                "result": "51",
+                "teamId": "tv5qa5wwbdpb2qnc",
+                "winner": false,
+                "cleanName": "olivet nazarene jv"
+            },
+            {
+                "name": "College of DuPage",
+                "result": "76",
+                "teamId": "7p9wu4ab2mzjq40d",
+                "winner": false,
+                "cleanName": "col dupage"
+            }
+        ],
+        "status": "Final",
+        "notes": "",
+        "notesShared": "",
+        "date": 1762214400000,
+        "localTimeZone": "America/Chicago",
+        "tba": false,
+        "home": true,
+        "overall": false,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": 0,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "oyxnnjxkacvkfjz0",
+        "fastdate": 1762214400000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "conferenceResult": "76-51",
+        "resultAsObject": {
+            "results": [
+                51,
+                76
+            ],
+            "winner": {
+                "name": "College of DuPage",
+                "result": "76",
+                "teamId": "7p9wu4ab2mzjq40d",
+                "winner": false,
+                "cleanName": "col dupage"
+            },
+            "loser": {
+                "name": "Olivet Nazarene JV",
+                "result": "51",
+                "teamId": "tv5qa5wwbdpb2qnc",
+                "winner": false,
+                "cleanName": "olivet nazarene jv"
+            },
+            "resolved": true,
+            "hasScores": true,
+            "numericResults": [
+                76,
+                51
+            ],
+            "description": "Win",
+            "score": "76-51",
+            "winnerLoser": "76-51",
+            "descriptionShortWithOT": "W"
+        },
+        "opponent": {
+            "name": "Olivet Nazarene JV",
+            "result": "51",
+            "teamId": "tv5qa5wwbdpb2qnc",
+            "winner": false,
+            "cleanName": "olivet nazarene jv"
+        },
+        "us": {
+            "name": "College of DuPage",
+            "result": "76",
+            "teamId": "7p9wu4ab2mzjq40d",
+            "winner": false,
+            "cleanName": "col dupage"
+        },
+        "winner": {
+            "name": "College of DuPage",
+            "result": "76",
+            "teamId": "7p9wu4ab2mzjq40d",
+            "winner": false,
+            "cleanName": "col dupage"
+        },
+        "loser": {
+            "name": "Olivet Nazarene JV",
+            "result": "51",
+            "teamId": "tv5qa5wwbdpb2qnc",
+            "winner": false,
+            "cleanName": "olivet nazarene jv"
+        },
+        "apresult": "W, 76-51",
+        "ap2Result": "W, 76-51",
+        "result": {
+            "results": [
+                51,
+                76
+            ],
+            "winner": {
+                "name": "College of DuPage",
+                "result": "76",
+                "teamId": "7p9wu4ab2mzjq40d",
+                "winner": false,
+                "cleanName": "col dupage"
+            },
+            "loser": {
+                "name": "Olivet Nazarene JV",
+                "result": "51",
+                "teamId": "tv5qa5wwbdpb2qnc",
+                "winner": false,
+                "cleanName": "olivet nazarene jv"
+            },
+            "resolved": true,
+            "hasScores": true,
+            "numericResults": [
+                76,
+                51
+            ],
+            "description": "Win",
+            "score": "76-51",
+            "winnerLoser": "76-51",
+            "descriptionShortWithOT": "W"
+        }
+    },
+    "eventDateFormattedAriaLabel": "November 3 07:00 PM:"
+}

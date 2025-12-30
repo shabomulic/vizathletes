@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Jan 13",
+    "boxScoreLink": "20260113_29e8.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Rowan College South Jersey - Gloucester",
+                "result": "",
+                "teamId": "tmr7x5kfhxbw4gau",
+                "winner": false,
+                "cleanName": "rowan col s jersey gloucester"
+            },
+            {
+                "name": "Ocean County College",
+                "result": "",
+                "teamId": "mfgg3l4gugpwle60",
+                "winner": false,
+                "cleanName": "ocean county col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1768348800000,
+        "localTimeZone": "America/New_York",
+        "tba": false,
+        "home": false,
+        "overall": true,
+        "conference": true,
+        "division": true,
+        "regional": false,
+        "national": true,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "29e8267nu7xf112z",
+        "fastdate": 1768348800000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Ocean County College",
+            "result": "",
+            "teamId": "mfgg3l4gugpwle60",
+            "winner": false,
+            "cleanName": "ocean county col"
+        },
+        "us": {
+            "name": "Rowan College South Jersey - Gloucester",
+            "result": "",
+            "teamId": "tmr7x5kfhxbw4gau",
+            "winner": false,
+            "cleanName": "rowan col s jersey gloucester"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "January 13 07:00 PM:"
+}

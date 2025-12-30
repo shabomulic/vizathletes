@@ -1,17 +1,17 @@
 {
     "Player Name": "Lajerran Long",
+    "MIN": "1",
     "FGM-A": "1-2",
     "3PM-A": "1-2",
     "FTM-A": "0-0",
     "OREB": "0",
     "DREB": "1",
     "REB": "1",
+    "AST": "1",
+    "STL": "0",
+    "BLK": "0",
+    "TO": "1",
     "PF": "0",
     "TP": "3",
-    "AST": "1",
-    "TO": "1",
-    "BLK": "0",
-    "STL": "0",
-    "MIN": "1",
     "eventDateFormatted": "Nov 8"
 }

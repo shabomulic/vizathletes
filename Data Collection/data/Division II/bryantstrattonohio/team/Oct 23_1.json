@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Oct 23",
+    "boxScoreLink": "20251023_6zst.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Bryant & Stratton (Ohio)",
+                "result": "",
+                "teamId": "0s9p6o9cqei0erdc",
+                "winner": false,
+                "cleanName": "bryant stratton ohio"
+            },
+            {
+                "name": "Spire Academy",
+                "result": "",
+                "teamId": "e5v5g5jxezmrv4vj",
+                "winner": false,
+                "cleanName": "spire academy"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "Scrimmage",
+        "date": 1761253200000,
+        "localTimeZone": "America/New_York",
+        "tba": false,
+        "home": false,
+        "overall": false,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "6zstgwa0omm0yqau",
+        "fastdate": 1761253200000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "5201 Spire Cir, Geneva, OH 44041",
+        "city": "Geneva",
+        "stateCountry": "OH",
+        "zipCode": "44041",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "scrimmage",
+            "description": "Scrimmage",
+            "statsCount": false
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Spire Academy",
+            "result": "",
+            "teamId": "e5v5g5jxezmrv4vj",
+            "winner": false,
+            "cleanName": "spire academy"
+        },
+        "us": {
+            "name": "Bryant & Stratton (Ohio)",
+            "result": "",
+            "teamId": "0s9p6o9cqei0erdc",
+            "winner": false,
+            "cleanName": "bryant stratton ohio"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "October 23 05:00 PM:"
+}

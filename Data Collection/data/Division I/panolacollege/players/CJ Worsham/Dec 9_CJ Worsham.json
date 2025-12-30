@@ -1,17 +1,17 @@
 {
     "Player Name": "CJ Worsham",
+    "MIN": "1",
     "FGM-A": "5-9",
     "3PM-A": "0-0",
     "FTM-A": "3-6",
     "OREB": "5",
     "DREB": "2",
     "REB": "7",
+    "AST": "6",
+    "STL": "1",
+    "BLK": "1",
+    "TO": "0",
     "PF": "2",
     "TP": "13",
-    "AST": "6",
-    "TO": "0",
-    "BLK": "1",
-    "STL": "1",
-    "MIN": "1",
     "eventDateFormatted": "Dec 9"
 }

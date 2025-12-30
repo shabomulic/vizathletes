@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Oct 16",
+    "boxScoreLink": "20251016_t07h.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Dawson Community College",
+                "result": "",
+                "teamId": "3pim3egp5wrsvj8e",
+                "winner": false,
+                "cleanName": "dawson community col"
+            },
+            {
+                "name": "Big Bend",
+                "result": "",
+                "teamId": "1q0qjrd23hewizc3",
+                "winner": false,
+                "cleanName": "big bend"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "Rocky Mountain Jamboree (Windsor, CO)",
+        "date": 1760619600000,
+        "localTimeZone": "America/Denver",
+        "tba": false,
+        "home": false,
+        "overall": false,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "t07hhzte7zagcdnx",
+        "fastdate": 1760619600000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "Windsor, CO",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "scrimmage",
+            "description": "Scrimmage",
+            "statsCount": false
+        },
+        "us": {
+            "name": "Dawson Community College",
+            "result": "",
+            "teamId": "3pim3egp5wrsvj8e",
+            "winner": false,
+            "cleanName": "dawson community col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Big Bend",
+            "result": "",
+            "teamId": "1q0qjrd23hewizc3",
+            "winner": false,
+            "cleanName": "big bend"
+        },
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "October 16 09:00 AM:"
+}

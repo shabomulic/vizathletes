@@ -1,17 +1,17 @@
 {
     "Player Name": "Matthew Johnson",
+    "MIN": "1",
     "FGM-A": "8-15",
     "3PM-A": "1-2",
     "FTM-A": "2-2",
     "OREB": "5",
     "DREB": "2",
     "REB": "7",
+    "AST": "0",
+    "STL": "2",
+    "BLK": "1",
+    "TO": "4",
     "PF": "0",
     "TP": "19",
-    "AST": "0",
-    "TO": "4",
-    "BLK": "1",
-    "STL": "2",
-    "MIN": "1",
     "eventDateFormatted": "Dec 13"
 }

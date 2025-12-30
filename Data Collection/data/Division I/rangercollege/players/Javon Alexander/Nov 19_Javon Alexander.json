@@ -1,17 +1,17 @@
 {
     "Player Name": "Javon Alexander",
+    "MIN": "26",
     "FGM-A": "1-5",
     "3PM-A": "0-0",
     "FTM-A": "1-2",
     "OREB": "1",
     "DREB": "3",
     "REB": "4",
+    "AST": "5",
+    "STL": "0",
+    "BLK": "1",
+    "TO": "2",
     "PF": "0",
     "TP": "3",
-    "AST": "5",
-    "TO": "2",
-    "BLK": "1",
-    "STL": "0",
-    "MIN": "26",
     "eventDateFormatted": "Nov 19"
 }

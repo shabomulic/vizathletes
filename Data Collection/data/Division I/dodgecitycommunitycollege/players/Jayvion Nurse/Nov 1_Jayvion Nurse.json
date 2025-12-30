@@ -1,17 +1,17 @@
 {
     "Player Name": "Jayvion Nurse",
+    "MIN": "32",
     "FGM-A": "4-9",
     "3PM-A": "1-4",
     "FTM-A": "3-4",
     "OREB": "1",
     "DREB": "7",
     "REB": "8",
+    "AST": "3",
+    "STL": "1",
+    "BLK": "0",
+    "TO": "4",
     "PF": "1",
     "TP": "12",
-    "AST": "3",
-    "TO": "4",
-    "BLK": "0",
-    "STL": "1",
-    "MIN": "32",
     "eventDateFormatted": "Nov 1"
 }

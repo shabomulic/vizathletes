@@ -1,17 +1,17 @@
 {
     "Player Name": "Jaymion Copper",
+    "MIN": "29:35",
     "FGM-A": "2-9",
     "3PM-A": "0-2",
     "FTM-A": "3-6",
     "OREB": "3",
     "DREB": "5",
     "REB": "8",
+    "AST": "7",
+    "STL": "3",
+    "BLK": "0",
+    "TO": "3",
     "PF": "3",
     "TP": "7",
-    "AST": "7",
-    "TO": "3",
-    "BLK": "0",
-    "STL": "3",
-    "MIN": "29:35",
     "eventDateFormatted": "Dec 18"
 }

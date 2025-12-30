@@ -1,0 +1,161 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Oct 21",
+    "boxScoreLink": "20251021_r2ru.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Southeastern Baptist College",
+                "result": "44",
+                "teamId": "q6gtbvlddamhh6nj",
+                "winner": false,
+                "cleanName": "southeastern baptist col"
+            },
+            {
+                "name": "Jones College",
+                "result": "110",
+                "teamId": "q68muyt26xus918z",
+                "winner": false,
+                "cleanName": "jones col"
+            }
+        ],
+        "status": "Final",
+        "notes": "",
+        "notesShared": "",
+        "date": 1761089400000,
+        "localTimeZone": "America/Chicago",
+        "tba": false,
+        "home": true,
+        "overall": false,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": 0,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "r2ruoqqf1z4hn0tx",
+        "fastdate": 1761089400000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "exhibition",
+            "description": "Exhibition",
+            "statsCount": false
+        },
+        "opponent": {
+            "name": "Southeastern Baptist College",
+            "result": "44",
+            "teamId": "q6gtbvlddamhh6nj",
+            "winner": false,
+            "cleanName": "southeastern baptist col"
+        },
+        "us": {
+            "name": "Jones College",
+            "result": "110",
+            "teamId": "q68muyt26xus918z",
+            "winner": false,
+            "cleanName": "jones col"
+        },
+        "winner": {
+            "name": "Jones College",
+            "result": "110",
+            "teamId": "q68muyt26xus918z",
+            "winner": false,
+            "cleanName": "jones col"
+        },
+        "loser": {
+            "name": "Southeastern Baptist College",
+            "result": "44",
+            "teamId": "q6gtbvlddamhh6nj",
+            "winner": false,
+            "cleanName": "southeastern baptist col"
+        },
+        "apresult": "W, 110-44",
+        "ap2Result": "W, 110-44",
+        "conferenceResult": "110-44",
+        "resultAsObject": {
+            "results": [
+                44,
+                110
+            ],
+            "winner": {
+                "name": "Jones College",
+                "result": "110",
+                "teamId": "q68muyt26xus918z",
+                "winner": false,
+                "cleanName": "jones col"
+            },
+            "loser": {
+                "name": "Southeastern Baptist College",
+                "result": "44",
+                "teamId": "q6gtbvlddamhh6nj",
+                "winner": false,
+                "cleanName": "southeastern baptist col"
+            },
+            "resolved": true,
+            "hasScores": true,
+            "description": "Win",
+            "score": "110-44",
+            "numericResults": [
+                110,
+                44
+            ],
+            "winnerLoser": "110-44",
+            "descriptionShortWithOT": "W"
+        },
+        "result": {
+            "results": [
+                44,
+                110
+            ],
+            "winner": {
+                "name": "Jones College",
+                "result": "110",
+                "teamId": "q68muyt26xus918z",
+                "winner": false,
+                "cleanName": "jones col"
+            },
+            "loser": {
+                "name": "Southeastern Baptist College",
+                "result": "44",
+                "teamId": "q6gtbvlddamhh6nj",
+                "winner": false,
+                "cleanName": "southeastern baptist col"
+            },
+            "resolved": true,
+            "hasScores": true,
+            "description": "Win",
+            "score": "110-44",
+            "numericResults": [
+                110,
+                44
+            ],
+            "winnerLoser": "110-44",
+            "descriptionShortWithOT": "W"
+        }
+    },
+    "eventDateFormattedAriaLabel": "October 21 07:30 PM:"
+}

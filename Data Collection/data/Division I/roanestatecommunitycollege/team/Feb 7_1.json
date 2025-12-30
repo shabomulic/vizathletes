@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Feb 7",
+    "boxScoreLink": "20260207_7g1p.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Dyersburg State Community College",
+                "result": "",
+                "teamId": "7srrm0bwvfuovgn1",
+                "winner": false,
+                "cleanName": "dyersburg st community col"
+            },
+            {
+                "name": "Roane State Community College",
+                "result": "",
+                "teamId": "z3c15p2qvoal7rgp",
+                "winner": false,
+                "cleanName": "roane st community col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1770498000000,
+        "localTimeZone": "America/New_York",
+        "tba": false,
+        "home": true,
+        "overall": true,
+        "conference": true,
+        "division": false,
+        "regional": true,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "7g1p9m3udczdgtos",
+        "fastdate": 1770498000000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Dyersburg State Community College",
+            "result": "",
+            "teamId": "7srrm0bwvfuovgn1",
+            "winner": false,
+            "cleanName": "dyersburg st community col"
+        },
+        "us": {
+            "name": "Roane State Community College",
+            "result": "",
+            "teamId": "z3c15p2qvoal7rgp",
+            "winner": false,
+            "cleanName": "roane st community col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "February 7 04:00 PM:"
+}

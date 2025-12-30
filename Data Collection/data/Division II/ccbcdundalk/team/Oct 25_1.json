@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Oct 25",
+    "boxScoreLink": "20251025_indf.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "CCBC Dundalk",
+                "result": "",
+                "teamId": "jhfzyd61v4l276h6",
+                "winner": false,
+                "cleanName": "ccbc dundalk"
+            },
+            {
+                "name": "CCBC Catonsville Jamboree",
+                "result": "",
+                "teamId": "vxjwbqew6hd158p6",
+                "winner": false,
+                "cleanName": "ccbc catonsville jamboree"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "Catonsville, Md. ",
+        "date": 1761364800000,
+        "localTimeZone": "America/New_York",
+        "tba": true,
+        "home": false,
+        "overall": false,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "indfp7mr3y702sh0",
+        "fastdate": 1761364800000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "preSeason",
+            "description": "Pre-Season",
+            "statsCount": true
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "CCBC Catonsville Jamboree",
+            "result": "",
+            "teamId": "vxjwbqew6hd158p6",
+            "winner": false,
+            "cleanName": "ccbc catonsville jamboree"
+        },
+        "us": {
+            "name": "CCBC Dundalk",
+            "result": "",
+            "teamId": "jhfzyd61v4l276h6",
+            "winner": false,
+            "cleanName": "ccbc dundalk"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "October 25 12:00 AM:"
+}

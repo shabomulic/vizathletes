@@ -1,17 +1,17 @@
 {
     "Player Name": "Ryan Raad",
+    "MIN": "30",
     "FGM-A": "1-9",
     "3PM-A": "0-4",
     "FTM-A": "4-5",
     "OREB": "0",
     "DREB": "3",
     "REB": "3",
+    "AST": "1",
+    "STL": "1",
+    "BLK": "0",
+    "TO": "5",
     "PF": "4",
     "TP": "6",
-    "AST": "1",
-    "TO": "5",
-    "BLK": "0",
-    "STL": "1",
-    "MIN": "30",
     "eventDateFormatted": "Nov 15"
 }

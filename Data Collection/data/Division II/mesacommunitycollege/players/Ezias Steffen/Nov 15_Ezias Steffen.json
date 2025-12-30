@@ -1,17 +1,17 @@
 {
     "Player Name": "Ezias Steffen",
+    "MIN": "39",
     "FGM-A": "7-13",
     "3PM-A": "1-2",
     "FTM-A": "1-2",
     "OREB": "0",
     "DREB": "5",
     "REB": "5",
+    "AST": "6",
+    "STL": "0",
+    "BLK": "1",
+    "TO": "4",
     "PF": "1",
     "TP": "16",
-    "AST": "6",
-    "TO": "4",
-    "BLK": "1",
-    "STL": "0",
-    "MIN": "39",
     "eventDateFormatted": "Nov 15"
 }

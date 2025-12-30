@@ -1,17 +1,17 @@
 {
     "Player Name": "Antwon Tillman",
+    "MIN": "1",
     "FGM-A": "7-11",
     "3PM-A": "1-2",
     "FTM-A": "2-2",
     "OREB": "2",
     "DREB": "2",
     "REB": "4",
+    "AST": "3",
+    "STL": "0",
+    "BLK": "0",
+    "TO": "3",
     "PF": "0",
     "TP": "17",
-    "AST": "3",
-    "TO": "3",
-    "BLK": "0",
-    "STL": "0",
-    "MIN": "1",
     "eventDateFormatted": "Nov 25"
 }

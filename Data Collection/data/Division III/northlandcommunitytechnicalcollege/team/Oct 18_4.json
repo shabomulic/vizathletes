@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Oct 18",
+    "boxScoreLink": "20251018_43gi.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Minnesota North College-Itasca",
+                "result": "",
+                "teamId": "8d37zc2z2toqk8ha",
+                "winner": false,
+                "cleanName": "minn n col itasca"
+            },
+            {
+                "name": "Northland Community & Technical College",
+                "result": "",
+                "teamId": "7x0gitqnr71vh7kx",
+                "winner": false,
+                "cleanName": "northland community technical col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1760806800000,
+        "localTimeZone": "America/Winnipeg",
+        "tba": false,
+        "home": true,
+        "overall": false,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "43gid2i7f417ph24",
+        "fastdate": 1760806800000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "scrimmage",
+            "description": "Scrimmage",
+            "statsCount": false
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Minnesota North College-Itasca",
+            "result": "",
+            "teamId": "8d37zc2z2toqk8ha",
+            "winner": false,
+            "cleanName": "minn n col itasca"
+        },
+        "us": {
+            "name": "Northland Community & Technical College",
+            "result": "",
+            "teamId": "7x0gitqnr71vh7kx",
+            "winner": false,
+            "cleanName": "northland community technical col"
+        },
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "October 18 01:00 PM:"
+}

@@ -1,17 +1,17 @@
 {
     "Player Name": "Dejon Williams",
+    "MIN": "29",
     "FGM-A": "2-10",
     "3PM-A": "0-2",
     "FTM-A": "3-4",
     "OREB": "1",
     "DREB": "10",
     "REB": "11",
+    "AST": "2",
+    "STL": "2",
+    "BLK": "3",
+    "TO": "2",
     "PF": "2",
     "TP": "7",
-    "AST": "2",
-    "TO": "2",
-    "BLK": "3",
-    "STL": "2",
-    "MIN": "29",
     "eventDateFormatted": "Nov 20"
 }

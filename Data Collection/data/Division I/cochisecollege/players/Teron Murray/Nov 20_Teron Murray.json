@@ -1,17 +1,17 @@
 {
     "Player Name": "Teron Murray",
+    "MIN": "40",
     "FGM-A": "4-13",
     "3PM-A": "1-5",
     "FTM-A": "6-7",
     "OREB": "1",
     "DREB": "6",
     "REB": "7",
+    "AST": "3",
+    "STL": "2",
+    "BLK": "0",
+    "TO": "5",
     "PF": "1",
     "TP": "15",
-    "AST": "3",
-    "TO": "5",
-    "BLK": "0",
-    "STL": "2",
-    "MIN": "40",
     "eventDateFormatted": "Nov 20"
 }

@@ -1,17 +1,17 @@
 {
     "Player Name": "Sunny Singh",
+    "MIN": "28",
     "FGM-A": "7-13",
     "3PM-A": "3-7",
     "FTM-A": "3-4",
     "OREB": "2",
     "DREB": "1",
     "REB": "3",
+    "AST": "5",
+    "STL": "3",
+    "BLK": "0",
+    "TO": "2",
     "PF": "2",
     "TP": "20",
-    "AST": "5",
-    "TO": "2",
-    "BLK": "0",
-    "STL": "3",
-    "MIN": "28",
     "eventDateFormatted": "Nov 3"
 }

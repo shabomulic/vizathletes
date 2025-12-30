@@ -1,17 +1,17 @@
 {
     "Player Name": "Brandyn Seldomridge",
+    "MIN": "1",
     "FGM-A": "5-17",
     "3PM-A": "1-2",
     "FTM-A": "0-2",
     "OREB": "0",
     "DREB": "0",
     "REB": "0",
+    "AST": "0",
+    "STL": "0",
+    "BLK": "0",
+    "TO": "4",
     "PF": "4",
     "TP": "11",
-    "AST": "0",
-    "TO": "4",
-    "BLK": "0",
-    "STL": "0",
-    "MIN": "1",
     "eventDateFormatted": "Dec 3"
 }

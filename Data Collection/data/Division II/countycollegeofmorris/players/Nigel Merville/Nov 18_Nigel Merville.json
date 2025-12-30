@@ -1,17 +1,17 @@
 {
     "Player Name": "Nigel Merville",
+    "MIN": "28:37",
     "FGM-A": "7-11",
     "3PM-A": "3-6",
     "FTM-A": "1-4",
     "OREB": "2",
     "DREB": "2",
     "REB": "4",
+    "AST": "2",
+    "STL": "1",
+    "BLK": "1",
+    "TO": "1",
     "PF": "1",
     "TP": "18",
-    "AST": "2",
-    "TO": "1",
-    "BLK": "1",
-    "STL": "1",
-    "MIN": "28:37",
     "eventDateFormatted": "Nov 18"
 }

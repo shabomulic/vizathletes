@@ -1,17 +1,17 @@
 {
     "Player Name": "Raydelh Boutin",
+    "MIN": "34",
     "FGM-A": "1-7",
     "3PM-A": "0-1",
     "FTM-A": "4-4",
     "OREB": "0",
     "DREB": "4",
     "REB": "4",
+    "AST": "7",
+    "STL": "1",
+    "BLK": "0",
+    "TO": "3",
     "PF": "2",
     "TP": "6",
-    "AST": "7",
-    "TO": "3",
-    "BLK": "0",
-    "STL": "1",
-    "MIN": "34",
     "eventDateFormatted": "Dec 13"
 }

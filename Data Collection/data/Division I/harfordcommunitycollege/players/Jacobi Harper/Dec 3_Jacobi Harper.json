@@ -1,17 +1,17 @@
 {
     "Player Name": "Jacobi Harper",
+    "MIN": "32",
     "FGM-A": "0-7",
     "3PM-A": "0-2",
     "FTM-A": "3-6",
     "OREB": "1",
     "DREB": "5",
     "REB": "6",
+    "AST": "5",
+    "STL": "2",
+    "BLK": "0",
+    "TO": "3",
     "PF": "0",
     "TP": "3",
-    "AST": "5",
-    "TO": "3",
-    "BLK": "0",
-    "STL": "2",
-    "MIN": "32",
     "eventDateFormatted": "Dec 3"
 }

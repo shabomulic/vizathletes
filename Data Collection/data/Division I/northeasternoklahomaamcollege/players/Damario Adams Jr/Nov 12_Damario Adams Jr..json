@@ -1,17 +1,17 @@
 {
-    "Player Name": "Damario Adams Jr",
+    "Player Name": "Damario Adams Jr.",
+    "MIN": "1",
     "FGM-A": "6-12",
     "3PM-A": "0-2",
     "FTM-A": "0-1",
     "OREB": "2",
     "DREB": "6",
     "REB": "8",
+    "AST": "3",
+    "STL": "1",
+    "BLK": "0",
+    "TO": "1",
     "PF": "0",
     "TP": "12",
-    "AST": "3",
-    "TO": "1",
-    "BLK": "0",
-    "STL": "1",
-    "MIN": "1",
     "eventDateFormatted": "Nov 12"
 }

@@ -1,17 +1,17 @@
 {
     "Player Name": "Amory Arie",
+    "MIN": "26",
     "FGM-A": "3-11",
     "3PM-A": "1-6",
     "FTM-A": "5-6",
     "OREB": "0",
     "DREB": "3",
     "REB": "3",
+    "AST": "0",
+    "STL": "0",
+    "BLK": "0",
+    "TO": "3",
     "PF": "0",
     "TP": "12",
-    "AST": "0",
-    "TO": "3",
-    "BLK": "0",
-    "STL": "0",
-    "MIN": "26",
     "eventDateFormatted": "Nov 14"
 }

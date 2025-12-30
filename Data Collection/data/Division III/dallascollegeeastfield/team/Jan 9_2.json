@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Jan 9",
+    "boxScoreLink": "20260109_qvdn.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "CYM Prep",
+                "result": "",
+                "teamId": "jqk5an2cg8cu1wlm",
+                "winner": false,
+                "cleanName": "cym prep"
+            },
+            {
+                "name": "Dallas College Eastfield",
+                "result": "",
+                "teamId": "nfft4m3t7ubbrdvx",
+                "winner": false,
+                "cleanName": "dallas col eastfield"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1767999600000,
+        "localTimeZone": "America/Winnipeg",
+        "tba": false,
+        "home": true,
+        "overall": true,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "qvdnl9mvleqdoz6x",
+        "fastdate": 1767999600000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "3737 Motley Dr.",
+        "city": "Mesquite",
+        "stateCountry": "texas",
+        "zipCode": "75150",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "ap2Result": "",
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "CYM Prep",
+            "result": "",
+            "teamId": "jqk5an2cg8cu1wlm",
+            "winner": false,
+            "cleanName": "cym prep"
+        },
+        "us": {
+            "name": "Dallas College Eastfield",
+            "result": "",
+            "teamId": "nfft4m3t7ubbrdvx",
+            "winner": false,
+            "cleanName": "dallas col eastfield"
+        },
+        "apresult": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "January 9 06:00 PM:"
+}

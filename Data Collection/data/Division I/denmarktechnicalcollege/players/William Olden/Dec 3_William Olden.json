@@ -1,17 +1,17 @@
 {
     "Player Name": "William Olden",
+    "MIN": "28",
     "FGM-A": "4-14",
     "3PM-A": "0-5",
     "FTM-A": "3-4",
     "OREB": "1",
     "DREB": "0",
     "REB": "1",
+    "AST": "1",
+    "STL": "0",
+    "BLK": "0",
+    "TO": "5",
     "PF": "2",
     "TP": "11",
-    "AST": "1",
-    "TO": "5",
-    "BLK": "0",
-    "STL": "0",
-    "MIN": "28",
     "eventDateFormatted": "Dec 3"
 }

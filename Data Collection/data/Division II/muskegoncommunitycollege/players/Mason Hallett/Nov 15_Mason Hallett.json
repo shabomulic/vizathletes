@@ -1,17 +1,17 @@
 {
     "Player Name": "Mason Hallett",
+    "MIN": "22",
     "FGM-A": "2-6",
     "3PM-A": "0-2",
     "FTM-A": "0-1",
     "OREB": "0",
     "DREB": "7",
     "REB": "7",
+    "AST": "0",
+    "STL": "0",
+    "BLK": "0",
+    "TO": "0",
     "PF": "3",
     "TP": "4",
-    "AST": "0",
-    "TO": "0",
-    "BLK": "0",
-    "STL": "0",
-    "MIN": "22",
     "eventDateFormatted": "Nov 15"
 }

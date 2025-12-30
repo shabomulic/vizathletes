@@ -1,17 +1,17 @@
 {
     "Player Name": "Ryheem Tyus",
+    "MIN": "35",
     "FGM-A": "4-10",
     "3PM-A": "0-0",
     "FTM-A": "0-0",
     "OREB": "3",
     "DREB": "5",
     "REB": "8",
+    "AST": "3",
+    "STL": "4",
+    "BLK": "0",
+    "TO": "0",
     "PF": "2",
     "TP": "8",
-    "AST": "3",
-    "TO": "0",
-    "BLK": "0",
-    "STL": "4",
-    "MIN": "35",
     "eventDateFormatted": "Nov 11"
 }

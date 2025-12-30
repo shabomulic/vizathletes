@@ -1,17 +1,17 @@
 {
     "Player Name": "Galvin Luketa",
+    "MIN": "30",
     "FGM-A": "6-10",
     "3PM-A": "5-9",
     "FTM-A": "3-3",
     "OREB": "2",
     "DREB": "3",
     "REB": "5",
+    "AST": "1",
+    "STL": "1",
+    "BLK": "0",
+    "TO": "0",
     "PF": "2",
     "TP": "20",
-    "AST": "1",
-    "TO": "0",
-    "BLK": "0",
-    "STL": "1",
-    "MIN": "30",
     "eventDateFormatted": "Nov 29"
 }

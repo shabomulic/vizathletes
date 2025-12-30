@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Oct 24",
+    "boxScoreLink": "20251024_sx2t.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Garrett College",
+                "result": "",
+                "teamId": "jwl6myvcjat4a1qx",
+                "winner": false,
+                "cleanName": "garrett col"
+            },
+            {
+                "name": "Glenville State University",
+                "result": "",
+                "teamId": "lay7q4mgxwnyd1sv",
+                "winner": false,
+                "cleanName": "glenville st univ"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1761325200000,
+        "localTimeZone": "America/New_York",
+        "tba": false,
+        "home": false,
+        "overall": false,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "sx2t8supz1f6utoq",
+        "fastdate": 1761325200000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "scrimmage",
+            "description": "Scrimmage",
+            "statsCount": false
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Glenville State University",
+            "result": "",
+            "teamId": "lay7q4mgxwnyd1sv",
+            "winner": false,
+            "cleanName": "glenville st univ"
+        },
+        "us": {
+            "name": "Garrett College",
+            "result": "",
+            "teamId": "jwl6myvcjat4a1qx",
+            "winner": false,
+            "cleanName": "garrett col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "October 24 01:00 PM:"
+}

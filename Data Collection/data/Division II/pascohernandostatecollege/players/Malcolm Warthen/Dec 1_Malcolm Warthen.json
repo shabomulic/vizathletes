@@ -1,17 +1,17 @@
 {
     "Player Name": "Malcolm Warthen",
+    "MIN": "1",
     "FGM-A": "7-15",
     "3PM-A": "2-7",
     "FTM-A": "8-9",
     "OREB": "1",
     "DREB": "1",
     "REB": "2",
+    "AST": "1",
+    "STL": "1",
+    "BLK": "1",
+    "TO": "7",
     "PF": "0",
     "TP": "24",
-    "AST": "1",
-    "TO": "7",
-    "BLK": "1",
-    "STL": "1",
-    "MIN": "1",
     "eventDateFormatted": "Dec 1"
 }

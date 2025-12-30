@@ -1,17 +1,17 @@
 {
     "Player Name": "Ethan Simon",
+    "MIN": "20",
     "FGM-A": "10-24",
     "3PM-A": "0-1",
     "FTM-A": "1-5",
     "OREB": "6",
     "DREB": "4",
     "REB": "10",
+    "AST": "0",
+    "STL": "2",
+    "BLK": "0",
+    "TO": "0",
     "PF": "0",
     "TP": "21",
-    "AST": "0",
-    "TO": "0",
-    "BLK": "0",
-    "STL": "2",
-    "MIN": "20",
     "eventDateFormatted": "Nov 15"
 }

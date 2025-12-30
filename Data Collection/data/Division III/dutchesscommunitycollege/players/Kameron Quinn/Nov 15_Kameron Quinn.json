@@ -1,17 +1,17 @@
 {
     "Player Name": "Kameron Quinn",
+    "MIN": "1",
     "FGM-A": "4-8",
     "3PM-A": "0-0",
     "FTM-A": "0-0",
     "OREB": "3",
     "DREB": "4",
     "REB": "7",
+    "AST": "5",
+    "STL": "4",
+    "BLK": "0",
+    "TO": "1",
     "PF": "0",
     "TP": "8",
-    "AST": "5",
-    "TO": "1",
-    "BLK": "0",
-    "STL": "4",
-    "MIN": "1",
     "eventDateFormatted": "Nov 15"
 }

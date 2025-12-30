@@ -1,17 +1,17 @@
 {
     "Player Name": "Knyle Lundy",
+    "MIN": "35",
     "FGM-A": "6-15",
     "3PM-A": "0-1",
     "FTM-A": "7-11",
     "OREB": "2",
     "DREB": "3",
     "REB": "5",
+    "AST": "1",
+    "STL": "0",
+    "BLK": "0",
+    "TO": "2",
     "PF": "2",
     "TP": "19",
-    "AST": "1",
-    "TO": "2",
-    "BLK": "0",
-    "STL": "0",
-    "MIN": "35",
     "eventDateFormatted": "Nov 15"
 }

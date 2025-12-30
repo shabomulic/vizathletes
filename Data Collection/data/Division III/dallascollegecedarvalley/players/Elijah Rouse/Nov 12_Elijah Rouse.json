@@ -1,17 +1,17 @@
 {
     "Player Name": "Elijah Rouse",
+    "MIN": "20",
     "FGM-A": "2-3",
     "3PM-A": "0-0",
     "FTM-A": "2-2",
     "OREB": "1",
     "DREB": "4",
     "REB": "5",
+    "AST": "3",
+    "STL": "3",
+    "BLK": "1",
+    "TO": "1",
     "PF": "0",
     "TP": "6",
-    "AST": "3",
-    "TO": "1",
-    "BLK": "1",
-    "STL": "3",
-    "MIN": "20",
     "eventDateFormatted": "Nov 12"
 }

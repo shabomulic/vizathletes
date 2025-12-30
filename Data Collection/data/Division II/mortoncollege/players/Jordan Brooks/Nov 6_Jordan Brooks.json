@@ -1,17 +1,17 @@
 {
     "Player Name": "Jordan Brooks",
+    "MIN": "1",
     "FGM-A": "1-9",
     "3PM-A": "0-7",
     "FTM-A": "3-3",
     "OREB": "1",
     "DREB": "0",
     "REB": "1",
+    "AST": "4",
+    "STL": "0",
+    "BLK": "0",
+    "TO": "2",
     "PF": "0",
     "TP": "5",
-    "AST": "4",
-    "TO": "2",
-    "BLK": "0",
-    "STL": "0",
-    "MIN": "1",
     "eventDateFormatted": "Nov 6"
 }

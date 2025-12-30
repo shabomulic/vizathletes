@@ -1,17 +1,17 @@
 {
     "Player Name": "Terrence Shannon",
+    "MIN": "29",
     "FGM-A": "7-10",
     "3PM-A": "0-2",
     "FTM-A": "1-2",
     "OREB": "2",
     "DREB": "4",
     "REB": "6",
+    "AST": "5",
+    "STL": "4",
+    "BLK": "1",
+    "TO": "2",
     "PF": "3",
     "TP": "15",
-    "AST": "5",
-    "TO": "2",
-    "BLK": "1",
-    "STL": "4",
-    "MIN": "29",
     "eventDateFormatted": "Oct 31"
 }

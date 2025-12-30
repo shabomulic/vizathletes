@@ -1,17 +1,17 @@
 {
     "Player Name": "Djibril Diawara",
+    "MIN": "36",
     "FGM-A": "2-11",
     "3PM-A": "2-9",
     "FTM-A": "4-4",
     "OREB": "0",
     "DREB": "3",
     "REB": "3",
+    "AST": "4",
+    "STL": "0",
+    "BLK": "0",
+    "TO": "3",
     "PF": "2",
     "TP": "10",
-    "AST": "4",
-    "TO": "3",
-    "BLK": "0",
-    "STL": "0",
-    "MIN": "36",
     "eventDateFormatted": "Nov 7"
 }

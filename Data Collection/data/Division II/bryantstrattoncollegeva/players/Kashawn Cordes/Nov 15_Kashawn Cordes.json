@@ -1,17 +1,17 @@
 {
     "Player Name": "Kashawn Cordes",
+    "MIN": "36:29",
     "FGM-A": "4-9",
     "3PM-A": "0-2",
     "FTM-A": "1-2",
     "OREB": "0",
     "DREB": "0",
     "REB": "0",
+    "AST": "4",
+    "STL": "1",
+    "BLK": "0",
+    "TO": "5",
     "PF": "1",
     "TP": "9",
-    "AST": "4",
-    "TO": "5",
-    "BLK": "0",
-    "STL": "1",
-    "MIN": "36:29",
     "eventDateFormatted": "Nov 15"
 }

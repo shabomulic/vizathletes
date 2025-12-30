@@ -1,17 +1,17 @@
 {
     "Player Name": "JP Dickerson",
+    "MIN": "1",
     "FGM-A": "9-18",
     "3PM-A": "0-0",
     "FTM-A": "0-0",
     "OREB": "5",
     "DREB": "3",
     "REB": "8",
+    "AST": "2",
+    "STL": "8",
+    "BLK": "0",
+    "TO": "0",
     "PF": "1",
     "TP": "18",
-    "AST": "2",
-    "TO": "0",
-    "BLK": "0",
-    "STL": "8",
-    "MIN": "1",
     "eventDateFormatted": "Nov 12"
 }

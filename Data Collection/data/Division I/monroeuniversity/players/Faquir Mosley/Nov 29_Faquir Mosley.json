@@ -1,17 +1,17 @@
 {
     "Player Name": "Faquir Mosley",
+    "MIN": "23",
     "FGM-A": "2-11",
     "3PM-A": "1-5",
     "FTM-A": "0-0",
     "OREB": "1",
     "DREB": "4",
     "REB": "5",
+    "AST": "3",
+    "STL": "3",
+    "BLK": "0",
+    "TO": "3",
     "PF": "2",
     "TP": "5",
-    "AST": "3",
-    "TO": "3",
-    "BLK": "0",
-    "STL": "3",
-    "MIN": "23",
     "eventDateFormatted": "Nov 29"
 }

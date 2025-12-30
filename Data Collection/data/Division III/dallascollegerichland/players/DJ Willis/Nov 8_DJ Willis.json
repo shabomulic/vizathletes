@@ -1,17 +1,17 @@
 {
     "Player Name": "DJ Willis",
+    "MIN": "1",
     "FGM-A": "7-14",
     "3PM-A": "3-6",
     "FTM-A": "7-12",
     "OREB": "1",
     "DREB": "5",
     "REB": "6",
+    "AST": "2",
+    "STL": "3",
+    "BLK": "0",
+    "TO": "4",
     "PF": "3",
     "TP": "24",
-    "AST": "2",
-    "TO": "4",
-    "BLK": "0",
-    "STL": "3",
-    "MIN": "1",
     "eventDateFormatted": "Nov 8"
 }

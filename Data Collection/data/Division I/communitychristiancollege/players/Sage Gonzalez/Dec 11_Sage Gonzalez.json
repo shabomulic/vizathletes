@@ -1,17 +1,17 @@
 {
     "Player Name": "Sage Gonzalez",
+    "MIN": "28",
     "FGM-A": "2-9",
     "3PM-A": "0-6",
     "FTM-A": "1-2",
     "OREB": "0",
     "DREB": "3",
     "REB": "3",
+    "AST": "3",
+    "STL": "1",
+    "BLK": "0",
+    "TO": "1",
     "PF": "2",
     "TP": "5",
-    "AST": "3",
-    "TO": "1",
-    "BLK": "0",
-    "STL": "1",
-    "MIN": "28",
     "eventDateFormatted": "Dec 11"
 }

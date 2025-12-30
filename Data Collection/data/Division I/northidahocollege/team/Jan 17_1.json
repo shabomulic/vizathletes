@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Jan 17",
+    "boxScoreLink": "20260117_ghyv.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Snow College",
+                "result": "",
+                "teamId": "cbovao7nryu2lp53",
+                "winner": false,
+                "cleanName": "snow col"
+            },
+            {
+                "name": "North Idaho College",
+                "result": "",
+                "teamId": "rr90e67vq94uqti6",
+                "winner": false,
+                "cleanName": "n idaho col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1768680000000,
+        "localTimeZone": "America/Los_Angeles",
+        "tba": false,
+        "home": true,
+        "overall": true,
+        "conference": true,
+        "division": true,
+        "regional": true,
+        "national": true,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "ghyvzh8qtkfansv9",
+        "fastdate": 1768680000000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Snow College",
+            "result": "",
+            "teamId": "cbovao7nryu2lp53",
+            "winner": false,
+            "cleanName": "snow col"
+        },
+        "us": {
+            "name": "North Idaho College",
+            "result": "",
+            "teamId": "rr90e67vq94uqti6",
+            "winner": false,
+            "cleanName": "n idaho col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "January 17 03:00 PM:"
+}

@@ -1,17 +1,17 @@
 {
     "Player Name": "Grant Chamberlain",
+    "MIN": "37",
     "FGM-A": "3-6",
     "3PM-A": "3-5",
     "FTM-A": "0-0",
     "OREB": "0",
     "DREB": "4",
     "REB": "4",
+    "AST": "3",
+    "STL": "1",
+    "BLK": "0",
+    "TO": "2",
     "PF": "3",
     "TP": "9",
-    "AST": "3",
-    "TO": "2",
-    "BLK": "0",
-    "STL": "1",
-    "MIN": "37",
     "eventDateFormatted": "Nov 29"
 }

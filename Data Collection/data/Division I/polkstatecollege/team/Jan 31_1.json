@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Jan 31",
+    "boxScoreLink": "20260131_3ki3.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Polk State College",
+                "result": "",
+                "teamId": "jk54mab76z8mppvd",
+                "winner": false,
+                "cleanName": "polk st col"
+            },
+            {
+                "name": "Eastern Florida State College",
+                "result": "",
+                "teamId": "jaelqr81003nks05",
+                "winner": false,
+                "cleanName": "e florida st col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1769893200000,
+        "localTimeZone": "America/New_York",
+        "tba": false,
+        "home": false,
+        "overall": true,
+        "conference": true,
+        "division": false,
+        "regional": true,
+        "national": true,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "3ki3pdvjeq0dj2dy",
+        "fastdate": 1769893200000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": "prestosports"
+            }
+        ],
+        "address": "3865 N. Wickham Rd.",
+        "city": "Melbourne",
+        "stateCountry": "Florida",
+        "zipCode": "32935",
+        "venue": "",
+        "primetime": true,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Eastern Florida State College",
+            "result": "",
+            "teamId": "jaelqr81003nks05",
+            "winner": false,
+            "cleanName": "e florida st col"
+        },
+        "us": {
+            "name": "Polk State College",
+            "result": "",
+            "teamId": "jk54mab76z8mppvd",
+            "winner": false,
+            "cleanName": "polk st col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "January 31 04:00 PM:"
+}

@@ -1,17 +1,17 @@
 {
     "Player Name": "Elijah Roker",
+    "MIN": "1",
     "FGM-A": "7-10",
     "3PM-A": "0-0",
     "FTM-A": "1-2",
     "OREB": "2",
     "DREB": "3",
     "REB": "5",
+    "AST": "1",
+    "STL": "4",
+    "BLK": "0",
+    "TO": "0",
     "PF": "0",
     "TP": "15",
-    "AST": "1",
-    "TO": "0",
-    "BLK": "0",
-    "STL": "4",
-    "MIN": "1",
     "eventDateFormatted": "Dec 10"
 }

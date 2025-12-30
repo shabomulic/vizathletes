@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Oct 10",
+    "boxScoreLink": "20251010_dgmh.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Rend Lake College",
+                "result": "",
+                "teamId": "blan21j27flx4c9r",
+                "winner": false,
+                "cleanName": "rend lake col"
+            },
+            {
+                "name": "Ellsworth Community College",
+                "result": "",
+                "teamId": "ow4c11tb42slmzwu",
+                "winner": false,
+                "cleanName": "ellsworth community col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1760122800000,
+        "localTimeZone": "America/Chicago",
+        "tba": false,
+        "home": true,
+        "overall": false,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "Midwest JUCO Jamboree / Chesterfield, MO",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "dgmhynkcf4h3w1dw",
+        "fastdate": 1760122800000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "Chesterfield Sports Complex",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "Midwest JUCO Jamboree / Chesterfield, MO",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "exhibition",
+            "description": "Exhibition",
+            "statsCount": false
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Rend Lake College",
+            "result": "",
+            "teamId": "blan21j27flx4c9r",
+            "winner": false,
+            "cleanName": "rend lake col"
+        },
+        "us": {
+            "name": "Ellsworth Community College",
+            "result": "",
+            "teamId": "ow4c11tb42slmzwu",
+            "winner": false,
+            "cleanName": "ellsworth community col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "October 10 03:00 PM:"
+}

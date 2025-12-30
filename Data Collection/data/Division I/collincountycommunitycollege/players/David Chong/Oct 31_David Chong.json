@@ -1,17 +1,17 @@
 {
     "Player Name": "David Chong",
+    "MIN": "1",
     "FGM-A": "3-8",
     "3PM-A": "2-6",
     "FTM-A": "2-4",
     "OREB": "2",
     "DREB": "2",
     "REB": "4",
+    "AST": "5",
+    "STL": "2",
+    "BLK": "0",
+    "TO": "2",
     "PF": "0",
     "TP": "10",
-    "AST": "5",
-    "TO": "2",
-    "BLK": "0",
-    "STL": "2",
-    "MIN": "1",
     "eventDateFormatted": "Oct 31"
 }

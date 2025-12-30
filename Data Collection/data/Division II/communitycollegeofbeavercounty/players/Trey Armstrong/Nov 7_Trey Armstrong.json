@@ -1,17 +1,17 @@
 {
     "Player Name": "Trey Armstrong",
+    "MIN": "31",
     "FGM-A": "6-11",
     "3PM-A": "3-5",
     "FTM-A": "2-3",
     "OREB": "1",
     "DREB": "3",
     "REB": "4",
+    "AST": "3",
+    "STL": "1",
+    "BLK": "1",
+    "TO": "4",
     "PF": "5",
     "TP": "17",
-    "AST": "3",
-    "TO": "4",
-    "BLK": "1",
-    "STL": "1",
-    "MIN": "31",
     "eventDateFormatted": "Nov 7"
 }

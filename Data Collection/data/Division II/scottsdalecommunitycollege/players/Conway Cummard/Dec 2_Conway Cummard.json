@@ -1,17 +1,17 @@
 {
     "Player Name": "Conway Cummard",
+    "MIN": "20",
     "FGM-A": "4-7",
     "3PM-A": "0-1",
     "FTM-A": "2-2",
     "OREB": "0",
     "DREB": "4",
     "REB": "4",
+    "AST": "4",
+    "STL": "3",
+    "BLK": "0",
+    "TO": "2",
     "PF": "0",
     "TP": "10",
-    "AST": "4",
-    "TO": "2",
-    "BLK": "0",
-    "STL": "3",
-    "MIN": "20",
     "eventDateFormatted": "Dec 2"
 }

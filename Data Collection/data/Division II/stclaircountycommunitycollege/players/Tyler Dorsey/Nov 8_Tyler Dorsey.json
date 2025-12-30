@@ -1,17 +1,17 @@
 {
     "Player Name": "Tyler Dorsey",
+    "MIN": "17",
     "FGM-A": "4-8",
     "3PM-A": "1-4",
     "FTM-A": "3-4",
     "OREB": "3",
     "DREB": "6",
     "REB": "9",
+    "AST": "2",
+    "STL": "1",
+    "BLK": "2",
+    "TO": "1",
     "PF": "2",
     "TP": "12",
-    "AST": "2",
-    "TO": "1",
-    "BLK": "2",
-    "STL": "1",
-    "MIN": "17",
     "eventDateFormatted": "Nov 8"
 }

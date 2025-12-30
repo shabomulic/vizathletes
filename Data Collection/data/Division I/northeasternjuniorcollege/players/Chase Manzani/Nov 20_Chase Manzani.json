@@ -1,17 +1,17 @@
 {
     "Player Name": "Chase Manzani",
+    "MIN": "20",
     "FGM-A": "3-6",
     "3PM-A": "0-1",
     "FTM-A": "0-2",
     "OREB": "1",
     "DREB": "2",
     "REB": "3",
+    "AST": "2",
+    "STL": "0",
+    "BLK": "0",
+    "TO": "3",
     "PF": "1",
     "TP": "6",
-    "AST": "2",
-    "TO": "3",
-    "BLK": "0",
-    "STL": "0",
-    "MIN": "20",
     "eventDateFormatted": "Nov 20"
 }

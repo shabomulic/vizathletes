@@ -1,17 +1,17 @@
 {
     "Player Name": "Jovohn Ratliff",
+    "MIN": "30",
     "FGM-A": "8-14",
     "3PM-A": "1-3",
     "FTM-A": "0-0",
     "OREB": "0",
     "DREB": "2",
     "REB": "2",
+    "AST": "3",
+    "STL": "0",
+    "BLK": "0",
+    "TO": "1",
     "PF": "0",
     "TP": "17",
-    "AST": "3",
-    "TO": "1",
-    "BLK": "0",
-    "STL": "0",
-    "MIN": "30",
     "eventDateFormatted": "Nov 14"
 }

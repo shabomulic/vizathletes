@@ -1,17 +1,17 @@
 {
     "Player Name": "Jadyn Hollis",
+    "MIN": "15",
     "FGM-A": "1-2",
     "3PM-A": "0-1",
     "FTM-A": "1-2",
     "OREB": "0",
     "DREB": "0",
     "REB": "0",
+    "AST": "2",
+    "STL": "1",
+    "BLK": "0",
+    "TO": "1",
     "PF": "0",
     "TP": "3",
-    "AST": "2",
-    "TO": "1",
-    "BLK": "0",
-    "STL": "1",
-    "MIN": "15",
     "eventDateFormatted": "Nov 8"
 }

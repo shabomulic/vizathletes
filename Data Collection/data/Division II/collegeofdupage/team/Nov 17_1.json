@@ -1,0 +1,161 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Nov 17",
+    "boxScoreLink": "20251117_l6t5.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Trinity Christian College",
+                "result": "54",
+                "teamId": "ksw3qni2u8im9ef0",
+                "winner": false,
+                "cleanName": "trinity christian col"
+            },
+            {
+                "name": "College of DuPage",
+                "result": "115",
+                "teamId": "7p9wu4ab2mzjq40d",
+                "winner": false,
+                "cleanName": "col dupage"
+            }
+        ],
+        "status": "Final",
+        "notes": "",
+        "notesShared": "",
+        "date": 1763424000000,
+        "localTimeZone": "America/Chicago",
+        "tba": false,
+        "home": true,
+        "overall": false,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": 0,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "l6t5g338upeaxqr6",
+        "fastdate": 1763424000000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "conferenceResult": "115-54",
+        "resultAsObject": {
+            "results": [
+                54,
+                115
+            ],
+            "winner": {
+                "name": "College of DuPage",
+                "result": "115",
+                "teamId": "7p9wu4ab2mzjq40d",
+                "winner": false,
+                "cleanName": "col dupage"
+            },
+            "loser": {
+                "name": "Trinity Christian College",
+                "result": "54",
+                "teamId": "ksw3qni2u8im9ef0",
+                "winner": false,
+                "cleanName": "trinity christian col"
+            },
+            "resolved": true,
+            "hasScores": true,
+            "numericResults": [
+                115,
+                54
+            ],
+            "description": "Win",
+            "score": "115-54",
+            "winnerLoser": "115-54",
+            "descriptionShortWithOT": "W"
+        },
+        "opponent": {
+            "name": "Trinity Christian College",
+            "result": "54",
+            "teamId": "ksw3qni2u8im9ef0",
+            "winner": false,
+            "cleanName": "trinity christian col"
+        },
+        "us": {
+            "name": "College of DuPage",
+            "result": "115",
+            "teamId": "7p9wu4ab2mzjq40d",
+            "winner": false,
+            "cleanName": "col dupage"
+        },
+        "winner": {
+            "name": "College of DuPage",
+            "result": "115",
+            "teamId": "7p9wu4ab2mzjq40d",
+            "winner": false,
+            "cleanName": "col dupage"
+        },
+        "loser": {
+            "name": "Trinity Christian College",
+            "result": "54",
+            "teamId": "ksw3qni2u8im9ef0",
+            "winner": false,
+            "cleanName": "trinity christian col"
+        },
+        "apresult": "W, 115-54",
+        "ap2Result": "W, 115-54",
+        "result": {
+            "results": [
+                54,
+                115
+            ],
+            "winner": {
+                "name": "College of DuPage",
+                "result": "115",
+                "teamId": "7p9wu4ab2mzjq40d",
+                "winner": false,
+                "cleanName": "col dupage"
+            },
+            "loser": {
+                "name": "Trinity Christian College",
+                "result": "54",
+                "teamId": "ksw3qni2u8im9ef0",
+                "winner": false,
+                "cleanName": "trinity christian col"
+            },
+            "resolved": true,
+            "hasScores": true,
+            "numericResults": [
+                115,
+                54
+            ],
+            "description": "Win",
+            "score": "115-54",
+            "winnerLoser": "115-54",
+            "descriptionShortWithOT": "W"
+        }
+    },
+    "eventDateFormattedAriaLabel": "November 17 07:00 PM:"
+}

@@ -1,17 +1,17 @@
 {
     "Player Name": "Fred Saunders",
+    "MIN": "1",
     "FGM-A": "10-17",
     "3PM-A": "0-3",
     "FTM-A": "3-4",
     "OREB": "3",
     "DREB": "6",
     "REB": "9",
+    "AST": "0",
+    "STL": "0",
+    "BLK": "3",
+    "TO": "2",
     "PF": "0",
     "TP": "23",
-    "AST": "0",
-    "TO": "2",
-    "BLK": "3",
-    "STL": "0",
-    "MIN": "1",
     "eventDateFormatted": "Nov 1"
 }

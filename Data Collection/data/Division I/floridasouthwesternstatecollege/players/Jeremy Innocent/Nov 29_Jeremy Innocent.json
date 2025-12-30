@@ -1,17 +1,17 @@
 {
     "Player Name": "Jeremy Innocent",
+    "MIN": "20",
     "FGM-A": "2-8",
     "3PM-A": "0-0",
     "FTM-A": "1-2",
     "OREB": "5",
     "DREB": "7",
     "REB": "12",
+    "AST": "2",
+    "STL": "1",
+    "BLK": "1",
+    "TO": "0",
     "PF": "1",
     "TP": "5",
-    "AST": "2",
-    "TO": "0",
-    "BLK": "1",
-    "STL": "1",
-    "MIN": "20",
     "eventDateFormatted": "Nov 29"
 }

@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Oct 17",
+    "boxScoreLink": "20251017_y3hf.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Highland Community College - Kansas",
+                "result": "",
+                "teamId": "8h9nr80vuqof14dj",
+                "winner": false,
+                "cleanName": "highland community col kansas"
+            },
+            {
+                "name": "Cloud County Community College",
+                "result": "",
+                "teamId": "w3cgw61s9okfyuje",
+                "winner": false,
+                "cleanName": "cloud county community col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "MOKAN Jamboree",
+        "date": 1760739300000,
+        "localTimeZone": "America/Chicago",
+        "tba": false,
+        "home": false,
+        "overall": false,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "y3hf0lhhsvn085no",
+        "fastdate": 1760739300000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "Kansas City",
+        "stateCountry": "Kansas",
+        "zipCode": "",
+        "venue": "Homefield Showcase Center",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "exhibition",
+            "description": "Exhibition",
+            "statsCount": false
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Cloud County Community College",
+            "result": "",
+            "teamId": "w3cgw61s9okfyuje",
+            "winner": false,
+            "cleanName": "cloud county community col"
+        },
+        "us": {
+            "name": "Highland Community College - Kansas",
+            "result": "",
+            "teamId": "8h9nr80vuqof14dj",
+            "winner": false,
+            "cleanName": "highland community col kansas"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "October 17 06:15 PM:"
+}

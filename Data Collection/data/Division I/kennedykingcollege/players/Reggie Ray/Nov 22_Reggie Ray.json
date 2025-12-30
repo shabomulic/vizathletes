@@ -1,17 +1,17 @@
 {
     "Player Name": "Reggie Ray",
+    "MIN": "1",
     "FGM-A": "8-12",
     "3PM-A": "2-3",
     "FTM-A": "4-6",
     "OREB": "2",
     "DREB": "2",
     "REB": "4",
+    "AST": "3",
+    "STL": "1",
+    "BLK": "0",
+    "TO": "0",
     "PF": "4",
     "TP": "22",
-    "AST": "3",
-    "TO": "0",
-    "BLK": "0",
-    "STL": "1",
-    "MIN": "1",
     "eventDateFormatted": "Nov 22"
 }

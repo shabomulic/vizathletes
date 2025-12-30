@@ -1,17 +1,17 @@
 {
     "Player Name": "Logan Sparks",
+    "MIN": "30",
     "FGM-A": "1-5",
     "3PM-A": "0-0",
     "FTM-A": "1-4",
     "OREB": "3",
     "DREB": "7",
     "REB": "10",
+    "AST": "1",
+    "STL": "0",
+    "BLK": "1",
+    "TO": "2",
     "PF": "2",
     "TP": "3",
-    "AST": "1",
-    "TO": "2",
-    "BLK": "1",
-    "STL": "0",
-    "MIN": "30",
     "eventDateFormatted": "Dec 13"
 }

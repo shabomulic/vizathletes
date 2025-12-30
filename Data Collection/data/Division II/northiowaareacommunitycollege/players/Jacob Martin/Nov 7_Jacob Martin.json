@@ -1,17 +1,17 @@
 {
     "Player Name": "Jacob Martin",
+    "MIN": "1",
     "FGM-A": "3-9",
     "3PM-A": "0-3",
     "FTM-A": "2-2",
     "OREB": "0",
     "DREB": "7",
     "REB": "7",
+    "AST": "3",
+    "STL": "1",
+    "BLK": "0",
+    "TO": "2",
     "PF": "4",
     "TP": "8",
-    "AST": "3",
-    "TO": "2",
-    "BLK": "0",
-    "STL": "1",
-    "MIN": "1",
     "eventDateFormatted": "Nov 7"
 }

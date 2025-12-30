@@ -1,17 +1,17 @@
 {
     "Player Name": "Kneco Hill",
+    "MIN": "20",
     "FGM-A": "8-15",
     "3PM-A": "2-5",
     "FTM-A": "7-7",
     "OREB": "0",
     "DREB": "5",
     "REB": "5",
+    "AST": "6",
+    "STL": "2",
+    "BLK": "0",
+    "TO": "3",
     "PF": "1",
     "TP": "25",
-    "AST": "6",
-    "TO": "3",
-    "BLK": "0",
-    "STL": "2",
-    "MIN": "20",
     "eventDateFormatted": "Nov 22"
 }

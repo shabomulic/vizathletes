@@ -1,17 +1,17 @@
 {
     "Player Name": "Lebron Campbell",
+    "MIN": "1",
     "FGM-A": "6-13",
     "3PM-A": "2-4",
     "FTM-A": "7-10",
     "OREB": "0",
     "DREB": "0",
     "REB": "0",
+    "AST": "4",
+    "STL": "1",
+    "BLK": "0",
+    "TO": "7",
     "PF": "4",
     "TP": "21",
-    "AST": "4",
-    "TO": "7",
-    "BLK": "0",
-    "STL": "1",
-    "MIN": "1",
     "eventDateFormatted": "Dec 17"
 }

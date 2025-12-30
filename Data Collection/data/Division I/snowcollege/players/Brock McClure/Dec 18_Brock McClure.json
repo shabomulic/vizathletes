@@ -1,17 +1,17 @@
 {
     "Player Name": "Brock McClure",
+    "MIN": "42",
     "FGM-A": "10-19",
     "3PM-A": "3-9",
     "FTM-A": "5-6",
     "OREB": "3",
     "DREB": "3",
     "REB": "6",
+    "AST": "0",
+    "STL": "0",
+    "BLK": "0",
+    "TO": "2",
     "PF": "1",
     "TP": "28",
-    "AST": "0",
-    "TO": "2",
-    "BLK": "0",
-    "STL": "0",
-    "MIN": "42",
     "eventDateFormatted": "Dec 18"
 }

@@ -57,14 +57,14 @@
     "lastUpdated": 1765984258000,
     "position": "C",
     "positionAbbreviation": "C",
-    "positionCode": null,
+    "positionCode": "C0SO",
     "dataMap": {
         "hometown": "Tulsa, OK",
         "born": "",
         "weight": "225",
         "height": "6'9\""
     },
-    "uniform": "35",
+    "uniform": "55",
     "year": "So",
     "playerStatus": {
         "enumCode": 1,
@@ -78,9 +78,9 @@
             "name": "integer",
             "primitiveClass": "int",
             "defaultValue": 0,
-            "collectionType": false,
             "mutable": false,
             "componentType": false,
+            "collectionType": false,
             "entityType": false,
             "associationType": false,
             "xmlelement": false,

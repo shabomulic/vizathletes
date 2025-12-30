@@ -1,17 +1,17 @@
 {
     "Player Name": "Nyjah Noyes",
+    "MIN": "37",
     "FGM-A": "6-13",
     "3PM-A": "1-3",
     "FTM-A": "4-4",
     "OREB": "2",
     "DREB": "7",
     "REB": "9",
+    "AST": "5",
+    "STL": "2",
+    "BLK": "0",
+    "TO": "2",
     "PF": "2",
     "TP": "17",
-    "AST": "5",
-    "TO": "2",
-    "BLK": "0",
-    "STL": "2",
-    "MIN": "37",
     "eventDateFormatted": "Nov 18"
 }

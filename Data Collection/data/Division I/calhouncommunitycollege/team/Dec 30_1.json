@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Dec 30",
+    "boxScoreLink": "20251230_d9aw.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Calhoun Community College",
+                "result": "",
+                "teamId": "onjl7kh9adms4px1",
+                "winner": false,
+                "cleanName": "calhoun community col"
+            },
+            {
+                "name": "Pensacola State College",
+                "result": "",
+                "teamId": "32iri9q24nfwy008",
+                "winner": false,
+                "cleanName": "pensacola st col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1767132000000,
+        "localTimeZone": "America/Chicago",
+        "tba": false,
+        "home": false,
+        "overall": true,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": true,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "d9awxauzkik8jyb6",
+        "fastdate": 1767132000000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "Pensacola, FL",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "Pensacola State College",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Pensacola State College",
+            "result": "",
+            "teamId": "32iri9q24nfwy008",
+            "winner": false,
+            "cleanName": "pensacola st col"
+        },
+        "us": {
+            "name": "Calhoun Community College",
+            "result": "",
+            "teamId": "onjl7kh9adms4px1",
+            "winner": false,
+            "cleanName": "calhoun community col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "December 30 05:00 PM:"
+}

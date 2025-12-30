@@ -1,17 +1,17 @@
 {
     "Player Name": "Jamaal Miller",
+    "MIN": "1",
     "FGM-A": "4-14",
     "3PM-A": "0-3",
     "FTM-A": "2-2",
     "OREB": "0",
     "DREB": "4",
     "REB": "4",
+    "AST": "2",
+    "STL": "2",
+    "BLK": "0",
+    "TO": "5",
     "PF": "0",
     "TP": "10",
-    "AST": "2",
-    "TO": "5",
-    "BLK": "0",
-    "STL": "2",
-    "MIN": "1",
     "eventDateFormatted": "Nov 19"
 }

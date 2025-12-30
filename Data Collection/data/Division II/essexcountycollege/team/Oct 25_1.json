@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Oct 25",
+    "boxScoreLink": "20251025_zx82.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Essex County College",
+                "result": "",
+                "teamId": "53knpgmizc4kjdxc",
+                "winner": false,
+                "cleanName": "essex county col"
+            },
+            {
+                "name": "New Jersey City University",
+                "result": "",
+                "teamId": "mmgx43fj0l4j1hgw",
+                "winner": false,
+                "cleanName": "new jersey city univ"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1761415200000,
+        "localTimeZone": "America/New_York",
+        "tba": false,
+        "home": false,
+        "overall": false,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "zx82fav6yap7asc6",
+        "fastdate": 1761415200000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "scrimmage",
+            "description": "Scrimmage",
+            "statsCount": false
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "New Jersey City University",
+            "result": "",
+            "teamId": "mmgx43fj0l4j1hgw",
+            "winner": false,
+            "cleanName": "new jersey city univ"
+        },
+        "us": {
+            "name": "Essex County College",
+            "result": "",
+            "teamId": "53knpgmizc4kjdxc",
+            "winner": false,
+            "cleanName": "essex county col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "October 25 02:00 PM:"
+}

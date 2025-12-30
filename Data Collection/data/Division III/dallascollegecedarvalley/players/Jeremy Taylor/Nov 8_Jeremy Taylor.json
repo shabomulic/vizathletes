@@ -1,17 +1,17 @@
 {
     "Player Name": "Jeremy Taylor",
+    "MIN": "26",
     "FGM-A": "2-3",
     "3PM-A": "0-1",
     "FTM-A": "1-1",
     "OREB": "1",
     "DREB": "5",
     "REB": "6",
+    "AST": "3",
+    "STL": "2",
+    "BLK": "0",
+    "TO": "3",
     "PF": "5",
     "TP": "5",
-    "AST": "3",
-    "TO": "3",
-    "BLK": "0",
-    "STL": "2",
-    "MIN": "26",
     "eventDateFormatted": "Nov 8"
 }

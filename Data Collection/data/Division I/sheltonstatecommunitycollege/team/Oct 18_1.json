@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Oct 18",
+    "boxScoreLink": "20251018_j26c.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Shelton State Community College",
+                "result": "",
+                "teamId": "210vdbk5bqe89qn6",
+                "winner": false,
+                "cleanName": "shelton st community col"
+            },
+            {
+                "name": "MS Juco Jamboree",
+                "result": "",
+                "teamId": "kxhdla1cj76ojx85",
+                "winner": false,
+                "cleanName": "ms juco jamboree"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1760760000000,
+        "localTimeZone": "America/Chicago",
+        "tba": true,
+        "home": false,
+        "overall": false,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "j26c1plvolq0cns0",
+        "fastdate": 1760760000000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "Jackson",
+        "stateCountry": "Mississippi",
+        "zipCode": "",
+        "venue": "Jackson, MS",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "preSeason",
+            "description": "Pre-Season",
+            "statsCount": true
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "descriptionShortWithOT": "",
+            "winnerLoser": ""
+        },
+        "opponent": {
+            "name": "MS Juco Jamboree",
+            "result": "",
+            "teamId": "kxhdla1cj76ojx85",
+            "winner": false,
+            "cleanName": "ms juco jamboree"
+        },
+        "us": {
+            "name": "Shelton State Community College",
+            "result": "",
+            "teamId": "210vdbk5bqe89qn6",
+            "winner": false,
+            "cleanName": "shelton st community col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "descriptionShortWithOT": "",
+            "winnerLoser": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "October 18 12:00 AM:"
+}

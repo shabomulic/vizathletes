@@ -1,17 +1,17 @@
 {
     "Player Name": "Jordan Allen",
+    "MIN": "39",
     "FGM-A": "8-19",
     "3PM-A": "2-4",
     "FTM-A": "0-1",
     "OREB": "0",
     "DREB": "0",
     "REB": "0",
+    "AST": "9",
+    "STL": "1",
+    "BLK": "0",
+    "TO": "0",
     "PF": "2",
     "TP": "18",
-    "AST": "9",
-    "TO": "0",
-    "BLK": "0",
-    "STL": "1",
-    "MIN": "39",
     "eventDateFormatted": "Dec 3"
 }

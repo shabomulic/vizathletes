@@ -1,17 +1,17 @@
 {
     "Player Name": "Brandon Davis",
+    "MIN": "1",
     "FGM-A": "4-7",
     "3PM-A": "0-0",
     "FTM-A": "5-5",
     "OREB": "0",
     "DREB": "2",
     "REB": "2",
+    "AST": "6",
+    "STL": "1",
+    "BLK": "0",
+    "TO": "2",
     "PF": "3",
     "TP": "13",
-    "AST": "6",
-    "TO": "2",
-    "BLK": "0",
-    "STL": "1",
-    "MIN": "1",
     "eventDateFormatted": "Nov 8"
 }

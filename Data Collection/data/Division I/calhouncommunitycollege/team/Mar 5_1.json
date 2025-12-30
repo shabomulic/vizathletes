@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Mar 5",
+    "boxScoreLink": "20260305_21e8.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Bishop State Community College",
+                "result": "",
+                "teamId": "nbwhq88d0p1fna6k",
+                "winner": false,
+                "cleanName": "bishop st community col"
+            },
+            {
+                "name": "Calhoun Community College",
+                "result": "",
+                "teamId": "onjl7kh9adms4px1",
+                "winner": false,
+                "cleanName": "calhoun community col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1772757000000,
+        "localTimeZone": "America/Chicago",
+        "tba": false,
+        "home": true,
+        "overall": true,
+        "conference": true,
+        "division": true,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "21e8zq6ugcfvnt2s",
+        "fastdate": 1772757000000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": "prestosports"
+            }
+        ],
+        "address": "",
+        "city": "Decatur",
+        "stateCountry": "Alabama",
+        "zipCode": "",
+        "venue": "",
+        "primetime": true,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Bishop State Community College",
+            "result": "",
+            "teamId": "nbwhq88d0p1fna6k",
+            "winner": false,
+            "cleanName": "bishop st community col"
+        },
+        "us": {
+            "name": "Calhoun Community College",
+            "result": "",
+            "teamId": "onjl7kh9adms4px1",
+            "winner": false,
+            "cleanName": "calhoun community col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "March 5 07:30 PM:"
+}

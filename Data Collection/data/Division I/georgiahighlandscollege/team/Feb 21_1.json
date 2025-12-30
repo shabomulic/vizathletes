@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Feb 21",
+    "boxScoreLink": "20260221_d3sa.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Albany Technical College",
+                "result": "",
+                "teamId": "lagse2f0ew4x6qes",
+                "winner": false,
+                "cleanName": "albany technical col"
+            },
+            {
+                "name": "Georgia Highlands College",
+                "result": "",
+                "teamId": "0dzx40xk3q16me24",
+                "winner": false,
+                "cleanName": "georgia highlands col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1771704000000,
+        "localTimeZone": "America/New_York",
+        "tba": false,
+        "home": true,
+        "overall": true,
+        "conference": true,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "d3sadcv3pfetmuda",
+        "fastdate": 1771704000000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": true,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Albany Technical College",
+            "result": "",
+            "teamId": "lagse2f0ew4x6qes",
+            "winner": false,
+            "cleanName": "albany technical col"
+        },
+        "us": {
+            "name": "Georgia Highlands College",
+            "result": "",
+            "teamId": "0dzx40xk3q16me24",
+            "winner": false,
+            "cleanName": "georgia highlands col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "February 21 03:00 PM:"
+}

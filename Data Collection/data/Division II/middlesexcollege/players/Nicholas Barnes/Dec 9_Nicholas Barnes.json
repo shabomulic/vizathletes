@@ -1,17 +1,17 @@
 {
     "Player Name": "Nicholas Barnes",
+    "MIN": "38",
     "FGM-A": "6-15",
     "3PM-A": "1-4",
     "FTM-A": "7-8",
     "OREB": "2",
     "DREB": "3",
     "REB": "5",
+    "AST": "0",
+    "STL": "1",
+    "BLK": "0",
+    "TO": "3",
     "PF": "0",
     "TP": "20",
-    "AST": "0",
-    "TO": "3",
-    "BLK": "0",
-    "STL": "1",
-    "MIN": "38",
     "eventDateFormatted": "Dec 9"
 }

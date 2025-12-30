@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Feb 27",
+    "boxScoreLink": "20260227_c5ft.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "TBA",
+                "result": "",
+                "teamId": "nc7x4nembqped3kz",
+                "winner": false,
+                "cleanName": "tba"
+            },
+            {
+                "name": "Cayuga Community College",
+                "result": "",
+                "teamId": "0h9t31uhi7lmn3st",
+                "winner": false,
+                "cleanName": "cayuga community col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "Region III Quarterfinals",
+        "date": 1772168400000,
+        "localTimeZone": "America/New_York",
+        "tba": true,
+        "home": true,
+        "overall": true,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": true,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "Genesee Community College",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "c5ftchwiogp0n55a",
+        "fastdate": 1772168400000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "postSeason",
+            "description": "Post-Season/Play-Offs",
+            "statsCount": true
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "TBA",
+            "result": "",
+            "teamId": "nc7x4nembqped3kz",
+            "winner": false,
+            "cleanName": "tba"
+        },
+        "us": {
+            "name": "Cayuga Community College",
+            "result": "",
+            "teamId": "0h9t31uhi7lmn3st",
+            "winner": false,
+            "cleanName": "cayuga community col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "February 27 12:00 AM:"
+}

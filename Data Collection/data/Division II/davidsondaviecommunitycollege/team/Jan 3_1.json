@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Jan 3",
+    "boxScoreLink": "20260103_14eb.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Henry Ford College",
+                "result": "",
+                "teamId": "f1yk1bh2cww7swgr",
+                "winner": false,
+                "cleanName": "henry ford col"
+            },
+            {
+                "name": "Davidson-Davie Community College",
+                "result": "",
+                "teamId": "3kd7ku644slaa8vb",
+                "winner": false,
+                "cleanName": "davidson davie community col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "New Years Classic ",
+        "date": 1767479400000,
+        "localTimeZone": "America/New_York",
+        "tba": false,
+        "home": true,
+        "overall": true,
+        "conference": false,
+        "division": false,
+        "regional": true,
+        "national": true,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "14eb2b3whx9jzwng",
+        "fastdate": 1767479400000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "Brinkley Gym",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Henry Ford College",
+            "result": "",
+            "teamId": "f1yk1bh2cww7swgr",
+            "winner": false,
+            "cleanName": "henry ford col"
+        },
+        "us": {
+            "name": "Davidson-Davie Community College",
+            "result": "",
+            "teamId": "3kd7ku644slaa8vb",
+            "winner": false,
+            "cleanName": "davidson davie community col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "January 3 05:30 PM:"
+}

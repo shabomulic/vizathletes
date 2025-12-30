@@ -1,17 +1,17 @@
 {
     "Player Name": "Ahmed Ibrahim",
+    "MIN": "1",
     "FGM-A": "3-10",
     "3PM-A": "0-0",
     "FTM-A": "8-10",
     "OREB": "2",
     "DREB": "4",
     "REB": "6",
+    "AST": "1",
+    "STL": "1",
+    "BLK": "1",
+    "TO": "5",
     "PF": "1",
     "TP": "14",
-    "AST": "1",
-    "TO": "5",
-    "BLK": "1",
-    "STL": "1",
-    "MIN": "1",
     "eventDateFormatted": "Dec 10"
 }

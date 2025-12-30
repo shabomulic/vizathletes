@@ -1,17 +1,17 @@
 {
     "Player Name": "Noa Daguet",
+    "MIN": "39",
     "FGM-A": "1-2",
     "3PM-A": "0-0",
     "FTM-A": "0-1",
     "OREB": "1",
     "DREB": "6",
     "REB": "7",
+    "AST": "2",
+    "STL": "2",
+    "BLK": "1",
+    "TO": "2",
     "PF": "1",
     "TP": "2",
-    "AST": "2",
-    "TO": "2",
-    "BLK": "1",
-    "STL": "2",
-    "MIN": "39",
     "eventDateFormatted": "Dec 17"
 }

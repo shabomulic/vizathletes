@@ -1,17 +1,17 @@
 {
     "Player Name": "Kameron Greil",
+    "MIN": "37",
     "FGM-A": "8-14",
     "3PM-A": "2-5",
     "FTM-A": "6-9",
     "OREB": "2",
     "DREB": "5",
     "REB": "7",
+    "AST": "5",
+    "STL": "2",
+    "BLK": "0",
+    "TO": "6",
     "PF": "0",
     "TP": "24",
-    "AST": "5",
-    "TO": "6",
-    "BLK": "0",
-    "STL": "2",
-    "MIN": "37",
     "eventDateFormatted": "Dec 19"
 }

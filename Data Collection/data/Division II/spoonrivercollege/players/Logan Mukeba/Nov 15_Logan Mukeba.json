@@ -1,17 +1,17 @@
 {
     "Player Name": "Logan Mukeba",
+    "MIN": "37",
     "FGM-A": "6-11",
     "3PM-A": "1-4",
     "FTM-A": "2-3",
     "OREB": "2",
     "DREB": "6",
     "REB": "8",
+    "AST": "2",
+    "STL": "1",
+    "BLK": "1",
+    "TO": "6",
     "PF": "2",
     "TP": "15",
-    "AST": "2",
-    "TO": "6",
-    "BLK": "1",
-    "STL": "1",
-    "MIN": "37",
     "eventDateFormatted": "Nov 15"
 }

@@ -1,17 +1,17 @@
 {
     "Player Name": "Reid Albright",
+    "MIN": "1",
     "FGM-A": "2-5",
     "3PM-A": "1-3",
     "FTM-A": "2-4",
     "OREB": "1",
     "DREB": "5",
     "REB": "6",
+    "AST": "5",
+    "STL": "5",
+    "BLK": "1",
+    "TO": "1",
     "PF": "1",
     "TP": "7",
-    "AST": "5",
-    "TO": "1",
-    "BLK": "1",
-    "STL": "5",
-    "MIN": "1",
     "eventDateFormatted": "Nov 24"
 }

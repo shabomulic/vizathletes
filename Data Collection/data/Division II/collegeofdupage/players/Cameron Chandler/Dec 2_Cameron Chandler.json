@@ -1,17 +1,17 @@
 {
     "Player Name": "Cameron Chandler",
+    "MIN": "11",
     "FGM-A": "0-1",
     "3PM-A": "0-0",
     "FTM-A": "1-2",
     "OREB": "2",
     "DREB": "2",
     "REB": "4",
+    "AST": "0",
+    "STL": "0",
+    "BLK": "0",
+    "TO": "3",
     "PF": "0",
     "TP": "1",
-    "AST": "0",
-    "TO": "3",
-    "BLK": "0",
-    "STL": "0",
-    "MIN": "11",
     "eventDateFormatted": "Dec 2"
 }

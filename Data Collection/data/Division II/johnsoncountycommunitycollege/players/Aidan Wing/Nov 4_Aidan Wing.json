@@ -1,17 +1,17 @@
 {
     "Player Name": "Aidan Wing",
+    "MIN": "34",
     "FGM-A": "7-15",
     "3PM-A": "2-6",
     "FTM-A": "2-3",
     "OREB": "4",
     "DREB": "6",
     "REB": "10",
+    "AST": "3",
+    "STL": "0",
+    "BLK": "0",
+    "TO": "1",
     "PF": "1",
     "TP": "18",
-    "AST": "3",
-    "TO": "1",
-    "BLK": "0",
-    "STL": "0",
-    "MIN": "34",
     "eventDateFormatted": "Nov 4"
 }

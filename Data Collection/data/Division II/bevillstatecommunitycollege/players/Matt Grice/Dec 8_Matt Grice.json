@@ -1,17 +1,17 @@
 {
     "Player Name": "Matt Grice",
+    "MIN": "26",
     "FGM-A": "3-12",
     "3PM-A": "2-7",
     "FTM-A": "0-0",
     "OREB": "0",
     "DREB": "3",
     "REB": "3",
+    "AST": "0",
+    "STL": "1",
+    "BLK": "0",
+    "TO": "1",
     "PF": "1",
     "TP": "8",
-    "AST": "0",
-    "TO": "1",
-    "BLK": "0",
-    "STL": "1",
-    "MIN": "26",
     "eventDateFormatted": "Dec 8"
 }

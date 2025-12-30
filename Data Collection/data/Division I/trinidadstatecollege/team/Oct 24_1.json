@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Oct 24",
+    "boxScoreLink": "20251024_4zm8.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "adams state",
+                "result": "",
+                "teamId": "01lf8b8vsmzmb4x7",
+                "winner": false,
+                "cleanName": "adams st"
+            },
+            {
+                "name": "Trinidad State College",
+                "result": "",
+                "teamId": "zw8blq0td8cf8qiz",
+                "winner": false,
+                "cleanName": "trinidad st col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1761339600000,
+        "localTimeZone": "America/Denver",
+        "tba": false,
+        "home": true,
+        "overall": true,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "4zm8sxg2te9c7185",
+        "fastdate": 1761339600000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "exhibition",
+            "description": "Exhibition",
+            "statsCount": false
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "adams state",
+            "result": "",
+            "teamId": "01lf8b8vsmzmb4x7",
+            "winner": false,
+            "cleanName": "adams st"
+        },
+        "us": {
+            "name": "Trinidad State College",
+            "result": "",
+            "teamId": "zw8blq0td8cf8qiz",
+            "winner": false,
+            "cleanName": "trinidad st col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "October 24 05:00 PM:"
+}

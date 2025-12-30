@@ -1,17 +1,17 @@
 {
     "Player Name": "Damiran Smith",
+    "MIN": "1",
     "FGM-A": "8-10",
     "3PM-A": "4-5",
     "FTM-A": "2-4",
     "OREB": "0",
     "DREB": "3",
     "REB": "3",
+    "AST": "1",
+    "STL": "1",
+    "BLK": "0",
+    "TO": "2",
     "PF": "1",
     "TP": "22",
-    "AST": "1",
-    "TO": "2",
-    "BLK": "0",
-    "STL": "1",
-    "MIN": "1",
     "eventDateFormatted": "Dec 13"
 }

@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Jan 31",
+    "boxScoreLink": "20260131_do9u.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Bryant & Stratton (Ohio)",
+                "result": "",
+                "teamId": "0s9p6o9cqei0erdc",
+                "winner": false,
+                "cleanName": "bryant stratton ohio"
+            },
+            {
+                "name": "Clark State College",
+                "result": "",
+                "teamId": "0y8pqvg0s9er6yo9",
+                "winner": false,
+                "cleanName": "clark st col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1769882400000,
+        "localTimeZone": "America/New_York",
+        "tba": false,
+        "home": false,
+        "overall": true,
+        "conference": true,
+        "division": true,
+        "regional": true,
+        "national": true,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "do9u8c2uaod26lls",
+        "fastdate": 1769882400000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "570 E Leffel Ln, Springfield, OH 45505",
+        "city": "Springfield",
+        "stateCountry": "Ohio",
+        "zipCode": "45505",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Clark State College",
+            "result": "",
+            "teamId": "0y8pqvg0s9er6yo9",
+            "winner": false,
+            "cleanName": "clark st col"
+        },
+        "us": {
+            "name": "Bryant & Stratton (Ohio)",
+            "result": "",
+            "teamId": "0s9p6o9cqei0erdc",
+            "winner": false,
+            "cleanName": "bryant stratton ohio"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "January 31 01:00 PM:"
+}

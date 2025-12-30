@@ -1,17 +1,17 @@
 {
-    "Player Name": "Marcus Edmond Jr",
+    "Player Name": "Marcus Edmond Jr.",
+    "MIN": "25",
     "FGM-A": "8-16",
     "3PM-A": "1-5",
     "FTM-A": "6-6",
     "OREB": "0",
     "DREB": "5",
     "REB": "5",
+    "AST": "1",
+    "STL": "4",
+    "BLK": "0",
+    "TO": "4",
     "PF": "2",
     "TP": "23",
-    "AST": "1",
-    "TO": "4",
-    "BLK": "0",
-    "STL": "4",
-    "MIN": "25",
     "eventDateFormatted": "Nov 16"
 }

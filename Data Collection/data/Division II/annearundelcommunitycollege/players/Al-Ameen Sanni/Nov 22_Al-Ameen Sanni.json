@@ -1,17 +1,17 @@
 {
     "Player Name": "Al-Ameen Sanni",
+    "MIN": "35",
     "FGM-A": "3-9",
     "3PM-A": "1-1",
     "FTM-A": "2-2",
     "OREB": "3",
     "DREB": "5",
     "REB": "8",
+    "AST": "3",
+    "STL": "2",
+    "BLK": "4",
+    "TO": "2",
     "PF": "4",
     "TP": "9",
-    "AST": "3",
-    "TO": "2",
-    "BLK": "4",
-    "STL": "2",
-    "MIN": "35",
     "eventDateFormatted": "Nov 22"
 }

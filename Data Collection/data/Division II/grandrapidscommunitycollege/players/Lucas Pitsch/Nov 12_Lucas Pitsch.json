@@ -1,17 +1,17 @@
 {
     "Player Name": "Lucas Pitsch",
+    "MIN": "23",
     "FGM-A": "3-7",
     "3PM-A": "2-4",
     "FTM-A": "1-1",
     "OREB": "3",
     "DREB": "4",
     "REB": "7",
+    "AST": "5",
+    "STL": "0",
+    "BLK": "2",
+    "TO": "1",
     "PF": "3",
     "TP": "9",
-    "AST": "5",
-    "TO": "1",
-    "BLK": "2",
-    "STL": "0",
-    "MIN": "23",
     "eventDateFormatted": "Nov 12"
 }

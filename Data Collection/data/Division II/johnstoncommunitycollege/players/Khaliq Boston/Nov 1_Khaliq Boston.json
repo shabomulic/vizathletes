@@ -1,17 +1,17 @@
 {
     "Player Name": "Khaliq Boston",
+    "MIN": "31",
     "FGM-A": "8-12",
     "3PM-A": "6-9",
     "FTM-A": "1-2",
     "OREB": "0",
     "DREB": "5",
     "REB": "5",
+    "AST": "0",
+    "STL": "0",
+    "BLK": "0",
+    "TO": "6",
     "PF": "2",
     "TP": "23",
-    "AST": "0",
-    "TO": "6",
-    "BLK": "0",
-    "STL": "0",
-    "MIN": "31",
     "eventDateFormatted": "Nov 1"
 }

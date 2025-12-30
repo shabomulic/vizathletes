@@ -1,17 +1,17 @@
 {
     "Player Name": "Joviel Acevedo-Arroyo",
+    "MIN": "34",
     "FGM-A": "4-11",
     "3PM-A": "1-4",
     "FTM-A": "1-2",
     "OREB": "0",
     "DREB": "4",
     "REB": "4",
+    "AST": "3",
+    "STL": "1",
+    "BLK": "0",
+    "TO": "2",
     "PF": "0",
     "TP": "10",
-    "AST": "3",
-    "TO": "2",
-    "BLK": "0",
-    "STL": "1",
-    "MIN": "34",
     "eventDateFormatted": "Nov 21"
 }

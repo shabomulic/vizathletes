@@ -1,17 +1,17 @@
 {
     "Player Name": "Malachi Schilreff",
+    "MIN": "16",
     "FGM-A": "3-5",
     "3PM-A": "0-2",
     "FTM-A": "0-0",
     "OREB": "1",
     "DREB": "5",
     "REB": "6",
+    "AST": "0",
+    "STL": "2",
+    "BLK": "1",
+    "TO": "1",
     "PF": "4",
     "TP": "6",
-    "AST": "0",
-    "TO": "1",
-    "BLK": "1",
-    "STL": "2",
-    "MIN": "16",
     "eventDateFormatted": "Nov 28"
 }

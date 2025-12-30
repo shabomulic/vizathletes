@@ -172,7 +172,7 @@
     "careerId": null,
     "rank": null,
     "eventCount": 8,
-    "lastUpdated": 1766431770000,
+    "lastUpdated": 1767046247000,
     "position": "F",
     "positionAbbreviation": "F",
     "positionCode": null,
@@ -193,10 +193,10 @@
             "defaultValue": 0,
             "mutable": false,
             "componentType": false,
-            "collectionType": false,
             "entityType": false,
             "associationType": false,
             "xmlelement": false,
+            "collectionType": false,
             "anyType": false
         },
         "mutable": false

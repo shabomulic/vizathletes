@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Feb 21",
+    "boxScoreLink": "20260221_6etp.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Mid Michigan College",
+                "result": "",
+                "teamId": "lwx2ghoorj7y49nq",
+                "winner": false,
+                "cleanName": "mid michigan col"
+            },
+            {
+                "name": "Alpena Community College",
+                "result": "",
+                "teamId": "l8te912uzl8xbpjr",
+                "winner": false,
+                "cleanName": "alpena community col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1771704000000,
+        "localTimeZone": "America/New_York",
+        "tba": false,
+        "home": false,
+        "overall": true,
+        "conference": true,
+        "division": false,
+        "regional": true,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "6etp3tv4tvouahsk",
+        "fastdate": 1771704000000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Alpena Community College",
+            "result": "",
+            "teamId": "l8te912uzl8xbpjr",
+            "winner": false,
+            "cleanName": "alpena community col"
+        },
+        "us": {
+            "name": "Mid Michigan College",
+            "result": "",
+            "teamId": "lwx2ghoorj7y49nq",
+            "winner": false,
+            "cleanName": "mid michigan col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "February 21 03:00 PM:"
+}

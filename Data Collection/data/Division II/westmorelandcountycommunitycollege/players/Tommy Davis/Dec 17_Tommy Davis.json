@@ -1,17 +1,17 @@
 {
     "Player Name": "Tommy Davis",
+    "MIN": "27",
     "FGM-A": "8-12",
     "3PM-A": "0-1",
     "FTM-A": "1-1",
     "OREB": "2",
     "DREB": "6",
     "REB": "8",
+    "AST": "1",
+    "STL": "2",
+    "BLK": "0",
+    "TO": "1",
     "PF": "4",
     "TP": "17",
-    "AST": "1",
-    "TO": "1",
-    "BLK": "0",
-    "STL": "2",
-    "MIN": "27",
     "eventDateFormatted": "Dec 17"
 }

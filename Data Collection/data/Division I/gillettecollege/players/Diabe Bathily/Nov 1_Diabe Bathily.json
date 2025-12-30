@@ -1,17 +1,17 @@
 {
     "Player Name": "Diabe Bathily",
+    "MIN": "25",
     "FGM-A": "1-4",
     "3PM-A": "1-2",
     "FTM-A": "0-0",
     "OREB": "1",
     "DREB": "4",
     "REB": "5",
+    "AST": "0",
+    "STL": "1",
+    "BLK": "1",
+    "TO": "2",
     "PF": "5",
     "TP": "3",
-    "AST": "0",
-    "TO": "2",
-    "BLK": "1",
-    "STL": "1",
-    "MIN": "25",
     "eventDateFormatted": "Nov 1"
 }

@@ -1,17 +1,17 @@
 {
     "Player Name": "Kenyon Holmes",
+    "MIN": "26",
     "FGM-A": "2-5",
     "3PM-A": "0-1",
     "FTM-A": "2-2",
     "OREB": "3",
     "DREB": "8",
     "REB": "11",
+    "AST": "0",
+    "STL": "1",
+    "BLK": "0",
+    "TO": "3",
     "PF": "2",
     "TP": "6",
-    "AST": "0",
-    "TO": "3",
-    "BLK": "0",
-    "STL": "1",
-    "MIN": "26",
     "eventDateFormatted": "Nov 13"
 }

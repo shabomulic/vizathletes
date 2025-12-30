@@ -1,17 +1,17 @@
 {
     "Player Name": "Davion Bland",
+    "MIN": "20",
     "FGM-A": "1-5",
     "3PM-A": "0-3",
     "FTM-A": "0-0",
     "OREB": "0",
     "DREB": "2",
     "REB": "2",
+    "AST": "3",
+    "STL": "1",
+    "BLK": "0",
+    "TO": "3",
     "PF": "2",
     "TP": "2",
-    "AST": "3",
-    "TO": "3",
-    "BLK": "0",
-    "STL": "1",
-    "MIN": "20",
     "eventDateFormatted": "Dec 20"
 }

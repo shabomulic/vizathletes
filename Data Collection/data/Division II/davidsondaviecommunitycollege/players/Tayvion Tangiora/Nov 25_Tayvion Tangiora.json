@@ -1,17 +1,17 @@
 {
     "Player Name": "Tayvion Tangiora",
+    "MIN": "33:51",
     "FGM-A": "3-8",
     "3PM-A": "0-0",
     "FTM-A": "0-0",
     "OREB": "4",
     "DREB": "5",
     "REB": "9",
+    "AST": "3",
+    "STL": "0",
+    "BLK": "0",
+    "TO": "6",
     "PF": "2",
     "TP": "6",
-    "AST": "3",
-    "TO": "6",
-    "BLK": "0",
-    "STL": "0",
-    "MIN": "33:51",
     "eventDateFormatted": "Nov 25"
 }

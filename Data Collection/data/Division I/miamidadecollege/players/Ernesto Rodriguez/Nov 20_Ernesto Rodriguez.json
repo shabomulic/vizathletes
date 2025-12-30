@@ -1,17 +1,17 @@
 {
     "Player Name": "Ernesto Rodriguez",
+    "MIN": "37",
     "FGM-A": "6-12",
     "3PM-A": "5-10",
     "FTM-A": "2-2",
     "OREB": "0",
     "DREB": "3",
     "REB": "3",
+    "AST": "3",
+    "STL": "1",
+    "BLK": "0",
+    "TO": "2",
     "PF": "2",
     "TP": "19",
-    "AST": "3",
-    "TO": "2",
-    "BLK": "0",
-    "STL": "1",
-    "MIN": "37",
     "eventDateFormatted": "Nov 20"
 }

@@ -1,17 +1,17 @@
 {
     "Player Name": "Obi Coleman",
+    "MIN": "36",
     "FGM-A": "6-14",
     "3PM-A": "4-6",
     "FTM-A": "0-0",
     "OREB": "1",
     "DREB": "6",
     "REB": "7",
+    "AST": "4",
+    "STL": "0",
+    "BLK": "4",
+    "TO": "5",
     "PF": "0",
     "TP": "16",
-    "AST": "4",
-    "TO": "5",
-    "BLK": "4",
-    "STL": "0",
-    "MIN": "36",
     "eventDateFormatted": "Dec 11"
 }

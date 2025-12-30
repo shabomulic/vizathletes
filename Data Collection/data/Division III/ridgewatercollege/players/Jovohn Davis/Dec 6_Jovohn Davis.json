@@ -1,17 +1,17 @@
 {
     "Player Name": "Jovohn Davis",
+    "MIN": "25",
     "FGM-A": "4-9",
     "3PM-A": "0-2",
     "FTM-A": "1-2",
     "OREB": "2",
     "DREB": "6",
     "REB": "8",
+    "AST": "4",
+    "STL": "2",
+    "BLK": "0",
+    "TO": "2",
     "PF": "0",
     "TP": "9",
-    "AST": "4",
-    "TO": "2",
-    "BLK": "0",
-    "STL": "2",
-    "MIN": "25",
     "eventDateFormatted": "Dec 6"
 }

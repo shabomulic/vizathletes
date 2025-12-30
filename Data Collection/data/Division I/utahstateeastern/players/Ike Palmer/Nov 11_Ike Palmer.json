@@ -1,17 +1,17 @@
 {
     "Player Name": "Ike Palmer",
+    "MIN": "32",
     "FGM-A": "4-10",
     "3PM-A": "1-1",
     "FTM-A": "8-10",
     "OREB": "2",
     "DREB": "3",
     "REB": "5",
+    "AST": "3",
+    "STL": "1",
+    "BLK": "0",
+    "TO": "3",
     "PF": "4",
     "TP": "17",
-    "AST": "3",
-    "TO": "3",
-    "BLK": "0",
-    "STL": "1",
-    "MIN": "32",
     "eventDateFormatted": "Nov 11"
 }

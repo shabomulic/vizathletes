@@ -57,7 +57,7 @@
     "lastUpdated": 1765815243000,
     "position": "F",
     "positionAbbreviation": "F",
-    "positionCode": null,
+    "positionCode": "F0FR",
     "dataMap": {
         "hometown": "Hungary",
         "born": "",
@@ -67,10 +67,10 @@
     "uniform": "14",
     "year": "Fr",
     "playerStatus": {
-        "enumCode": 1,
-        "abbr": "A",
-        "statusName": "Active",
-        "active": true,
+        "enumCode": 0,
+        "abbr": "I",
+        "statusName": "Inactive",
+        "active": false,
         "interceptFieldCallback": null,
         "nullableType": {
             "comparator": {},
@@ -80,15 +80,15 @@
             "defaultValue": 0,
             "mutable": false,
             "componentType": false,
-            "collectionType": false,
-            "anyType": false,
             "entityType": false,
             "associationType": false,
-            "xmlelement": false
+            "xmlelement": false,
+            "collectionType": false,
+            "anyType": false
         },
         "mutable": false
     },
-    "active": true,
+    "active": false,
     "fullName": "Peter Szlagyi",
     "minCalcStats": {
         "fgppm": false,

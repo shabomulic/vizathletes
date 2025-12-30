@@ -1,17 +1,17 @@
 {
     "Player Name": "Masiah Robinson",
+    "MIN": "18",
     "FGM-A": "2-6",
     "3PM-A": "0-1",
     "FTM-A": "1-1",
     "OREB": "0",
     "DREB": "0",
     "REB": "0",
+    "AST": "1",
+    "STL": "1",
+    "BLK": "0",
+    "TO": "4",
     "PF": "5",
     "TP": "5",
-    "AST": "1",
-    "TO": "4",
-    "BLK": "0",
-    "STL": "1",
-    "MIN": "18",
     "eventDateFormatted": "Nov 6"
 }

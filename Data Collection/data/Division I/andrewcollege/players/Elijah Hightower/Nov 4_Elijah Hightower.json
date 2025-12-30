@@ -1,17 +1,17 @@
 {
     "Player Name": "Elijah Hightower",
+    "MIN": "1",
     "FGM-A": "10-18",
     "3PM-A": "3-5",
     "FTM-A": "5-8",
     "OREB": "2",
     "DREB": "4",
     "REB": "6",
+    "AST": "0",
+    "STL": "1",
+    "BLK": "0",
+    "TO": "5",
     "PF": "2",
     "TP": "28",
-    "AST": "0",
-    "TO": "5",
-    "BLK": "0",
-    "STL": "1",
-    "MIN": "1",
     "eventDateFormatted": "Nov 4"
 }

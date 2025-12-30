@@ -1,17 +1,17 @@
 {
     "Player Name": "Gavin Headings",
+    "MIN": "33",
     "FGM-A": "2-11",
     "3PM-A": "0-1",
     "FTM-A": "0-0",
     "OREB": "2",
     "DREB": "8",
     "REB": "10",
+    "AST": "4",
+    "STL": "1",
+    "BLK": "0",
+    "TO": "3",
     "PF": "0",
     "TP": "4",
-    "AST": "4",
-    "TO": "3",
-    "BLK": "0",
-    "STL": "1",
-    "MIN": "33",
     "eventDateFormatted": "Nov 25"
 }

@@ -1,17 +1,17 @@
 {
     "Player Name": "David Emelife",
+    "MIN": "1",
     "FGM-A": "4-10",
     "3PM-A": "0-3",
     "FTM-A": "6-6",
     "OREB": "1",
     "DREB": "3",
     "REB": "4",
+    "AST": "1",
+    "STL": "4",
+    "BLK": "0",
+    "TO": "2",
     "PF": "1",
     "TP": "14",
-    "AST": "1",
-    "TO": "2",
-    "BLK": "0",
-    "STL": "4",
-    "MIN": "1",
     "eventDateFormatted": "Nov 29"
 }

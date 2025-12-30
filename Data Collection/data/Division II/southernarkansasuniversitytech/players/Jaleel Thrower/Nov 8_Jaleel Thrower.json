@@ -1,17 +1,17 @@
 {
     "Player Name": "Jaleel Thrower",
+    "MIN": "1",
     "FGM-A": "1-4",
     "3PM-A": "0-2",
     "FTM-A": "2-2",
     "OREB": "0",
     "DREB": "2",
     "REB": "2",
+    "AST": "1",
+    "STL": "0",
+    "BLK": "0",
+    "TO": "3",
     "PF": "0",
     "TP": "4",
-    "AST": "1",
-    "TO": "3",
-    "BLK": "0",
-    "STL": "0",
-    "MIN": "1",
     "eventDateFormatted": "Nov 8"
 }

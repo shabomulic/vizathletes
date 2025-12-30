@@ -1,17 +1,17 @@
 {
     "Player Name": "Zequan Lewis",
+    "MIN": "24",
     "FGM-A": "4-9",
     "3PM-A": "2-2",
     "FTM-A": "0-0",
     "OREB": "4",
     "DREB": "3",
     "REB": "7",
+    "AST": "1",
+    "STL": "0",
+    "BLK": "0",
+    "TO": "2",
     "PF": "3",
     "TP": "10",
-    "AST": "1",
-    "TO": "2",
-    "BLK": "0",
-    "STL": "0",
-    "MIN": "24",
     "eventDateFormatted": "Dec 9"
 }

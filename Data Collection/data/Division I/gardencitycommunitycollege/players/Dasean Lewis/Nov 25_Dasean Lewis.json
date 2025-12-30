@@ -1,17 +1,17 @@
 {
     "Player Name": "Dasean Lewis",
+    "MIN": "35",
     "FGM-A": "7-12",
     "3PM-A": "2-4",
     "FTM-A": "0-1",
     "OREB": "2",
     "DREB": "3",
     "REB": "5",
+    "AST": "3",
+    "STL": "4",
+    "BLK": "0",
+    "TO": "2",
     "PF": "4",
     "TP": "16",
-    "AST": "3",
-    "TO": "2",
-    "BLK": "0",
-    "STL": "4",
-    "MIN": "35",
     "eventDateFormatted": "Nov 25"
 }

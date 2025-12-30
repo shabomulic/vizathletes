@@ -1,17 +1,17 @@
 {
     "Player Name": "Jordan Jones",
+    "MIN": "1",
     "FGM-A": "13-16",
     "3PM-A": "0-0",
     "FTM-A": "0-0",
     "OREB": "2",
     "DREB": "5",
     "REB": "7",
+    "AST": "3",
+    "STL": "9",
+    "BLK": "0",
+    "TO": "5",
     "PF": "0",
     "TP": "26",
-    "AST": "3",
-    "TO": "5",
-    "BLK": "0",
-    "STL": "9",
-    "MIN": "1",
     "eventDateFormatted": "Nov 21"
 }

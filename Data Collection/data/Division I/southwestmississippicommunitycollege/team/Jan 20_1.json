@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Jan 20",
+    "boxScoreLink": "20260120_o4n2.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Mississippi Gulf Coast Community College",
+                "result": "",
+                "teamId": "jxkq4mk8bbhnvbfe",
+                "winner": false,
+                "cleanName": "mississippi gulf coast community col"
+            },
+            {
+                "name": "Southwest Mississippi Community College",
+                "result": "",
+                "teamId": "e7ck6jxjqxhfes1n",
+                "winner": false,
+                "cleanName": "southwest mississippi community col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1768955400000,
+        "localTimeZone": "America/Chicago",
+        "tba": false,
+        "home": true,
+        "overall": true,
+        "conference": true,
+        "division": false,
+        "regional": true,
+        "national": true,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "o4n2f717fnfaje4q",
+        "fastdate": 1768955400000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Mississippi Gulf Coast Community College",
+            "result": "",
+            "teamId": "jxkq4mk8bbhnvbfe",
+            "winner": false,
+            "cleanName": "mississippi gulf coast community col"
+        },
+        "us": {
+            "name": "Southwest Mississippi Community College",
+            "result": "",
+            "teamId": "e7ck6jxjqxhfes1n",
+            "winner": false,
+            "cleanName": "southwest mississippi community col"
+        },
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "January 20 07:30 PM:"
+}

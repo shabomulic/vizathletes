@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Feb 14",
+    "boxScoreLink": "20260214_ivlb.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Clark State College",
+                "result": "",
+                "teamId": "0y8pqvg0s9er6yo9",
+                "winner": false,
+                "cleanName": "clark st col"
+            },
+            {
+                "name": "Bryant & Stratton (Ohio)",
+                "result": "",
+                "teamId": "0s9p6o9cqei0erdc",
+                "winner": false,
+                "cleanName": "bryant stratton ohio"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "Hosted at Ursuline College (Sister Diana Stano Athletic Center)",
+        "date": 1771092000000,
+        "localTimeZone": "America/New_York",
+        "tba": false,
+        "home": true,
+        "overall": true,
+        "conference": true,
+        "division": true,
+        "regional": true,
+        "national": true,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "ivlbg7mfaw93hqjz",
+        "fastdate": 1771092000000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "2550 Lander Rd, Pepper Pike, OH 44124",
+        "city": "Pepper Pike",
+        "stateCountry": "Ohio",
+        "zipCode": "44124",
+        "venue": "Ursuline College",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Clark State College",
+            "result": "",
+            "teamId": "0y8pqvg0s9er6yo9",
+            "winner": false,
+            "cleanName": "clark st col"
+        },
+        "us": {
+            "name": "Bryant & Stratton (Ohio)",
+            "result": "",
+            "teamId": "0s9p6o9cqei0erdc",
+            "winner": false,
+            "cleanName": "bryant stratton ohio"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "February 14 01:00 PM:"
+}

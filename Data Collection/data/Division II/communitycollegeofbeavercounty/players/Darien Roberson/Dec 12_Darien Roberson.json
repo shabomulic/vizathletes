@@ -1,17 +1,17 @@
 {
     "Player Name": "Darien Roberson",
+    "MIN": "1",
     "FGM-A": "2-9",
     "3PM-A": "1-4",
     "FTM-A": "0-0",
     "OREB": "1",
     "DREB": "4",
     "REB": "5",
+    "AST": "3",
+    "STL": "1",
+    "BLK": "0",
+    "TO": "0",
     "PF": "0",
     "TP": "5",
-    "AST": "3",
-    "TO": "0",
-    "BLK": "0",
-    "STL": "1",
-    "MIN": "1",
     "eventDateFormatted": "Dec 12"
 }

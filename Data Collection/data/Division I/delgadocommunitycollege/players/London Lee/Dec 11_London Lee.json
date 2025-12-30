@@ -1,17 +1,17 @@
 {
     "Player Name": "London Lee",
+    "MIN": "37",
     "FGM-A": "5-8",
     "3PM-A": "0-1",
     "FTM-A": "3-4",
     "OREB": "1",
     "DREB": "3",
     "REB": "4",
+    "AST": "1",
+    "STL": "2",
+    "BLK": "0",
+    "TO": "4",
     "PF": "1",
     "TP": "13",
-    "AST": "1",
-    "TO": "4",
-    "BLK": "0",
-    "STL": "2",
-    "MIN": "37",
     "eventDateFormatted": "Dec 11"
 }

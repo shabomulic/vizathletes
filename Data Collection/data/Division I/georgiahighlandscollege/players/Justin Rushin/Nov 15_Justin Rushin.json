@@ -1,17 +1,17 @@
 {
     "Player Name": "Justin Rushin",
+    "MIN": "18",
     "FGM-A": "1-2",
     "3PM-A": "0-1",
     "FTM-A": "2-2",
     "OREB": "0",
     "DREB": "0",
     "REB": "0",
+    "AST": "2",
+    "STL": "4",
+    "BLK": "0",
+    "TO": "3",
     "PF": "2",
     "TP": "4",
-    "AST": "2",
-    "TO": "3",
-    "BLK": "0",
-    "STL": "4",
-    "MIN": "18",
     "eventDateFormatted": "Nov 15"
 }

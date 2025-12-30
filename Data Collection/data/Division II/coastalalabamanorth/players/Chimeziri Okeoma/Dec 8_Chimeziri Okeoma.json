@@ -1,17 +1,17 @@
 {
     "Player Name": "Chimeziri Okeoma",
+    "MIN": "1",
     "FGM-A": "6-12",
     "3PM-A": "1-4",
     "FTM-A": "3-4",
     "OREB": "0",
     "DREB": "1",
     "REB": "1",
+    "AST": "2",
+    "STL": "5",
+    "BLK": "0",
+    "TO": "2",
     "PF": "0",
     "TP": "16",
-    "AST": "2",
-    "TO": "2",
-    "BLK": "0",
-    "STL": "5",
-    "MIN": "1",
     "eventDateFormatted": "Dec 8"
 }

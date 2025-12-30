@@ -1,17 +1,17 @@
 {
     "Player Name": "Raziel Taylor",
+    "MIN": "32",
     "FGM-A": "5-8",
     "3PM-A": "0-2",
     "FTM-A": "0-0",
     "OREB": "1",
     "DREB": "4",
     "REB": "5",
+    "AST": "0",
+    "STL": "1",
+    "BLK": "0",
+    "TO": "1",
     "PF": "1",
     "TP": "10",
-    "AST": "0",
-    "TO": "1",
-    "BLK": "0",
-    "STL": "1",
-    "MIN": "32",
     "eventDateFormatted": "Dec 5"
 }

@@ -1,17 +1,17 @@
 {
     "Player Name": "Peter Quaye",
+    "MIN": "25",
     "FGM-A": "7-10",
     "3PM-A": "1-2",
     "FTM-A": "3-3",
     "OREB": "3",
     "DREB": "0",
     "REB": "3",
+    "AST": "1",
+    "STL": "1",
+    "BLK": "1",
+    "TO": "2",
     "PF": "2",
     "TP": "18",
-    "AST": "1",
-    "TO": "2",
-    "BLK": "1",
-    "STL": "1",
-    "MIN": "25",
     "eventDateFormatted": "Nov 18"
 }

@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Oct 17",
+    "boxScoreLink": "20251017_s63t.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Northern Oklahoma College-Tonkawa",
+                "result": "",
+                "teamId": "p61g9vc41gnchs6w",
+                "winner": false,
+                "cleanName": "n oklahoma col tonkawa"
+            },
+            {
+                "name": "Ellsworth Community College",
+                "result": "",
+                "teamId": "ow4c11tb42slmzwu",
+                "winner": false,
+                "cleanName": "ellsworth community col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1760725800000,
+        "localTimeZone": "America/Chicago",
+        "tba": false,
+        "home": false,
+        "overall": false,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "MOKAN Jamboree / Kansas City, Missouri",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "s63tbyr651fshbol",
+        "fastdate": 1760725800000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "MOKAN Jamboree",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "Kansas City, Missouri",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "scrimmage",
+            "description": "Scrimmage",
+            "statsCount": false
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Ellsworth Community College",
+            "result": "",
+            "teamId": "ow4c11tb42slmzwu",
+            "winner": false,
+            "cleanName": "ellsworth community col"
+        },
+        "us": {
+            "name": "Northern Oklahoma College-Tonkawa",
+            "result": "",
+            "teamId": "p61g9vc41gnchs6w",
+            "winner": false,
+            "cleanName": "n oklahoma col tonkawa"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "October 17 02:30 PM:"
+}

@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Feb 18",
+    "boxScoreLink": "20260218_idot.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Jefferson College",
+                "result": "",
+                "teamId": "tar5fy48wxcs5dlw",
+                "winner": false,
+                "cleanName": "jefferson col"
+            },
+            {
+                "name": "Mission University JV",
+                "result": "",
+                "teamId": "9rkckqy6qz3tnwvz",
+                "winner": false,
+                "cleanName": "mission univ jv"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1771390800000,
+        "localTimeZone": "America/Chicago",
+        "tba": true,
+        "home": false,
+        "overall": true,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "idot3g7rxl4l5w0j",
+        "fastdate": 1771390800000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Mission University JV",
+            "result": "",
+            "teamId": "9rkckqy6qz3tnwvz",
+            "winner": false,
+            "cleanName": "mission univ jv"
+        },
+        "us": {
+            "name": "Jefferson College",
+            "result": "",
+            "teamId": "tar5fy48wxcs5dlw",
+            "winner": false,
+            "cleanName": "jefferson col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "February 18 12:00 AM:"
+}

@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Jan 26",
+    "boxScoreLink": "20260126_i26n.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Garrett College",
+                "result": "",
+                "teamId": "jwl6myvcjat4a1qx",
+                "winner": false,
+                "cleanName": "garrett col"
+            },
+            {
+                "name": "CC of Allegheny County",
+                "result": "",
+                "teamId": "1ojqykzmgiil2t8s",
+                "winner": false,
+                "cleanName": "cc allegheny county"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1769472000000,
+        "localTimeZone": "America/New_York",
+        "tba": false,
+        "home": true,
+        "overall": true,
+        "conference": false,
+        "division": false,
+        "regional": true,
+        "national": true,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "i26nthjm8rmb5goe",
+        "fastdate": 1769472000000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Garrett College",
+            "result": "",
+            "teamId": "jwl6myvcjat4a1qx",
+            "winner": false,
+            "cleanName": "garrett col"
+        },
+        "us": {
+            "name": "CC of Allegheny County",
+            "result": "",
+            "teamId": "1ojqykzmgiil2t8s",
+            "winner": false,
+            "cleanName": "cc allegheny county"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "January 26 07:00 PM:"
+}

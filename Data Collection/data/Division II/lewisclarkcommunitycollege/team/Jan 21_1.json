@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Jan 21",
+    "boxScoreLink": "20260121_ej36.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Spoon River College",
+                "result": "",
+                "teamId": "om2nid4te3h84hgx",
+                "winner": false,
+                "cleanName": "spoon river col"
+            },
+            {
+                "name": "Lewis & Clark Community College",
+                "result": "",
+                "teamId": "zulxsmdd5drv096f",
+                "winner": false,
+                "cleanName": "lewis clark community col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1769041800000,
+        "localTimeZone": "America/Chicago",
+        "tba": false,
+        "home": true,
+        "overall": true,
+        "conference": true,
+        "division": true,
+        "regional": true,
+        "national": true,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "ej36uwpoti2i3q22",
+        "fastdate": 1769041800000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "5800 Godfrey Rd",
+        "city": "Godfrey",
+        "stateCountry": "Madison",
+        "zipCode": "62035",
+        "venue": "George C Terry Riverbend Arena",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Spoon River College",
+            "result": "",
+            "teamId": "om2nid4te3h84hgx",
+            "winner": false,
+            "cleanName": "spoon river col"
+        },
+        "us": {
+            "name": "Lewis & Clark Community College",
+            "result": "",
+            "teamId": "zulxsmdd5drv096f",
+            "winner": false,
+            "cleanName": "lewis clark community col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "January 21 07:30 PM:"
+}

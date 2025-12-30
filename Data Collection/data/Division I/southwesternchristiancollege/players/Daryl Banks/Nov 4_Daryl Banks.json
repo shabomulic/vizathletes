@@ -1,17 +1,17 @@
 {
     "Player Name": "Daryl Banks",
+    "MIN": "1",
     "FGM-A": "4-9",
     "3PM-A": "0-1",
     "FTM-A": "3-3",
     "OREB": "1",
     "DREB": "4",
     "REB": "5",
+    "AST": "1",
+    "STL": "1",
+    "BLK": "1",
+    "TO": "1",
     "PF": "5",
     "TP": "11",
-    "AST": "1",
-    "TO": "1",
-    "BLK": "1",
-    "STL": "1",
-    "MIN": "1",
     "eventDateFormatted": "Nov 4"
 }

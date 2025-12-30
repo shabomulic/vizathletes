@@ -1,17 +1,17 @@
 {
     "Player Name": "Isak Homelius",
+    "MIN": "1",
     "FGM-A": "4-9",
     "3PM-A": "1-6",
     "FTM-A": "6-6",
     "OREB": "1",
     "DREB": "0",
     "REB": "1",
+    "AST": "0",
+    "STL": "0",
+    "BLK": "0",
+    "TO": "10",
     "PF": "0",
     "TP": "15",
-    "AST": "0",
-    "TO": "10",
-    "BLK": "0",
-    "STL": "0",
-    "MIN": "1",
     "eventDateFormatted": "Nov 21"
 }

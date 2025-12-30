@@ -1,17 +1,17 @@
 {
     "Player Name": "Yarin Alexander",
+    "MIN": "34:48",
     "FGM-A": "6-19",
     "3PM-A": "0-3",
     "FTM-A": "3-5",
     "OREB": "2",
     "DREB": "10",
     "REB": "12",
+    "AST": "3",
+    "STL": "0",
+    "BLK": "0",
+    "TO": "3",
     "PF": "2",
     "TP": "15",
-    "AST": "3",
-    "TO": "3",
-    "BLK": "0",
-    "STL": "0",
-    "MIN": "34:48",
     "eventDateFormatted": "Nov 25"
 }

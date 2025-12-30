@@ -1,17 +1,17 @@
 {
     "Player Name": "Jaden Champion",
+    "MIN": "28",
     "FGM-A": "5-10",
     "3PM-A": "2-3",
     "FTM-A": "0-0",
     "OREB": "1",
     "DREB": "0",
     "REB": "1",
+    "AST": "2",
+    "STL": "2",
+    "BLK": "0",
+    "TO": "5",
     "PF": "1",
     "TP": "12",
-    "AST": "2",
-    "TO": "5",
-    "BLK": "0",
-    "STL": "2",
-    "MIN": "28",
     "eventDateFormatted": "Dec 4"
 }

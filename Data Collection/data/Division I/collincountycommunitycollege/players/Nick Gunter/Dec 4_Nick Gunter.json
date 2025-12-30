@@ -1,17 +1,17 @@
 {
     "Player Name": "Nick Gunter",
+    "MIN": "1",
     "FGM-A": "4-6",
     "3PM-A": "0-0",
     "FTM-A": "6-8",
     "OREB": "4",
     "DREB": "9",
     "REB": "13",
+    "AST": "3",
+    "STL": "0",
+    "BLK": "1",
+    "TO": "3",
     "PF": "3",
     "TP": "14",
-    "AST": "3",
-    "TO": "3",
-    "BLK": "1",
-    "STL": "0",
-    "MIN": "1",
     "eventDateFormatted": "Dec 4"
 }

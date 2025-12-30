@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Feb 1",
+    "boxScoreLink": "20260201_4w3d.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Camp Community College",
+                "result": "",
+                "teamId": "uejnx8zqgng3ruo3",
+                "winner": false,
+                "cleanName": "camp community col"
+            },
+            {
+                "name": "Oxford College of Emory University",
+                "result": "",
+                "teamId": "tsjau2er592nza5k",
+                "winner": false,
+                "cleanName": "oxford col emory univ"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1769968800000,
+        "localTimeZone": "America/New_York",
+        "tba": false,
+        "home": true,
+        "overall": true,
+        "conference": true,
+        "division": false,
+        "regional": true,
+        "national": true,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "Sandhills CC",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "4w3d3daw8guausbw",
+        "fastdate": 1769968800000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Camp Community College",
+            "result": "",
+            "teamId": "uejnx8zqgng3ruo3",
+            "winner": false,
+            "cleanName": "camp community col"
+        },
+        "us": {
+            "name": "Oxford College of Emory University",
+            "result": "",
+            "teamId": "tsjau2er592nza5k",
+            "winner": false,
+            "cleanName": "oxford col emory univ"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "February 1 01:00 PM:"
+}

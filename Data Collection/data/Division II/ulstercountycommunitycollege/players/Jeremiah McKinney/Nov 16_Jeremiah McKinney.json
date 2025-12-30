@@ -1,17 +1,17 @@
 {
     "Player Name": "Jeremiah McKinney",
+    "MIN": "1",
     "FGM-A": "3-8",
     "3PM-A": "1-1",
     "FTM-A": "5-6",
     "OREB": "2",
     "DREB": "2",
     "REB": "4",
+    "AST": "6",
+    "STL": "3",
+    "BLK": "1",
+    "TO": "6",
     "PF": "2",
     "TP": "12",
-    "AST": "6",
-    "TO": "6",
-    "BLK": "1",
-    "STL": "3",
-    "MIN": "1",
     "eventDateFormatted": "Nov 16"
 }

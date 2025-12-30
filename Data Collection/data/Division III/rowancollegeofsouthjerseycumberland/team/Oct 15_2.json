@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Oct 15",
+    "boxScoreLink": "20251015_z805.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Rowan College of South Jersey-Cumberland",
+                "result": "",
+                "teamId": "6a3mpfgzde7oiihd",
+                "winner": false,
+                "cleanName": "rowan col s jersey cumberland"
+            },
+            {
+                "name": "Middlesex College",
+                "result": "",
+                "teamId": "fpsgkhbrx58lm4ls",
+                "winner": false,
+                "cleanName": "middlesex col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1760562000000,
+        "localTimeZone": "America/New_York",
+        "tba": false,
+        "home": false,
+        "overall": false,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "z805yakk1dn25c2k",
+        "fastdate": 1760562000000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "scrimmage",
+            "description": "Scrimmage",
+            "statsCount": false
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Middlesex College",
+            "result": "",
+            "teamId": "fpsgkhbrx58lm4ls",
+            "winner": false,
+            "cleanName": "middlesex col"
+        },
+        "us": {
+            "name": "Rowan College of South Jersey-Cumberland",
+            "result": "",
+            "teamId": "6a3mpfgzde7oiihd",
+            "winner": false,
+            "cleanName": "rowan col s jersey cumberland"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "October 15 05:00 PM:"
+}

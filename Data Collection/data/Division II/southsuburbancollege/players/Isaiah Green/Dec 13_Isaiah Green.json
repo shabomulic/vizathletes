@@ -1,17 +1,17 @@
 {
     "Player Name": "Isaiah Green",
+    "MIN": "36",
     "FGM-A": "9-20",
     "3PM-A": "2-6",
     "FTM-A": "0-1",
     "OREB": "0",
     "DREB": "2",
     "REB": "2",
+    "AST": "4",
+    "STL": "7",
+    "BLK": "0",
+    "TO": "3",
     "PF": "1",
     "TP": "20",
-    "AST": "4",
-    "TO": "3",
-    "BLK": "0",
-    "STL": "7",
-    "MIN": "36",
     "eventDateFormatted": "Dec 13"
 }

@@ -1,17 +1,17 @@
 {
     "Player Name": "Alex Pierce",
+    "MIN": "21",
     "FGM-A": "5-12",
     "3PM-A": "0-5",
     "FTM-A": "0-0",
     "OREB": "2",
     "DREB": "5",
     "REB": "7",
+    "AST": "3",
+    "STL": "2",
+    "BLK": "1",
+    "TO": "1",
     "PF": "3",
     "TP": "10",
-    "AST": "3",
-    "TO": "1",
-    "BLK": "1",
-    "STL": "2",
-    "MIN": "21",
     "eventDateFormatted": "Nov 19"
 }

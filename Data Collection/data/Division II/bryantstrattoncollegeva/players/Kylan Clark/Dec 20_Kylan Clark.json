@@ -1,17 +1,17 @@
 {
     "Player Name": "Kylan Clark",
+    "MIN": "23",
     "FGM-A": "4-9",
     "3PM-A": "2-5",
     "FTM-A": "3-7",
     "OREB": "2",
     "DREB": "3",
     "REB": "5",
+    "AST": "1",
+    "STL": "3",
+    "BLK": "0",
+    "TO": "4",
     "PF": "3",
     "TP": "13",
-    "AST": "1",
-    "TO": "4",
-    "BLK": "0",
-    "STL": "3",
-    "MIN": "23",
     "eventDateFormatted": "Dec 20"
 }

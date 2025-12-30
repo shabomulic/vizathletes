@@ -1,17 +1,17 @@
 {
     "Player Name": "Brandon Lanier",
+    "MIN": "1",
     "FGM-A": "5-11",
     "3PM-A": "0-0",
     "FTM-A": "5-6",
     "OREB": "7",
     "DREB": "8",
     "REB": "15",
+    "AST": "1",
+    "STL": "1",
+    "BLK": "3",
+    "TO": "4",
     "PF": "3",
     "TP": "15",
-    "AST": "1",
-    "TO": "4",
-    "BLK": "3",
-    "STL": "1",
-    "MIN": "1",
     "eventDateFormatted": "Nov 8"
 }

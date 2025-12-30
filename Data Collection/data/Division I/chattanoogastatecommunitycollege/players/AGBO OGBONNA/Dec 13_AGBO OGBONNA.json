@@ -1,17 +1,17 @@
 {
     "Player Name": "AGBO OGBONNA",
+    "MIN": "1",
     "FGM-A": "8-10",
     "3PM-A": "1-1",
     "FTM-A": "3-5",
     "OREB": "1",
     "DREB": "6",
     "REB": "7",
+    "AST": "0",
+    "STL": "2",
+    "BLK": "0",
+    "TO": "2",
     "PF": "0",
     "TP": "20",
-    "AST": "0",
-    "TO": "2",
-    "BLK": "0",
-    "STL": "2",
-    "MIN": "1",
     "eventDateFormatted": "Dec 13"
 }

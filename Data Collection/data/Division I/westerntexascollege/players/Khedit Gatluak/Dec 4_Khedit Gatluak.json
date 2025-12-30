@@ -1,17 +1,17 @@
 {
     "Player Name": "Khedit Gatluak",
+    "MIN": "32",
     "FGM-A": "9-13",
     "3PM-A": "0-3",
     "FTM-A": "0-0",
     "OREB": "4",
     "DREB": "0",
     "REB": "4",
+    "AST": "2",
+    "STL": "2",
+    "BLK": "0",
+    "TO": "0",
     "PF": "0",
     "TP": "18",
-    "AST": "2",
-    "TO": "0",
-    "BLK": "0",
-    "STL": "2",
-    "MIN": "32",
     "eventDateFormatted": "Dec 4"
 }

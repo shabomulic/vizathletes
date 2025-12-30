@@ -1,17 +1,17 @@
 {
     "Player Name": "Matthew Roberts",
+    "MIN": "29",
     "FGM-A": "4-9",
     "3PM-A": "2-4",
     "FTM-A": "0-0",
     "OREB": "0",
     "DREB": "0",
     "REB": "0",
+    "AST": "3",
+    "STL": "1",
+    "BLK": "0",
+    "TO": "1",
     "PF": "1",
     "TP": "10",
-    "AST": "3",
-    "TO": "1",
-    "BLK": "0",
-    "STL": "1",
-    "MIN": "29",
     "eventDateFormatted": "Nov 21"
 }

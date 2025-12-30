@@ -1,17 +1,17 @@
 {
     "Player Name": "Landon Petty",
+    "MIN": "17",
     "FGM-A": "5-6",
     "3PM-A": "0-0",
     "FTM-A": "8-8",
     "OREB": "3",
     "DREB": "3",
     "REB": "6",
+    "AST": "2",
+    "STL": "0",
+    "BLK": "1",
+    "TO": "0",
     "PF": "3",
     "TP": "18",
-    "AST": "2",
-    "TO": "0",
-    "BLK": "1",
-    "STL": "0",
-    "MIN": "17",
     "eventDateFormatted": "Nov 22"
 }

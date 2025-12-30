@@ -1,17 +1,17 @@
 {
     "Player Name": "Braylon Roman",
+    "MIN": "36",
     "FGM-A": "1-4",
     "3PM-A": "0-1",
     "FTM-A": "1-2",
     "OREB": "1",
     "DREB": "6",
     "REB": "7",
+    "AST": "10",
+    "STL": "1",
+    "BLK": "0",
+    "TO": "0",
     "PF": "5",
     "TP": "3",
-    "AST": "10",
-    "TO": "0",
-    "BLK": "0",
-    "STL": "1",
-    "MIN": "36",
     "eventDateFormatted": "Nov 8"
 }

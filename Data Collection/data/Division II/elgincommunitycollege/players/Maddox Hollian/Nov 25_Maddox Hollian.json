@@ -1,17 +1,17 @@
 {
     "Player Name": "Maddox Hollian",
+    "MIN": "25",
     "FGM-A": "3-13",
     "3PM-A": "1-4",
     "FTM-A": "2-2",
     "OREB": "2",
     "DREB": "6",
     "REB": "8",
+    "AST": "1",
+    "STL": "3",
+    "BLK": "0",
+    "TO": "5",
     "PF": "1",
     "TP": "9",
-    "AST": "1",
-    "TO": "5",
-    "BLK": "0",
-    "STL": "3",
-    "MIN": "25",
     "eventDateFormatted": "Nov 25"
 }

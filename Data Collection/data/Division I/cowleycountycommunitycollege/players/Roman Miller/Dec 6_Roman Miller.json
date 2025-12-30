@@ -1,17 +1,17 @@
 {
     "Player Name": "Roman Miller",
+    "MIN": "32",
     "FGM-A": "2-8",
     "3PM-A": "0-3",
     "FTM-A": "5-5",
     "OREB": "1",
     "DREB": "8",
     "REB": "9",
+    "AST": "0",
+    "STL": "2",
+    "BLK": "1",
+    "TO": "1",
     "PF": "3",
     "TP": "9",
-    "AST": "0",
-    "TO": "1",
-    "BLK": "1",
-    "STL": "2",
-    "MIN": "32",
     "eventDateFormatted": "Dec 6"
 }

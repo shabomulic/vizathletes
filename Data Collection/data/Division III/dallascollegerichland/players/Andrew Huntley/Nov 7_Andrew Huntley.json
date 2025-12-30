@@ -1,17 +1,17 @@
 {
     "Player Name": "Andrew Huntley",
+    "MIN": "1",
     "FGM-A": "2-7",
     "3PM-A": "2-5",
     "FTM-A": "1-2",
     "OREB": "1",
     "DREB": "5",
     "REB": "6",
+    "AST": "2",
+    "STL": "2",
+    "BLK": "0",
+    "TO": "1",
     "PF": "4",
     "TP": "7",
-    "AST": "2",
-    "TO": "1",
-    "BLK": "0",
-    "STL": "2",
-    "MIN": "1",
     "eventDateFormatted": "Nov 7"
 }

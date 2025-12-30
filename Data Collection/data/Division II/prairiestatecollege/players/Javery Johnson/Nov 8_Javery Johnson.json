@@ -1,17 +1,17 @@
 {
     "Player Name": "Javery Johnson",
+    "MIN": "35",
     "FGM-A": "4-13",
     "3PM-A": "2-5",
     "FTM-A": "0-2",
     "OREB": "0",
     "DREB": "2",
     "REB": "2",
+    "AST": "5",
+    "STL": "0",
+    "BLK": "0",
+    "TO": "0",
     "PF": "4",
     "TP": "10",
-    "AST": "5",
-    "TO": "0",
-    "BLK": "0",
-    "STL": "0",
-    "MIN": "35",
     "eventDateFormatted": "Nov 8"
 }

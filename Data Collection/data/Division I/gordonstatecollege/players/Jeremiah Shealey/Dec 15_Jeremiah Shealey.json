@@ -1,17 +1,17 @@
 {
     "Player Name": "Jeremiah Shealey",
+    "MIN": "19",
     "FGM-A": "2-6",
     "3PM-A": "1-2",
     "FTM-A": "0-1",
     "OREB": "1",
     "DREB": "1",
     "REB": "2",
+    "AST": "1",
+    "STL": "0",
+    "BLK": "1",
+    "TO": "2",
     "PF": "3",
     "TP": "5",
-    "AST": "1",
-    "TO": "2",
-    "BLK": "1",
-    "STL": "0",
-    "MIN": "19",
     "eventDateFormatted": "Dec 15"
 }

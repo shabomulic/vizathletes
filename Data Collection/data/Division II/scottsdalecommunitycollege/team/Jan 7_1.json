@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Jan 7",
+    "boxScoreLink": "20260107_lnpi.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "South Mountain Community College",
+                "result": "",
+                "teamId": "3a69zaimqw5ja7k8",
+                "winner": false,
+                "cleanName": "s mountain community col"
+            },
+            {
+                "name": "Scottsdale Community College",
+                "result": "",
+                "teamId": "7cf6kb3kvb9k0btx",
+                "winner": false,
+                "cleanName": "scottsdale community col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1767832200000,
+        "localTimeZone": "America/Phoenix",
+        "tba": false,
+        "home": true,
+        "overall": true,
+        "conference": true,
+        "division": true,
+        "regional": true,
+        "national": true,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "lnpidz0ruify1hps",
+        "fastdate": 1767832200000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "South Mountain Community College",
+            "result": "",
+            "teamId": "3a69zaimqw5ja7k8",
+            "winner": false,
+            "cleanName": "s mountain community col"
+        },
+        "us": {
+            "name": "Scottsdale Community College",
+            "result": "",
+            "teamId": "7cf6kb3kvb9k0btx",
+            "winner": false,
+            "cleanName": "scottsdale community col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "January 7 07:30 PM:"
+}

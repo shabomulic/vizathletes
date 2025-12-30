@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Jan 13",
+    "boxScoreLink": "20260113_efru.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Milwaukee Area Technical College",
+                "result": "",
+                "teamId": "jx4brp08ciocrvdb",
+                "winner": false,
+                "cleanName": "milwaukee area technical col"
+            },
+            {
+                "name": "Bryant and Stratton College (WI)",
+                "result": "",
+                "teamId": "993q92z8218u9s8f",
+                "winner": false,
+                "cleanName": "bryant stratton col wi"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "Mount Mary, Milwaukee, WI",
+        "date": 1768350600000,
+        "localTimeZone": "America/Chicago",
+        "tba": false,
+        "home": true,
+        "overall": true,
+        "conference": false,
+        "division": false,
+        "regional": true,
+        "national": true,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "efruejx8mewen2ng",
+        "fastdate": 1768350600000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "Mount Mary (Bloechl Center)",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Milwaukee Area Technical College",
+            "result": "",
+            "teamId": "jx4brp08ciocrvdb",
+            "winner": false,
+            "cleanName": "milwaukee area technical col"
+        },
+        "us": {
+            "name": "Bryant and Stratton College (WI)",
+            "result": "",
+            "teamId": "993q92z8218u9s8f",
+            "winner": false,
+            "cleanName": "bryant stratton col wi"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "January 13 07:30 PM:"
+}

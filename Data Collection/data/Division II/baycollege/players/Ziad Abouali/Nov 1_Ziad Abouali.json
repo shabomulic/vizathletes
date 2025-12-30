@@ -1,17 +1,17 @@
 {
     "Player Name": "Ziad Abouali",
+    "MIN": "20",
     "FGM-A": "4-10",
     "3PM-A": "0-4",
     "FTM-A": "5-10",
     "OREB": "4",
     "DREB": "4",
     "REB": "8",
+    "AST": "1",
+    "STL": "1",
+    "BLK": "0",
+    "TO": "4",
     "PF": "2",
     "TP": "13",
-    "AST": "1",
-    "TO": "4",
-    "BLK": "0",
-    "STL": "1",
-    "MIN": "20",
     "eventDateFormatted": "Nov 1"
 }

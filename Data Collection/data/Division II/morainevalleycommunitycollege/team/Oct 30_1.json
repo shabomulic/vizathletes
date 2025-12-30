@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Oct 30",
+    "boxScoreLink": "20251030_6r3r.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Moraine Valley Community College",
+                "result": "",
+                "teamId": "gmrfsxr7bc3mg84r",
+                "winner": false,
+                "cleanName": "moraine valley community col"
+            },
+            {
+                "name": "Olivet Nazarene University JV",
+                "result": "",
+                "teamId": "3n7jdtuvkues95w7",
+                "winner": false,
+                "cleanName": "olivet nazarene univ jv"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1761861600000,
+        "localTimeZone": "America/Chicago",
+        "tba": false,
+        "home": false,
+        "overall": false,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "Scrimmage",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "6r3rke6760xhr1qa",
+        "fastdate": 1761861600000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "Scrimmage",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": true,
+        "eventType": {
+            "code": "scrimmage",
+            "description": "Scrimmage",
+            "statsCount": false
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Olivet Nazarene University JV",
+            "result": "",
+            "teamId": "3n7jdtuvkues95w7",
+            "winner": false,
+            "cleanName": "olivet nazarene univ jv"
+        },
+        "us": {
+            "name": "Moraine Valley Community College",
+            "result": "",
+            "teamId": "gmrfsxr7bc3mg84r",
+            "winner": false,
+            "cleanName": "moraine valley community col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "October 30 06:00 PM:"
+}

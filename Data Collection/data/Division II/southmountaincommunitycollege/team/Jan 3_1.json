@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Jan 3",
+    "boxScoreLink": "20260103_r3ga.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "AZ Sol",
+                "result": "",
+                "teamId": "26vvgl4mqszv2sva",
+                "winner": false,
+                "cleanName": "az sol"
+            },
+            {
+                "name": "South Mountain Community College",
+                "result": "",
+                "teamId": "3a69zaimqw5ja7k8",
+                "winner": false,
+                "cleanName": "s mountain community col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1767474000000,
+        "localTimeZone": "America/Phoenix",
+        "tba": false,
+        "home": true,
+        "overall": true,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "r3ga76bss4bpxsm7",
+        "fastdate": 1767474000000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "AZ Sol",
+            "result": "",
+            "teamId": "26vvgl4mqszv2sva",
+            "winner": false,
+            "cleanName": "az sol"
+        },
+        "us": {
+            "name": "South Mountain Community College",
+            "result": "",
+            "teamId": "3a69zaimqw5ja7k8",
+            "winner": false,
+            "cleanName": "s mountain community col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "January 3 04:00 PM:"
+}

@@ -1,17 +1,17 @@
 {
     "Player Name": "Sayed Sayed",
+    "MIN": "34",
     "FGM-A": "9-19",
     "3PM-A": "3-6",
     "FTM-A": "2-3",
     "OREB": "1",
     "DREB": "3",
     "REB": "4",
+    "AST": "1",
+    "STL": "1",
+    "BLK": "0",
+    "TO": "1",
     "PF": "2",
     "TP": "23",
-    "AST": "1",
-    "TO": "1",
-    "BLK": "0",
-    "STL": "1",
-    "MIN": "34",
     "eventDateFormatted": "Nov 7"
 }

@@ -1,17 +1,17 @@
 {
     "Player Name": "Malachi Gant",
+    "MIN": "27",
     "FGM-A": "7-17",
     "3PM-A": "0-5",
     "FTM-A": "1-2",
     "OREB": "0",
     "DREB": "3",
     "REB": "3",
+    "AST": "3",
+    "STL": "3",
+    "BLK": "0",
+    "TO": "2",
     "PF": "2",
     "TP": "15",
-    "AST": "3",
-    "TO": "2",
-    "BLK": "0",
-    "STL": "3",
-    "MIN": "27",
     "eventDateFormatted": "Nov 25"
 }

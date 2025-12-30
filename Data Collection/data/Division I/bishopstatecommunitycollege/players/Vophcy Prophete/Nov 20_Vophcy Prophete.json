@@ -1,17 +1,17 @@
 {
     "Player Name": "Vophcy Prophete",
+    "MIN": "1",
     "FGM-A": "5-12",
     "3PM-A": "2-6",
     "FTM-A": "0-0",
     "OREB": "1",
     "DREB": "0",
     "REB": "1",
+    "AST": "0",
+    "STL": "2",
+    "BLK": "0",
+    "TO": "2",
     "PF": "2",
     "TP": "12",
-    "AST": "0",
-    "TO": "2",
-    "BLK": "0",
-    "STL": "2",
-    "MIN": "1",
     "eventDateFormatted": "Nov 20"
 }

@@ -1,17 +1,17 @@
 {
     "Player Name": "De'Andre Terrell",
+    "MIN": "30",
     "FGM-A": "6-10",
     "3PM-A": "0-0",
     "FTM-A": "4-6",
     "OREB": "4",
     "DREB": "4",
     "REB": "8",
+    "AST": "1",
+    "STL": "0",
+    "BLK": "2",
+    "TO": "1",
     "PF": "2",
     "TP": "16",
-    "AST": "1",
-    "TO": "1",
-    "BLK": "2",
-    "STL": "0",
-    "MIN": "30",
     "eventDateFormatted": "Dec 5"
 }

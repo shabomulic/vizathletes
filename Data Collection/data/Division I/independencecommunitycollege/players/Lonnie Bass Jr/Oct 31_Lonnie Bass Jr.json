@@ -1,17 +1,17 @@
 {
     "Player Name": "Lonnie Bass Jr",
+    "MIN": "23",
     "FGM-A": "7-10",
     "3PM-A": "0-0",
     "FTM-A": "2-2",
     "OREB": "2",
     "DREB": "4",
     "REB": "6",
+    "AST": "0",
+    "STL": "1",
+    "BLK": "2",
+    "TO": "0",
     "PF": "4",
     "TP": "16",
-    "AST": "0",
-    "TO": "0",
-    "BLK": "2",
-    "STL": "1",
-    "MIN": "23",
     "eventDateFormatted": "Oct 31"
 }

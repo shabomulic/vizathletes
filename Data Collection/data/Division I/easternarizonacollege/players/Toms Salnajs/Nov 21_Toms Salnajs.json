@@ -1,17 +1,17 @@
 {
     "Player Name": "Toms Salnajs",
+    "MIN": "22",
     "FGM-A": "2-5",
     "3PM-A": "2-5",
     "FTM-A": "3-4",
     "OREB": "2",
     "DREB": "5",
     "REB": "7",
+    "AST": "0",
+    "STL": "1",
+    "BLK": "1",
+    "TO": "2",
     "PF": "2",
     "TP": "9",
-    "AST": "0",
-    "TO": "2",
-    "BLK": "1",
-    "STL": "1",
-    "MIN": "22",
     "eventDateFormatted": "Nov 21"
 }

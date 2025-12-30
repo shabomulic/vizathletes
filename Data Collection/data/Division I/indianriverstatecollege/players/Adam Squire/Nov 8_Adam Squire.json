@@ -1,17 +1,17 @@
 {
     "Player Name": "Adam Squire",
+    "MIN": "38",
     "FGM-A": "4-12",
     "3PM-A": "3-9",
     "FTM-A": "3-4",
     "OREB": "0",
     "DREB": "3",
     "REB": "3",
+    "AST": "2",
+    "STL": "2",
+    "BLK": "0",
+    "TO": "2",
     "PF": "3",
     "TP": "14",
-    "AST": "2",
-    "TO": "2",
-    "BLK": "0",
-    "STL": "2",
-    "MIN": "38",
     "eventDateFormatted": "Nov 8"
 }

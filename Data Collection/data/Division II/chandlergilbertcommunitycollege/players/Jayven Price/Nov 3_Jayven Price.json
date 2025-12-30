@@ -1,17 +1,17 @@
 {
     "Player Name": "Jayven Price",
+    "MIN": "27",
     "FGM-A": "5-13",
     "3PM-A": "0-4",
     "FTM-A": "5-5",
     "OREB": "2",
     "DREB": "6",
     "REB": "8",
+    "AST": "5",
+    "STL": "5",
+    "BLK": "0",
+    "TO": "2",
     "PF": "0",
     "TP": "15",
-    "AST": "5",
-    "TO": "2",
-    "BLK": "0",
-    "STL": "5",
-    "MIN": "27",
     "eventDateFormatted": "Nov 3"
 }

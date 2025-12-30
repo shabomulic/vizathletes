@@ -1,17 +1,17 @@
 {
     "Player Name": "Tim Walker II",
+    "MIN": "20",
     "FGM-A": "5-8",
     "3PM-A": "3-5",
     "FTM-A": "2-6",
     "OREB": "3",
     "DREB": "2",
     "REB": "5",
+    "AST": "3",
+    "STL": "2",
+    "BLK": "1",
+    "TO": "3",
     "PF": "2",
     "TP": "15",
-    "AST": "3",
-    "TO": "3",
-    "BLK": "1",
-    "STL": "2",
-    "MIN": "20",
     "eventDateFormatted": "Nov 10"
 }

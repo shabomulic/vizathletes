@@ -1,17 +1,17 @@
 {
     "Player Name": "Isaiah Brenneman",
+    "MIN": "37",
     "FGM-A": "2-10",
     "3PM-A": "0-2",
     "FTM-A": "4-6",
     "OREB": "0",
     "DREB": "5",
     "REB": "5",
+    "AST": "5",
+    "STL": "2",
+    "BLK": "0",
+    "TO": "1",
     "PF": "4",
     "TP": "8",
-    "AST": "5",
-    "TO": "1",
-    "BLK": "0",
-    "STL": "2",
-    "MIN": "37",
     "eventDateFormatted": "Dec 6"
 }

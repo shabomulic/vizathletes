@@ -1,17 +1,17 @@
 {
     "Player Name": "Andrew Mancell",
+    "MIN": "12:48",
     "FGM-A": "2-8",
     "3PM-A": "0-2",
     "FTM-A": "2-2",
     "OREB": "1",
     "DREB": "8",
     "REB": "9",
+    "AST": "2",
+    "STL": "2",
+    "BLK": "1",
+    "TO": "2",
     "PF": "1",
     "TP": "6",
-    "AST": "2",
-    "TO": "2",
-    "BLK": "1",
-    "STL": "2",
-    "MIN": "12:48",
     "eventDateFormatted": "Dec 13"
 }

@@ -1,17 +1,17 @@
 {
     "Player Name": "Jordan Randolph",
+    "MIN": "31",
     "FGM-A": "3-4",
     "3PM-A": "2-3",
     "FTM-A": "1-2",
     "OREB": "0",
     "DREB": "0",
     "REB": "0",
+    "AST": "0",
+    "STL": "0",
+    "BLK": "1",
+    "TO": "6",
     "PF": "4",
     "TP": "9",
-    "AST": "0",
-    "TO": "6",
-    "BLK": "1",
-    "STL": "0",
-    "MIN": "31",
     "eventDateFormatted": "Dec 12"
 }

@@ -1,17 +1,17 @@
 {
     "Player Name": "Antoine Shannon",
+    "MIN": "25:51",
     "FGM-A": "6-11",
     "3PM-A": "1-3",
     "FTM-A": "5-5",
     "OREB": "2",
     "DREB": "4",
     "REB": "6",
+    "AST": "3",
+    "STL": "1",
+    "BLK": "0",
+    "TO": "4",
     "PF": "2",
     "TP": "18",
-    "AST": "3",
-    "TO": "4",
-    "BLK": "0",
-    "STL": "1",
-    "MIN": "25:51",
     "eventDateFormatted": "Nov 10"
 }

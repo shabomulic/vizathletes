@@ -1,17 +1,17 @@
 {
     "Player Name": "Derrick Buckner",
+    "MIN": "1",
     "FGM-A": "11-21",
     "3PM-A": "3-7",
     "FTM-A": "3-4",
     "OREB": "3",
     "DREB": "8",
     "REB": "11",
+    "AST": "7",
+    "STL": "4",
+    "BLK": "0",
+    "TO": "5",
     "PF": "0",
     "TP": "28",
-    "AST": "7",
-    "TO": "5",
-    "BLK": "0",
-    "STL": "4",
-    "MIN": "1",
     "eventDateFormatted": "Dec 4"
 }

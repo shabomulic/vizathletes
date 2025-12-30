@@ -1,17 +1,17 @@
 {
     "Player Name": "Jarris Bertram",
+    "MIN": "29",
     "FGM-A": "8-13",
     "3PM-A": "3-3",
     "FTM-A": "4-4",
     "OREB": "2",
     "DREB": "4",
     "REB": "6",
+    "AST": "5",
+    "STL": "2",
+    "BLK": "0",
+    "TO": "2",
     "PF": "4",
     "TP": "23",
-    "AST": "5",
-    "TO": "2",
-    "BLK": "0",
-    "STL": "2",
-    "MIN": "29",
     "eventDateFormatted": "Nov 20"
 }

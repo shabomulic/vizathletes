@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Sep 20",
+    "boxScoreLink": "20250920_nblx.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Arkansas Juco Showcase",
+                "result": "",
+                "teamId": "110j02acalfocht9",
+                "winner": false,
+                "cleanName": "arkansas juco showcase"
+            },
+            {
+                "name": "Arkansas State Mid-South",
+                "result": "",
+                "teamId": "0088ioia1yisozim",
+                "winner": false,
+                "cleanName": "arkansas st mid s"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1758385800000,
+        "localTimeZone": "America/Chicago",
+        "tba": false,
+        "home": true,
+        "overall": false,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "National Park College",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "nblx4xs8fayc5367",
+        "fastdate": 1758385800000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "The Kettle",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Arkansas Juco Showcase",
+            "result": "",
+            "teamId": "110j02acalfocht9",
+            "winner": false,
+            "cleanName": "arkansas juco showcase"
+        },
+        "us": {
+            "name": "Arkansas State Mid-South",
+            "result": "",
+            "teamId": "0088ioia1yisozim",
+            "winner": false,
+            "cleanName": "arkansas st mid s"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "September 20 12:30 PM:"
+}

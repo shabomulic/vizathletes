@@ -1,17 +1,17 @@
 {
     "Player Name": "Joel Pinto",
+    "MIN": "28",
     "FGM-A": "7-12",
     "3PM-A": "4-7",
     "FTM-A": "9-10",
     "OREB": "4",
     "DREB": "3",
     "REB": "7",
+    "AST": "0",
+    "STL": "0",
+    "BLK": "1",
+    "TO": "0",
     "PF": "4",
     "TP": "27",
-    "AST": "0",
-    "TO": "0",
-    "BLK": "1",
-    "STL": "0",
-    "MIN": "28",
     "eventDateFormatted": "Dec 5"
 }

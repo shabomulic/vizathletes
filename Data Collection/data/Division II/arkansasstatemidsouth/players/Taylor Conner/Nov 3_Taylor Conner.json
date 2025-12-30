@@ -1,17 +1,17 @@
 {
     "Player Name": "Taylor Conner",
+    "MIN": "18",
     "FGM-A": "7-13",
     "3PM-A": "0-2",
     "FTM-A": "1-2",
     "OREB": "1",
     "DREB": "4",
     "REB": "5",
+    "AST": "0",
+    "STL": "1",
+    "BLK": "0",
+    "TO": "2",
     "PF": "2",
     "TP": "15",
-    "AST": "0",
-    "TO": "2",
-    "BLK": "0",
-    "STL": "1",
-    "MIN": "18",
     "eventDateFormatted": "Nov 3"
 }

@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Jan 15",
+    "boxScoreLink": "20260115_unf1.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Massasoit Community College",
+                "result": "",
+                "teamId": "0bt9wpc9plzypu24",
+                "winner": false,
+                "cleanName": "massasoit community col"
+            },
+            {
+                "name": "Bristol Community College",
+                "result": "",
+                "teamId": "6p10cyiul4olt0hi",
+                "winner": false,
+                "cleanName": "bristol community col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "Bristolcc Taunton ",
+        "date": 1768523400000,
+        "localTimeZone": "America/New_York",
+        "tba": false,
+        "home": true,
+        "overall": true,
+        "conference": true,
+        "division": true,
+        "regional": false,
+        "national": true,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "unf11tskot27ev03",
+        "fastdate": 1768523400000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Massasoit Community College",
+            "result": "",
+            "teamId": "0bt9wpc9plzypu24",
+            "winner": false,
+            "cleanName": "massasoit community col"
+        },
+        "us": {
+            "name": "Bristol Community College",
+            "result": "",
+            "teamId": "6p10cyiul4olt0hi",
+            "winner": false,
+            "cleanName": "bristol community col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "January 15 07:30 PM:"
+}

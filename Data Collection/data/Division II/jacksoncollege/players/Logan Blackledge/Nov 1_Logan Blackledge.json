@@ -1,17 +1,17 @@
 {
     "Player Name": "Logan Blackledge",
+    "MIN": "38",
     "FGM-A": "5-18",
     "3PM-A": "1-6",
     "FTM-A": "2-5",
     "OREB": "2",
     "DREB": "1",
     "REB": "3",
+    "AST": "3",
+    "STL": "4",
+    "BLK": "0",
+    "TO": "2",
     "PF": "2",
     "TP": "13",
-    "AST": "3",
-    "TO": "2",
-    "BLK": "0",
-    "STL": "4",
-    "MIN": "38",
     "eventDateFormatted": "Nov 1"
 }

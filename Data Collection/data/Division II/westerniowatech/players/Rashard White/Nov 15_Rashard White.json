@@ -1,17 +1,17 @@
 {
     "Player Name": "Rashard White",
+    "MIN": "1",
     "FGM-A": "5-10",
     "3PM-A": "1-4",
     "FTM-A": "1-2",
     "OREB": "0",
     "DREB": "2",
     "REB": "2",
+    "AST": "4",
+    "STL": "5",
+    "BLK": "0",
+    "TO": "4",
     "PF": "2",
     "TP": "12",
-    "AST": "4",
-    "TO": "4",
-    "BLK": "0",
-    "STL": "5",
-    "MIN": "1",
     "eventDateFormatted": "Nov 15"
 }

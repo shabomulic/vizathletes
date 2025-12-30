@@ -1,17 +1,17 @@
 {
     "Player Name": "Machi Chester",
+    "MIN": "32",
     "FGM-A": "7-13",
     "3PM-A": "5-10",
     "FTM-A": "0-5",
     "OREB": "2",
     "DREB": "4",
     "REB": "6",
+    "AST": "3",
+    "STL": "0",
+    "BLK": "0",
+    "TO": "2",
     "PF": "2",
     "TP": "19",
-    "AST": "3",
-    "TO": "2",
-    "BLK": "0",
-    "STL": "0",
-    "MIN": "32",
     "eventDateFormatted": "Dec 13"
 }

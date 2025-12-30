@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Dec 10",
+    "boxScoreLink": "20251210_6a07.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "SUNY Adirondack",
+                "result": "",
+                "teamId": "lm3s50slk15tir9w",
+                "winner": false,
+                "cleanName": "suny adirondack"
+            },
+            {
+                "name": "Ulster County Community College",
+                "result": "",
+                "teamId": "hopr7pgor4tmxcuf",
+                "winner": false,
+                "cleanName": "ulster county community col"
+            }
+        ],
+        "status": "Postponed",
+        "notes": "",
+        "notesShared": "",
+        "date": 1765411200000,
+        "localTimeZone": "America/New_York",
+        "tba": false,
+        "home": true,
+        "overall": true,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": true,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": true,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "6a07aq9ossj1sf1k",
+        "fastdate": 1765411200000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "SUNY Adirondack",
+            "result": "",
+            "teamId": "lm3s50slk15tir9w",
+            "winner": false,
+            "cleanName": "suny adirondack"
+        },
+        "us": {
+            "name": "Ulster County Community College",
+            "result": "",
+            "teamId": "hopr7pgor4tmxcuf",
+            "winner": false,
+            "cleanName": "ulster county community col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "December 10 07:00 PM:"
+}

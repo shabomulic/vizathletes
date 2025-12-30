@@ -1,17 +1,17 @@
 {
     "Player Name": "Lorenzo Levy",
+    "MIN": "37",
     "FGM-A": "9-16",
     "3PM-A": "4-8",
     "FTM-A": "3-4",
     "OREB": "2",
     "DREB": "3",
     "REB": "5",
+    "AST": "3",
+    "STL": "2",
+    "BLK": "0",
+    "TO": "1",
     "PF": "1",
     "TP": "25",
-    "AST": "3",
-    "TO": "1",
-    "BLK": "0",
-    "STL": "2",
-    "MIN": "37",
     "eventDateFormatted": "Nov 2"
 }

@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Oct 18",
+    "boxScoreLink": "20251018_bgxe.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Guilford Technical Community College",
+                "result": "",
+                "teamId": "n9t32xka1tjp3zam",
+                "winner": false,
+                "cleanName": "guilford technical community col"
+            },
+            {
+                "name": "Richard Bland College",
+                "result": "",
+                "teamId": "wwjd9rxorfx5txz6",
+                "winner": false,
+                "cleanName": "richard bland col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "Closed Scrimmage",
+        "date": 1760810400000,
+        "localTimeZone": "America/New_York",
+        "tba": false,
+        "home": false,
+        "overall": false,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "bgxemv1pur5xzliw",
+        "fastdate": 1760810400000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "scrimmage",
+            "description": "Scrimmage",
+            "statsCount": false
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Richard Bland College",
+            "result": "",
+            "teamId": "wwjd9rxorfx5txz6",
+            "winner": false,
+            "cleanName": "richard bland col"
+        },
+        "us": {
+            "name": "Guilford Technical Community College",
+            "result": "",
+            "teamId": "n9t32xka1tjp3zam",
+            "winner": false,
+            "cleanName": "guilford technical community col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "October 18 02:00 PM:"
+}

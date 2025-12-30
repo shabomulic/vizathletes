@@ -1,17 +1,17 @@
 {
     "Player Name": "Dezmond Williams",
+    "MIN": "1",
     "FGM-A": "6-9",
     "3PM-A": "0-0",
     "FTM-A": "0-0",
     "OREB": "1",
     "DREB": "3",
     "REB": "4",
+    "AST": "3",
+    "STL": "0",
+    "BLK": "0",
+    "TO": "0",
     "PF": "0",
     "TP": "12",
-    "AST": "3",
-    "TO": "0",
-    "BLK": "0",
-    "STL": "0",
-    "MIN": "1",
     "eventDateFormatted": "Nov 12"
 }

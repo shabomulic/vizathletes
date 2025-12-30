@@ -1,17 +1,17 @@
 {
     "Player Name": "Isaac Turay",
+    "MIN": "18",
     "FGM-A": "4-7",
     "3PM-A": "0-1",
     "FTM-A": "5-6",
     "OREB": "1",
     "DREB": "3",
     "REB": "4",
+    "AST": "1",
+    "STL": "1",
+    "BLK": "0",
+    "TO": "3",
     "PF": "3",
     "TP": "13",
-    "AST": "1",
-    "TO": "3",
-    "BLK": "0",
-    "STL": "1",
-    "MIN": "18",
     "eventDateFormatted": "Nov 15"
 }

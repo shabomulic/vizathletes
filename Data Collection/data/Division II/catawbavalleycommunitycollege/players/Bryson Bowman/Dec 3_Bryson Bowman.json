@@ -1,17 +1,17 @@
 {
     "Player Name": "Bryson Bowman",
+    "MIN": "28:13",
     "FGM-A": "3-10",
     "3PM-A": "1-2",
     "FTM-A": "2-2",
     "OREB": "2",
     "DREB": "5",
     "REB": "7",
+    "AST": "1",
+    "STL": "0",
+    "BLK": "1",
+    "TO": "1",
     "PF": "4",
     "TP": "9",
-    "AST": "1",
-    "TO": "1",
-    "BLK": "1",
-    "STL": "0",
-    "MIN": "28:13",
     "eventDateFormatted": "Dec 3"
 }

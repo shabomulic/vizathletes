@@ -1,17 +1,17 @@
 {
     "Player Name": "Micah Medley",
+    "MIN": "24",
     "FGM-A": "8-11",
     "3PM-A": "1-2",
     "FTM-A": "0-0",
     "OREB": "1",
     "DREB": "0",
     "REB": "1",
+    "AST": "3",
+    "STL": "1",
+    "BLK": "1",
+    "TO": "5",
     "PF": "0",
     "TP": "17",
-    "AST": "3",
-    "TO": "5",
-    "BLK": "1",
-    "STL": "1",
-    "MIN": "24",
     "eventDateFormatted": "Nov 1"
 }

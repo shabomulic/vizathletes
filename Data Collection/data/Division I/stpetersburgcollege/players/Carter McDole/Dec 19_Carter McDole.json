@@ -1,17 +1,17 @@
 {
     "Player Name": "Carter McDole",
+    "MIN": "25",
     "FGM-A": "2-8",
     "3PM-A": "0-2",
     "FTM-A": "0-0",
     "OREB": "2",
     "DREB": "2",
     "REB": "4",
+    "AST": "1",
+    "STL": "1",
+    "BLK": "1",
+    "TO": "4",
     "PF": "1",
     "TP": "4",
-    "AST": "1",
-    "TO": "4",
-    "BLK": "1",
-    "STL": "1",
-    "MIN": "25",
     "eventDateFormatted": "Dec 19"
 }

@@ -1,17 +1,17 @@
 {
     "Player Name": "Jayden Ross",
+    "MIN": "36:01",
     "FGM-A": "3-9",
     "3PM-A": "0-2",
     "FTM-A": "4-6",
     "OREB": "3",
     "DREB": "4",
     "REB": "7",
+    "AST": "7",
+    "STL": "2",
+    "BLK": "0",
+    "TO": "2",
     "PF": "2",
     "TP": "10",
-    "AST": "7",
-    "TO": "2",
-    "BLK": "0",
-    "STL": "2",
-    "MIN": "36:01",
     "eventDateFormatted": "Nov 25"
 }

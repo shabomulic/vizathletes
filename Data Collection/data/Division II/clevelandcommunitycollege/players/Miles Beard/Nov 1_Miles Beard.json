@@ -1,17 +1,17 @@
 {
     "Player Name": "Miles Beard",
+    "MIN": "1",
     "FGM-A": "6-14",
     "3PM-A": "4-8",
     "FTM-A": "1-2",
     "OREB": "4",
     "DREB": "4",
     "REB": "8",
+    "AST": "0",
+    "STL": "2",
+    "BLK": "0",
+    "TO": "1",
     "PF": "2",
     "TP": "17",
-    "AST": "0",
-    "TO": "1",
-    "BLK": "0",
-    "STL": "2",
-    "MIN": "1",
     "eventDateFormatted": "Nov 1"
 }

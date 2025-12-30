@@ -78,13 +78,13 @@
         "fgp3pg": "0.0-0.0",
         "ftppg": "0.0-0.0",
         "ga": "0-0",
-        "fgppg": "0.0-0.0",
         "fgp3": "0-0",
-        "ftppm": "0.0-0.0",
+        "fgppg": "0.0-0.0",
         "fgp3pm": "0.0-0.0",
-        "fgp": "0-0",
+        "ftppm": "0.0-0.0",
         "pts": "0",
-        "minpm": "40"
+        "minpm": "40",
+        "fgp": "0-0"
     },
     "statsNational": {
         "ast": "7",
@@ -172,7 +172,7 @@
     "careerId": null,
     "rank": null,
     "eventCount": 15,
-    "lastUpdated": 1766417564000,
+    "lastUpdated": 1767047661000,
     "position": "G",
     "positionAbbreviation": "G",
     "positionCode": null,
@@ -191,12 +191,12 @@
             "name": "integer",
             "primitiveClass": "int",
             "defaultValue": 0,
-            "componentType": false,
             "mutable": false,
-            "collectionType": false,
+            "componentType": false,
             "entityType": false,
             "associationType": false,
             "xmlelement": false,
+            "collectionType": false,
             "anyType": false
         },
         "mutable": false

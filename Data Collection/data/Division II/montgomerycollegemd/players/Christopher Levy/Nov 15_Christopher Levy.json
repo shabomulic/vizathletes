@@ -1,17 +1,17 @@
 {
     "Player Name": "Christopher Levy",
+    "MIN": "27",
     "FGM-A": "6-12",
     "3PM-A": "2-4",
     "FTM-A": "4-6",
     "OREB": "0",
     "DREB": "7",
     "REB": "7",
+    "AST": "5",
+    "STL": "3",
+    "BLK": "0",
+    "TO": "2",
     "PF": "2",
     "TP": "18",
-    "AST": "5",
-    "TO": "2",
-    "BLK": "0",
-    "STL": "3",
-    "MIN": "27",
     "eventDateFormatted": "Nov 15"
 }

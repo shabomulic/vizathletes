@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Jan 7",
+    "boxScoreLink": "20260107_m2tr.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Phillips Community College - UA",
+                "result": "",
+                "teamId": "pvjffna6fpdggnar",
+                "winner": false,
+                "cleanName": "phillips community col ua"
+            },
+            {
+                "name": "Southeast Arkansas College",
+                "result": "",
+                "teamId": "mr35i9jigvee4o9v",
+                "winner": false,
+                "cleanName": "southeast arkansas col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1767832200000,
+        "localTimeZone": "America/Chicago",
+        "tba": false,
+        "home": false,
+        "overall": true,
+        "conference": true,
+        "division": false,
+        "regional": true,
+        "national": true,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "m2tradr0lzq8ngle",
+        "fastdate": 1767832200000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Southeast Arkansas College",
+            "result": "",
+            "teamId": "mr35i9jigvee4o9v",
+            "winner": false,
+            "cleanName": "southeast arkansas col"
+        },
+        "us": {
+            "name": "Phillips Community College - UA",
+            "result": "",
+            "teamId": "pvjffna6fpdggnar",
+            "winner": false,
+            "cleanName": "phillips community col ua"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "January 7 07:30 PM:"
+}

@@ -1,17 +1,17 @@
 {
     "Player Name": "Jyson Kim",
+    "MIN": "24",
     "FGM-A": "10-14",
     "3PM-A": "3-7",
     "FTM-A": "1-1",
     "OREB": "0",
     "DREB": "0",
     "REB": "0",
+    "AST": "1",
+    "STL": "3",
+    "BLK": "0",
+    "TO": "0",
     "PF": "5",
     "TP": "24",
-    "AST": "1",
-    "TO": "0",
-    "BLK": "0",
-    "STL": "3",
-    "MIN": "24",
     "eventDateFormatted": "Dec 20"
 }

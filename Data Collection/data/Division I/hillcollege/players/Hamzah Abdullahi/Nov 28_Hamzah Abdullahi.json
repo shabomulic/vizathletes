@@ -1,17 +1,17 @@
 {
     "Player Name": "Hamzah Abdullahi",
+    "MIN": "1",
     "FGM-A": "3-5",
     "3PM-A": "0-1",
     "FTM-A": "1-1",
     "OREB": "1",
     "DREB": "1",
     "REB": "2",
+    "AST": "0",
+    "STL": "1",
+    "BLK": "0",
+    "TO": "2",
     "PF": "0",
     "TP": "7",
-    "AST": "0",
-    "TO": "2",
-    "BLK": "0",
-    "STL": "1",
-    "MIN": "1",
     "eventDateFormatted": "Nov 28"
 }

@@ -1,17 +1,17 @@
 {
     "Player Name": "Ethan Nsiona",
+    "MIN": "13",
     "FGM-A": "2-5",
     "3PM-A": "0-0",
     "FTM-A": "1-2",
     "OREB": "1",
     "DREB": "0",
     "REB": "1",
+    "AST": "0",
+    "STL": "1",
+    "BLK": "0",
+    "TO": "3",
     "PF": "0",
     "TP": "5",
-    "AST": "0",
-    "TO": "3",
-    "BLK": "0",
-    "STL": "1",
-    "MIN": "13",
     "eventDateFormatted": "Nov 20"
 }

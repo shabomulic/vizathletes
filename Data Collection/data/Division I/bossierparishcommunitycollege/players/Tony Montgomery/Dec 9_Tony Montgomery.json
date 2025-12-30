@@ -1,17 +1,17 @@
 {
     "Player Name": "Tony Montgomery",
+    "MIN": "35",
     "FGM-A": "7-18",
     "3PM-A": "3-7",
     "FTM-A": "5-5",
     "OREB": "0",
     "DREB": "2",
     "REB": "2",
+    "AST": "4",
+    "STL": "1",
+    "BLK": "0",
+    "TO": "5",
     "PF": "1",
     "TP": "22",
-    "AST": "4",
-    "TO": "5",
-    "BLK": "0",
-    "STL": "1",
-    "MIN": "35",
     "eventDateFormatted": "Dec 9"
 }

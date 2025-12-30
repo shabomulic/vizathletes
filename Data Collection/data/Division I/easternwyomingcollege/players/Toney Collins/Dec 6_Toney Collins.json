@@ -1,17 +1,17 @@
 {
     "Player Name": "Toney Collins",
+    "MIN": "30",
     "FGM-A": "6-10",
     "3PM-A": "4-6",
     "FTM-A": "3-4",
     "OREB": "1",
     "DREB": "3",
     "REB": "4",
+    "AST": "3",
+    "STL": "2",
+    "BLK": "0",
+    "TO": "1",
     "PF": "4",
     "TP": "19",
-    "AST": "3",
-    "TO": "1",
-    "BLK": "0",
-    "STL": "2",
-    "MIN": "30",
     "eventDateFormatted": "Dec 6"
 }

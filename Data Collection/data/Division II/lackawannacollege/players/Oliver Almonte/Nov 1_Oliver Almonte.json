@@ -1,17 +1,17 @@
 {
     "Player Name": "Oliver Almonte",
+    "MIN": "26",
     "FGM-A": "4-7",
     "3PM-A": "3-5",
     "FTM-A": "0-0",
     "OREB": "0",
     "DREB": "1",
     "REB": "1",
+    "AST": "0",
+    "STL": "0",
+    "BLK": "0",
+    "TO": "1",
     "PF": "2",
     "TP": "11",
-    "AST": "0",
-    "TO": "1",
-    "BLK": "0",
-    "STL": "0",
-    "MIN": "26",
     "eventDateFormatted": "Nov 1"
 }

@@ -1,17 +1,17 @@
 {
     "Player Name": "Xavier Meyers",
+    "MIN": "38",
     "FGM-A": "13-19",
     "3PM-A": "2-4",
     "FTM-A": "3-4",
     "OREB": "1",
     "DREB": "1",
     "REB": "2",
+    "AST": "2",
+    "STL": "2",
+    "BLK": "0",
+    "TO": "1",
     "PF": "2",
     "TP": "31",
-    "AST": "2",
-    "TO": "1",
-    "BLK": "0",
-    "STL": "2",
-    "MIN": "38",
     "eventDateFormatted": "Nov 10"
 }

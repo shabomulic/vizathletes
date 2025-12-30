@@ -1,17 +1,17 @@
 {
     "Player Name": "Jeff Fleming",
+    "MIN": "1",
     "FGM-A": "2-8",
     "3PM-A": "0-1",
     "FTM-A": "3-3",
     "OREB": "1",
     "DREB": "2",
     "REB": "3",
+    "AST": "1",
+    "STL": "0",
+    "BLK": "0",
+    "TO": "4",
     "PF": "2",
     "TP": "7",
-    "AST": "1",
-    "TO": "4",
-    "BLK": "0",
-    "STL": "0",
-    "MIN": "1",
     "eventDateFormatted": "Nov 7"
 }

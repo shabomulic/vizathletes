@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Oct 17",
+    "boxScoreLink": "20251017_e62g.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Newrock Prep",
+                "result": "",
+                "teamId": "fkhval9ukeiskhdt",
+                "winner": false,
+                "cleanName": "newrock prep"
+            },
+            {
+                "name": "Georgia Highlands College",
+                "result": "",
+                "teamId": "0dzx40xk3q16me24",
+                "winner": false,
+                "cleanName": "georgia highlands col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1760738400000,
+        "localTimeZone": "America/New_York",
+        "tba": false,
+        "home": true,
+        "overall": false,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "e62gni9tfcdg4qqa",
+        "fastdate": 1760738400000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "exhibition",
+            "description": "Exhibition",
+            "statsCount": false
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Newrock Prep",
+            "result": "",
+            "teamId": "fkhval9ukeiskhdt",
+            "winner": false,
+            "cleanName": "newrock prep"
+        },
+        "us": {
+            "name": "Georgia Highlands College",
+            "result": "",
+            "teamId": "0dzx40xk3q16me24",
+            "winner": false,
+            "cleanName": "georgia highlands col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "October 17 06:00 PM:"
+}

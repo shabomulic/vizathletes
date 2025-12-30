@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Jan 7",
+    "boxScoreLink": "20260107_wuq0.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Guilford Technical Community College",
+                "result": "",
+                "teamId": "n9t32xka1tjp3zam",
+                "winner": false,
+                "cleanName": "guilford technical community col"
+            },
+            {
+                "name": "Johnston Community College",
+                "result": "",
+                "teamId": "hr204rbtkwz95sbd",
+                "winner": false,
+                "cleanName": "johnston community col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "Innovation Academy 521 Martin Luther King Jr Dr., Smithfield, NC",
+        "date": 1767830400000,
+        "localTimeZone": "America/New_York",
+        "tba": false,
+        "home": false,
+        "overall": true,
+        "conference": true,
+        "division": false,
+        "regional": true,
+        "national": true,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "wuq06unnnwbecgnq",
+        "fastdate": 1767830400000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "521 Martin Luther King Jr Dr",
+        "city": "Smithfield",
+        "stateCountry": "NC",
+        "zipCode": "27577",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Johnston Community College",
+            "result": "",
+            "teamId": "hr204rbtkwz95sbd",
+            "winner": false,
+            "cleanName": "johnston community col"
+        },
+        "us": {
+            "name": "Guilford Technical Community College",
+            "result": "",
+            "teamId": "n9t32xka1tjp3zam",
+            "winner": false,
+            "cleanName": "guilford technical community col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "January 7 07:00 PM:"
+}

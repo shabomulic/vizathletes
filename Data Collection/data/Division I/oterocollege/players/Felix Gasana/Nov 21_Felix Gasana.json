@@ -1,17 +1,17 @@
 {
     "Player Name": "Felix Gasana",
+    "MIN": "1",
     "FGM-A": "2-6",
     "3PM-A": "0-0",
     "FTM-A": "0-0",
     "OREB": "2",
     "DREB": "7",
     "REB": "9",
+    "AST": "0",
+    "STL": "1",
+    "BLK": "3",
+    "TO": "2",
     "PF": "0",
     "TP": "4",
-    "AST": "0",
-    "TO": "2",
-    "BLK": "3",
-    "STL": "1",
-    "MIN": "1",
     "eventDateFormatted": "Nov 21"
 }

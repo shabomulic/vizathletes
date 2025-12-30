@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Feb 25",
+    "boxScoreLink": "20260225_q1ry.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Bryant & Stratton (Ohio)",
+                "result": "",
+                "teamId": "0s9p6o9cqei0erdc",
+                "winner": false,
+                "cleanName": "bryant stratton ohio"
+            },
+            {
+                "name": "Lakeland Community College",
+                "result": "",
+                "teamId": "bn7iowokd59ssivc",
+                "winner": false,
+                "cleanName": "lakeland community col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1772058600000,
+        "localTimeZone": "America/New_York",
+        "tba": false,
+        "home": true,
+        "overall": true,
+        "conference": true,
+        "division": true,
+        "regional": true,
+        "national": true,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "q1ryn4xp2e7gi4vf",
+        "fastdate": 1772058600000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "4242 State Route 306, Willoughby, OH 44094",
+        "city": "Willoughby",
+        "stateCountry": "Ohio",
+        "zipCode": "44094",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Bryant & Stratton (Ohio)",
+            "result": "",
+            "teamId": "0s9p6o9cqei0erdc",
+            "winner": false,
+            "cleanName": "bryant stratton ohio"
+        },
+        "us": {
+            "name": "Lakeland Community College",
+            "result": "",
+            "teamId": "bn7iowokd59ssivc",
+            "winner": false,
+            "cleanName": "lakeland community col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "February 25 05:30 PM:"
+}

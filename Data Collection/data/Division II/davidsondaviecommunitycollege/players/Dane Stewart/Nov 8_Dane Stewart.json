@@ -1,17 +1,17 @@
 {
     "Player Name": "Dane Stewart",
+    "MIN": "25:55",
     "FGM-A": "7-11",
     "3PM-A": "0-1",
     "FTM-A": "1-3",
     "OREB": "2",
     "DREB": "2",
     "REB": "4",
+    "AST": "7",
+    "STL": "4",
+    "BLK": "0",
+    "TO": "1",
     "PF": "2",
     "TP": "15",
-    "AST": "7",
-    "TO": "1",
-    "BLK": "0",
-    "STL": "4",
-    "MIN": "25:55",
     "eventDateFormatted": "Nov 8"
 }

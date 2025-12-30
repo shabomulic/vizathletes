@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Jan 21",
+    "boxScoreLink": "20260121_6fn2.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Alpena Community College",
+                "result": "",
+                "teamId": "l8te912uzl8xbpjr",
+                "winner": false,
+                "cleanName": "alpena community col"
+            },
+            {
+                "name": "Bay College",
+                "result": "",
+                "teamId": "vxtx7i8qw27zp2af",
+                "winner": false,
+                "cleanName": "bay col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "Special Olympics Game",
+        "date": 1769041800000,
+        "localTimeZone": "America/New_York",
+        "tba": false,
+        "home": false,
+        "overall": true,
+        "conference": true,
+        "division": true,
+        "regional": true,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "6fn2aafem0dytj8z",
+        "fastdate": 1769041800000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Bay College",
+            "result": "",
+            "teamId": "vxtx7i8qw27zp2af",
+            "winner": false,
+            "cleanName": "bay col"
+        },
+        "us": {
+            "name": "Alpena Community College",
+            "result": "",
+            "teamId": "l8te912uzl8xbpjr",
+            "winner": false,
+            "cleanName": "alpena community col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "January 21 07:30 PM:"
+}

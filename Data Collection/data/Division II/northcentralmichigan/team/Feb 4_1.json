@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Feb 4",
+    "boxScoreLink": "20260204_r92v.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "North Central Michigan",
+                "result": "",
+                "teamId": "irpxmzrldbj09y2v",
+                "winner": false,
+                "cleanName": "n central michigan"
+            },
+            {
+                "name": "Bay College",
+                "result": "",
+                "teamId": "vxtx7i8qw27zp2af",
+                "winner": false,
+                "cleanName": "bay col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "Faculty &amp; Staff Appreciation Game",
+        "date": 1770251400000,
+        "localTimeZone": "America/New_York",
+        "tba": false,
+        "home": false,
+        "overall": true,
+        "conference": true,
+        "division": true,
+        "regional": true,
+        "national": true,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "r92vyf0113xk2m39",
+        "fastdate": 1770251400000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Bay College",
+            "result": "",
+            "teamId": "vxtx7i8qw27zp2af",
+            "winner": false,
+            "cleanName": "bay col"
+        },
+        "us": {
+            "name": "North Central Michigan",
+            "result": "",
+            "teamId": "irpxmzrldbj09y2v",
+            "winner": false,
+            "cleanName": "n central michigan"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "February 4 07:30 PM:"
+}

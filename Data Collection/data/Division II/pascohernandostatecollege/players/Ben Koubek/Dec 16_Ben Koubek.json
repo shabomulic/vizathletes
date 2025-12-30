@@ -1,17 +1,17 @@
 {
     "Player Name": "Ben Koubek",
+    "MIN": "29",
     "FGM-A": "4-8",
     "3PM-A": "2-5",
     "FTM-A": "0-0",
     "OREB": "2",
     "DREB": "3",
     "REB": "5",
+    "AST": "4",
+    "STL": "1",
+    "BLK": "0",
+    "TO": "5",
     "PF": "4",
     "TP": "10",
-    "AST": "4",
-    "TO": "5",
-    "BLK": "0",
-    "STL": "1",
-    "MIN": "29",
     "eventDateFormatted": "Dec 16"
 }

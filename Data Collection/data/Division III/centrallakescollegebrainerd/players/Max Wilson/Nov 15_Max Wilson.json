@@ -1,17 +1,17 @@
 {
     "Player Name": "Max Wilson",
+    "MIN": "27",
     "FGM-A": "0-5",
     "3PM-A": "0-4",
     "FTM-A": "0-0",
     "OREB": "0",
     "DREB": "2",
     "REB": "2",
+    "AST": "6",
+    "STL": "4",
+    "BLK": "0",
+    "TO": "2",
     "PF": "3",
     "TP": "0",
-    "AST": "6",
-    "TO": "2",
-    "BLK": "0",
-    "STL": "4",
-    "MIN": "27",
     "eventDateFormatted": "Nov 15"
 }

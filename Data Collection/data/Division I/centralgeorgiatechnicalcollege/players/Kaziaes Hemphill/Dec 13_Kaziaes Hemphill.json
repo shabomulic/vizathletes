@@ -1,17 +1,17 @@
 {
     "Player Name": "Kaziaes Hemphill",
+    "MIN": "35",
     "FGM-A": "9-12",
     "3PM-A": "0-0",
     "FTM-A": "6-12",
     "OREB": "3",
     "DREB": "9",
     "REB": "12",
+    "AST": "2",
+    "STL": "2",
+    "BLK": "7",
+    "TO": "3",
     "PF": "0",
     "TP": "24",
-    "AST": "2",
-    "TO": "3",
-    "BLK": "7",
-    "STL": "2",
-    "MIN": "35",
     "eventDateFormatted": "Dec 13"
 }

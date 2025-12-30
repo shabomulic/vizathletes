@@ -1,17 +1,17 @@
 {
     "Player Name": "Keshaun Mahan",
+    "MIN": "16",
     "FGM-A": "6-9",
     "3PM-A": "1-2",
     "FTM-A": "3-4",
     "OREB": "1",
     "DREB": "3",
     "REB": "4",
+    "AST": "0",
+    "STL": "0",
+    "BLK": "1",
+    "TO": "0",
     "PF": "2",
     "TP": "16",
-    "AST": "0",
-    "TO": "0",
-    "BLK": "1",
-    "STL": "0",
-    "MIN": "16",
     "eventDateFormatted": "Oct 31"
 }

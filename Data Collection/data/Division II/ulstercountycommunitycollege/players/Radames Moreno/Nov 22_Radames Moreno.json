@@ -1,17 +1,17 @@
 {
     "Player Name": "Radames Moreno",
+    "MIN": "29",
     "FGM-A": "4-9",
     "3PM-A": "0-1",
     "FTM-A": "3-4",
     "OREB": "2",
     "DREB": "13",
     "REB": "15",
+    "AST": "3",
+    "STL": "0",
+    "BLK": "1",
+    "TO": "2",
     "PF": "4",
     "TP": "11",
-    "AST": "3",
-    "TO": "2",
-    "BLK": "1",
-    "STL": "0",
-    "MIN": "29",
     "eventDateFormatted": "Nov 22"
 }

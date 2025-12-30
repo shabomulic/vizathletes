@@ -1,17 +1,17 @@
 {
     "Player Name": "Germaal Forde",
+    "MIN": "1",
     "FGM-A": "5-12",
     "3PM-A": "0-0",
     "FTM-A": "1-2",
     "OREB": "2",
     "DREB": "6",
     "REB": "8",
+    "AST": "0",
+    "STL": "1",
+    "BLK": "0",
+    "TO": "2",
     "PF": "4",
     "TP": "11",
-    "AST": "0",
-    "TO": "2",
-    "BLK": "0",
-    "STL": "1",
-    "MIN": "1",
     "eventDateFormatted": "Dec 13"
 }

@@ -1,17 +1,17 @@
 {
     "Player Name": "Jaremiah Palmer-Kirtdoll",
+    "MIN": "33",
     "FGM-A": "1-3",
     "3PM-A": "0-0",
     "FTM-A": "0-0",
     "OREB": "1",
     "DREB": "4",
     "REB": "5",
+    "AST": "4",
+    "STL": "1",
+    "BLK": "0",
+    "TO": "3",
     "PF": "3",
     "TP": "2",
-    "AST": "4",
-    "TO": "3",
-    "BLK": "0",
-    "STL": "1",
-    "MIN": "33",
     "eventDateFormatted": "Nov 22"
 }

@@ -1,17 +1,17 @@
 {
     "Player Name": "Deng Gak",
+    "MIN": "20",
     "FGM-A": "3-5",
     "3PM-A": "0-0",
     "FTM-A": "1-2",
     "OREB": "1",
     "DREB": "5",
     "REB": "6",
+    "AST": "4",
+    "STL": "1",
+    "BLK": "0",
+    "TO": "2",
     "PF": "2",
     "TP": "7",
-    "AST": "4",
-    "TO": "2",
-    "BLK": "0",
-    "STL": "1",
-    "MIN": "20",
     "eventDateFormatted": "Nov 22"
 }

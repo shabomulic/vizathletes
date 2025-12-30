@@ -1,17 +1,17 @@
 {
     "Player Name": "Carlos Rodriguez",
+    "MIN": "32",
     "FGM-A": "9-16",
     "3PM-A": "2-5",
     "FTM-A": "2-3",
     "OREB": "0",
     "DREB": "7",
     "REB": "7",
+    "AST": "5",
+    "STL": "3",
+    "BLK": "0",
+    "TO": "4",
     "PF": "3",
     "TP": "22",
-    "AST": "5",
-    "TO": "4",
-    "BLK": "0",
-    "STL": "3",
-    "MIN": "32",
     "eventDateFormatted": "Dec 13"
 }

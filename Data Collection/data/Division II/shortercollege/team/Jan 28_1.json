@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Jan 28",
+    "boxScoreLink": "20260128_lx7u.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "National Park College",
+                "result": "",
+                "teamId": "x68d77uzjx53kazc",
+                "winner": false,
+                "cleanName": "national park col"
+            },
+            {
+                "name": "Shorter College",
+                "result": "",
+                "teamId": "lta54ynybu7acqxg",
+                "winner": false,
+                "cleanName": "shorter col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1769646600000,
+        "localTimeZone": "America/Chicago",
+        "tba": false,
+        "home": true,
+        "overall": true,
+        "conference": true,
+        "division": false,
+        "regional": true,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "lx7uijh74b6kf14e",
+        "fastdate": 1769646600000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "North Little Rock",
+        "stateCountry": "AR",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "National Park College",
+            "result": "",
+            "teamId": "x68d77uzjx53kazc",
+            "winner": false,
+            "cleanName": "national park col"
+        },
+        "us": {
+            "name": "Shorter College",
+            "result": "",
+            "teamId": "lta54ynybu7acqxg",
+            "winner": false,
+            "cleanName": "shorter col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "January 28 07:30 PM:"
+}

@@ -1,17 +1,17 @@
 {
     "Player Name": "Daniel Cummins",
+    "MIN": "1",
     "FGM-A": "8-9",
     "3PM-A": "0-0",
     "FTM-A": "1-6",
     "OREB": "3",
     "DREB": "6",
     "REB": "9",
+    "AST": "0",
+    "STL": "3",
+    "BLK": "3",
+    "TO": "1",
     "PF": "0",
     "TP": "17",
-    "AST": "0",
-    "TO": "1",
-    "BLK": "3",
-    "STL": "3",
-    "MIN": "1",
     "eventDateFormatted": "Dec 4"
 }

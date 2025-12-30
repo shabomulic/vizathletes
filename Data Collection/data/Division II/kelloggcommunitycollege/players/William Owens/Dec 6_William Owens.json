@@ -1,17 +1,17 @@
 {
     "Player Name": "William Owens",
+    "MIN": "25",
     "FGM-A": "4-11",
     "3PM-A": "0-2",
     "FTM-A": "0-0",
     "OREB": "0",
     "DREB": "5",
     "REB": "5",
+    "AST": "1",
+    "STL": "2",
+    "BLK": "1",
+    "TO": "1",
     "PF": "2",
     "TP": "8",
-    "AST": "1",
-    "TO": "1",
-    "BLK": "1",
-    "STL": "2",
-    "MIN": "25",
     "eventDateFormatted": "Dec 6"
 }

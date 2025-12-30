@@ -1,17 +1,17 @@
 {
     "Player Name": "Colain Brown",
+    "MIN": "35",
     "FGM-A": "5-8",
     "3PM-A": "1-2",
     "FTM-A": "0-3",
     "OREB": "1",
     "DREB": "3",
     "REB": "4",
+    "AST": "3",
+    "STL": "3",
+    "BLK": "1",
+    "TO": "2",
     "PF": "0",
     "TP": "11",
-    "AST": "3",
-    "TO": "2",
-    "BLK": "1",
-    "STL": "3",
-    "MIN": "35",
     "eventDateFormatted": "Nov 1"
 }

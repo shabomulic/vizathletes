@@ -1,17 +1,17 @@
 {
     "Player Name": "Qingfang Pang",
+    "MIN": "29",
     "FGM-A": "5-11",
     "3PM-A": "3-4",
     "FTM-A": "5-8",
     "OREB": "3",
     "DREB": "9",
     "REB": "12",
+    "AST": "3",
+    "STL": "1",
+    "BLK": "0",
+    "TO": "5",
     "PF": "2",
     "TP": "18",
-    "AST": "3",
-    "TO": "5",
-    "BLK": "0",
-    "STL": "1",
-    "MIN": "29",
     "eventDateFormatted": "Oct 29"
 }

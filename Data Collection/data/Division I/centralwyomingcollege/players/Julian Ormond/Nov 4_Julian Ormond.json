@@ -1,17 +1,17 @@
 {
     "Player Name": "Julian Ormond",
+    "MIN": "33",
     "FGM-A": "6-13",
     "3PM-A": "2-6",
     "FTM-A": "1-2",
     "OREB": "0",
     "DREB": "8",
     "REB": "8",
+    "AST": "3",
+    "STL": "0",
+    "BLK": "1",
+    "TO": "4",
     "PF": "1",
     "TP": "15",
-    "AST": "3",
-    "TO": "4",
-    "BLK": "1",
-    "STL": "0",
-    "MIN": "33",
     "eventDateFormatted": "Nov 4"
 }

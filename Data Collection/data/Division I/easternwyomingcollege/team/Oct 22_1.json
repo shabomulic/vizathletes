@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Oct 22",
+    "boxScoreLink": "20251022_cv5v.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "South Dakota School of Mines - Scrimmage",
+                "result": "",
+                "teamId": "77112u34t9av3oqn",
+                "winner": false,
+                "cleanName": "s dakota school mines scrimmage"
+            },
+            {
+                "name": "Eastern Wyoming College",
+                "result": "",
+                "teamId": "h8xqg2yhx6pzytwq",
+                "winner": false,
+                "cleanName": "e wyoming col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1761168600000,
+        "localTimeZone": "America/Denver",
+        "tba": false,
+        "home": true,
+        "overall": true,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "cv5vqhcl28con4nm",
+        "fastdate": 1761168600000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "3200 West C Street Torrington Wyoming",
+        "city": "Torrington",
+        "stateCountry": "Wyoming",
+        "zipCode": "82240",
+        "venue": "Verl Petsch Gymnasium",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "scrimmage",
+            "description": "Scrimmage",
+            "statsCount": false
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "South Dakota School of Mines - Scrimmage",
+            "result": "",
+            "teamId": "77112u34t9av3oqn",
+            "winner": false,
+            "cleanName": "s dakota school mines scrimmage"
+        },
+        "us": {
+            "name": "Eastern Wyoming College",
+            "result": "",
+            "teamId": "h8xqg2yhx6pzytwq",
+            "winner": false,
+            "cleanName": "e wyoming col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "October 22 05:30 PM:"
+}

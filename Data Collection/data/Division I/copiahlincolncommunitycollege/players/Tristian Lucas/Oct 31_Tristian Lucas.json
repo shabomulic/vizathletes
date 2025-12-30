@@ -1,17 +1,17 @@
 {
     "Player Name": "Tristian Lucas",
+    "MIN": "20",
     "FGM-A": "6-9",
     "3PM-A": "3-5",
     "FTM-A": "5-5",
     "OREB": "0",
     "DREB": "0",
     "REB": "0",
+    "AST": "1",
+    "STL": "1",
+    "BLK": "0",
+    "TO": "1",
     "PF": "2",
     "TP": "20",
-    "AST": "1",
-    "TO": "1",
-    "BLK": "0",
-    "STL": "1",
-    "MIN": "20",
     "eventDateFormatted": "Oct 31"
 }

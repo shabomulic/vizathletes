@@ -1,17 +1,17 @@
 {
     "Player Name": "Donnie Watts",
+    "MIN": "28",
     "FGM-A": "1-4",
     "3PM-A": "0-0",
     "FTM-A": "1-2",
     "OREB": "1",
     "DREB": "3",
     "REB": "4",
+    "AST": "6",
+    "STL": "0",
+    "BLK": "0",
+    "TO": "2",
     "PF": "2",
     "TP": "3",
-    "AST": "6",
-    "TO": "2",
-    "BLK": "0",
-    "STL": "0",
-    "MIN": "28",
     "eventDateFormatted": "Nov 3"
 }

@@ -1,17 +1,17 @@
 {
     "Player Name": "Isaiah McCray",
+    "MIN": "32",
     "FGM-A": "3-16",
     "3PM-A": "2-9",
     "FTM-A": "5-5",
     "OREB": "0",
     "DREB": "4",
     "REB": "4",
+    "AST": "1",
+    "STL": "2",
+    "BLK": "0",
+    "TO": "0",
     "PF": "2",
     "TP": "13",
-    "AST": "1",
-    "TO": "0",
-    "BLK": "0",
-    "STL": "2",
-    "MIN": "32",
     "eventDateFormatted": "Nov 9"
 }

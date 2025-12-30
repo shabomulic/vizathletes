@@ -1,17 +1,17 @@
 {
     "Player Name": "Alijah Mathis",
+    "MIN": "1",
     "FGM-A": "6-10",
     "3PM-A": "3-5",
     "FTM-A": "6-6",
     "OREB": "1",
     "DREB": "2",
     "REB": "3",
+    "AST": "5",
+    "STL": "2",
+    "BLK": "0",
+    "TO": "2",
     "PF": "0",
     "TP": "21",
-    "AST": "5",
-    "TO": "2",
-    "BLK": "0",
-    "STL": "2",
-    "MIN": "1",
     "eventDateFormatted": "Dec 4"
 }

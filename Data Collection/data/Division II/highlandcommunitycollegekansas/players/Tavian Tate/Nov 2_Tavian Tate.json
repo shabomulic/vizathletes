@@ -1,17 +1,17 @@
 {
     "Player Name": "Tavian Tate",
+    "MIN": "22",
     "FGM-A": "6-13",
     "3PM-A": "1-7",
     "FTM-A": "5-5",
     "OREB": "0",
     "DREB": "6",
     "REB": "6",
+    "AST": "1",
+    "STL": "2",
+    "BLK": "0",
+    "TO": "2",
     "PF": "1",
     "TP": "18",
-    "AST": "1",
-    "TO": "2",
-    "BLK": "0",
-    "STL": "2",
-    "MIN": "22",
     "eventDateFormatted": "Nov 2"
 }

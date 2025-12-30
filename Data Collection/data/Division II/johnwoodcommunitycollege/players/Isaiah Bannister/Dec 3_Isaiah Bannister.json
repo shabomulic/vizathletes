@@ -1,17 +1,17 @@
 {
     "Player Name": "Isaiah Bannister",
+    "MIN": "31",
     "FGM-A": "7-13",
     "3PM-A": "4-6",
     "FTM-A": "2-2",
     "OREB": "1",
     "DREB": "6",
     "REB": "7",
+    "AST": "0",
+    "STL": "1",
+    "BLK": "0",
+    "TO": "5",
     "PF": "5",
     "TP": "20",
-    "AST": "0",
-    "TO": "5",
-    "BLK": "0",
-    "STL": "1",
-    "MIN": "31",
     "eventDateFormatted": "Dec 3"
 }

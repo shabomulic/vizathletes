@@ -1,17 +1,17 @@
 {
     "Player Name": "Ne'quan Brown",
+    "MIN": "22",
     "FGM-A": "4-8",
     "3PM-A": "1-3",
     "FTM-A": "2-2",
     "OREB": "1",
     "DREB": "4",
     "REB": "5",
+    "AST": "3",
+    "STL": "1",
+    "BLK": "1",
+    "TO": "1",
     "PF": "2",
     "TP": "11",
-    "AST": "3",
-    "TO": "1",
-    "BLK": "1",
-    "STL": "1",
-    "MIN": "22",
     "eventDateFormatted": "Nov 13"
 }

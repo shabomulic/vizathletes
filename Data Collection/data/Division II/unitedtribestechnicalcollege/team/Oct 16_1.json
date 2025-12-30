@@ -1,0 +1,119 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Oct 16",
+    "boxScoreLink": "20251016_3buw.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "United Tribes Technical College",
+                "result": "41",
+                "teamId": "uk516g77jofrdfkp",
+                "winner": false,
+                "cleanName": "united tribes technical col"
+            },
+            {
+                "name": "Rocky Mountain Jamboree",
+                "result": "32",
+                "teamId": "kaxiy7yuvwj4cpbl",
+                "winner": false,
+                "cleanName": "rocky mountain jamboree"
+            }
+        ],
+        "status": "Start of 1st",
+        "notes": "",
+        "notesShared": "",
+        "date": 1760587200000,
+        "localTimeZone": "America/Chicago",
+        "tba": false,
+        "home": false,
+        "overall": false,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": true,
+        "statusCode": -1,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "3buwo0lm7b9l8hpb",
+        "fastdate": 1760587200000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "Windsor",
+        "stateCountry": "Colorado",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "scrimmage",
+            "description": "Scrimmage",
+            "statsCount": false
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "results": [
+                41,
+                32
+            ],
+            "resolved": false,
+            "hasScores": true,
+            "numericResults": [
+                41,
+                32
+            ],
+            "description": "",
+            "score": "41-32",
+            "winnerLoser": "41-32",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Rocky Mountain Jamboree",
+            "result": "32",
+            "teamId": "kaxiy7yuvwj4cpbl",
+            "winner": false,
+            "cleanName": "rocky mountain jamboree"
+        },
+        "us": {
+            "name": "United Tribes Technical College",
+            "result": "41",
+            "teamId": "uk516g77jofrdfkp",
+            "winner": false,
+            "cleanName": "united tribes technical col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "results": [
+                41,
+                32
+            ],
+            "resolved": false,
+            "hasScores": true,
+            "numericResults": [
+                41,
+                32
+            ],
+            "description": "",
+            "score": "41-32",
+            "winnerLoser": "41-32",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "October 16 12:00 AM:"
+}

@@ -1,17 +1,17 @@
 {
     "Player Name": "Eden Hobbs",
+    "MIN": "40",
     "FGM-A": "6-13",
     "3PM-A": "0-5",
     "FTM-A": "6-7",
     "OREB": "1",
     "DREB": "4",
     "REB": "5",
+    "AST": "3",
+    "STL": "3",
+    "BLK": "0",
+    "TO": "4",
     "PF": "1",
     "TP": "18",
-    "AST": "3",
-    "TO": "4",
-    "BLK": "0",
-    "STL": "3",
-    "MIN": "40",
     "eventDateFormatted": "Nov 25"
 }

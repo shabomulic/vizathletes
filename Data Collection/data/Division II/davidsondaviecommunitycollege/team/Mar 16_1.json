@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Mar 16",
+    "boxScoreLink": "20260316_8x8g.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "National Tournament",
+                "result": "",
+                "teamId": "yy0v2rz7bao6utsa",
+                "winner": false,
+                "cleanName": "national tournament"
+            },
+            {
+                "name": "Davidson-Davie Community College",
+                "result": "",
+                "teamId": "3kd7ku644slaa8vb",
+                "winner": false,
+                "cleanName": "davidson davie community col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1773633600000,
+        "localTimeZone": "America/New_York",
+        "tba": true,
+        "home": true,
+        "overall": true,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": true,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "8x8ghs81t0150xqp",
+        "fastdate": 1773633600000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "Danville",
+        "stateCountry": "Illinois",
+        "zipCode": "",
+        "venue": "Mary Miller Center",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "National Tournament",
+            "result": "",
+            "teamId": "yy0v2rz7bao6utsa",
+            "winner": false,
+            "cleanName": "national tournament"
+        },
+        "us": {
+            "name": "Davidson-Davie Community College",
+            "result": "",
+            "teamId": "3kd7ku644slaa8vb",
+            "winner": false,
+            "cleanName": "davidson davie community col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "March 16 12:00 AM:"
+}

@@ -1,17 +1,17 @@
 {
     "Player Name": "Tyree Banks",
+    "MIN": "10",
     "FGM-A": "4-9",
     "3PM-A": "2-5",
     "FTM-A": "0-0",
     "OREB": "2",
     "DREB": "9",
     "REB": "11",
+    "AST": "3",
+    "STL": "1",
+    "BLK": "1",
+    "TO": "2",
     "PF": "2",
     "TP": "10",
-    "AST": "3",
-    "TO": "2",
-    "BLK": "1",
-    "STL": "1",
-    "MIN": "10",
     "eventDateFormatted": "Nov 11"
 }

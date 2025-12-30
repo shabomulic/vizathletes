@@ -1,17 +1,17 @@
 {
     "Player Name": "Camren Welker",
+    "MIN": "24",
     "FGM-A": "4-12",
     "3PM-A": "2-7",
     "FTM-A": "2-3",
     "OREB": "2",
     "DREB": "1",
     "REB": "3",
+    "AST": "3",
+    "STL": "2",
+    "BLK": "1",
+    "TO": "3",
     "PF": "0",
     "TP": "12",
-    "AST": "3",
-    "TO": "3",
-    "BLK": "1",
-    "STL": "2",
-    "MIN": "24",
     "eventDateFormatted": "Nov 20"
 }

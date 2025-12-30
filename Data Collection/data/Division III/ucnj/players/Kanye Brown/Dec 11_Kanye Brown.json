@@ -1,17 +1,17 @@
 {
     "Player Name": "Kanye Brown",
+    "MIN": "24",
     "FGM-A": "2-5",
     "3PM-A": "0-4",
     "FTM-A": "1-4",
     "OREB": "0",
     "DREB": "0",
     "REB": "0",
+    "AST": "0",
+    "STL": "1",
+    "BLK": "0",
+    "TO": "3",
     "PF": "4",
     "TP": "5",
-    "AST": "0",
-    "TO": "3",
-    "BLK": "0",
-    "STL": "1",
-    "MIN": "24",
     "eventDateFormatted": "Dec 11"
 }

@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Jan 7",
+    "boxScoreLink": "20260107_5oqw.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Kansas Christian - JV",
+                "result": "",
+                "teamId": "v1sa4xtosejr4n2t",
+                "winner": false,
+                "cleanName": "kansas christian jv"
+            },
+            {
+                "name": "Kansas City Kansas Community College",
+                "result": "",
+                "teamId": "miyy2uisubqx0h06",
+                "winner": false,
+                "cleanName": "kansas city kansas community col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "Breidenthal Court - KCKCC",
+        "date": 1767830400000,
+        "localTimeZone": "America/Chicago",
+        "tba": false,
+        "home": true,
+        "overall": true,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "5oqw0yj2u38u3nmn",
+        "fastdate": 1767830400000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "Breidenthal Court - KCKCC",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": true,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Kansas Christian - JV",
+            "result": "",
+            "teamId": "v1sa4xtosejr4n2t",
+            "winner": false,
+            "cleanName": "kansas christian jv"
+        },
+        "us": {
+            "name": "Kansas City Kansas Community College",
+            "result": "",
+            "teamId": "miyy2uisubqx0h06",
+            "winner": false,
+            "cleanName": "kansas city kansas community col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "January 7 07:00 PM:"
+}

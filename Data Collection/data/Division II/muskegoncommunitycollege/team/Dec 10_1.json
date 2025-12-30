@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Dec 10",
+    "boxScoreLink": "20251210_jkow.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Calvin University JV",
+                "result": "",
+                "teamId": "ypn6u5ot0cr4fe5z",
+                "winner": false,
+                "cleanName": "calvin univ jv"
+            },
+            {
+                "name": "Muskegon Community College",
+                "result": "",
+                "teamId": "iva2a6kx2y9155zk",
+                "winner": false,
+                "cleanName": "muskegon community col"
+            }
+        ],
+        "status": "Cancelled",
+        "notes": "",
+        "notesShared": "",
+        "date": 1765413000000,
+        "localTimeZone": "America/New_York",
+        "tba": false,
+        "home": true,
+        "overall": true,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": true,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "jkow91sabyo358w8",
+        "fastdate": 1765413000000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "Home",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Calvin University JV",
+            "result": "",
+            "teamId": "ypn6u5ot0cr4fe5z",
+            "winner": false,
+            "cleanName": "calvin univ jv"
+        },
+        "us": {
+            "name": "Muskegon Community College",
+            "result": "",
+            "teamId": "iva2a6kx2y9155zk",
+            "winner": false,
+            "cleanName": "muskegon community col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "December 10 07:30 PM:"
+}

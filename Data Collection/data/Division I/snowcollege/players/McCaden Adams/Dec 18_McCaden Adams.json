@@ -1,17 +1,17 @@
 {
     "Player Name": "McCaden Adams",
+    "MIN": "41",
     "FGM-A": "9-16",
     "3PM-A": "3-6",
     "FTM-A": "11-13",
     "OREB": "0",
     "DREB": "7",
     "REB": "7",
+    "AST": "5",
+    "STL": "3",
+    "BLK": "0",
+    "TO": "2",
     "PF": "4",
     "TP": "32",
-    "AST": "5",
-    "TO": "2",
-    "BLK": "0",
-    "STL": "3",
-    "MIN": "41",
     "eventDateFormatted": "Dec 18"
 }

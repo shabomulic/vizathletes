@@ -1,17 +1,17 @@
 {
     "Player Name": "Derian Williams",
+    "MIN": "35",
     "FGM-A": "3-13",
     "3PM-A": "0-2",
     "FTM-A": "8-8",
     "OREB": "1",
     "DREB": "4",
     "REB": "5",
+    "AST": "2",
+    "STL": "3",
+    "BLK": "0",
+    "TO": "2",
     "PF": "2",
     "TP": "14",
-    "AST": "2",
-    "TO": "2",
-    "BLK": "0",
-    "STL": "3",
-    "MIN": "35",
     "eventDateFormatted": "Nov 1"
 }

@@ -1,17 +1,17 @@
 {
     "Player Name": "Nana Keutcha",
+    "MIN": "15",
     "FGM-A": "2-2",
     "3PM-A": "0-0",
     "FTM-A": "0-0",
     "OREB": "1",
     "DREB": "5",
     "REB": "6",
+    "AST": "0",
+    "STL": "1",
+    "BLK": "0",
+    "TO": "1",
     "PF": "1",
     "TP": "4",
-    "AST": "0",
-    "TO": "1",
-    "BLK": "0",
-    "STL": "1",
-    "MIN": "15",
     "eventDateFormatted": "Nov 1"
 }

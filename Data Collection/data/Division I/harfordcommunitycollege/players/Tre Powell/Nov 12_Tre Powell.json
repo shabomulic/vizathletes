@@ -1,17 +1,17 @@
 {
     "Player Name": "Tre Powell",
+    "MIN": "26",
     "FGM-A": "3-10",
     "3PM-A": "2-6",
     "FTM-A": "0-0",
     "OREB": "0",
     "DREB": "0",
     "REB": "0",
+    "AST": "0",
+    "STL": "2",
+    "BLK": "0",
+    "TO": "2",
     "PF": "2",
     "TP": "8",
-    "AST": "0",
-    "TO": "2",
-    "BLK": "0",
-    "STL": "2",
-    "MIN": "26",
     "eventDateFormatted": "Nov 12"
 }

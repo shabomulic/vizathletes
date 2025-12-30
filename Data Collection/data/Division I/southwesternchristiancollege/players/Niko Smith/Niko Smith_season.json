@@ -178,9 +178,9 @@
     "careerId": null,
     "rank": null,
     "eventCount": 15,
-    "lastUpdated": 1766238896000,
-    "position": "G",
-    "positionAbbreviation": "G",
+    "lastUpdated": 1766808395000,
+    "position": "G/F",
+    "positionAbbreviation": "G/F",
     "positionCode": null,
     "dataMap": {
         "hometown": "",
@@ -204,10 +204,10 @@
             "defaultValue": 0,
             "mutable": false,
             "componentType": false,
-            "collectionType": false,
             "entityType": false,
             "associationType": false,
             "xmlelement": false,
+            "collectionType": false,
             "anyType": false
         },
         "mutable": false

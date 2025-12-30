@@ -1,17 +1,17 @@
 {
     "Player Name": "Isaac Gonzalez",
+    "MIN": "1",
     "FGM-A": "5-19",
     "3PM-A": "3-11",
     "FTM-A": "4-4",
     "OREB": "1",
     "DREB": "2",
     "REB": "3",
+    "AST": "4",
+    "STL": "1",
+    "BLK": "0",
+    "TO": "4",
     "PF": "3",
     "TP": "17",
-    "AST": "4",
-    "TO": "4",
-    "BLK": "0",
-    "STL": "1",
-    "MIN": "1",
     "eventDateFormatted": "Dec 7"
 }

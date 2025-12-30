@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Jan 21",
+    "boxScoreLink": "20260121_0k1n.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Virginia Peninsula CC",
+                "result": "",
+                "teamId": "ug6zm4dhiu0ylatc",
+                "winner": false,
+                "cleanName": "virginia peninsula cc"
+            },
+            {
+                "name": "Chowan University JV",
+                "result": "",
+                "teamId": "uwcoo8pm5mjyx0xr",
+                "winner": false,
+                "cleanName": "chowan univ jv"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1768971600000,
+        "localTimeZone": "America/New_York",
+        "tba": true,
+        "home": false,
+        "overall": true,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "0k1n552cvw4c5v0j",
+        "fastdate": 1768971600000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Chowan University JV",
+            "result": "",
+            "teamId": "uwcoo8pm5mjyx0xr",
+            "winner": false,
+            "cleanName": "chowan univ jv"
+        },
+        "us": {
+            "name": "Virginia Peninsula CC",
+            "result": "",
+            "teamId": "ug6zm4dhiu0ylatc",
+            "winner": false,
+            "cleanName": "virginia peninsula cc"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "January 21 12:00 AM:"
+}

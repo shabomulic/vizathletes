@@ -1,17 +1,17 @@
 {
     "Player Name": "Bryce Coleman",
+    "MIN": "25",
     "FGM-A": "3-7",
     "3PM-A": "0-1",
     "FTM-A": "1-2",
     "OREB": "0",
     "DREB": "5",
     "REB": "5",
+    "AST": "0",
+    "STL": "0",
+    "BLK": "1",
+    "TO": "3",
     "PF": "3",
     "TP": "7",
-    "AST": "0",
-    "TO": "3",
-    "BLK": "1",
-    "STL": "0",
-    "MIN": "25",
     "eventDateFormatted": "Oct 31"
 }

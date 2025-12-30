@@ -1,17 +1,17 @@
 {
     "Player Name": "Logan Shockley",
+    "MIN": "22",
     "FGM-A": "7-10",
     "3PM-A": "3-4",
     "FTM-A": "0-1",
     "OREB": "2",
     "DREB": "2",
     "REB": "4",
+    "AST": "2",
+    "STL": "0",
+    "BLK": "0",
+    "TO": "0",
     "PF": "1",
     "TP": "17",
-    "AST": "2",
-    "TO": "0",
-    "BLK": "0",
-    "STL": "0",
-    "MIN": "22",
     "eventDateFormatted": "Nov 8"
 }

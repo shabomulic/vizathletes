@@ -1,17 +1,17 @@
 {
     "Player Name": "Aiden Sosinov",
+    "MIN": "31",
     "FGM-A": "4-8",
     "3PM-A": "0-4",
     "FTM-A": "5-6",
     "OREB": "2",
     "DREB": "6",
     "REB": "8",
+    "AST": "3",
+    "STL": "1",
+    "BLK": "1",
+    "TO": "4",
     "PF": "4",
     "TP": "13",
-    "AST": "3",
-    "TO": "4",
-    "BLK": "1",
-    "STL": "1",
-    "MIN": "31",
     "eventDateFormatted": "Nov 6"
 }

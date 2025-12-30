@@ -1,17 +1,17 @@
 {
     "Player Name": "Moustapha Diomande",
+    "MIN": "22",
     "FGM-A": "6-8",
     "3PM-A": "1-2",
     "FTM-A": "0-0",
     "OREB": "0",
     "DREB": "4",
     "REB": "4",
+    "AST": "1",
+    "STL": "1",
+    "BLK": "1",
+    "TO": "3",
     "PF": "4",
     "TP": "13",
-    "AST": "1",
-    "TO": "3",
-    "BLK": "1",
-    "STL": "1",
-    "MIN": "22",
     "eventDateFormatted": "Dec 13"
 }

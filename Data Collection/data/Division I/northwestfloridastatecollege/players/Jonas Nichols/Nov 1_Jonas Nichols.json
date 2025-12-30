@@ -1,17 +1,17 @@
 {
     "Player Name": "Jonas Nichols",
+    "MIN": "22",
     "FGM-A": "3-7",
     "3PM-A": "0-2",
     "FTM-A": "1-2",
     "OREB": "0",
     "DREB": "2",
     "REB": "2",
+    "AST": "1",
+    "STL": "4",
+    "BLK": "0",
+    "TO": "3",
     "PF": "1",
     "TP": "7",
-    "AST": "1",
-    "TO": "3",
-    "BLK": "0",
-    "STL": "4",
-    "MIN": "22",
     "eventDateFormatted": "Nov 1"
 }

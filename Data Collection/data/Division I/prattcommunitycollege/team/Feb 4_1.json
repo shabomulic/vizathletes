@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Feb 4",
+    "boxScoreLink": "20260204_q890.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Pratt Community College",
+                "result": "",
+                "teamId": "ay0agbkbv0pxzeyu",
+                "winner": false,
+                "cleanName": "pratt community col"
+            },
+            {
+                "name": "Seward County",
+                "result": "",
+                "teamId": "gwt0ai7brt1tn6dx",
+                "winner": false,
+                "cleanName": "seward county"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "The Greenhouse | Liberal, Kan.",
+        "date": 1770253200000,
+        "localTimeZone": "America/Chicago",
+        "tba": false,
+        "home": false,
+        "overall": true,
+        "conference": true,
+        "division": false,
+        "regional": false,
+        "national": true,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "q890uk7ma69tp32q",
+        "fastdate": 1770253200000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "Liberal",
+        "stateCountry": "Kansas",
+        "zipCode": "",
+        "venue": "",
+        "primetime": true,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Seward County",
+            "result": "",
+            "teamId": "gwt0ai7brt1tn6dx",
+            "winner": false,
+            "cleanName": "seward county"
+        },
+        "us": {
+            "name": "Pratt Community College",
+            "result": "",
+            "teamId": "ay0agbkbv0pxzeyu",
+            "winner": false,
+            "cleanName": "pratt community col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "February 4 08:00 PM:"
+}

@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Dec 29",
+    "boxScoreLink": "20251229_tvzk.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Rising Stars Academy",
+                "result": "",
+                "teamId": "dppszeb9af3ds3xd",
+                "winner": false,
+                "cleanName": "rising stars academy"
+            },
+            {
+                "name": "Daytona State College",
+                "result": "",
+                "teamId": "ao6mzkmwcd6z85t3",
+                "winner": false,
+                "cleanName": "daytona st col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1767045600000,
+        "localTimeZone": "America/New_York",
+        "tba": false,
+        "home": true,
+        "overall": true,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "tvzkw6w5qswidlcq",
+        "fastdate": 1767045600000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": true,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "ap2Result": "",
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Rising Stars Academy",
+            "result": "",
+            "teamId": "dppszeb9af3ds3xd",
+            "winner": false,
+            "cleanName": "rising stars academy"
+        },
+        "us": {
+            "name": "Daytona State College",
+            "result": "",
+            "teamId": "ao6mzkmwcd6z85t3",
+            "winner": false,
+            "cleanName": "daytona st col"
+        },
+        "apresult": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "December 29 05:00 PM:"
+}

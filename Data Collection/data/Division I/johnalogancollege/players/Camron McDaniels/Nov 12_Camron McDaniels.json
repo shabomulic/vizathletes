@@ -1,17 +1,17 @@
 {
     "Player Name": "Camron McDaniels",
+    "MIN": "1",
     "FGM-A": "7-14",
     "3PM-A": "3-8",
     "FTM-A": "2-2",
     "OREB": "0",
     "DREB": "4",
     "REB": "4",
+    "AST": "2",
+    "STL": "0",
+    "BLK": "0",
+    "TO": "1",
     "PF": "1",
     "TP": "19",
-    "AST": "2",
-    "TO": "1",
-    "BLK": "0",
-    "STL": "0",
-    "MIN": "1",
     "eventDateFormatted": "Nov 12"
 }

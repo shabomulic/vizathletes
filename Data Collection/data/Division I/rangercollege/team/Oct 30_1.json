@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Oct 30",
+    "boxScoreLink": "20251030_4fm7.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Tribulation Prep",
+                "result": "",
+                "teamId": "8fln9ch3005vgmgo",
+                "winner": false,
+                "cleanName": "tribulation prep"
+            },
+            {
+                "name": "Ranger College",
+                "result": "",
+                "teamId": "5jkdzhgimrlxc07t",
+                "winner": false,
+                "cleanName": "ranger col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1761861600000,
+        "localTimeZone": "America/Chicago",
+        "tba": false,
+        "home": true,
+        "overall": false,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "4fm7rl3un7owi8wt",
+        "fastdate": 1761861600000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "exhibition",
+            "description": "Exhibition",
+            "statsCount": false
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Tribulation Prep",
+            "result": "",
+            "teamId": "8fln9ch3005vgmgo",
+            "winner": false,
+            "cleanName": "tribulation prep"
+        },
+        "us": {
+            "name": "Ranger College",
+            "result": "",
+            "teamId": "5jkdzhgimrlxc07t",
+            "winner": false,
+            "cleanName": "ranger col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "October 30 06:00 PM:"
+}

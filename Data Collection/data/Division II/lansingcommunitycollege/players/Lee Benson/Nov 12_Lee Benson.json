@@ -1,17 +1,17 @@
 {
     "Player Name": "Lee Benson",
+    "MIN": "19",
     "FGM-A": "8-12",
     "3PM-A": "0-0",
     "FTM-A": "6-6",
     "OREB": "8",
     "DREB": "4",
     "REB": "12",
+    "AST": "1",
+    "STL": "0",
+    "BLK": "1",
+    "TO": "2",
     "PF": "3",
     "TP": "22",
-    "AST": "1",
-    "TO": "2",
-    "BLK": "1",
-    "STL": "0",
-    "MIN": "19",
     "eventDateFormatted": "Nov 12"
 }

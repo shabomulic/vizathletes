@@ -1,17 +1,17 @@
 {
     "Player Name": "Korde Roseman",
+    "MIN": "22",
     "FGM-A": "4-8",
     "3PM-A": "2-5",
     "FTM-A": "7-7",
     "OREB": "1",
     "DREB": "1",
     "REB": "2",
+    "AST": "1",
+    "STL": "1",
+    "BLK": "0",
+    "TO": "2",
     "PF": "3",
     "TP": "17",
-    "AST": "1",
-    "TO": "2",
-    "BLK": "0",
-    "STL": "1",
-    "MIN": "22",
     "eventDateFormatted": "Dec 12"
 }

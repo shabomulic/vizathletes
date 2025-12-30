@@ -1,17 +1,17 @@
 {
     "Player Name": "Daylen Green",
+    "MIN": "29",
     "FGM-A": "3-13",
     "3PM-A": "1-4",
     "FTM-A": "3-4",
     "OREB": "2",
     "DREB": "3",
     "REB": "5",
+    "AST": "0",
+    "STL": "0",
+    "BLK": "0",
+    "TO": "2",
     "PF": "0",
     "TP": "10",
-    "AST": "0",
-    "TO": "2",
-    "BLK": "0",
-    "STL": "0",
-    "MIN": "29",
     "eventDateFormatted": "Nov 19"
 }

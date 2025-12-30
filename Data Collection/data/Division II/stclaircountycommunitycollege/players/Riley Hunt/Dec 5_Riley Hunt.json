@@ -1,17 +1,17 @@
 {
     "Player Name": "Riley Hunt",
+    "MIN": "26",
     "FGM-A": "5-12",
     "3PM-A": "1-3",
     "FTM-A": "0-0",
     "OREB": "0",
     "DREB": "3",
     "REB": "3",
+    "AST": "1",
+    "STL": "1",
+    "BLK": "0",
+    "TO": "1",
     "PF": "1",
     "TP": "11",
-    "AST": "1",
-    "TO": "1",
-    "BLK": "0",
-    "STL": "1",
-    "MIN": "26",
     "eventDateFormatted": "Dec 5"
 }

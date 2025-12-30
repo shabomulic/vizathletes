@@ -1,17 +1,17 @@
 {
     "Player Name": "Walta Berhane",
+    "MIN": "30",
     "FGM-A": "3-9",
     "3PM-A": "2-5",
     "FTM-A": "0-0",
     "OREB": "0",
     "DREB": "9",
     "REB": "9",
+    "AST": "1",
+    "STL": "3",
+    "BLK": "0",
+    "TO": "4",
     "PF": "2",
     "TP": "8",
-    "AST": "1",
-    "TO": "4",
-    "BLK": "0",
-    "STL": "3",
-    "MIN": "30",
     "eventDateFormatted": "Dec 12"
 }

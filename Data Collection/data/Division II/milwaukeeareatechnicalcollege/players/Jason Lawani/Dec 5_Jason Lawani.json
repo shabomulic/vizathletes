@@ -1,17 +1,17 @@
 {
     "Player Name": "Jason Lawani",
+    "MIN": "18",
     "FGM-A": "3-9",
     "3PM-A": "0-0",
     "FTM-A": "3-6",
     "OREB": "4",
     "DREB": "5",
     "REB": "9",
+    "AST": "1",
+    "STL": "0",
+    "BLK": "1",
+    "TO": "1",
     "PF": "3",
     "TP": "9",
-    "AST": "1",
-    "TO": "1",
-    "BLK": "1",
-    "STL": "0",
-    "MIN": "18",
     "eventDateFormatted": "Dec 5"
 }

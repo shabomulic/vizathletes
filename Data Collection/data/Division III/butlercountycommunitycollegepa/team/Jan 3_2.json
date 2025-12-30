@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Jan 3",
+    "boxScoreLink": "20260103_4exx.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Lorain County Community College",
+                "result": "",
+                "teamId": "m6j4y6gqemlv1vju",
+                "winner": false,
+                "cleanName": "lorain county community col"
+            },
+            {
+                "name": "Butler County Community College - PA",
+                "result": "",
+                "teamId": "y43lf5h096ou6fud",
+                "winner": false,
+                "cleanName": "butler county community col pa"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1767463200000,
+        "localTimeZone": "America/New_York",
+        "tba": false,
+        "home": true,
+        "overall": true,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": true,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "4exxh0ue36cj08v2",
+        "fastdate": 1767463200000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "ap2Result": "",
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Lorain County Community College",
+            "result": "",
+            "teamId": "m6j4y6gqemlv1vju",
+            "winner": false,
+            "cleanName": "lorain county community col"
+        },
+        "us": {
+            "name": "Butler County Community College - PA",
+            "result": "",
+            "teamId": "y43lf5h096ou6fud",
+            "winner": false,
+            "cleanName": "butler county community col pa"
+        },
+        "apresult": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "January 3 01:00 PM:"
+}

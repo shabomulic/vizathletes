@@ -1,17 +1,17 @@
 {
     "Player Name": "Keyon Garrett-Miller",
+    "MIN": "1",
     "FGM-A": "4-8",
     "3PM-A": "0-0",
     "FTM-A": "1-2",
     "OREB": "2",
     "DREB": "2",
     "REB": "4",
+    "AST": "6",
+    "STL": "3",
+    "BLK": "1",
+    "TO": "2",
     "PF": "4",
     "TP": "9",
-    "AST": "6",
-    "TO": "2",
-    "BLK": "1",
-    "STL": "3",
-    "MIN": "1",
     "eventDateFormatted": "Nov 3"
 }

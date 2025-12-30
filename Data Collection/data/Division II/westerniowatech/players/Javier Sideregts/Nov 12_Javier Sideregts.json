@@ -1,17 +1,17 @@
 {
     "Player Name": "Javier Sideregts",
+    "MIN": "1",
     "FGM-A": "2-8",
     "3PM-A": "1-1",
     "FTM-A": "1-1",
     "OREB": "0",
     "DREB": "4",
     "REB": "4",
+    "AST": "0",
+    "STL": "0",
+    "BLK": "1",
+    "TO": "5",
     "PF": "3",
     "TP": "6",
-    "AST": "0",
-    "TO": "5",
-    "BLK": "1",
-    "STL": "0",
-    "MIN": "1",
     "eventDateFormatted": "Nov 12"
 }

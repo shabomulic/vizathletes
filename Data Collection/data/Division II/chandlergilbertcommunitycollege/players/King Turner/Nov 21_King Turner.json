@@ -1,17 +1,17 @@
 {
     "Player Name": "King Turner",
+    "MIN": "24",
     "FGM-A": "2-8",
     "3PM-A": "0-4",
     "FTM-A": "3-4",
     "OREB": "0",
     "DREB": "2",
     "REB": "2",
+    "AST": "1",
+    "STL": "1",
+    "BLK": "0",
+    "TO": "2",
     "PF": "4",
     "TP": "7",
-    "AST": "1",
-    "TO": "2",
-    "BLK": "0",
-    "STL": "1",
-    "MIN": "24",
     "eventDateFormatted": "Nov 21"
 }

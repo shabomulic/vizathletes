@@ -1,17 +1,17 @@
 {
     "Player Name": "Kylian Lascot",
+    "MIN": "25",
     "FGM-A": "3-4",
     "3PM-A": "0-0",
     "FTM-A": "1-2",
     "OREB": "3",
     "DREB": "0",
     "REB": "3",
+    "AST": "2",
+    "STL": "1",
+    "BLK": "0",
+    "TO": "3",
     "PF": "1",
     "TP": "7",
-    "AST": "2",
-    "TO": "3",
-    "BLK": "0",
-    "STL": "1",
-    "MIN": "25",
     "eventDateFormatted": "Dec 20"
 }

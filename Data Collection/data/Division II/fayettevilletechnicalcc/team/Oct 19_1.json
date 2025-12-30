@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Oct 19",
+    "boxScoreLink": "20251019_913m.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Fayetteville Technical CC",
+                "result": "",
+                "teamId": "npphpjv2wzdyzxlw",
+                "winner": false,
+                "cleanName": "fayetteville technical cc"
+            },
+            {
+                "name": "Wake Technical Community College",
+                "result": "",
+                "teamId": "ox1f5nv9ucpwk8jh",
+                "winner": false,
+                "cleanName": "wake technical community col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1760893200000,
+        "localTimeZone": "America/New_York",
+        "tba": false,
+        "home": false,
+        "overall": false,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "Brunswick CC",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "913mqpyxkbyg7s9r",
+        "fastdate": 1760893200000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "Brunswick CC",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "scrimmage",
+            "description": "Scrimmage",
+            "statsCount": false
+        },
+        "ap2Result": "",
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Wake Technical Community College",
+            "result": "",
+            "teamId": "ox1f5nv9ucpwk8jh",
+            "winner": false,
+            "cleanName": "wake technical community col"
+        },
+        "us": {
+            "name": "Fayetteville Technical CC",
+            "result": "",
+            "teamId": "npphpjv2wzdyzxlw",
+            "winner": false,
+            "cleanName": "fayetteville technical cc"
+        },
+        "apresult": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "October 19 01:00 PM:"
+}

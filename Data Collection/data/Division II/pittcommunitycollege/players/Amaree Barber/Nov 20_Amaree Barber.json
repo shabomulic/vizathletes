@@ -1,17 +1,17 @@
 {
     "Player Name": "Amaree Barber",
+    "MIN": "38",
     "FGM-A": "6-15",
     "3PM-A": "0-1",
     "FTM-A": "2-2",
     "OREB": "5",
     "DREB": "2",
     "REB": "7",
+    "AST": "4",
+    "STL": "2",
+    "BLK": "0",
+    "TO": "3",
     "PF": "1",
     "TP": "14",
-    "AST": "4",
-    "TO": "3",
-    "BLK": "0",
-    "STL": "2",
-    "MIN": "38",
     "eventDateFormatted": "Nov 20"
 }

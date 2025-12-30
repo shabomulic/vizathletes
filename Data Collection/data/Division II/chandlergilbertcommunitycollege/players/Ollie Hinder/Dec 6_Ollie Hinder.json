@@ -1,17 +1,17 @@
 {
     "Player Name": "Ollie Hinder",
+    "MIN": "16",
     "FGM-A": "3-12",
     "3PM-A": "0-0",
     "FTM-A": "1-2",
     "OREB": "3",
     "DREB": "4",
     "REB": "7",
+    "AST": "2",
+    "STL": "2",
+    "BLK": "0",
+    "TO": "0",
     "PF": "4",
     "TP": "7",
-    "AST": "2",
-    "TO": "0",
-    "BLK": "0",
-    "STL": "2",
-    "MIN": "16",
     "eventDateFormatted": "Dec 6"
 }

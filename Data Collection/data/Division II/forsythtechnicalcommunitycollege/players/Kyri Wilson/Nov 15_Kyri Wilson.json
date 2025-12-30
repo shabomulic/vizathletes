@@ -1,17 +1,17 @@
 {
     "Player Name": "Kyri Wilson",
+    "MIN": "1",
     "FGM-A": "1-2",
     "3PM-A": "0-1",
     "FTM-A": "0-0",
     "OREB": "1",
     "DREB": "6",
     "REB": "7",
+    "AST": "9",
+    "STL": "1",
+    "BLK": "0",
+    "TO": "2",
     "PF": "1",
     "TP": "2",
-    "AST": "9",
-    "TO": "2",
-    "BLK": "0",
-    "STL": "1",
-    "MIN": "1",
     "eventDateFormatted": "Nov 15"
 }

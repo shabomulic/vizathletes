@@ -1,17 +1,17 @@
 {
     "Player Name": "Antonio Brown",
+    "MIN": "32",
     "FGM-A": "10-24",
     "3PM-A": "0-0",
     "FTM-A": "1-4",
     "OREB": "7",
     "DREB": "2",
     "REB": "9",
+    "AST": "1",
+    "STL": "1",
+    "BLK": "1",
+    "TO": "1",
     "PF": "1",
     "TP": "21",
-    "AST": "1",
-    "TO": "1",
-    "BLK": "1",
-    "STL": "1",
-    "MIN": "32",
     "eventDateFormatted": "Dec 13"
 }

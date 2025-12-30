@@ -1,17 +1,17 @@
 {
     "Player Name": "Mateo Trujillo",
+    "MIN": "37",
     "FGM-A": "5-17",
     "3PM-A": "1-7",
     "FTM-A": "4-4",
     "OREB": "1",
     "DREB": "3",
     "REB": "4",
+    "AST": "4",
+    "STL": "1",
+    "BLK": "0",
+    "TO": "1",
     "PF": "2",
     "TP": "15",
-    "AST": "4",
-    "TO": "1",
-    "BLK": "0",
-    "STL": "1",
-    "MIN": "37",
     "eventDateFormatted": "Nov 7"
 }

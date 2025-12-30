@@ -1,17 +1,17 @@
 {
     "Player Name": "Jamari Smith",
+    "MIN": "36",
     "FGM-A": "8-17",
     "3PM-A": "1-2",
     "FTM-A": "15-18",
     "OREB": "3",
     "DREB": "9",
     "REB": "12",
+    "AST": "5",
+    "STL": "1",
+    "BLK": "0",
+    "TO": "4",
     "PF": "2",
     "TP": "32",
-    "AST": "5",
-    "TO": "4",
-    "BLK": "0",
-    "STL": "1",
-    "MIN": "36",
     "eventDateFormatted": "Nov 15"
 }

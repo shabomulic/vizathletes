@@ -1,17 +1,17 @@
 {
     "Player Name": "Tarrell Doby",
+    "MIN": "31",
     "FGM-A": "1-8",
     "3PM-A": "1-2",
     "FTM-A": "0-0",
     "OREB": "1",
     "DREB": "4",
     "REB": "5",
+    "AST": "4",
+    "STL": "2",
+    "BLK": "3",
+    "TO": "2",
     "PF": "2",
     "TP": "3",
-    "AST": "4",
-    "TO": "2",
-    "BLK": "3",
-    "STL": "2",
-    "MIN": "31",
     "eventDateFormatted": "Dec 12"
 }

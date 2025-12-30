@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Jan 10",
+    "boxScoreLink": "20260110_4th6.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Dodge City Community College",
+                "result": "",
+                "teamId": "35b72dff5hb6d300",
+                "winner": false,
+                "cleanName": "dodge city community col"
+            },
+            {
+                "name": "Butler Community College - KS",
+                "result": "",
+                "teamId": "5dtcdxb9lcxhv265",
+                "winner": false,
+                "cleanName": "butler community col ks"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "Power Plant | El Dorado, KS",
+        "date": 1768078800000,
+        "localTimeZone": "America/Chicago",
+        "tba": false,
+        "home": true,
+        "overall": true,
+        "conference": true,
+        "division": false,
+        "regional": false,
+        "national": true,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "4th6prjn0hw9oe2h",
+        "fastdate": 1768078800000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": true,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Dodge City Community College",
+            "result": "",
+            "teamId": "35b72dff5hb6d300",
+            "winner": false,
+            "cleanName": "dodge city community col"
+        },
+        "us": {
+            "name": "Butler Community College - KS",
+            "result": "",
+            "teamId": "5dtcdxb9lcxhv265",
+            "winner": false,
+            "cleanName": "butler community col ks"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "January 10 04:00 PM:"
+}

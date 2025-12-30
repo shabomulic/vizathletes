@@ -1,17 +1,17 @@
 {
     "Player Name": "Israel Weber",
+    "MIN": "29",
     "FGM-A": "2-5",
     "3PM-A": "1-1",
     "FTM-A": "0-0",
     "OREB": "1",
     "DREB": "5",
     "REB": "6",
+    "AST": "3",
+    "STL": "1",
+    "BLK": "1",
+    "TO": "2",
     "PF": "2",
     "TP": "5",
-    "AST": "3",
-    "TO": "2",
-    "BLK": "1",
-    "STL": "1",
-    "MIN": "29",
     "eventDateFormatted": "Nov 15"
 }

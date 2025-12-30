@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Feb 8",
+    "boxScoreLink": "20260208_9cbe.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Catawba Valley Community College",
+                "result": "",
+                "teamId": "b9a60ej2y9pfgfq3",
+                "winner": false,
+                "cleanName": "catawba valley community col"
+            },
+            {
+                "name": "Fayetteville Technical CC",
+                "result": "",
+                "teamId": "npphpjv2wzdyzxlw",
+                "winner": false,
+                "cleanName": "fayetteville technical cc"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "Reid Ross Classical School - Fayetteville, N.C.",
+        "date": 1770580800000,
+        "localTimeZone": "America/New_York",
+        "tba": false,
+        "home": true,
+        "overall": true,
+        "conference": true,
+        "division": false,
+        "regional": false,
+        "national": true,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "9cbe0zj8rscxank2",
+        "fastdate": 1770580800000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "ap2Result": "",
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Catawba Valley Community College",
+            "result": "",
+            "teamId": "b9a60ej2y9pfgfq3",
+            "winner": false,
+            "cleanName": "catawba valley community col"
+        },
+        "us": {
+            "name": "Fayetteville Technical CC",
+            "result": "",
+            "teamId": "npphpjv2wzdyzxlw",
+            "winner": false,
+            "cleanName": "fayetteville technical cc"
+        },
+        "apresult": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "February 8 03:00 PM:"
+}

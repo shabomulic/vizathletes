@@ -1,17 +1,17 @@
 {
     "Player Name": "Miyel Taylor",
+    "MIN": "1",
     "FGM-A": "2-4",
     "3PM-A": "1-2",
     "FTM-A": "6-10",
     "OREB": "0",
     "DREB": "6",
     "REB": "6",
+    "AST": "3",
+    "STL": "0",
+    "BLK": "0",
+    "TO": "2",
     "PF": "3",
     "TP": "11",
-    "AST": "3",
-    "TO": "2",
-    "BLK": "0",
-    "STL": "0",
-    "MIN": "1",
     "eventDateFormatted": "Nov 22"
 }

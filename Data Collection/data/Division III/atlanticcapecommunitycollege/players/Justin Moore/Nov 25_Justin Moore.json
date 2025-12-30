@@ -1,17 +1,17 @@
 {
     "Player Name": "Justin Moore",
+    "MIN": "21",
     "FGM-A": "1-5",
     "3PM-A": "0-0",
     "FTM-A": "0-0",
     "OREB": "2",
     "DREB": "1",
     "REB": "3",
+    "AST": "1",
+    "STL": "1",
+    "BLK": "0",
+    "TO": "3",
     "PF": "4",
     "TP": "2",
-    "AST": "1",
-    "TO": "3",
-    "BLK": "0",
-    "STL": "1",
-    "MIN": "21",
     "eventDateFormatted": "Nov 25"
 }

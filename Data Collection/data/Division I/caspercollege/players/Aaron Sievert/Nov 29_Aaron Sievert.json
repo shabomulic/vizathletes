@@ -1,17 +1,17 @@
 {
     "Player Name": "Aaron Sievert",
+    "MIN": "38",
     "FGM-A": "8-17",
     "3PM-A": "3-8",
     "FTM-A": "4-7",
     "OREB": "2",
     "DREB": "2",
     "REB": "4",
+    "AST": "4",
+    "STL": "1",
+    "BLK": "0",
+    "TO": "2",
     "PF": "4",
     "TP": "23",
-    "AST": "4",
-    "TO": "2",
-    "BLK": "0",
-    "STL": "1",
-    "MIN": "38",
     "eventDateFormatted": "Nov 29"
 }

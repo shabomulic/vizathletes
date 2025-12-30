@@ -1,17 +1,17 @@
 {
     "Player Name": "Cherano Calmez",
+    "MIN": "21",
     "FGM-A": "4-8",
     "3PM-A": "0-0",
     "FTM-A": "3-4",
     "OREB": "5",
     "DREB": "5",
     "REB": "10",
+    "AST": "6",
+    "STL": "2",
+    "BLK": "0",
+    "TO": "2",
     "PF": "1",
     "TP": "11",
-    "AST": "6",
-    "TO": "2",
-    "BLK": "0",
-    "STL": "2",
-    "MIN": "21",
     "eventDateFormatted": "Nov 8"
 }

@@ -1,17 +1,17 @@
 {
     "Player Name": "Cooper Weeks",
+    "MIN": "21",
     "FGM-A": "8-12",
     "3PM-A": "0-0",
     "FTM-A": "3-4",
     "OREB": "3",
     "DREB": "3",
     "REB": "6",
+    "AST": "1",
+    "STL": "0",
+    "BLK": "1",
+    "TO": "0",
     "PF": "1",
     "TP": "19",
-    "AST": "1",
-    "TO": "0",
-    "BLK": "1",
-    "STL": "0",
-    "MIN": "21",
     "eventDateFormatted": "Nov 13"
 }

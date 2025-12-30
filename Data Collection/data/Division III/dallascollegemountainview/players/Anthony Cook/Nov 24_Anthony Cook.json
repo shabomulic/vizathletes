@@ -1,17 +1,17 @@
 {
     "Player Name": "Anthony Cook",
+    "MIN": "1",
     "FGM-A": "7-15",
     "3PM-A": "4-7",
     "FTM-A": "0-0",
     "OREB": "2",
     "DREB": "4",
     "REB": "6",
+    "AST": "0",
+    "STL": "1",
+    "BLK": "0",
+    "TO": "3",
     "PF": "2",
     "TP": "18",
-    "AST": "0",
-    "TO": "3",
-    "BLK": "0",
-    "STL": "1",
-    "MIN": "1",
     "eventDateFormatted": "Nov 24"
 }

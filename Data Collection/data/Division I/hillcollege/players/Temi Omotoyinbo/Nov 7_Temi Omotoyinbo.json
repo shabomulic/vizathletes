@@ -1,17 +1,17 @@
 {
     "Player Name": "Temi Omotoyinbo",
+    "MIN": "1",
     "FGM-A": "3-5",
     "3PM-A": "1-2",
     "FTM-A": "1-1",
     "OREB": "3",
     "DREB": "6",
     "REB": "9",
+    "AST": "1",
+    "STL": "1",
+    "BLK": "1",
+    "TO": "0",
     "PF": "1",
     "TP": "8",
-    "AST": "1",
-    "TO": "0",
-    "BLK": "1",
-    "STL": "1",
-    "MIN": "1",
     "eventDateFormatted": "Nov 7"
 }

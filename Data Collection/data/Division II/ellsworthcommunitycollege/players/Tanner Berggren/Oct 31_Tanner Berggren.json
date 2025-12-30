@@ -1,17 +1,17 @@
 {
     "Player Name": "Tanner Berggren",
+    "MIN": "31",
     "FGM-A": "7-12",
     "3PM-A": "5-9",
     "FTM-A": "5-5",
     "OREB": "1",
     "DREB": "0",
     "REB": "1",
+    "AST": "3",
+    "STL": "3",
+    "BLK": "1",
+    "TO": "2",
     "PF": "4",
     "TP": "24",
-    "AST": "3",
-    "TO": "2",
-    "BLK": "1",
-    "STL": "3",
-    "MIN": "31",
     "eventDateFormatted": "Oct 31"
 }

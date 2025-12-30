@@ -1,17 +1,17 @@
 {
     "Player Name": "Julian Lownes",
+    "MIN": "1",
     "FGM-A": "6-13",
     "3PM-A": "2-5",
     "FTM-A": "5-7",
     "OREB": "1",
     "DREB": "2",
     "REB": "3",
+    "AST": "1",
+    "STL": "1",
+    "BLK": "1",
+    "TO": "2",
     "PF": "3",
     "TP": "19",
-    "AST": "1",
-    "TO": "2",
-    "BLK": "1",
-    "STL": "1",
-    "MIN": "1",
     "eventDateFormatted": "Dec 5"
 }

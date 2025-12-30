@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Jan 21",
+    "boxScoreLink": "20260121_huyy.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Guilford Technical Community College",
+                "result": "",
+                "teamId": "n9t32xka1tjp3zam",
+                "winner": false,
+                "cleanName": "guilford technical community col"
+            },
+            {
+                "name": "Cleveland Community College",
+                "result": "",
+                "teamId": "opm42u26cb2522u9",
+                "winner": false,
+                "cleanName": "cleveland community col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1769040000000,
+        "localTimeZone": "America/New_York",
+        "tba": false,
+        "home": false,
+        "overall": true,
+        "conference": true,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "huyy7w69l1jh6yxu",
+        "fastdate": 1769040000000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "137 South Post Rd ",
+        "city": "Shelby ",
+        "stateCountry": "",
+        "zipCode": "28152",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Cleveland Community College",
+            "result": "",
+            "teamId": "opm42u26cb2522u9",
+            "winner": false,
+            "cleanName": "cleveland community col"
+        },
+        "us": {
+            "name": "Guilford Technical Community College",
+            "result": "",
+            "teamId": "n9t32xka1tjp3zam",
+            "winner": false,
+            "cleanName": "guilford technical community col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "January 21 07:00 PM:"
+}

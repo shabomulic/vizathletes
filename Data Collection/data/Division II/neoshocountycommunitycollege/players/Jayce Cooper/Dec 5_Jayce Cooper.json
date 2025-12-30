@@ -1,17 +1,17 @@
 {
     "Player Name": "Jayce Cooper",
+    "MIN": "22",
     "FGM-A": "2-7",
     "3PM-A": "0-3",
     "FTM-A": "0-0",
     "OREB": "1",
     "DREB": "3",
     "REB": "4",
+    "AST": "2",
+    "STL": "2",
+    "BLK": "0",
+    "TO": "2",
     "PF": "1",
     "TP": "4",
-    "AST": "2",
-    "TO": "2",
-    "BLK": "0",
-    "STL": "2",
-    "MIN": "22",
     "eventDateFormatted": "Dec 5"
 }

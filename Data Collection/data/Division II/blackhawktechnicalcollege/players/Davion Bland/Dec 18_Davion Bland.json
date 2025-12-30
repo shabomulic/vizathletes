@@ -1,17 +1,17 @@
 {
     "Player Name": "Davion Bland",
+    "MIN": "28:27",
     "FGM-A": "3-11",
     "3PM-A": "0-0",
     "FTM-A": "1-2",
     "OREB": "2",
     "DREB": "0",
     "REB": "2",
+    "AST": "4",
+    "STL": "4",
+    "BLK": "0",
+    "TO": "4",
     "PF": "3",
     "TP": "7",
-    "AST": "4",
-    "TO": "4",
-    "BLK": "0",
-    "STL": "4",
-    "MIN": "28:27",
     "eventDateFormatted": "Dec 18"
 }

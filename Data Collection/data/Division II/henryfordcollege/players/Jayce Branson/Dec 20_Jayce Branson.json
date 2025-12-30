@@ -1,17 +1,17 @@
 {
     "Player Name": "Jayce Branson",
+    "MIN": "23",
     "FGM-A": "11-14",
     "3PM-A": "5-7",
     "FTM-A": "3-3",
     "OREB": "4",
     "DREB": "4",
     "REB": "8",
+    "AST": "2",
+    "STL": "3",
+    "BLK": "1",
+    "TO": "1",
     "PF": "0",
     "TP": "30",
-    "AST": "2",
-    "TO": "1",
-    "BLK": "1",
-    "STL": "3",
-    "MIN": "23",
     "eventDateFormatted": "Dec 20"
 }

@@ -1,17 +1,17 @@
 {
     "Player Name": "Cornelius Hines",
+    "MIN": "33",
     "FGM-A": "9-14",
     "3PM-A": "0-0",
     "FTM-A": "0-0",
     "OREB": "1",
     "DREB": "5",
     "REB": "6",
+    "AST": "2",
+    "STL": "2",
+    "BLK": "4",
+    "TO": "0",
     "PF": "3",
     "TP": "18",
-    "AST": "2",
-    "TO": "0",
-    "BLK": "4",
-    "STL": "2",
-    "MIN": "33",
     "eventDateFormatted": "Dec 3"
 }

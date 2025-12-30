@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Oct 10",
+    "boxScoreLink": "20251010_wjrn.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Missouri State University - West Plains",
+                "result": "",
+                "teamId": "z50mt91q9daxad0c",
+                "winner": false,
+                "cleanName": "missouri st univ w plains"
+            },
+            {
+                "name": "Midwest Jamboree - St. Louis",
+                "result": "",
+                "teamId": "bx63c5fvulflo4ld",
+                "winner": false,
+                "cleanName": "midwest jamboree st louis"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1760068800000,
+        "localTimeZone": "America/Regina",
+        "tba": true,
+        "home": false,
+        "overall": true,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "wjrn1xbbztwed938",
+        "fastdate": 1760068800000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "exhibition",
+            "description": "Exhibition",
+            "statsCount": false
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Midwest Jamboree - St. Louis",
+            "result": "",
+            "teamId": "bx63c5fvulflo4ld",
+            "winner": false,
+            "cleanName": "midwest jamboree st louis"
+        },
+        "us": {
+            "name": "Missouri State University - West Plains",
+            "result": "",
+            "teamId": "z50mt91q9daxad0c",
+            "winner": false,
+            "cleanName": "missouri st univ w plains"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "October 10 12:00 AM:"
+}

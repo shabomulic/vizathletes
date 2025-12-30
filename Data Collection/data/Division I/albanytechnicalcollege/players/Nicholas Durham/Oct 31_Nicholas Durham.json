@@ -1,17 +1,17 @@
 {
     "Player Name": "Nicholas Durham",
+    "MIN": "1",
     "FGM-A": "3-7",
     "3PM-A": "1-4",
     "FTM-A": "2-4",
     "OREB": "2",
     "DREB": "4",
     "REB": "6",
+    "AST": "1",
+    "STL": "1",
+    "BLK": "0",
+    "TO": "2",
     "PF": "1",
     "TP": "9",
-    "AST": "1",
-    "TO": "2",
-    "BLK": "0",
-    "STL": "1",
-    "MIN": "1",
     "eventDateFormatted": "Oct 31"
 }

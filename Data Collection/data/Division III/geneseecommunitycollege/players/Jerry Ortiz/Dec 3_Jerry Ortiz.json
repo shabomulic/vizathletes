@@ -1,17 +1,17 @@
 {
     "Player Name": "Jerry Ortiz",
+    "MIN": "22",
     "FGM-A": "3-5",
     "3PM-A": "2-4",
     "FTM-A": "4-4",
     "OREB": "0",
     "DREB": "1",
     "REB": "1",
+    "AST": "3",
+    "STL": "1",
+    "BLK": "0",
+    "TO": "2",
     "PF": "5",
     "TP": "12",
-    "AST": "3",
-    "TO": "2",
-    "BLK": "0",
-    "STL": "1",
-    "MIN": "22",
     "eventDateFormatted": "Dec 3"
 }

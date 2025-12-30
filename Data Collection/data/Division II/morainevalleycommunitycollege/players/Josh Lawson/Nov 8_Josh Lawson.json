@@ -1,17 +1,17 @@
 {
     "Player Name": "Josh Lawson",
+    "MIN": "25",
     "FGM-A": "4-16",
     "3PM-A": "0-1",
     "FTM-A": "6-7",
     "OREB": "2",
     "DREB": "5",
     "REB": "7",
+    "AST": "6",
+    "STL": "2",
+    "BLK": "0",
+    "TO": "2",
     "PF": "1",
     "TP": "14",
-    "AST": "6",
-    "TO": "2",
-    "BLK": "0",
-    "STL": "2",
-    "MIN": "25",
     "eventDateFormatted": "Nov 8"
 }

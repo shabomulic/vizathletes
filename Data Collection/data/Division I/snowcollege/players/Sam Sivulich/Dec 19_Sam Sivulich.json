@@ -1,17 +1,17 @@
 {
     "Player Name": "Sam Sivulich",
+    "MIN": "20",
     "FGM-A": "1-6",
     "3PM-A": "0-3",
     "FTM-A": "1-1",
     "OREB": "2",
     "DREB": "3",
     "REB": "5",
+    "AST": "1",
+    "STL": "2",
+    "BLK": "0",
+    "TO": "2",
     "PF": "1",
     "TP": "3",
-    "AST": "1",
-    "TO": "2",
-    "BLK": "0",
-    "STL": "2",
-    "MIN": "20",
     "eventDateFormatted": "Dec 19"
 }

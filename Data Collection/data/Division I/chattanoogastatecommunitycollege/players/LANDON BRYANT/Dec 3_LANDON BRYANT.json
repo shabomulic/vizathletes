@@ -1,17 +1,17 @@
 {
     "Player Name": "LANDON BRYANT",
+    "MIN": "1",
     "FGM-A": "3-6",
     "3PM-A": "3-6",
     "FTM-A": "0-0",
     "OREB": "1",
     "DREB": "3",
     "REB": "4",
+    "AST": "1",
+    "STL": "1",
+    "BLK": "2",
+    "TO": "6",
     "PF": "0",
     "TP": "9",
-    "AST": "1",
-    "TO": "6",
-    "BLK": "2",
-    "STL": "1",
-    "MIN": "1",
     "eventDateFormatted": "Dec 3"
 }

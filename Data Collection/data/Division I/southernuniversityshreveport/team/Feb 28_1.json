@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Feb 28",
+    "boxScoreLink": "20260228_idva.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Community Christian College Round Rock",
+                "result": "",
+                "teamId": "05r8ck5cldsw9sx8",
+                "winner": false,
+                "cleanName": "community christian col round rock"
+            },
+            {
+                "name": "Southern University-Shreveport",
+                "result": "",
+                "teamId": "rrgs406r7oj43m60",
+                "winner": false,
+                "cleanName": "s univ shreveport"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1772305200000,
+        "localTimeZone": "America/Chicago",
+        "tba": false,
+        "home": true,
+        "overall": true,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "idva54avlaibt1oq",
+        "fastdate": 1772305200000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "Green Oaks High School",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Community Christian College Round Rock",
+            "result": "",
+            "teamId": "05r8ck5cldsw9sx8",
+            "winner": false,
+            "cleanName": "community christian col round rock"
+        },
+        "us": {
+            "name": "Southern University-Shreveport",
+            "result": "",
+            "teamId": "rrgs406r7oj43m60",
+            "winner": false,
+            "cleanName": "s univ shreveport"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "February 28 02:00 PM:"
+}

@@ -1,17 +1,17 @@
 {
     "Player Name": "Thomas Conzelmann",
+    "MIN": "34",
     "FGM-A": "5-11",
     "3PM-A": "0-1",
     "FTM-A": "0-1",
     "OREB": "0",
     "DREB": "10",
     "REB": "10",
+    "AST": "1",
+    "STL": "2",
+    "BLK": "0",
+    "TO": "4",
     "PF": "2",
     "TP": "10",
-    "AST": "1",
-    "TO": "4",
-    "BLK": "0",
-    "STL": "2",
-    "MIN": "34",
     "eventDateFormatted": "Dec 6"
 }

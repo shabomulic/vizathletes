@@ -1,17 +1,17 @@
 {
     "Player Name": "Bryce Wilkins",
+    "MIN": "1",
     "FGM-A": "6-12",
     "3PM-A": "0-0",
     "FTM-A": "4-5",
     "OREB": "6",
     "DREB": "8",
     "REB": "14",
+    "AST": "1",
+    "STL": "0",
+    "BLK": "1",
+    "TO": "1",
     "PF": "0",
     "TP": "16",
-    "AST": "1",
-    "TO": "1",
-    "BLK": "1",
-    "STL": "0",
-    "MIN": "1",
     "eventDateFormatted": "Dec 2"
 }

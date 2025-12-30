@@ -1,17 +1,17 @@
 {
     "Player Name": "Jamire Braxton",
+    "MIN": "8",
     "FGM-A": "2-3",
     "3PM-A": "1-1",
     "FTM-A": "0-0",
     "OREB": "0",
     "DREB": "3",
     "REB": "3",
+    "AST": "0",
+    "STL": "0",
+    "BLK": "0",
+    "TO": "2",
     "PF": "1",
     "TP": "5",
-    "AST": "0",
-    "TO": "2",
-    "BLK": "0",
-    "STL": "0",
-    "MIN": "8",
     "eventDateFormatted": "Nov 14"
 }

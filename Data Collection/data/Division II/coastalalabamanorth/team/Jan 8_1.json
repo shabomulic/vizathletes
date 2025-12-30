@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Jan 8",
+    "boxScoreLink": "20260108_l6lf.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Chattahoochee Valley Community College",
+                "result": "",
+                "teamId": "rf52qvpv2nbr0xse",
+                "winner": false,
+                "cleanName": "chattahoochee valley community col"
+            },
+            {
+                "name": "Coastal Alabama - North",
+                "result": "",
+                "teamId": "utvz0zdiug0wgnet",
+                "winner": false,
+                "cleanName": "coastal alabama n"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1767920400000,
+        "localTimeZone": "America/New_York",
+        "tba": false,
+        "home": true,
+        "overall": true,
+        "conference": true,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "l6lf1v7uduzxnbmi",
+        "fastdate": 1767920400000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "2800 South Alabama Ave",
+        "city": "Monroeville",
+        "stateCountry": "AL",
+        "zipCode": "36460",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Chattahoochee Valley Community College",
+            "result": "",
+            "teamId": "rf52qvpv2nbr0xse",
+            "winner": false,
+            "cleanName": "chattahoochee valley community col"
+        },
+        "us": {
+            "name": "Coastal Alabama - North",
+            "result": "",
+            "teamId": "utvz0zdiug0wgnet",
+            "winner": false,
+            "cleanName": "coastal alabama n"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "January 8 08:00 PM:"
+}

@@ -1,17 +1,17 @@
 {
-    "Player Name": "Randy McClendon Jr",
+    "Player Name": "Randy McClendon Jr.",
+    "MIN": "35:19",
     "FGM-A": "6-12",
     "3PM-A": "4-7",
     "FTM-A": "6-6",
     "OREB": "1",
     "DREB": "3",
     "REB": "4",
+    "AST": "4",
+    "STL": "1",
+    "BLK": "0",
+    "TO": "0",
     "PF": "2",
     "TP": "22",
-    "AST": "4",
-    "TO": "0",
-    "BLK": "0",
-    "STL": "1",
-    "MIN": "35:19",
     "eventDateFormatted": "Nov 18"
 }

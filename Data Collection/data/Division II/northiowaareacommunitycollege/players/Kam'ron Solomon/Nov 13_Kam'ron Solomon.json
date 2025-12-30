@@ -1,17 +1,17 @@
 {
     "Player Name": "Kam'ron Solomon",
+    "MIN": "1",
     "FGM-A": "1-6",
     "3PM-A": "1-4",
     "FTM-A": "0-0",
     "OREB": "2",
     "DREB": "3",
     "REB": "5",
+    "AST": "6",
+    "STL": "1",
+    "BLK": "0",
+    "TO": "2",
     "PF": "2",
     "TP": "3",
-    "AST": "6",
-    "TO": "2",
-    "BLK": "0",
-    "STL": "1",
-    "MIN": "1",
     "eventDateFormatted": "Nov 13"
 }

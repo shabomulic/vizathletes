@@ -1,17 +1,17 @@
 {
     "Player Name": "Jordan Johnson",
+    "MIN": "30",
     "FGM-A": "8-16",
     "3PM-A": "1-2",
     "FTM-A": "3-5",
     "OREB": "4",
     "DREB": "2",
     "REB": "6",
+    "AST": "4",
+    "STL": "4",
+    "BLK": "0",
+    "TO": "2",
     "PF": "0",
     "TP": "20",
-    "AST": "4",
-    "TO": "2",
-    "BLK": "0",
-    "STL": "4",
-    "MIN": "30",
     "eventDateFormatted": "Nov 6"
 }

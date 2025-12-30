@@ -185,10 +185,10 @@
     "uniform": "11",
     "year": "So",
     "playerStatus": {
-        "enumCode": 1,
-        "abbr": "A",
-        "statusName": "Active",
-        "active": true,
+        "enumCode": 0,
+        "abbr": "I",
+        "statusName": "Inactive",
+        "active": false,
         "interceptFieldCallback": null,
         "nullableType": {
             "comparator": {},
@@ -198,15 +198,15 @@
             "defaultValue": 0,
             "mutable": false,
             "componentType": false,
-            "collectionType": false,
-            "anyType": false,
             "entityType": false,
             "associationType": false,
-            "xmlelement": false
+            "xmlelement": false,
+            "collectionType": false,
+            "anyType": false
         },
         "mutable": false
     },
-    "active": true,
+    "active": false,
     "fullName": "Joshua Langefels",
     "minCalcStats": {
         "fgppm": false,

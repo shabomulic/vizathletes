@@ -1,17 +1,17 @@
 {
     "Player Name": "Ryan Huston",
+    "MIN": "31",
     "FGM-A": "8-12",
     "3PM-A": "1-3",
     "FTM-A": "1-5",
     "OREB": "3",
     "DREB": "4",
     "REB": "7",
+    "AST": "5",
+    "STL": "2",
+    "BLK": "0",
+    "TO": "2",
     "PF": "2",
     "TP": "18",
-    "AST": "5",
-    "TO": "2",
-    "BLK": "0",
-    "STL": "2",
-    "MIN": "31",
     "eventDateFormatted": "Dec 10"
 }

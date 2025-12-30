@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Jan 17",
+    "boxScoreLink": "20260117_bk3k.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Otero College",
+                "result": "",
+                "teamId": "bxudj615ud67dji1",
+                "winner": false,
+                "cleanName": "otero col"
+            },
+            {
+                "name": "North Platte Community College",
+                "result": "",
+                "teamId": "k5ubq4182upqgb24",
+                "winner": false,
+                "cleanName": "n platte community col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "North Platte, Neb. ",
+        "date": 1768680000000,
+        "localTimeZone": "America/Chicago",
+        "tba": false,
+        "home": true,
+        "overall": true,
+        "conference": true,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "bk3kcsf9o55vu2yy",
+        "fastdate": 1768680000000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "North Platte",
+        "stateCountry": "NE",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Otero College",
+            "result": "",
+            "teamId": "bxudj615ud67dji1",
+            "winner": false,
+            "cleanName": "otero col"
+        },
+        "us": {
+            "name": "North Platte Community College",
+            "result": "",
+            "teamId": "k5ubq4182upqgb24",
+            "winner": false,
+            "cleanName": "n platte community col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "January 17 03:00 PM:"
+}

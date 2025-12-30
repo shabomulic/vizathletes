@@ -1,17 +1,17 @@
 {
     "Player Name": "Miles George",
+    "MIN": "35",
     "FGM-A": "5-8",
     "3PM-A": "0-1",
     "FTM-A": "6-7",
     "OREB": "0",
     "DREB": "4",
     "REB": "4",
+    "AST": "2",
+    "STL": "1",
+    "BLK": "0",
+    "TO": "1",
     "PF": "1",
     "TP": "16",
-    "AST": "2",
-    "TO": "1",
-    "BLK": "0",
-    "STL": "1",
-    "MIN": "35",
     "eventDateFormatted": "Nov 21"
 }

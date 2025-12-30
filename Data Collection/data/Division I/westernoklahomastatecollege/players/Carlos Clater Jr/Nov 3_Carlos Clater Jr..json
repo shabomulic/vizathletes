@@ -1,17 +1,17 @@
 {
-    "Player Name": "Carlos Clater Jr",
+    "Player Name": "Carlos Clater Jr.",
+    "MIN": "1",
     "FGM-A": "6-11",
     "3PM-A": "5-9",
     "FTM-A": "0-0",
     "OREB": "0",
     "DREB": "0",
     "REB": "0",
+    "AST": "1",
+    "STL": "4",
+    "BLK": "0",
+    "TO": "2",
     "PF": "0",
     "TP": "17",
-    "AST": "1",
-    "TO": "2",
-    "BLK": "0",
-    "STL": "4",
-    "MIN": "1",
     "eventDateFormatted": "Nov 3"
 }

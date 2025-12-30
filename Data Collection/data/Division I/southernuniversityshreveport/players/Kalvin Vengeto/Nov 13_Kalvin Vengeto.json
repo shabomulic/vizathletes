@@ -1,17 +1,17 @@
 {
     "Player Name": "Kalvin Vengeto",
+    "MIN": "1",
     "FGM-A": "3-4",
     "3PM-A": "0-0",
     "FTM-A": "2-4",
     "OREB": "3",
     "DREB": "8",
     "REB": "11",
+    "AST": "0",
+    "STL": "2",
+    "BLK": "1",
+    "TO": "3",
     "PF": "0",
     "TP": "8",
-    "AST": "0",
-    "TO": "3",
-    "BLK": "1",
-    "STL": "2",
-    "MIN": "1",
     "eventDateFormatted": "Nov 13"
 }

@@ -1,17 +1,17 @@
 {
     "Player Name": "Elijah Mendoza",
+    "MIN": "21",
     "FGM-A": "6-8",
     "3PM-A": "0-0",
     "FTM-A": "2-3",
     "OREB": "8",
     "DREB": "7",
     "REB": "15",
+    "AST": "1",
+    "STL": "1",
+    "BLK": "4",
+    "TO": "3",
     "PF": "2",
     "TP": "14",
-    "AST": "1",
-    "TO": "3",
-    "BLK": "4",
-    "STL": "1",
-    "MIN": "21",
     "eventDateFormatted": "Dec 14"
 }

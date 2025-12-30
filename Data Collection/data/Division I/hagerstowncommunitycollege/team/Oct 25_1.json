@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Oct 25",
+    "boxScoreLink": "20251025_1x5j.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Anne Arundel Community College",
+                "result": "",
+                "teamId": "2dg28ekf34ue2a8j",
+                "winner": false,
+                "cleanName": "anne arundel community col"
+            },
+            {
+                "name": "Hagerstown Community College",
+                "result": "",
+                "teamId": "tv1c4ubjp90qle9j",
+                "winner": false,
+                "cleanName": "hagerstown community col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "CCBC Jamboree",
+        "date": 1761422400000,
+        "localTimeZone": "America/New_York",
+        "tba": false,
+        "home": true,
+        "overall": false,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "CCBC Catonsville",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "1x5jtrtxktlbop3x",
+        "fastdate": 1761422400000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "scrimmage",
+            "description": "Scrimmage",
+            "statsCount": false
+        },
+        "ap2Result": "",
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Anne Arundel Community College",
+            "result": "",
+            "teamId": "2dg28ekf34ue2a8j",
+            "winner": false,
+            "cleanName": "anne arundel community col"
+        },
+        "us": {
+            "name": "Hagerstown Community College",
+            "result": "",
+            "teamId": "tv1c4ubjp90qle9j",
+            "winner": false,
+            "cleanName": "hagerstown community col"
+        },
+        "apresult": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "October 25 04:00 PM:"
+}

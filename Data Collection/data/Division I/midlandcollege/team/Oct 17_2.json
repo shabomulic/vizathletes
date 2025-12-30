@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Oct 17",
+    "boxScoreLink": "20251017_dp1t.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Midland College",
+                "result": "",
+                "teamId": "9ur35hj29a08bkvz",
+                "winner": false,
+                "cleanName": "midland col"
+            },
+            {
+                "name": "Southern California Academy",
+                "result": "",
+                "teamId": "l68qxpjbct2d3iky",
+                "winner": false,
+                "cleanName": "s cal academy"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "Rocky Mountain Jamboree",
+        "date": 1760707800000,
+        "localTimeZone": "America/Chicago",
+        "tba": false,
+        "home": false,
+        "overall": true,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "dp1tcqoida2sohzt",
+        "fastdate": 1760707800000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "scrimmage",
+            "description": "Scrimmage",
+            "statsCount": false
+        },
+        "us": {
+            "name": "Midland College",
+            "result": "",
+            "teamId": "9ur35hj29a08bkvz",
+            "winner": false,
+            "cleanName": "midland col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Southern California Academy",
+            "result": "",
+            "teamId": "l68qxpjbct2d3iky",
+            "winner": false,
+            "cleanName": "s cal academy"
+        },
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "October 17 09:30 AM:"
+}

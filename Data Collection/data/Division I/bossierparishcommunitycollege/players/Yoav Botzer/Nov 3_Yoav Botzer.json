@@ -1,17 +1,17 @@
 {
     "Player Name": "Yoav Botzer",
+    "MIN": "17",
     "FGM-A": "2-6",
     "3PM-A": "1-4",
     "FTM-A": "0-0",
     "OREB": "0",
     "DREB": "4",
     "REB": "4",
+    "AST": "3",
+    "STL": "2",
+    "BLK": "0",
+    "TO": "2",
     "PF": "2",
     "TP": "5",
-    "AST": "3",
-    "TO": "2",
-    "BLK": "0",
-    "STL": "2",
-    "MIN": "17",
     "eventDateFormatted": "Nov 3"
 }

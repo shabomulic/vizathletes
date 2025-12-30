@@ -1,17 +1,17 @@
 {
     "Player Name": "Freddy Hassan",
+    "MIN": "1",
     "FGM-A": "4-6",
     "3PM-A": "0-1",
     "FTM-A": "10-10",
     "OREB": "7",
     "DREB": "3",
     "REB": "10",
+    "AST": "3",
+    "STL": "1",
+    "BLK": "0",
+    "TO": "2",
     "PF": "2",
     "TP": "18",
-    "AST": "3",
-    "TO": "2",
-    "BLK": "0",
-    "STL": "1",
-    "MIN": "1",
     "eventDateFormatted": "Dec 9"
 }

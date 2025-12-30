@@ -1,17 +1,17 @@
 {
     "Player Name": "Azenio Cossa",
+    "MIN": "33",
     "FGM-A": "10-16",
     "3PM-A": "1-3",
     "FTM-A": "4-6",
     "OREB": "1",
     "DREB": "5",
     "REB": "6",
+    "AST": "3",
+    "STL": "2",
+    "BLK": "3",
+    "TO": "3",
     "PF": "1",
     "TP": "25",
-    "AST": "3",
-    "TO": "3",
-    "BLK": "3",
-    "STL": "2",
-    "MIN": "33",
     "eventDateFormatted": "Nov 6"
 }

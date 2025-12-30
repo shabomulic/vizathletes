@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Oct 18",
+    "boxScoreLink": "20251018_h3ck.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Walters State Community College",
+                "result": "",
+                "teamId": "9n6h3kicega99oc0",
+                "winner": false,
+                "cleanName": "walters st community col"
+            },
+            {
+                "name": "TBA",
+                "result": "",
+                "teamId": "nc7x4nembqped3kz",
+                "winner": false,
+                "cleanName": "tba"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "Scrimmage",
+        "date": 1760806800000,
+        "localTimeZone": "America/New_York",
+        "tba": false,
+        "home": false,
+        "overall": false,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "h3cklbuisgfc31pi",
+        "fastdate": 1760806800000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "scrimmage",
+            "description": "Scrimmage",
+            "statsCount": false
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "TBA",
+            "result": "",
+            "teamId": "nc7x4nembqped3kz",
+            "winner": false,
+            "cleanName": "tba"
+        },
+        "us": {
+            "name": "Walters State Community College",
+            "result": "",
+            "teamId": "9n6h3kicega99oc0",
+            "winner": false,
+            "cleanName": "walters st community col"
+        },
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "October 18 01:00 PM:"
+}

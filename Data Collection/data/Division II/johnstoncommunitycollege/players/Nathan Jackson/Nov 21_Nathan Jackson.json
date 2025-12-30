@@ -1,17 +1,17 @@
 {
     "Player Name": "Nathan Jackson",
+    "MIN": "1",
     "FGM-A": "6-10",
     "3PM-A": "0-1",
     "FTM-A": "6-7",
     "OREB": "5",
     "DREB": "10",
     "REB": "15",
+    "AST": "4",
+    "STL": "3",
+    "BLK": "0",
+    "TO": "3",
     "PF": "4",
     "TP": "18",
-    "AST": "4",
-    "TO": "3",
-    "BLK": "0",
-    "STL": "3",
-    "MIN": "1",
     "eventDateFormatted": "Nov 21"
 }

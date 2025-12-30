@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Oct 19",
+    "boxScoreLink": "20251019_9fsn.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Cleveland Community College",
+                "result": "",
+                "teamId": "opm42u26cb2522u9",
+                "winner": false,
+                "cleanName": "cleveland community col"
+            },
+            {
+                "name": "Sandhills Community College",
+                "result": "",
+                "teamId": "mdp6nv62a0zpsbxn",
+                "winner": false,
+                "cleanName": "sandhills community col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1760904000000,
+        "localTimeZone": "America/New_York",
+        "tba": false,
+        "home": true,
+        "overall": false,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "9fsnx8xmio7mtkjk",
+        "fastdate": 1760904000000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "scrimmage",
+            "description": "Scrimmage",
+            "statsCount": false
+        },
+        "ap2Result": "",
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Cleveland Community College",
+            "result": "",
+            "teamId": "opm42u26cb2522u9",
+            "winner": false,
+            "cleanName": "cleveland community col"
+        },
+        "us": {
+            "name": "Sandhills Community College",
+            "result": "",
+            "teamId": "mdp6nv62a0zpsbxn",
+            "winner": false,
+            "cleanName": "sandhills community col"
+        },
+        "apresult": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "October 19 04:00 PM:"
+}

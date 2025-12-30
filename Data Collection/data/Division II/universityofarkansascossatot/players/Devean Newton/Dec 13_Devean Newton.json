@@ -1,17 +1,17 @@
 {
     "Player Name": "Devean Newton",
+    "MIN": "23",
     "FGM-A": "3-9",
     "3PM-A": "2-5",
     "FTM-A": "2-2",
     "OREB": "0",
     "DREB": "0",
     "REB": "0",
+    "AST": "3",
+    "STL": "0",
+    "BLK": "0",
+    "TO": "6",
     "PF": "1",
     "TP": "10",
-    "AST": "3",
-    "TO": "6",
-    "BLK": "0",
-    "STL": "0",
-    "MIN": "23",
     "eventDateFormatted": "Dec 13"
 }

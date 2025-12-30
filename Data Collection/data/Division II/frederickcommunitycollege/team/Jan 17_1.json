@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Jan 17",
+    "boxScoreLink": "20260117_pd4a.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Frederick Community College",
+                "result": "",
+                "teamId": "gxnr9fkgf8kbnu0y",
+                "winner": false,
+                "cleanName": "frederick community col"
+            },
+            {
+                "name": "Hagerstown Community College",
+                "result": "",
+                "teamId": "tv1c4ubjp90qle9j",
+                "winner": false,
+                "cleanName": "hagerstown community col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1768683600000,
+        "localTimeZone": "America/New_York",
+        "tba": false,
+        "home": false,
+        "overall": true,
+        "conference": true,
+        "division": false,
+        "regional": true,
+        "national": true,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "pd4ahk5qos7r90jn",
+        "fastdate": 1768683600000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Hagerstown Community College",
+            "result": "",
+            "teamId": "tv1c4ubjp90qle9j",
+            "winner": false,
+            "cleanName": "hagerstown community col"
+        },
+        "us": {
+            "name": "Frederick Community College",
+            "result": "",
+            "teamId": "gxnr9fkgf8kbnu0y",
+            "winner": false,
+            "cleanName": "frederick community col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "January 17 04:00 PM:"
+}

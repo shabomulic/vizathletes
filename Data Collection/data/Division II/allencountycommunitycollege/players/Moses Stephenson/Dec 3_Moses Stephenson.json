@@ -1,17 +1,17 @@
 {
     "Player Name": "Moses Stephenson",
+    "MIN": "32",
     "FGM-A": "2-12",
     "3PM-A": "0-4",
     "FTM-A": "1-2",
     "OREB": "2",
     "DREB": "2",
     "REB": "4",
+    "AST": "0",
+    "STL": "0",
+    "BLK": "1",
+    "TO": "2",
     "PF": "3",
     "TP": "5",
-    "AST": "0",
-    "TO": "2",
-    "BLK": "1",
-    "STL": "0",
-    "MIN": "32",
     "eventDateFormatted": "Dec 3"
 }

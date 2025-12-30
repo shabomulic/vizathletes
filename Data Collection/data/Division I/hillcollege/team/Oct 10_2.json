@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Oct 10",
+    "boxScoreLink": "20251010_xtnn.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Redlands Community College",
+                "result": "",
+                "teamId": "49pazd0dt56oo0sy",
+                "winner": false,
+                "cleanName": "redlands community col"
+            },
+            {
+                "name": "Hill College",
+                "result": "",
+                "teamId": "kauqlf7gonacoa37",
+                "winner": false,
+                "cleanName": "hill col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "Ft. Worth",
+        "date": 1760119200000,
+        "localTimeZone": "America/Chicago",
+        "tba": false,
+        "home": true,
+        "overall": false,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": true,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "Mullins Scrimmage",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "xtnn167qim1q08uj",
+        "fastdate": 1760119200000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "Ft. Worth",
+        "stateCountry": "TX",
+        "zipCode": "",
+        "venue": "Mullins Scrimmage",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "scrimmage",
+            "description": "Scrimmage",
+            "statsCount": false
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "numericResults": [],
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Redlands Community College",
+            "result": "",
+            "teamId": "49pazd0dt56oo0sy",
+            "winner": false,
+            "cleanName": "redlands community col"
+        },
+        "us": {
+            "name": "Hill College",
+            "result": "",
+            "teamId": "kauqlf7gonacoa37",
+            "winner": false,
+            "cleanName": "hill col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "numericResults": [],
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "October 10 02:00 PM:"
+}

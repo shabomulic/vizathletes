@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Oct 10",
+    "boxScoreLink": "20251010_syf5.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Grayson College",
+                "result": "",
+                "teamId": "c9zgseq1yepxjcby",
+                "winner": false,
+                "cleanName": "grayson col"
+            },
+            {
+                "name": "Redlands Community College",
+                "result": "",
+                "teamId": "49pazd0dt56oo0sy",
+                "winner": false,
+                "cleanName": "redlands community col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "Mullens Mitchell Jamboree",
+        "date": 1760115600000,
+        "localTimeZone": "America/Chicago",
+        "tba": false,
+        "home": true,
+        "overall": false,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": true,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "Game On Sports Complex | Fort Worth, TX",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "syf5yt01tanytez6",
+        "fastdate": 1760115600000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "Mullens Mitchell Jamboree",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "scrimmage",
+            "description": "Scrimmage",
+            "statsCount": false
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "numericResults": [],
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Grayson College",
+            "result": "",
+            "teamId": "c9zgseq1yepxjcby",
+            "winner": false,
+            "cleanName": "grayson col"
+        },
+        "us": {
+            "name": "Redlands Community College",
+            "result": "",
+            "teamId": "49pazd0dt56oo0sy",
+            "winner": false,
+            "cleanName": "redlands community col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "numericResults": [],
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "October 10 01:00 PM:"
+}

@@ -1,17 +1,17 @@
 {
     "Player Name": "Jadallah Suleiman",
+    "MIN": "35",
     "FGM-A": "8-14",
     "3PM-A": "0-2",
     "FTM-A": "5-5",
     "OREB": "1",
     "DREB": "5",
     "REB": "6",
+    "AST": "3",
+    "STL": "1",
+    "BLK": "0",
+    "TO": "2",
     "PF": "1",
     "TP": "21",
-    "AST": "3",
-    "TO": "2",
-    "BLK": "0",
-    "STL": "1",
-    "MIN": "35",
     "eventDateFormatted": "Dec 6"
 }

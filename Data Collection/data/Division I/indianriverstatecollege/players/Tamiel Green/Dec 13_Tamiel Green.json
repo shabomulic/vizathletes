@@ -1,17 +1,17 @@
 {
     "Player Name": "Tamiel Green",
+    "MIN": "22",
     "FGM-A": "5-11",
     "3PM-A": "0-0",
     "FTM-A": "0-0",
     "OREB": "6",
     "DREB": "8",
     "REB": "14",
+    "AST": "0",
+    "STL": "1",
+    "BLK": "1",
+    "TO": "2",
     "PF": "4",
     "TP": "10",
-    "AST": "0",
-    "TO": "2",
-    "BLK": "1",
-    "STL": "1",
-    "MIN": "22",
     "eventDateFormatted": "Dec 13"
 }

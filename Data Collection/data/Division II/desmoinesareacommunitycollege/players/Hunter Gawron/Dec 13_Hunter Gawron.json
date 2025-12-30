@@ -1,17 +1,17 @@
 {
     "Player Name": "Hunter Gawron",
+    "MIN": "1",
     "FGM-A": "5-11",
     "3PM-A": "5-9",
     "FTM-A": "5-6",
     "OREB": "7",
     "DREB": "5",
     "REB": "12",
+    "AST": "3",
+    "STL": "2",
+    "BLK": "0",
+    "TO": "2",
     "PF": "0",
     "TP": "20",
-    "AST": "3",
-    "TO": "2",
-    "BLK": "0",
-    "STL": "2",
-    "MIN": "1",
     "eventDateFormatted": "Dec 13"
 }

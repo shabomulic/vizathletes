@@ -1,17 +1,17 @@
 {
     "Player Name": "Noah Daniels",
+    "MIN": "24",
     "FGM-A": "5-10",
     "3PM-A": "3-8",
     "FTM-A": "3-3",
     "OREB": "1",
     "DREB": "3",
     "REB": "4",
+    "AST": "2",
+    "STL": "1",
+    "BLK": "0",
+    "TO": "4",
     "PF": "2",
     "TP": "16",
-    "AST": "2",
-    "TO": "4",
-    "BLK": "0",
-    "STL": "1",
-    "MIN": "24",
     "eventDateFormatted": "Nov 10"
 }

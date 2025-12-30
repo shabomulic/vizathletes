@@ -1,17 +1,17 @@
 {
     "Player Name": "Tyreek Dean",
+    "MIN": "39",
     "FGM-A": "8-17",
     "3PM-A": "0-0",
     "FTM-A": "3-9",
     "OREB": "4",
     "DREB": "9",
     "REB": "13",
+    "AST": "3",
+    "STL": "1",
+    "BLK": "1",
+    "TO": "4",
     "PF": "2",
     "TP": "19",
-    "AST": "3",
-    "TO": "4",
-    "BLK": "1",
-    "STL": "1",
-    "MIN": "39",
     "eventDateFormatted": "Dec 10"
 }

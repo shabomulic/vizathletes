@@ -1,17 +1,17 @@
 {
     "Player Name": "Cayden Reed",
+    "MIN": "19",
     "FGM-A": "4-6",
     "3PM-A": "0-0",
     "FTM-A": "2-2",
     "OREB": "1",
     "DREB": "1",
     "REB": "2",
+    "AST": "5",
+    "STL": "1",
+    "BLK": "1",
+    "TO": "3",
     "PF": "3",
     "TP": "10",
-    "AST": "5",
-    "TO": "3",
-    "BLK": "1",
-    "STL": "1",
-    "MIN": "19",
     "eventDateFormatted": "Dec 4"
 }

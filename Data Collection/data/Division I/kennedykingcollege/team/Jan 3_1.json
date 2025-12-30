@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Jan 3",
+    "boxScoreLink": "20260103_2rld.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "McHenry County College",
+                "result": "",
+                "teamId": "kvl9x9s6xpo91ehg",
+                "winner": false,
+                "cleanName": "mchenry county col"
+            },
+            {
+                "name": "Kennedy-King College",
+                "result": "",
+                "teamId": "d55c8i0brijjm64j",
+                "winner": false,
+                "cleanName": "kennedy king col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1767470400000,
+        "localTimeZone": "America/Chicago",
+        "tba": false,
+        "home": true,
+        "overall": true,
+        "conference": false,
+        "division": false,
+        "regional": true,
+        "national": true,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "2rldoo1moi5rlnoc",
+        "fastdate": 1767470400000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "McHenry County College",
+            "result": "",
+            "teamId": "kvl9x9s6xpo91ehg",
+            "winner": false,
+            "cleanName": "mchenry county col"
+        },
+        "us": {
+            "name": "Kennedy-King College",
+            "result": "",
+            "teamId": "d55c8i0brijjm64j",
+            "winner": false,
+            "cleanName": "kennedy king col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "January 3 03:00 PM:"
+}

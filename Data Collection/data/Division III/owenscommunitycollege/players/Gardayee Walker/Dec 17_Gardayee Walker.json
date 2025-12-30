@@ -1,17 +1,17 @@
 {
     "Player Name": "Gardayee Walker",
+    "MIN": "40",
     "FGM-A": "7-14",
     "3PM-A": "0-2",
     "FTM-A": "4-5",
     "OREB": "5",
     "DREB": "6",
     "REB": "11",
+    "AST": "7",
+    "STL": "3",
+    "BLK": "4",
+    "TO": "6",
     "PF": "3",
     "TP": "18",
-    "AST": "7",
-    "TO": "6",
-    "BLK": "4",
-    "STL": "3",
-    "MIN": "40",
     "eventDateFormatted": "Dec 17"
 }

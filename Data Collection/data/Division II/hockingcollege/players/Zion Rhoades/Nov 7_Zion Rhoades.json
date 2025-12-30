@@ -1,17 +1,17 @@
 {
     "Player Name": "Zion Rhoades",
+    "MIN": "37",
     "FGM-A": "7-13",
     "3PM-A": "0-1",
     "FTM-A": "3-4",
     "OREB": "4",
     "DREB": "8",
     "REB": "12",
+    "AST": "1",
+    "STL": "1",
+    "BLK": "1",
+    "TO": "2",
     "PF": "0",
     "TP": "17",
-    "AST": "1",
-    "TO": "2",
-    "BLK": "1",
-    "STL": "1",
-    "MIN": "37",
     "eventDateFormatted": "Nov 7"
 }

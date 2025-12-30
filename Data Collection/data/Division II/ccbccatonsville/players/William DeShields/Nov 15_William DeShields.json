@@ -1,17 +1,17 @@
 {
     "Player Name": "William DeShields",
+    "MIN": "38",
     "FGM-A": "7-12",
     "3PM-A": "3-4",
     "FTM-A": "8-10",
     "OREB": "0",
     "DREB": "2",
     "REB": "2",
+    "AST": "3",
+    "STL": "2",
+    "BLK": "0",
+    "TO": "8",
     "PF": "3",
     "TP": "25",
-    "AST": "3",
-    "TO": "8",
-    "BLK": "0",
-    "STL": "2",
-    "MIN": "38",
     "eventDateFormatted": "Nov 15"
 }

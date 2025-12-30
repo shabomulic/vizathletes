@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Oct 5",
+    "boxScoreLink": "20251005_r1ds.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Riverland Community College",
+                "result": "",
+                "teamId": "73qit45qksijxjez",
+                "winner": false,
+                "cleanName": "riverland community col"
+            },
+            {
+                "name": "McHenry County College",
+                "result": "",
+                "teamId": "kvl9x9s6xpo91ehg",
+                "winner": false,
+                "cleanName": "mchenry county col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "ICCAC Juco Jamboree",
+        "date": 1759680000000,
+        "localTimeZone": "America/Chicago",
+        "tba": false,
+        "home": true,
+        "overall": false,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "IYAF Sports Complex",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "r1ds4eqt3gzyd134",
+        "fastdate": 1759680000000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "Waukee",
+        "stateCountry": "Iowa",
+        "zipCode": "",
+        "venue": "IYAF Sports Complex",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "exhibition",
+            "description": "Exhibition",
+            "statsCount": false
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Riverland Community College",
+            "result": "",
+            "teamId": "73qit45qksijxjez",
+            "winner": false,
+            "cleanName": "riverland community col"
+        },
+        "us": {
+            "name": "McHenry County College",
+            "result": "",
+            "teamId": "kvl9x9s6xpo91ehg",
+            "winner": false,
+            "cleanName": "mchenry county col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "October 5 12:00 PM:"
+}

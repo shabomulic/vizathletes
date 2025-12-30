@@ -1,17 +1,17 @@
 {
-    "Player Name": "Odis Carter, Jr",
+    "Player Name": "Odis Carter, Jr.",
+    "MIN": "31",
     "FGM-A": "6-13",
     "3PM-A": "0-1",
     "FTM-A": "11-13",
     "OREB": "2",
     "DREB": "5",
     "REB": "7",
+    "AST": "1",
+    "STL": "0",
+    "BLK": "0",
+    "TO": "2",
     "PF": "1",
     "TP": "23",
-    "AST": "1",
-    "TO": "2",
-    "BLK": "0",
-    "STL": "0",
-    "MIN": "31",
     "eventDateFormatted": "Dec 6"
 }

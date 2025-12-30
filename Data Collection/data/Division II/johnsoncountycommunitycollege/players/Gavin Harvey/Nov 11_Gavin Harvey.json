@@ -1,17 +1,17 @@
 {
     "Player Name": "Gavin Harvey",
+    "MIN": "34",
     "FGM-A": "5-9",
     "3PM-A": "1-5",
     "FTM-A": "0-1",
     "OREB": "1",
     "DREB": "5",
     "REB": "6",
+    "AST": "8",
+    "STL": "2",
+    "BLK": "0",
+    "TO": "4",
     "PF": "0",
     "TP": "11",
-    "AST": "8",
-    "TO": "4",
-    "BLK": "0",
-    "STL": "2",
-    "MIN": "34",
     "eventDateFormatted": "Nov 11"
 }

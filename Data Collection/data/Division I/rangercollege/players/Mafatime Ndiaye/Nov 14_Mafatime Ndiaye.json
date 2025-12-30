@@ -1,17 +1,17 @@
 {
     "Player Name": "Mafatime Ndiaye",
+    "MIN": "26",
     "FGM-A": "5-12",
     "3PM-A": "2-7",
     "FTM-A": "0-0",
     "OREB": "2",
     "DREB": "3",
     "REB": "5",
+    "AST": "0",
+    "STL": "1",
+    "BLK": "0",
+    "TO": "4",
     "PF": "0",
     "TP": "12",
-    "AST": "0",
-    "TO": "4",
-    "BLK": "0",
-    "STL": "1",
-    "MIN": "26",
     "eventDateFormatted": "Nov 14"
 }

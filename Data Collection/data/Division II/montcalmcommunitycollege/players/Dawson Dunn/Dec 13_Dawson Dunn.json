@@ -1,17 +1,17 @@
 {
     "Player Name": "Dawson Dunn",
+    "MIN": "41",
     "FGM-A": "3-8",
     "3PM-A": "2-4",
     "FTM-A": "2-2",
     "OREB": "0",
     "DREB": "3",
     "REB": "3",
+    "AST": "0",
+    "STL": "0",
+    "BLK": "0",
+    "TO": "2",
     "PF": "2",
     "TP": "10",
-    "AST": "0",
-    "TO": "2",
-    "BLK": "0",
-    "STL": "0",
-    "MIN": "41",
     "eventDateFormatted": "Dec 13"
 }

@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Oct 17",
+    "boxScoreLink": "20251017_rlnb.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Southeast Community College",
+                "result": "",
+                "teamId": "c3rzvzeqhixf3rzz",
+                "winner": false,
+                "cleanName": "southeast community col"
+            },
+            {
+                "name": "Central Wyoming College",
+                "result": "",
+                "teamId": "989l91xmxr6nzcb9",
+                "winner": false,
+                "cleanName": "central wyoming col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "Scrimmage",
+        "date": 1760718600000,
+        "localTimeZone": "America/Denver",
+        "tba": false,
+        "home": false,
+        "overall": false,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "Windsor, CO",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "rlnbhrsz9gq2xui1",
+        "fastdate": 1760718600000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "scrimmage",
+            "description": "Scrimmage",
+            "statsCount": false
+        },
+        "opponent": {
+            "name": "Central Wyoming College",
+            "result": "",
+            "teamId": "989l91xmxr6nzcb9",
+            "winner": false,
+            "cleanName": "central wyoming col"
+        },
+        "us": {
+            "name": "Southeast Community College",
+            "result": "",
+            "teamId": "c3rzvzeqhixf3rzz",
+            "winner": false,
+            "cleanName": "southeast community col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "October 17 12:30 PM:"
+}

@@ -1,17 +1,17 @@
 {
     "Player Name": "Joey Robinson",
+    "MIN": "19",
     "FGM-A": "10-12",
     "3PM-A": "2-3",
     "FTM-A": "1-1",
     "OREB": "3",
     "DREB": "0",
     "REB": "3",
+    "AST": "4",
+    "STL": "5",
+    "BLK": "0",
+    "TO": "2",
     "PF": "0",
     "TP": "23",
-    "AST": "4",
-    "TO": "2",
-    "BLK": "0",
-    "STL": "5",
-    "MIN": "19",
     "eventDateFormatted": "Nov 1"
 }

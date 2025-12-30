@@ -1,17 +1,17 @@
 {
     "Player Name": "Supreme Niles",
+    "MIN": "1",
     "FGM-A": "9-24",
     "3PM-A": "1-6",
     "FTM-A": "2-2",
     "OREB": "1",
     "DREB": "0",
     "REB": "1",
+    "AST": "4",
+    "STL": "8",
+    "BLK": "0",
+    "TO": "1",
     "PF": "0",
     "TP": "21",
-    "AST": "4",
-    "TO": "1",
-    "BLK": "0",
-    "STL": "8",
-    "MIN": "1",
     "eventDateFormatted": "Dec 9"
 }

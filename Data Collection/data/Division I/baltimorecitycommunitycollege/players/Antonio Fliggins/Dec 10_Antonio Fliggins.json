@@ -1,17 +1,17 @@
 {
     "Player Name": "Antonio Fliggins",
+    "MIN": "35",
     "FGM-A": "7-12",
     "3PM-A": "0-1",
     "FTM-A": "0-0",
     "OREB": "0",
     "DREB": "3",
     "REB": "3",
+    "AST": "6",
+    "STL": "4",
+    "BLK": "0",
+    "TO": "6",
     "PF": "1",
     "TP": "14",
-    "AST": "6",
-    "TO": "6",
-    "BLK": "0",
-    "STL": "4",
-    "MIN": "35",
     "eventDateFormatted": "Dec 10"
 }

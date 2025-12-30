@@ -1,17 +1,17 @@
 {
     "Player Name": "Jevion Sam",
+    "MIN": "27",
     "FGM-A": "5-7",
     "3PM-A": "1-1",
     "FTM-A": "1-2",
     "OREB": "1",
     "DREB": "0",
     "REB": "1",
+    "AST": "1",
+    "STL": "0",
+    "BLK": "1",
+    "TO": "3",
     "PF": "3",
     "TP": "12",
-    "AST": "1",
-    "TO": "3",
-    "BLK": "1",
-    "STL": "0",
-    "MIN": "27",
     "eventDateFormatted": "Nov 1"
 }

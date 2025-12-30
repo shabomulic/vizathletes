@@ -1,17 +1,17 @@
 {
     "Player Name": "Harry Bonilla",
+    "MIN": "32",
     "FGM-A": "10-22",
     "3PM-A": "2-8",
     "FTM-A": "3-5",
     "OREB": "2",
     "DREB": "5",
     "REB": "7",
+    "AST": "7",
+    "STL": "7",
+    "BLK": "1",
+    "TO": "6",
     "PF": "4",
     "TP": "25",
-    "AST": "7",
-    "TO": "6",
-    "BLK": "1",
-    "STL": "7",
-    "MIN": "32",
     "eventDateFormatted": "Dec 11"
 }

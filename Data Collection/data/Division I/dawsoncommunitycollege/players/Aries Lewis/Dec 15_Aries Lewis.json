@@ -1,17 +1,17 @@
 {
     "Player Name": "Aries Lewis",
+    "MIN": "19",
     "FGM-A": "4-7",
     "3PM-A": "0-2",
     "FTM-A": "2-2",
     "OREB": "2",
     "DREB": "4",
     "REB": "6",
+    "AST": "0",
+    "STL": "0",
+    "BLK": "3",
+    "TO": "3",
     "PF": "4",
     "TP": "10",
-    "AST": "0",
-    "TO": "3",
-    "BLK": "3",
-    "STL": "0",
-    "MIN": "19",
     "eventDateFormatted": "Dec 15"
 }

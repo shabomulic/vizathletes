@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Oct 21",
+    "boxScoreLink": "20251021_78yn.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Flyght Academy",
+                "result": "",
+                "teamId": "eyi1e1m32qlwtlba",
+                "winner": false,
+                "cleanName": "flyght academy"
+            },
+            {
+                "name": "Edison State",
+                "result": "",
+                "teamId": "6qq5xx78mp52h1l6",
+                "winner": false,
+                "cleanName": "edison st"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1761084000000,
+        "localTimeZone": "America/New_York",
+        "tba": false,
+        "home": true,
+        "overall": false,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "78yntbglnir0vmuv",
+        "fastdate": 1761084000000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "1973 Edison Drive",
+        "city": "Piqua",
+        "stateCountry": "OH",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "scrimmage",
+            "description": "Scrimmage",
+            "statsCount": false
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Flyght Academy",
+            "result": "",
+            "teamId": "eyi1e1m32qlwtlba",
+            "winner": false,
+            "cleanName": "flyght academy"
+        },
+        "us": {
+            "name": "Edison State",
+            "result": "",
+            "teamId": "6qq5xx78mp52h1l6",
+            "winner": false,
+            "cleanName": "edison st"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "October 21 06:00 PM:"
+}

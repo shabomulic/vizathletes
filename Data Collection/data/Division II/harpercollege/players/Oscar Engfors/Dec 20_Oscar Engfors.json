@@ -1,17 +1,17 @@
 {
     "Player Name": "Oscar Engfors",
+    "MIN": "28",
     "FGM-A": "2-5",
     "3PM-A": "0-0",
     "FTM-A": "0-0",
     "OREB": "1",
     "DREB": "4",
     "REB": "5",
+    "AST": "4",
+    "STL": "2",
+    "BLK": "1",
+    "TO": "3",
     "PF": "5",
     "TP": "4",
-    "AST": "4",
-    "TO": "3",
-    "BLK": "1",
-    "STL": "2",
-    "MIN": "28",
     "eventDateFormatted": "Dec 20"
 }

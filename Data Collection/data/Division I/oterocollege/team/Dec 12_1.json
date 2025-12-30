@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Dec 12",
+    "boxScoreLink": "20251212_or3c.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Otero College",
+                "result": "",
+                "teamId": "bxudj615ud67dji1",
+                "winner": false,
+                "cleanName": "otero col"
+            },
+            {
+                "name": "Air Force Prep",
+                "result": "",
+                "teamId": "no8i8v9aaxsiw4tf",
+                "winner": false,
+                "cleanName": "air force prep"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1765573200000,
+        "localTimeZone": "America/Denver",
+        "tba": false,
+        "home": false,
+        "overall": true,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "or3covx7mn75zgar",
+        "fastdate": 1765573200000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "Colorado Springs",
+        "stateCountry": "CO",
+        "zipCode": "",
+        "venue": "Air Force Prep",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "numericResults": [],
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Air Force Prep",
+            "result": "",
+            "teamId": "no8i8v9aaxsiw4tf",
+            "winner": false,
+            "cleanName": "air force prep"
+        },
+        "us": {
+            "name": "Otero College",
+            "result": "",
+            "teamId": "bxudj615ud67dji1",
+            "winner": false,
+            "cleanName": "otero col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "numericResults": [],
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "December 12 04:00 PM:"
+}

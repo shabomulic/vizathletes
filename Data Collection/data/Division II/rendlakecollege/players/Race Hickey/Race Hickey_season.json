@@ -57,14 +57,14 @@
     "lastUpdated": 1765984258000,
     "position": "C",
     "positionAbbreviation": "C",
-    "positionCode": null,
+    "positionCode": "C0FR",
     "dataMap": {
         "hometown": "Marion, IL",
         "born": "",
         "weight": "230",
         "height": "7'0&quot;"
     },
-    "uniform": "55",
+    "uniform": "35",
     "year": "Fr",
     "playerStatus": {
         "enumCode": 1,
@@ -78,9 +78,9 @@
             "name": "integer",
             "primitiveClass": "int",
             "defaultValue": 0,
-            "collectionType": false,
             "mutable": false,
             "componentType": false,
+            "collectionType": false,
             "entityType": false,
             "associationType": false,
             "xmlelement": false,

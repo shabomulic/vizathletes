@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Oct 11",
+    "boxScoreLink": "20251011_jzj0.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Mullins Jamboree",
+                "result": "",
+                "teamId": "0uonjpizn21w45m1",
+                "winner": false,
+                "cleanName": "mullins jamboree"
+            },
+            {
+                "name": "Central Arizona College",
+                "result": "",
+                "teamId": "nss1p944qsnrqsdm",
+                "winner": false,
+                "cleanName": "central arizona col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "@ Ft. Worth, TX",
+        "date": 1760198400000,
+        "localTimeZone": "America/Denver",
+        "tba": false,
+        "home": true,
+        "overall": true,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "jzj0po9q2mwfvtld",
+        "fastdate": 1760198400000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "2600 Alemeda St, Fort Worth, TX 76108",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "us": {
+            "name": "Central Arizona College",
+            "result": "",
+            "teamId": "nss1p944qsnrqsdm",
+            "winner": false,
+            "cleanName": "central arizona col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Mullins Jamboree",
+            "result": "",
+            "teamId": "0uonjpizn21w45m1",
+            "winner": false,
+            "cleanName": "mullins jamboree"
+        },
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "October 11 12:00 PM:"
+}

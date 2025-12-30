@@ -1,17 +1,17 @@
 {
     "Player Name": "Christian Zielinski",
+    "MIN": "25",
     "FGM-A": "5-9",
     "3PM-A": "1-4",
     "FTM-A": "4-4",
     "OREB": "2",
     "DREB": "4",
     "REB": "6",
+    "AST": "5",
+    "STL": "1",
+    "BLK": "1",
+    "TO": "2",
     "PF": "1",
     "TP": "15",
-    "AST": "5",
-    "TO": "2",
-    "BLK": "1",
-    "STL": "1",
-    "MIN": "25",
     "eventDateFormatted": "Dec 15"
 }

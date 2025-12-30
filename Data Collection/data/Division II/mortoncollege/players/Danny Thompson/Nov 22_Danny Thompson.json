@@ -1,17 +1,17 @@
 {
     "Player Name": "Danny Thompson",
+    "MIN": "25",
     "FGM-A": "4-7",
     "3PM-A": "2-2",
     "FTM-A": "6-7",
     "OREB": "2",
     "DREB": "2",
     "REB": "4",
+    "AST": "0",
+    "STL": "2",
+    "BLK": "0",
+    "TO": "2",
     "PF": "1",
     "TP": "16",
-    "AST": "0",
-    "TO": "2",
-    "BLK": "0",
-    "STL": "2",
-    "MIN": "25",
     "eventDateFormatted": "Nov 22"
 }

@@ -1,17 +1,17 @@
 {
     "Player Name": "Moustapha Salekh",
+    "MIN": "17",
     "FGM-A": "5-7",
     "3PM-A": "0-0",
     "FTM-A": "5-6",
     "OREB": "4",
     "DREB": "3",
     "REB": "7",
+    "AST": "0",
+    "STL": "0",
+    "BLK": "0",
+    "TO": "2",
     "PF": "3",
     "TP": "15",
-    "AST": "0",
-    "TO": "2",
-    "BLK": "0",
-    "STL": "0",
-    "MIN": "17",
     "eventDateFormatted": "Oct 31"
 }

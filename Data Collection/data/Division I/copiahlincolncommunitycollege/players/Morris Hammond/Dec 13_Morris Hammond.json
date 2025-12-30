@@ -1,17 +1,17 @@
 {
     "Player Name": "Morris Hammond",
+    "MIN": "21",
     "FGM-A": "6-10",
     "3PM-A": "2-3",
     "FTM-A": "4-4",
     "OREB": "2",
     "DREB": "5",
     "REB": "7",
+    "AST": "0",
+    "STL": "0",
+    "BLK": "0",
+    "TO": "2",
     "PF": "4",
     "TP": "18",
-    "AST": "0",
-    "TO": "2",
-    "BLK": "0",
-    "STL": "0",
-    "MIN": "21",
     "eventDateFormatted": "Dec 13"
 }

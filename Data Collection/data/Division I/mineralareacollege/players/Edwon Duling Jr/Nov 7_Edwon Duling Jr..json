@@ -1,17 +1,17 @@
 {
-    "Player Name": "Edwon Duling Jr",
+    "Player Name": "Edwon Duling Jr.",
+    "MIN": "1",
     "FGM-A": "4-8",
     "3PM-A": "3-6",
     "FTM-A": "5-5",
     "OREB": "2",
     "DREB": "4",
     "REB": "6",
+    "AST": "0",
+    "STL": "2",
+    "BLK": "0",
+    "TO": "1",
     "PF": "0",
     "TP": "16",
-    "AST": "0",
-    "TO": "1",
-    "BLK": "0",
-    "STL": "2",
-    "MIN": "1",
     "eventDateFormatted": "Nov 7"
 }

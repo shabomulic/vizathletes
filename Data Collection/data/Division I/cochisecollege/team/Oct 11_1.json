@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Oct 11",
+    "boxScoreLink": "20251011_zhan.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "GCU Club",
+                "result": "",
+                "teamId": "ms4h8lsgvwizv55h",
+                "winner": false,
+                "cleanName": "gcu club"
+            },
+            {
+                "name": "Cochise College",
+                "result": "",
+                "teamId": "nsakhgyo3kdpnvju",
+                "winner": false,
+                "cleanName": "cochise col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "Douglas, AZ",
+        "date": 1760205600000,
+        "localTimeZone": "America/Phoenix",
+        "tba": false,
+        "home": true,
+        "overall": false,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "zhanjcwywigy08pu",
+        "fastdate": 1760205600000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "scrimmage",
+            "description": "Scrimmage",
+            "statsCount": false
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "GCU Club",
+            "result": "",
+            "teamId": "ms4h8lsgvwizv55h",
+            "winner": false,
+            "cleanName": "gcu club"
+        },
+        "us": {
+            "name": "Cochise College",
+            "result": "",
+            "teamId": "nsakhgyo3kdpnvju",
+            "winner": false,
+            "cleanName": "cochise col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "October 11 02:00 PM:"
+}

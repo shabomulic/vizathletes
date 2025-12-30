@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Jan 31",
+    "boxScoreLink": "20260131_dld0.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Danville Area Community College",
+                "result": "",
+                "teamId": "bp27mfuj2u9zcxf2",
+                "winner": false,
+                "cleanName": "danville area community col"
+            },
+            {
+                "name": "Rend Lake College",
+                "result": "",
+                "teamId": "blan21j27flx4c9r",
+                "winner": false,
+                "cleanName": "rend lake col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1769900400000,
+        "localTimeZone": "America/Chicago",
+        "tba": false,
+        "home": true,
+        "overall": true,
+        "conference": true,
+        "division": true,
+        "regional": true,
+        "national": true,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "dld03wb1gk6dg9wn",
+        "fastdate": 1769900400000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "468 N. Ken Gray Pkwy",
+        "city": "Ina",
+        "stateCountry": "IL",
+        "zipCode": "",
+        "venue": "Banterra Sports Complex",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Danville Area Community College",
+            "result": "",
+            "teamId": "bp27mfuj2u9zcxf2",
+            "winner": false,
+            "cleanName": "danville area community col"
+        },
+        "us": {
+            "name": "Rend Lake College",
+            "result": "",
+            "teamId": "blan21j27flx4c9r",
+            "winner": false,
+            "cleanName": "rend lake col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "January 31 06:00 PM:"
+}

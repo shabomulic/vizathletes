@@ -1,17 +1,17 @@
 {
     "Player Name": "Nehemiah Holmes",
+    "MIN": "1",
     "FGM-A": "3-5",
     "3PM-A": "0-2",
     "FTM-A": "4-10",
     "OREB": "2",
     "DREB": "1",
     "REB": "3",
+    "AST": "0",
+    "STL": "1",
+    "BLK": "0",
+    "TO": "3",
     "PF": "3",
     "TP": "10",
-    "AST": "0",
-    "TO": "3",
-    "BLK": "0",
-    "STL": "1",
-    "MIN": "1",
     "eventDateFormatted": "Nov 4"
 }

@@ -1,17 +1,17 @@
 {
     "Player Name": "Damani Hinks",
+    "MIN": "17",
     "FGM-A": "5-11",
     "3PM-A": "4-10",
     "FTM-A": "0-0",
     "OREB": "0",
     "DREB": "2",
     "REB": "2",
+    "AST": "3",
+    "STL": "2",
+    "BLK": "0",
+    "TO": "0",
     "PF": "1",
     "TP": "14",
-    "AST": "3",
-    "TO": "0",
-    "BLK": "0",
-    "STL": "2",
-    "MIN": "17",
     "eventDateFormatted": "Nov 22"
 }

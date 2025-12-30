@@ -1,17 +1,17 @@
 {
     "Player Name": "Colby Margenau",
+    "MIN": "27",
     "FGM-A": "6-13",
     "3PM-A": "4-9",
     "FTM-A": "6-8",
     "OREB": "0",
     "DREB": "4",
     "REB": "4",
+    "AST": "1",
+    "STL": "0",
+    "BLK": "1",
+    "TO": "2",
     "PF": "4",
     "TP": "22",
-    "AST": "1",
-    "TO": "2",
-    "BLK": "1",
-    "STL": "0",
-    "MIN": "27",
     "eventDateFormatted": "Nov 7"
 }

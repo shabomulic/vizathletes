@@ -1,17 +1,17 @@
 {
     "Player Name": "Malachi Simpson",
+    "MIN": "1",
     "FGM-A": "1-4",
     "3PM-A": "0-0",
     "FTM-A": "2-5",
     "OREB": "1",
     "DREB": "4",
     "REB": "5",
+    "AST": "0",
+    "STL": "1",
+    "BLK": "0",
+    "TO": "2",
     "PF": "2",
     "TP": "4",
-    "AST": "0",
-    "TO": "2",
-    "BLK": "0",
-    "STL": "1",
-    "MIN": "1",
     "eventDateFormatted": "Nov 1"
 }

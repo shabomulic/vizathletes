@@ -1,17 +1,17 @@
 {
     "Player Name": "Denyell Rush",
+    "MIN": "26",
     "FGM-A": "3-8",
     "3PM-A": "2-4",
     "FTM-A": "2-2",
     "OREB": "0",
     "DREB": "0",
     "REB": "0",
+    "AST": "0",
+    "STL": "0",
+    "BLK": "0",
+    "TO": "2",
     "PF": "3",
     "TP": "10",
-    "AST": "0",
-    "TO": "2",
-    "BLK": "0",
-    "STL": "0",
-    "MIN": "26",
     "eventDateFormatted": "Dec 20"
 }

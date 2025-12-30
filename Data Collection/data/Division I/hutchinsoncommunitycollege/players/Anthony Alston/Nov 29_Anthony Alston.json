@@ -1,17 +1,17 @@
 {
     "Player Name": "Anthony Alston",
+    "MIN": "20",
     "FGM-A": "2-3",
     "3PM-A": "1-1",
     "FTM-A": "0-0",
     "OREB": "0",
     "DREB": "0",
     "REB": "0",
+    "AST": "2",
+    "STL": "1",
+    "BLK": "0",
+    "TO": "1",
     "PF": "1",
     "TP": "5",
-    "AST": "2",
-    "TO": "1",
-    "BLK": "0",
-    "STL": "1",
-    "MIN": "20",
     "eventDateFormatted": "Nov 29"
 }

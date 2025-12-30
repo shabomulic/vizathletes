@@ -1,17 +1,17 @@
 {
     "Player Name": "Omari Evans",
+    "MIN": "29",
     "FGM-A": "7-12",
     "3PM-A": "2-5",
     "FTM-A": "1-1",
     "OREB": "3",
     "DREB": "4",
     "REB": "7",
+    "AST": "10",
+    "STL": "3",
+    "BLK": "0",
+    "TO": "2",
     "PF": "0",
     "TP": "17",
-    "AST": "10",
-    "TO": "2",
-    "BLK": "0",
-    "STL": "3",
-    "MIN": "29",
     "eventDateFormatted": "Dec 12"
 }

@@ -1,17 +1,17 @@
 {
     "Player Name": "Darius Kane",
+    "MIN": "36",
     "FGM-A": "4-6",
     "3PM-A": "0-1",
     "FTM-A": "5-8",
     "OREB": "0",
     "DREB": "6",
     "REB": "6",
+    "AST": "7",
+    "STL": "0",
+    "BLK": "1",
+    "TO": "2",
     "PF": "0",
     "TP": "13",
-    "AST": "7",
-    "TO": "2",
-    "BLK": "1",
-    "STL": "0",
-    "MIN": "36",
     "eventDateFormatted": "Dec 19"
 }

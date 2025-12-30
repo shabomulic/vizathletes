@@ -1,17 +1,17 @@
 {
     "Player Name": "Sean Blue",
+    "MIN": "32",
     "FGM-A": "2-3",
     "3PM-A": "1-1",
     "FTM-A": "0-0",
     "OREB": "1",
     "DREB": "3",
     "REB": "4",
+    "AST": "1",
+    "STL": "1",
+    "BLK": "1",
+    "TO": "0",
     "PF": "2",
     "TP": "5",
-    "AST": "1",
-    "TO": "0",
-    "BLK": "1",
-    "STL": "1",
-    "MIN": "32",
     "eventDateFormatted": "Dec 15"
 }

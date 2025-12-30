@@ -1,17 +1,17 @@
 {
     "Player Name": "Izick Reaves",
+    "MIN": "21",
     "FGM-A": "3-7",
     "3PM-A": "2-5",
     "FTM-A": "0-0",
     "OREB": "0",
     "DREB": "0",
     "REB": "0",
+    "AST": "0",
+    "STL": "1",
+    "BLK": "2",
+    "TO": "2",
     "PF": "5",
     "TP": "8",
-    "AST": "0",
-    "TO": "2",
-    "BLK": "2",
-    "STL": "1",
-    "MIN": "21",
     "eventDateFormatted": "Dec 3"
 }

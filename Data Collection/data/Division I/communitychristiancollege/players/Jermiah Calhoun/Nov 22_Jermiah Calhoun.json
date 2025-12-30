@@ -1,17 +1,17 @@
 {
     "Player Name": "Jermiah Calhoun",
+    "MIN": "40",
     "FGM-A": "5-16",
     "3PM-A": "2-8",
     "FTM-A": "8-12",
     "OREB": "2",
     "DREB": "2",
     "REB": "4",
+    "AST": "0",
+    "STL": "1",
+    "BLK": "0",
+    "TO": "1",
     "PF": "0",
     "TP": "20",
-    "AST": "0",
-    "TO": "1",
-    "BLK": "0",
-    "STL": "1",
-    "MIN": "40",
     "eventDateFormatted": "Nov 22"
 }

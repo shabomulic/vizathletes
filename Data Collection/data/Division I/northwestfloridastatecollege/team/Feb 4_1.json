@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Feb 4",
+    "boxScoreLink": "20260204_rx9j.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Northwest Florida State College",
+                "result": "",
+                "teamId": "rkhchb37q521n34p",
+                "winner": false,
+                "cleanName": "northwest florida st col"
+            },
+            {
+                "name": "Pensacola State College",
+                "result": "",
+                "teamId": "32iri9q24nfwy008",
+                "winner": false,
+                "cleanName": "pensacola st col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "Pensacola, Fla.",
+        "date": 1770251400000,
+        "localTimeZone": "America/Chicago",
+        "tba": false,
+        "home": false,
+        "overall": true,
+        "conference": true,
+        "division": false,
+        "regional": true,
+        "national": true,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "rx9jhq1qa7oznsof",
+        "fastdate": 1770251400000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "Pensacola, FL",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "Pensacola State College",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Pensacola State College",
+            "result": "",
+            "teamId": "32iri9q24nfwy008",
+            "winner": false,
+            "cleanName": "pensacola st col"
+        },
+        "us": {
+            "name": "Northwest Florida State College",
+            "result": "",
+            "teamId": "rkhchb37q521n34p",
+            "winner": false,
+            "cleanName": "northwest florida st col"
+        },
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "February 4 07:30 PM:"
+}

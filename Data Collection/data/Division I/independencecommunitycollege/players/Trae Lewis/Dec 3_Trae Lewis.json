@@ -1,17 +1,17 @@
 {
     "Player Name": "Trae Lewis",
+    "MIN": "24",
     "FGM-A": "5-9",
     "3PM-A": "2-3",
     "FTM-A": "0-0",
     "OREB": "0",
     "DREB": "0",
     "REB": "0",
+    "AST": "1",
+    "STL": "0",
+    "BLK": "0",
+    "TO": "1",
     "PF": "4",
     "TP": "12",
-    "AST": "1",
-    "TO": "1",
-    "BLK": "0",
-    "STL": "0",
-    "MIN": "24",
     "eventDateFormatted": "Dec 3"
 }

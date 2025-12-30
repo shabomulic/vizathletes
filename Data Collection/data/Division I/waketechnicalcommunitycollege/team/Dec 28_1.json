@@ -1,0 +1,161 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Dec 28",
+    "boxScoreLink": "20251228_dmm7.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Wake Technical Community College",
+                "result": "68",
+                "teamId": "ox1f5nv9ucpwk8jh",
+                "winner": false,
+                "cleanName": "wake technical community col"
+            },
+            {
+                "name": "Central Carolina Community College",
+                "result": "60",
+                "teamId": "rakqu3gx9mt7r7od",
+                "winner": false,
+                "cleanName": "central carolina community col"
+            }
+        ],
+        "status": "Final",
+        "notes": "",
+        "notesShared": "Cougar Classic",
+        "date": 1766959200000,
+        "localTimeZone": "America/New_York",
+        "tba": false,
+        "home": false,
+        "overall": true,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": true,
+        "inProgress": false,
+        "statusCode": 0,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "dmm79yrtem6ces7m",
+        "fastdate": 1766959200000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "Powell hall",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "ap2Result": "W, 68-60",
+        "conferenceResult": "68-60",
+        "resultAsObject": {
+            "results": [
+                68,
+                60
+            ],
+            "winner": {
+                "name": "Wake Technical Community College",
+                "result": "68",
+                "teamId": "ox1f5nv9ucpwk8jh",
+                "winner": false,
+                "cleanName": "wake technical community col"
+            },
+            "loser": {
+                "name": "Central Carolina Community College",
+                "result": "60",
+                "teamId": "rakqu3gx9mt7r7od",
+                "winner": false,
+                "cleanName": "central carolina community col"
+            },
+            "resolved": true,
+            "hasScores": true,
+            "numericResults": [
+                68,
+                60
+            ],
+            "description": "Win",
+            "score": "68-60",
+            "winnerLoser": "68-60",
+            "descriptionShortWithOT": "W"
+        },
+        "opponent": {
+            "name": "Central Carolina Community College",
+            "result": "60",
+            "teamId": "rakqu3gx9mt7r7od",
+            "winner": false,
+            "cleanName": "central carolina community col"
+        },
+        "us": {
+            "name": "Wake Technical Community College",
+            "result": "68",
+            "teamId": "ox1f5nv9ucpwk8jh",
+            "winner": false,
+            "cleanName": "wake technical community col"
+        },
+        "winner": {
+            "name": "Wake Technical Community College",
+            "result": "68",
+            "teamId": "ox1f5nv9ucpwk8jh",
+            "winner": false,
+            "cleanName": "wake technical community col"
+        },
+        "loser": {
+            "name": "Central Carolina Community College",
+            "result": "60",
+            "teamId": "rakqu3gx9mt7r7od",
+            "winner": false,
+            "cleanName": "central carolina community col"
+        },
+        "apresult": "W, 68-60",
+        "result": {
+            "results": [
+                68,
+                60
+            ],
+            "winner": {
+                "name": "Wake Technical Community College",
+                "result": "68",
+                "teamId": "ox1f5nv9ucpwk8jh",
+                "winner": false,
+                "cleanName": "wake technical community col"
+            },
+            "loser": {
+                "name": "Central Carolina Community College",
+                "result": "60",
+                "teamId": "rakqu3gx9mt7r7od",
+                "winner": false,
+                "cleanName": "central carolina community col"
+            },
+            "resolved": true,
+            "hasScores": true,
+            "numericResults": [
+                68,
+                60
+            ],
+            "description": "Win",
+            "score": "68-60",
+            "winnerLoser": "68-60",
+            "descriptionShortWithOT": "W"
+        }
+    },
+    "eventDateFormattedAriaLabel": "December 28 05:00 PM:"
+}

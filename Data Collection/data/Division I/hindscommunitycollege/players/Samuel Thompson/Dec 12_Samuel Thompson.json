@@ -1,17 +1,17 @@
 {
     "Player Name": "Samuel Thompson",
+    "MIN": "1",
     "FGM-A": "2-4",
     "3PM-A": "2-4",
     "FTM-A": "0-0",
     "OREB": "2",
     "DREB": "0",
     "REB": "2",
+    "AST": "0",
+    "STL": "2",
+    "BLK": "0",
+    "TO": "2",
     "PF": "1",
     "TP": "6",
-    "AST": "0",
-    "TO": "2",
-    "BLK": "0",
-    "STL": "2",
-    "MIN": "1",
     "eventDateFormatted": "Dec 12"
 }

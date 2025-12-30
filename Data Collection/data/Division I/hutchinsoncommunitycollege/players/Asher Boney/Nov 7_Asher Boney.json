@@ -1,17 +1,17 @@
 {
     "Player Name": "Asher Boney",
+    "MIN": "29",
     "FGM-A": "4-7",
     "3PM-A": "2-4",
     "FTM-A": "1-2",
     "OREB": "3",
     "DREB": "4",
     "REB": "7",
+    "AST": "1",
+    "STL": "2",
+    "BLK": "0",
+    "TO": "3",
     "PF": "4",
     "TP": "11",
-    "AST": "1",
-    "TO": "3",
-    "BLK": "0",
-    "STL": "2",
-    "MIN": "29",
     "eventDateFormatted": "Nov 7"
 }

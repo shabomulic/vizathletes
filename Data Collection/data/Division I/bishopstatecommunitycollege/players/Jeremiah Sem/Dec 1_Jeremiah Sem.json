@@ -1,17 +1,17 @@
 {
     "Player Name": "Jeremiah Sem",
+    "MIN": "38",
     "FGM-A": "12-18",
     "3PM-A": "6-10",
     "FTM-A": "6-10",
     "OREB": "1",
     "DREB": "2",
     "REB": "3",
+    "AST": "1",
+    "STL": "1",
+    "BLK": "0",
+    "TO": "1",
     "PF": "1",
     "TP": "36",
-    "AST": "1",
-    "TO": "1",
-    "BLK": "0",
-    "STL": "1",
-    "MIN": "38",
     "eventDateFormatted": "Dec 1"
 }

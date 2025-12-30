@@ -1,17 +1,17 @@
 {
     "Player Name": "Anthony Harrison",
+    "MIN": "39",
     "FGM-A": "6-15",
     "3PM-A": "1-2",
     "FTM-A": "2-2",
     "OREB": "0",
     "DREB": "5",
     "REB": "5",
+    "AST": "1",
+    "STL": "2",
+    "BLK": "3",
+    "TO": "3",
     "PF": "2",
     "TP": "15",
-    "AST": "1",
-    "TO": "3",
-    "BLK": "3",
-    "STL": "2",
-    "MIN": "39",
     "eventDateFormatted": "Dec 6"
 }

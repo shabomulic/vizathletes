@@ -1,17 +1,17 @@
 {
     "Player Name": "Mike Phillips",
+    "MIN": "24",
     "FGM-A": "5-12",
     "3PM-A": "4-7",
     "FTM-A": "3-3",
     "OREB": "0",
     "DREB": "3",
     "REB": "3",
+    "AST": "4",
+    "STL": "2",
+    "BLK": "0",
+    "TO": "5",
     "PF": "1",
     "TP": "17",
-    "AST": "4",
-    "TO": "5",
-    "BLK": "0",
-    "STL": "2",
-    "MIN": "24",
     "eventDateFormatted": "Dec 5"
 }

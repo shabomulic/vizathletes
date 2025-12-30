@@ -1,17 +1,17 @@
 {
     "Player Name": "Kajuan Kearney",
+    "MIN": "20",
     "FGM-A": "1-2",
     "3PM-A": "1-1",
     "FTM-A": "0-2",
     "OREB": "0",
     "DREB": "0",
     "REB": "0",
+    "AST": "6",
+    "STL": "2",
+    "BLK": "0",
+    "TO": "3",
     "PF": "0",
     "TP": "3",
-    "AST": "6",
-    "TO": "3",
-    "BLK": "0",
-    "STL": "2",
-    "MIN": "20",
     "eventDateFormatted": "Nov 10"
 }

@@ -1,17 +1,17 @@
 {
     "Player Name": "Tavian Cruse",
+    "MIN": "22",
     "FGM-A": "8-9",
     "3PM-A": "0-1",
     "FTM-A": "5-5",
     "OREB": "2",
     "DREB": "8",
     "REB": "10",
+    "AST": "2",
+    "STL": "4",
+    "BLK": "0",
+    "TO": "0",
     "PF": "1",
     "TP": "21",
-    "AST": "2",
-    "TO": "0",
-    "BLK": "0",
-    "STL": "4",
-    "MIN": "22",
     "eventDateFormatted": "Oct 31"
 }

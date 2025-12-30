@@ -1,17 +1,17 @@
 {
     "Player Name": "Jerris Fullwood",
+    "MIN": "26",
     "FGM-A": "3-7",
     "3PM-A": "0-0",
     "FTM-A": "0-0",
     "OREB": "2",
     "DREB": "3",
     "REB": "5",
+    "AST": "3",
+    "STL": "0",
+    "BLK": "0",
+    "TO": "2",
     "PF": "1",
     "TP": "6",
-    "AST": "3",
-    "TO": "2",
-    "BLK": "0",
-    "STL": "0",
-    "MIN": "26",
     "eventDateFormatted": "Nov 23"
 }

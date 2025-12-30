@@ -1,17 +1,17 @@
 {
     "Player Name": "Chase Wright",
+    "MIN": "40",
     "FGM-A": "8-16",
     "3PM-A": "1-2",
     "FTM-A": "10-13",
     "OREB": "0",
     "DREB": "0",
     "REB": "0",
+    "AST": "4",
+    "STL": "0",
+    "BLK": "1",
+    "TO": "6",
     "PF": "3",
     "TP": "27",
-    "AST": "4",
-    "TO": "6",
-    "BLK": "1",
-    "STL": "0",
-    "MIN": "40",
     "eventDateFormatted": "Dec 20"
 }

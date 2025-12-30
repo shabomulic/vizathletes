@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Jan 10",
+    "boxScoreLink": "20260110_se9d.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Kankakee Community College",
+                "result": "",
+                "teamId": "jqag330o4tmxuscc",
+                "winner": false,
+                "cleanName": "kankakee community col"
+            },
+            {
+                "name": "Sauk Valley Community College",
+                "result": "",
+                "teamId": "slu19avjwvm21xxl",
+                "winner": false,
+                "cleanName": "sauk valley community col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1768075200000,
+        "localTimeZone": "America/Chicago",
+        "tba": false,
+        "home": true,
+        "overall": true,
+        "conference": false,
+        "division": false,
+        "regional": true,
+        "national": true,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "se9dsltz4jgf2u7o",
+        "fastdate": 1768075200000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Kankakee Community College",
+            "result": "",
+            "teamId": "jqag330o4tmxuscc",
+            "winner": false,
+            "cleanName": "kankakee community col"
+        },
+        "us": {
+            "name": "Sauk Valley Community College",
+            "result": "",
+            "teamId": "slu19avjwvm21xxl",
+            "winner": false,
+            "cleanName": "sauk valley community col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "January 10 03:00 PM:"
+}

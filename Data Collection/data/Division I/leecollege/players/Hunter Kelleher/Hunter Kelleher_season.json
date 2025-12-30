@@ -79,13 +79,13 @@
             "name": "integer",
             "primitiveClass": "int",
             "defaultValue": 0,
+            "collectionType": false,
             "mutable": false,
             "componentType": false,
-            "collectionType": false,
-            "anyType": false,
             "entityType": false,
             "associationType": false,
-            "xmlelement": false
+            "xmlelement": false,
+            "anyType": false
         },
         "mutable": false
     },

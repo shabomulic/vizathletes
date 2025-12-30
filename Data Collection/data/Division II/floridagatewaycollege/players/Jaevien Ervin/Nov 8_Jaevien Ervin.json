@@ -1,17 +1,17 @@
 {
     "Player Name": "Jaevien Ervin",
+    "MIN": "20",
     "FGM-A": "5-9",
     "3PM-A": "0-0",
     "FTM-A": "0-2",
     "OREB": "3",
     "DREB": "6",
     "REB": "9",
+    "AST": "1",
+    "STL": "3",
+    "BLK": "1",
+    "TO": "0",
     "PF": "2",
     "TP": "10",
-    "AST": "1",
-    "TO": "0",
-    "BLK": "1",
-    "STL": "3",
-    "MIN": "20",
     "eventDateFormatted": "Nov 8"
 }

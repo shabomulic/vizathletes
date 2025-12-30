@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Jan 20",
+    "boxScoreLink": "20260120_9f81.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Illinois Valley Community College",
+                "result": "",
+                "teamId": "jb8xmxo69fyljpxp",
+                "winner": false,
+                "cleanName": "illinois valley community col"
+            },
+            {
+                "name": "Black Hawk College",
+                "result": "",
+                "teamId": "2g9d3shhzpfd8j0y",
+                "winner": false,
+                "cleanName": "black hawk col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1768953600000,
+        "localTimeZone": "America/Chicago",
+        "tba": false,
+        "home": true,
+        "overall": true,
+        "conference": false,
+        "division": true,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "9f81bq92oc6ulmg8",
+        "fastdate": 1768953600000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Illinois Valley Community College",
+            "result": "",
+            "teamId": "jb8xmxo69fyljpxp",
+            "winner": false,
+            "cleanName": "illinois valley community col"
+        },
+        "us": {
+            "name": "Black Hawk College",
+            "result": "",
+            "teamId": "2g9d3shhzpfd8j0y",
+            "winner": false,
+            "cleanName": "black hawk col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "January 20 07:00 PM:"
+}

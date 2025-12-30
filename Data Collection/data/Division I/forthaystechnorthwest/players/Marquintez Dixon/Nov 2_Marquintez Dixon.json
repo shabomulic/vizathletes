@@ -1,17 +1,17 @@
 {
     "Player Name": "Marquintez Dixon",
+    "MIN": "27",
     "FGM-A": "4-13",
     "3PM-A": "1-2",
     "FTM-A": "0-1",
     "OREB": "3",
     "DREB": "6",
     "REB": "9",
+    "AST": "0",
+    "STL": "1",
+    "BLK": "6",
+    "TO": "3",
     "PF": "5",
     "TP": "9",
-    "AST": "0",
-    "TO": "3",
-    "BLK": "6",
-    "STL": "1",
-    "MIN": "27",
     "eventDateFormatted": "Nov 2"
 }

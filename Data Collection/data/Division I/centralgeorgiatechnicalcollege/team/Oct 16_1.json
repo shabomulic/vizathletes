@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Oct 16",
+    "boxScoreLink": "20251016_fja2.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "ASA Prep",
+                "result": "",
+                "teamId": "daedmmiqu79y132n",
+                "winner": false,
+                "cleanName": "asa prep"
+            },
+            {
+                "name": "Central Georgia Technical College",
+                "result": "",
+                "teamId": "8nh9tuxxpmc53hmq",
+                "winner": false,
+                "cleanName": "central georgia technical col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1760652000000,
+        "localTimeZone": "America/New_York",
+        "tba": false,
+        "home": true,
+        "overall": false,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "fja25o5m7io9ri04",
+        "fastdate": 1760652000000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "80 Cohen Walker Dr",
+        "city": "Warner Robins",
+        "stateCountry": "Ga",
+        "zipCode": "31088",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "scrimmage",
+            "description": "Scrimmage",
+            "statsCount": false
+        },
+        "ap2Result": "",
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "ASA Prep",
+            "result": "",
+            "teamId": "daedmmiqu79y132n",
+            "winner": false,
+            "cleanName": "asa prep"
+        },
+        "us": {
+            "name": "Central Georgia Technical College",
+            "result": "",
+            "teamId": "8nh9tuxxpmc53hmq",
+            "winner": false,
+            "cleanName": "central georgia technical col"
+        },
+        "apresult": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "October 16 06:00 PM:"
+}

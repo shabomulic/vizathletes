@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Feb 28",
+    "boxScoreLink": "20260228_wvdp.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Mineral Area College",
+                "result": "",
+                "teamId": "rqfpa4k01ae9g9a6",
+                "winner": false,
+                "cleanName": "mineral area col"
+            },
+            {
+                "name": "Moberly Area Community College",
+                "result": "",
+                "teamId": "xl5btwaiq0rx77k2",
+                "winner": false,
+                "cleanName": "moberly area community col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1772323200000,
+        "localTimeZone": "America/Chicago",
+        "tba": false,
+        "home": true,
+        "overall": true,
+        "conference": true,
+        "division": false,
+        "regional": true,
+        "national": true,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "wvdpk65kctj44ng6",
+        "fastdate": 1772323200000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Mineral Area College",
+            "result": "",
+            "teamId": "rqfpa4k01ae9g9a6",
+            "winner": false,
+            "cleanName": "mineral area col"
+        },
+        "us": {
+            "name": "Moberly Area Community College",
+            "result": "",
+            "teamId": "xl5btwaiq0rx77k2",
+            "winner": false,
+            "cleanName": "moberly area community col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "February 28 07:00 PM:"
+}

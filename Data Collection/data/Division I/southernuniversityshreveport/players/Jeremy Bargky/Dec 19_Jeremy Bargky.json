@@ -1,17 +1,17 @@
 {
     "Player Name": "Jeremy Bargky",
+    "MIN": "28",
     "FGM-A": "3-11",
     "3PM-A": "2-9",
     "FTM-A": "1-4",
     "OREB": "1",
     "DREB": "2",
     "REB": "3",
+    "AST": "4",
+    "STL": "2",
+    "BLK": "1",
+    "TO": "2",
     "PF": "2",
     "TP": "9",
-    "AST": "4",
-    "TO": "2",
-    "BLK": "1",
-    "STL": "2",
-    "MIN": "28",
     "eventDateFormatted": "Dec 19"
 }

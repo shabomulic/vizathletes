@@ -1,17 +1,17 @@
 {
     "Player Name": "Jadden Jones",
+    "MIN": "30",
     "FGM-A": "5-7",
     "3PM-A": "0-1",
     "FTM-A": "2-2",
     "OREB": "6",
     "DREB": "4",
     "REB": "10",
+    "AST": "3",
+    "STL": "2",
+    "BLK": "0",
+    "TO": "2",
     "PF": "0",
     "TP": "12",
-    "AST": "3",
-    "TO": "2",
-    "BLK": "0",
-    "STL": "2",
-    "MIN": "30",
     "eventDateFormatted": "Dec 13"
 }

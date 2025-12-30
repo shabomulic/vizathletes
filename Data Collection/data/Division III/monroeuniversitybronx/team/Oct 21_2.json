@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Oct 21",
+    "boxScoreLink": "20251021_djlg.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "BACE Prep",
+                "result": "",
+                "teamId": "gyv5irv7vugu8ihx",
+                "winner": false,
+                "cleanName": "bace prep"
+            },
+            {
+                "name": "Monroe University - Bronx",
+                "result": "",
+                "teamId": "nsnti2mp198u9hry",
+                "winner": false,
+                "cleanName": "monroe univ bronx"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1761085800000,
+        "localTimeZone": "America/New_York",
+        "tba": false,
+        "home": true,
+        "overall": false,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "djlgu0ye1q8n7adi",
+        "fastdate": 1761085800000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "scrimmage",
+            "description": "Scrimmage",
+            "statsCount": false
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "BACE Prep",
+            "result": "",
+            "teamId": "gyv5irv7vugu8ihx",
+            "winner": false,
+            "cleanName": "bace prep"
+        },
+        "us": {
+            "name": "Monroe University - Bronx",
+            "result": "",
+            "teamId": "nsnti2mp198u9hry",
+            "winner": false,
+            "cleanName": "monroe univ bronx"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "October 21 06:30 PM:"
+}

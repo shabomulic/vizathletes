@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Mar 4",
+    "boxScoreLink": "20260304_di47.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "McLennan Community College",
+                "result": "",
+                "teamId": "qe8wmf9rwf0qx9mu",
+                "winner": false,
+                "cleanName": "mclennan community col"
+            },
+            {
+                "name": "Temple College",
+                "result": "",
+                "teamId": "9ivjdnh23xy5iw2n",
+                "winner": false,
+                "cleanName": "temple col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1772668800000,
+        "localTimeZone": "America/Chicago",
+        "tba": false,
+        "home": true,
+        "overall": true,
+        "conference": true,
+        "division": false,
+        "regional": false,
+        "national": true,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "di47dfaw0hqkm5ye",
+        "fastdate": 1772668800000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "us": {
+            "name": "Temple College",
+            "result": "",
+            "teamId": "9ivjdnh23xy5iw2n",
+            "winner": false,
+            "cleanName": "temple col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "McLennan Community College",
+            "result": "",
+            "teamId": "qe8wmf9rwf0qx9mu",
+            "winner": false,
+            "cleanName": "mclennan community col"
+        },
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "March 4 07:00 PM:"
+}

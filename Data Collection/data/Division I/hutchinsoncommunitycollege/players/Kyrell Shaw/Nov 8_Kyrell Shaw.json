@@ -1,17 +1,17 @@
 {
     "Player Name": "Kyrell Shaw",
+    "MIN": "32",
     "FGM-A": "11-22",
     "3PM-A": "1-5",
     "FTM-A": "14-15",
     "OREB": "5",
     "DREB": "8",
     "REB": "13",
+    "AST": "3",
+    "STL": "2",
+    "BLK": "1",
+    "TO": "1",
     "PF": "1",
     "TP": "37",
-    "AST": "3",
-    "TO": "1",
-    "BLK": "1",
-    "STL": "2",
-    "MIN": "32",
     "eventDateFormatted": "Nov 8"
 }

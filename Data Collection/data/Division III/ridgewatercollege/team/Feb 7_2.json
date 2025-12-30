@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Feb 7",
+    "boxScoreLink": "20260207_s3bh.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "St. Cloud Technical & Community College",
+                "result": "",
+                "teamId": "orxugfb8oyllme3v",
+                "winner": false,
+                "cleanName": "st cloud technical community col"
+            },
+            {
+                "name": "Ridgewater College",
+                "result": "",
+                "teamId": "uhwz09ynrs2tx5yb",
+                "winner": false,
+                "cleanName": "ridgewater col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1770494400000,
+        "localTimeZone": "America/Chicago",
+        "tba": false,
+        "home": true,
+        "overall": true,
+        "conference": true,
+        "division": true,
+        "regional": true,
+        "national": true,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "s3bhntrsof97ljrg",
+        "fastdate": 1770494400000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "St. Cloud Technical & Community College",
+            "result": "",
+            "teamId": "orxugfb8oyllme3v",
+            "winner": false,
+            "cleanName": "st cloud technical community col"
+        },
+        "us": {
+            "name": "Ridgewater College",
+            "result": "",
+            "teamId": "uhwz09ynrs2tx5yb",
+            "winner": false,
+            "cleanName": "ridgewater col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "February 7 03:00 PM:"
+}

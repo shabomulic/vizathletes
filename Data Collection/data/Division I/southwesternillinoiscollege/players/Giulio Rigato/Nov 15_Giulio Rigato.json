@@ -1,17 +1,17 @@
 {
     "Player Name": "Giulio Rigato",
+    "MIN": "1",
     "FGM-A": "4-8",
     "3PM-A": "1-1",
     "FTM-A": "3-4",
     "OREB": "1",
     "DREB": "5",
     "REB": "6",
+    "AST": "1",
+    "STL": "0",
+    "BLK": "1",
+    "TO": "2",
     "PF": "4",
     "TP": "12",
-    "AST": "1",
-    "TO": "2",
-    "BLK": "1",
-    "STL": "0",
-    "MIN": "1",
     "eventDateFormatted": "Nov 15"
 }

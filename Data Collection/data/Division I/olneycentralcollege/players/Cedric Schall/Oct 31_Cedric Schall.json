@@ -1,17 +1,17 @@
 {
     "Player Name": "Cedric Schall",
+    "MIN": "1",
     "FGM-A": "9-11",
     "3PM-A": "0-1",
     "FTM-A": "0-0",
     "OREB": "4",
     "DREB": "2",
     "REB": "6",
+    "AST": "1",
+    "STL": "1",
+    "BLK": "0",
+    "TO": "2",
     "PF": "2",
     "TP": "18",
-    "AST": "1",
-    "TO": "2",
-    "BLK": "0",
-    "STL": "1",
-    "MIN": "1",
     "eventDateFormatted": "Oct 31"
 }

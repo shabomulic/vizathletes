@@ -1,17 +1,17 @@
 {
     "Player Name": "Thierry Patchou",
+    "MIN": "20",
     "FGM-A": "0-4",
     "3PM-A": "0-0",
     "FTM-A": "2-4",
     "OREB": "0",
     "DREB": "4",
     "REB": "4",
+    "AST": "0",
+    "STL": "0",
+    "BLK": "0",
+    "TO": "5",
     "PF": "2",
     "TP": "2",
-    "AST": "0",
-    "TO": "5",
-    "BLK": "0",
-    "STL": "0",
-    "MIN": "20",
     "eventDateFormatted": "Nov 22"
 }

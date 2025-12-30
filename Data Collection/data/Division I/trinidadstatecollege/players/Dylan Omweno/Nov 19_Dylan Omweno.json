@@ -1,17 +1,17 @@
 {
     "Player Name": "Dylan Omweno",
+    "MIN": "31",
     "FGM-A": "5-11",
     "3PM-A": "2-6",
     "FTM-A": "0-0",
     "OREB": "2",
     "DREB": "4",
     "REB": "6",
+    "AST": "3",
+    "STL": "2",
+    "BLK": "0",
+    "TO": "2",
     "PF": "4",
     "TP": "12",
-    "AST": "3",
-    "TO": "2",
-    "BLK": "0",
-    "STL": "2",
-    "MIN": "31",
     "eventDateFormatted": "Nov 19"
 }

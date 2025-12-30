@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Feb 21",
+    "boxScoreLink": "20260221_8hug.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Lake Land College",
+                "result": "",
+                "teamId": "up8htjrx7rbz71qw",
+                "winner": false,
+                "cleanName": "lake land col"
+            },
+            {
+                "name": "Southwestern Illinois College",
+                "result": "",
+                "teamId": "t093fqpr0qktqr15",
+                "winner": false,
+                "cleanName": "southwestern illinois col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1771704000000,
+        "localTimeZone": "America/Chicago",
+        "tba": false,
+        "home": true,
+        "overall": true,
+        "conference": true,
+        "division": true,
+        "regional": true,
+        "national": true,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "8hug8gr9otsxt68s",
+        "fastdate": 1771704000000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Lake Land College",
+            "result": "",
+            "teamId": "up8htjrx7rbz71qw",
+            "winner": false,
+            "cleanName": "lake land col"
+        },
+        "us": {
+            "name": "Southwestern Illinois College",
+            "result": "",
+            "teamId": "t093fqpr0qktqr15",
+            "winner": false,
+            "cleanName": "southwestern illinois col"
+        },
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "February 21 03:00 PM:"
+}

@@ -1,17 +1,17 @@
 {
     "Player Name": "Kamon (KJ) Canty",
+    "MIN": "1",
     "FGM-A": "4-8",
     "3PM-A": "1-3",
     "FTM-A": "0-0",
     "OREB": "0",
     "DREB": "6",
     "REB": "6",
+    "AST": "0",
+    "STL": "1",
+    "BLK": "0",
+    "TO": "4",
     "PF": "1",
     "TP": "9",
-    "AST": "0",
-    "TO": "4",
-    "BLK": "0",
-    "STL": "1",
-    "MIN": "1",
     "eventDateFormatted": "Dec 8"
 }

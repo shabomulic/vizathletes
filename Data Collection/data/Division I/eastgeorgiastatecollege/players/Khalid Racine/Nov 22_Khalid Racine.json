@@ -1,17 +1,17 @@
 {
     "Player Name": "Khalid Racine",
+    "MIN": "24",
     "FGM-A": "3-6",
     "3PM-A": "3-5",
     "FTM-A": "1-2",
     "OREB": "2",
     "DREB": "1",
     "REB": "3",
+    "AST": "1",
+    "STL": "1",
+    "BLK": "0",
+    "TO": "2",
     "PF": "2",
     "TP": "10",
-    "AST": "1",
-    "TO": "2",
-    "BLK": "0",
-    "STL": "1",
-    "MIN": "24",
     "eventDateFormatted": "Nov 22"
 }

@@ -1,17 +1,17 @@
 {
     "Player Name": "Carlos Escalera",
+    "MIN": "30",
     "FGM-A": "5-12",
     "3PM-A": "0-2",
     "FTM-A": "3-4",
     "OREB": "0",
     "DREB": "1",
     "REB": "1",
+    "AST": "4",
+    "STL": "0",
+    "BLK": "0",
+    "TO": "5",
     "PF": "1",
     "TP": "13",
-    "AST": "4",
-    "TO": "5",
-    "BLK": "0",
-    "STL": "0",
-    "MIN": "30",
     "eventDateFormatted": "Nov 13"
 }

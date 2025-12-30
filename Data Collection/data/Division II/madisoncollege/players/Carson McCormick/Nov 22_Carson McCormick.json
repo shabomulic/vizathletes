@@ -1,17 +1,17 @@
 {
     "Player Name": "Carson McCormick",
+    "MIN": "26",
     "FGM-A": "6-17",
     "3PM-A": "5-15",
     "FTM-A": "5-5",
     "OREB": "1",
     "DREB": "3",
     "REB": "4",
+    "AST": "4",
+    "STL": "1",
+    "BLK": "0",
+    "TO": "1",
     "PF": "0",
     "TP": "22",
-    "AST": "4",
-    "TO": "1",
-    "BLK": "0",
-    "STL": "1",
-    "MIN": "26",
     "eventDateFormatted": "Nov 22"
 }

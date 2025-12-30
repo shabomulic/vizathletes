@@ -1,17 +1,17 @@
 {
     "Player Name": "Giovanni Ekoue-Bla",
+    "MIN": "27",
     "FGM-A": "2-8",
     "3PM-A": "1-1",
     "FTM-A": "4-4",
     "OREB": "0",
     "DREB": "1",
     "REB": "1",
+    "AST": "4",
+    "STL": "0",
+    "BLK": "1",
+    "TO": "2",
     "PF": "4",
     "TP": "9",
-    "AST": "4",
-    "TO": "2",
-    "BLK": "1",
-    "STL": "0",
-    "MIN": "27",
     "eventDateFormatted": "Dec 15"
 }

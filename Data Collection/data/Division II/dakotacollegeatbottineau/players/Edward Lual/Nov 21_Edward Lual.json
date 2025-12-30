@@ -1,17 +1,17 @@
 {
     "Player Name": "Edward Lual",
+    "MIN": "21",
     "FGM-A": "9-12",
     "3PM-A": "1-2",
     "FTM-A": "3-4",
     "OREB": "5",
     "DREB": "6",
     "REB": "11",
+    "AST": "0",
+    "STL": "2",
+    "BLK": "0",
+    "TO": "4",
     "PF": "1",
     "TP": "22",
-    "AST": "0",
-    "TO": "4",
-    "BLK": "0",
-    "STL": "2",
-    "MIN": "21",
     "eventDateFormatted": "Nov 21"
 }

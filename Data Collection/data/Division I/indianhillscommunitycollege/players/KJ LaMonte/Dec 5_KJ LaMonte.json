@@ -1,17 +1,17 @@
 {
     "Player Name": "KJ LaMonte",
+    "MIN": "26",
     "FGM-A": "5-8",
     "3PM-A": "2-3",
     "FTM-A": "3-3",
     "OREB": "0",
     "DREB": "2",
     "REB": "2",
+    "AST": "6",
+    "STL": "1",
+    "BLK": "0",
+    "TO": "2",
     "PF": "2",
     "TP": "15",
-    "AST": "6",
-    "TO": "2",
-    "BLK": "0",
-    "STL": "1",
-    "MIN": "26",
     "eventDateFormatted": "Dec 5"
 }

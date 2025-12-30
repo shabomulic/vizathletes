@@ -1,17 +1,17 @@
 {
     "Player Name": "Darian Leslie",
+    "MIN": "38",
     "FGM-A": "9-19",
     "3PM-A": "3-9",
     "FTM-A": "3-4",
     "OREB": "1",
     "DREB": "7",
     "REB": "8",
+    "AST": "5",
+    "STL": "0",
+    "BLK": "0",
+    "TO": "2",
     "PF": "2",
     "TP": "24",
-    "AST": "5",
-    "TO": "2",
-    "BLK": "0",
-    "STL": "0",
-    "MIN": "38",
     "eventDateFormatted": "Dec 3"
 }

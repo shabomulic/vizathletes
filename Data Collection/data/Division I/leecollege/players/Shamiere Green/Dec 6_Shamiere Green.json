@@ -1,17 +1,17 @@
 {
     "Player Name": "Shamiere Green",
+    "MIN": "1",
     "FGM-A": "3-12",
     "3PM-A": "0-0",
     "FTM-A": "8-9",
     "OREB": "1",
     "DREB": "6",
     "REB": "7",
+    "AST": "4",
+    "STL": "0",
+    "BLK": "4",
+    "TO": "2",
     "PF": "4",
     "TP": "14",
-    "AST": "4",
-    "TO": "2",
-    "BLK": "4",
-    "STL": "0",
-    "MIN": "1",
     "eventDateFormatted": "Dec 6"
 }

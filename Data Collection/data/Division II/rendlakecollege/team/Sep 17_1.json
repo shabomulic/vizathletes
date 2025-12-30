@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Sep 17",
+    "boxScoreLink": "20250917_01cf.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Rend Lake College",
+                "result": "",
+                "teamId": "blan21j27flx4c9r",
+                "winner": false,
+                "cleanName": "rend lake col"
+            },
+            {
+                "name": "Region 24 Tour",
+                "result": "",
+                "teamId": "yyke8doin2fm04qa",
+                "winner": false,
+                "cleanName": "region tour"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1758130200000,
+        "localTimeZone": "America/Chicago",
+        "tba": false,
+        "home": false,
+        "overall": true,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "01cfznnz9pd41igd",
+        "fastdate": 1758130200000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "Carterville",
+        "stateCountry": "IL",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "exhibition",
+            "description": "Exhibition",
+            "statsCount": false
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Region 24 Tour",
+            "result": "",
+            "teamId": "yyke8doin2fm04qa",
+            "winner": false,
+            "cleanName": "region tour"
+        },
+        "us": {
+            "name": "Rend Lake College",
+            "result": "",
+            "teamId": "blan21j27flx4c9r",
+            "winner": false,
+            "cleanName": "rend lake col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "September 17 01:30 PM:"
+}

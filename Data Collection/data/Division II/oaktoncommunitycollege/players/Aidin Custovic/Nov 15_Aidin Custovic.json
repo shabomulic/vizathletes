@@ -1,17 +1,17 @@
 {
     "Player Name": "Aidin Custovic",
+    "MIN": "28",
     "FGM-A": "6-6",
     "3PM-A": "1-1",
     "FTM-A": "0-0",
     "OREB": "2",
     "DREB": "6",
     "REB": "8",
+    "AST": "3",
+    "STL": "3",
+    "BLK": "1",
+    "TO": "2",
     "PF": "2",
     "TP": "13",
-    "AST": "3",
-    "TO": "2",
-    "BLK": "1",
-    "STL": "3",
-    "MIN": "28",
     "eventDateFormatted": "Nov 15"
 }

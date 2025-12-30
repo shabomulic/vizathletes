@@ -1,17 +1,17 @@
 {
     "Player Name": "Kaleb Siler",
+    "MIN": "1",
     "FGM-A": "5-8",
     "3PM-A": "0-0",
     "FTM-A": "8-12",
     "OREB": "4",
     "DREB": "6",
     "REB": "10",
+    "AST": "0",
+    "STL": "1",
+    "BLK": "0",
+    "TO": "3",
     "PF": "1",
     "TP": "18",
-    "AST": "0",
-    "TO": "3",
-    "BLK": "0",
-    "STL": "1",
-    "MIN": "1",
     "eventDateFormatted": "Nov 30"
 }

@@ -1,17 +1,17 @@
 {
     "Player Name": "Jaiden Martin",
+    "MIN": "36",
     "FGM-A": "14-19",
     "3PM-A": "3-4",
     "FTM-A": "11-11",
     "OREB": "2",
     "DREB": "2",
     "REB": "4",
+    "AST": "4",
+    "STL": "0",
+    "BLK": "1",
+    "TO": "0",
     "PF": "3",
     "TP": "42",
-    "AST": "4",
-    "TO": "0",
-    "BLK": "1",
-    "STL": "0",
-    "MIN": "36",
     "eventDateFormatted": "Nov 5"
 }

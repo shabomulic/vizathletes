@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Jan 31",
+    "boxScoreLink": "20260131_sld6.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Community Christian (Mich.)",
+                "result": "",
+                "teamId": "rv3q73sh2g1t47t9",
+                "winner": false,
+                "cleanName": "community christian mich"
+            },
+            {
+                "name": "Jefferson College",
+                "result": "",
+                "teamId": "tar5fy48wxcs5dlw",
+                "winner": false,
+                "cleanName": "jefferson col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1769889600000,
+        "localTimeZone": "America/New_York",
+        "tba": false,
+        "home": true,
+        "overall": true,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "sld6v1ymvv8aq6d7",
+        "fastdate": 1769889600000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Community Christian (Mich.)",
+            "result": "",
+            "teamId": "rv3q73sh2g1t47t9",
+            "winner": false,
+            "cleanName": "community christian mich"
+        },
+        "us": {
+            "name": "Jefferson College",
+            "result": "",
+            "teamId": "tar5fy48wxcs5dlw",
+            "winner": false,
+            "cleanName": "jefferson col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "January 31 03:00 PM:"
+}

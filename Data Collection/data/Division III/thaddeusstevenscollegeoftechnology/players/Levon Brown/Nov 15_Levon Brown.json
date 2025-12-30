@@ -1,17 +1,17 @@
 {
     "Player Name": "Levon Brown",
+    "MIN": "30",
     "FGM-A": "8-16",
     "3PM-A": "1-1",
     "FTM-A": "4-6",
     "OREB": "1",
     "DREB": "4",
     "REB": "5",
+    "AST": "1",
+    "STL": "2",
+    "BLK": "0",
+    "TO": "0",
     "PF": "0",
     "TP": "21",
-    "AST": "1",
-    "TO": "0",
-    "BLK": "0",
-    "STL": "2",
-    "MIN": "30",
     "eventDateFormatted": "Nov 15"
 }

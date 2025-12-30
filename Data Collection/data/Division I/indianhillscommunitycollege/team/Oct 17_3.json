@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Oct 17",
+    "boxScoreLink": "20251017_10sz.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Indian Hills Community College",
+                "result": "",
+                "teamId": "ovzmia8ifzqijipj",
+                "winner": false,
+                "cleanName": "indian hills community col"
+            },
+            {
+                "name": "Link Academy",
+                "result": "",
+                "teamId": "aic7p2q4hx7xsccn",
+                "winner": false,
+                "cleanName": "link academy"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1760739300000,
+        "localTimeZone": "America/Chicago",
+        "tba": false,
+        "home": false,
+        "overall": false,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "Overland Park, KS",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "10szzki8qg6jpgp5",
+        "fastdate": 1760739300000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "Overland Park, KS",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "exhibition",
+            "description": "Exhibition",
+            "statsCount": false
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Link Academy",
+            "result": "",
+            "teamId": "aic7p2q4hx7xsccn",
+            "winner": false,
+            "cleanName": "link academy"
+        },
+        "us": {
+            "name": "Indian Hills Community College",
+            "result": "",
+            "teamId": "ovzmia8ifzqijipj",
+            "winner": false,
+            "cleanName": "indian hills community col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "October 17 06:15 PM:"
+}

@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Jan 17",
+    "boxScoreLink": "20260117_umsw.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Elgin Community College",
+                "result": "",
+                "teamId": "f1r4uao8u4ind43q",
+                "winner": false,
+                "cleanName": "elgin community col"
+            },
+            {
+                "name": "Indian Hills Community College",
+                "result": "",
+                "teamId": "ovzmia8ifzqijipj",
+                "winner": false,
+                "cleanName": "indian hills community col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "Ottumwa, IA",
+        "date": 1768694400000,
+        "localTimeZone": "America/Chicago",
+        "tba": false,
+        "home": false,
+        "overall": true,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": true,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "umsw7o3wrkm9961f",
+        "fastdate": 1768694400000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": true,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Indian Hills Community College",
+            "result": "",
+            "teamId": "ovzmia8ifzqijipj",
+            "winner": false,
+            "cleanName": "indian hills community col"
+        },
+        "us": {
+            "name": "Elgin Community College",
+            "result": "",
+            "teamId": "f1r4uao8u4ind43q",
+            "winner": false,
+            "cleanName": "elgin community col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "January 17 07:00 PM:"
+}

@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Jan 19",
+    "boxScoreLink": "20260119_11tn.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Parkland College",
+                "result": "",
+                "teamId": "c823jtfiz0l6ndsq",
+                "winner": false,
+                "cleanName": "parkland col"
+            },
+            {
+                "name": "Lewis & Clark Community College",
+                "result": "",
+                "teamId": "zulxsmdd5drv096f",
+                "winner": false,
+                "cleanName": "lewis clark community col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1768852800000,
+        "localTimeZone": "America/Chicago",
+        "tba": false,
+        "home": false,
+        "overall": true,
+        "conference": true,
+        "division": true,
+        "regional": true,
+        "national": true,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "11tn5myd42dm06b5",
+        "fastdate": 1768852800000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "5800 Godfrey Rd",
+        "city": "Godfrey",
+        "stateCountry": "Madison",
+        "zipCode": "62035",
+        "venue": "George C Terry Riverbend Arena",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Lewis & Clark Community College",
+            "result": "",
+            "teamId": "zulxsmdd5drv096f",
+            "winner": false,
+            "cleanName": "lewis clark community col"
+        },
+        "us": {
+            "name": "Parkland College",
+            "result": "",
+            "teamId": "c823jtfiz0l6ndsq",
+            "winner": false,
+            "cleanName": "parkland col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "January 19 03:00 PM:"
+}

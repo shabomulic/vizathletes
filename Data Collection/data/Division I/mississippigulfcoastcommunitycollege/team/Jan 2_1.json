@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Jan 2",
+    "boxScoreLink": "20260102_ft7j.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Piney Woods Post Grad",
+                "result": "",
+                "teamId": "yftlzzyp48g4py2w",
+                "winner": false,
+                "cleanName": "piney woods post grad"
+            },
+            {
+                "name": "Mississippi Gulf Coast Community College",
+                "result": "",
+                "teamId": "jxkq4mk8bbhnvbfe",
+                "winner": false,
+                "cleanName": "mississippi gulf coast community col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1767380400000,
+        "localTimeZone": "America/Chicago",
+        "tba": false,
+        "home": true,
+        "overall": true,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "ft7jpb4im074aeav",
+        "fastdate": 1767380400000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Piney Woods Post Grad",
+            "result": "",
+            "teamId": "yftlzzyp48g4py2w",
+            "winner": false,
+            "cleanName": "piney woods post grad"
+        },
+        "us": {
+            "name": "Mississippi Gulf Coast Community College",
+            "result": "",
+            "teamId": "jxkq4mk8bbhnvbfe",
+            "winner": false,
+            "cleanName": "mississippi gulf coast community col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "January 2 02:00 PM:"
+}

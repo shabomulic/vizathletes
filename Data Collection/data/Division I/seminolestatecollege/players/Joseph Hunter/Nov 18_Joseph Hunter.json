@@ -1,17 +1,17 @@
 {
     "Player Name": "Joseph Hunter",
+    "MIN": "29",
     "FGM-A": "15-15",
     "3PM-A": "0-0",
     "FTM-A": "2-3",
     "OREB": "2",
     "DREB": "8",
     "REB": "10",
+    "AST": "10",
+    "STL": "5",
+    "BLK": "0",
+    "TO": "3",
     "PF": "1",
     "TP": "32",
-    "AST": "10",
-    "TO": "3",
-    "BLK": "0",
-    "STL": "5",
-    "MIN": "29",
     "eventDateFormatted": "Nov 18"
 }

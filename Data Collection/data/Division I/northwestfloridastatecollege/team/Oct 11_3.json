@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Oct 11",
+    "boxScoreLink": "20251011_wefd.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Midland College",
+                "result": "",
+                "teamId": "9ur35hj29a08bkvz",
+                "winner": false,
+                "cleanName": "midland col"
+            },
+            {
+                "name": "Northwest Florida State College",
+                "result": "",
+                "teamId": "rkhchb37q521n34p",
+                "winner": false,
+                "cleanName": "northwest florida st col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "JUCO All-American Jamboree",
+        "date": 1760155200000,
+        "localTimeZone": "America/Chicago",
+        "tba": true,
+        "home": true,
+        "overall": false,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "wefd45qd8d0nkcp7",
+        "fastdate": 1760155200000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "scrimmage",
+            "description": "Scrimmage",
+            "statsCount": false
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Midland College",
+            "result": "",
+            "teamId": "9ur35hj29a08bkvz",
+            "winner": false,
+            "cleanName": "midland col"
+        },
+        "us": {
+            "name": "Northwest Florida State College",
+            "result": "",
+            "teamId": "rkhchb37q521n34p",
+            "winner": false,
+            "cleanName": "northwest florida st col"
+        },
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "October 11 12:00 AM:"
+}

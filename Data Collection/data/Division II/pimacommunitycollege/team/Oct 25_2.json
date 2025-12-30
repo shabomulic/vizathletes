@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Oct 25",
+    "boxScoreLink": "20251025_wnqw.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Grand Canyon University JV",
+                "result": "",
+                "teamId": "zawmde98zpbbczo0",
+                "winner": false,
+                "cleanName": "grand canyon univ jv"
+            },
+            {
+                "name": "Pima Community College",
+                "result": "",
+                "teamId": "qulb4yrssxonevcn",
+                "winner": false,
+                "cleanName": "pima community col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "West Campus Aztec Gymnasium",
+        "date": 1761415200000,
+        "localTimeZone": "America/Phoenix",
+        "tba": false,
+        "home": true,
+        "overall": false,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "wnqw3r7j8ysvzqu2",
+        "fastdate": 1761415200000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "exhibition",
+            "description": "Exhibition",
+            "statsCount": false
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Grand Canyon University JV",
+            "result": "",
+            "teamId": "zawmde98zpbbczo0",
+            "winner": false,
+            "cleanName": "grand canyon univ jv"
+        },
+        "us": {
+            "name": "Pima Community College",
+            "result": "",
+            "teamId": "qulb4yrssxonevcn",
+            "winner": false,
+            "cleanName": "pima community col"
+        },
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "October 25 02:00 PM:"
+}

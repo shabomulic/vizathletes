@@ -1,17 +1,17 @@
 {
     "Player Name": "Justin O'Neal",
+    "MIN": "34",
     "FGM-A": "1-2",
     "3PM-A": "1-2",
     "FTM-A": "4-6",
     "OREB": "1",
     "DREB": "13",
     "REB": "14",
+    "AST": "1",
+    "STL": "0",
+    "BLK": "1",
+    "TO": "7",
     "PF": "2",
     "TP": "7",
-    "AST": "1",
-    "TO": "7",
-    "BLK": "1",
-    "STL": "0",
-    "MIN": "34",
     "eventDateFormatted": "Nov 19"
 }

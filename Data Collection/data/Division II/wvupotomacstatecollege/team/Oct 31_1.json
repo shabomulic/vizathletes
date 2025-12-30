@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Oct 31",
+    "boxScoreLink": "20251031_9cuk.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "WVU Potomac State College",
+                "result": "",
+                "teamId": "wty3wxndcauiags7",
+                "winner": false,
+                "cleanName": "wvu potomac st col"
+            },
+            {
+                "name": "West Virginia State",
+                "result": "",
+                "teamId": "masw4mbja3v4kyn6",
+                "winner": false,
+                "cleanName": "w virginia st"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1761937200000,
+        "localTimeZone": "America/New_York",
+        "tba": false,
+        "home": false,
+        "overall": false,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "9cukik8l6tqdffgi",
+        "fastdate": 1761937200000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "scrimmage",
+            "description": "Scrimmage",
+            "statsCount": false
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "West Virginia State",
+            "result": "",
+            "teamId": "masw4mbja3v4kyn6",
+            "winner": false,
+            "cleanName": "w virginia st"
+        },
+        "us": {
+            "name": "WVU Potomac State College",
+            "result": "",
+            "teamId": "wty3wxndcauiags7",
+            "winner": false,
+            "cleanName": "wvu potomac st col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "October 31 03:00 PM:"
+}

@@ -1,17 +1,17 @@
 {
     "Player Name": "Dion Doyle",
+    "MIN": "1",
     "FGM-A": "5-9",
     "3PM-A": "1-1",
     "FTM-A": "1-1",
     "OREB": "2",
     "DREB": "2",
     "REB": "4",
+    "AST": "4",
+    "STL": "3",
+    "BLK": "0",
+    "TO": "5",
     "PF": "2",
     "TP": "12",
-    "AST": "4",
-    "TO": "5",
-    "BLK": "0",
-    "STL": "3",
-    "MIN": "1",
     "eventDateFormatted": "Nov 24"
 }

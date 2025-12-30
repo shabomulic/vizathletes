@@ -1,17 +1,17 @@
 {
     "Player Name": "Semaj Washington",
+    "MIN": "1",
     "FGM-A": "2-10",
     "3PM-A": "0-3",
     "FTM-A": "0-0",
     "OREB": "0",
     "DREB": "3",
     "REB": "3",
+    "AST": "3",
+    "STL": "1",
+    "BLK": "0",
+    "TO": "2",
     "PF": "5",
     "TP": "4",
-    "AST": "3",
-    "TO": "2",
-    "BLK": "0",
-    "STL": "1",
-    "MIN": "1",
     "eventDateFormatted": "Nov 15"
 }

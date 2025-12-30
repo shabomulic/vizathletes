@@ -1,17 +1,17 @@
 {
-    "Player Name": "Sean Register Jr",
+    "Player Name": "Sean Register Jr.",
+    "MIN": "39",
     "FGM-A": "10-16",
     "3PM-A": "0-2",
     "FTM-A": "4-8",
     "OREB": "4",
     "DREB": "8",
     "REB": "12",
+    "AST": "3",
+    "STL": "1",
+    "BLK": "0",
+    "TO": "4",
     "PF": "1",
     "TP": "24",
-    "AST": "3",
-    "TO": "4",
-    "BLK": "0",
-    "STL": "1",
-    "MIN": "39",
     "eventDateFormatted": "Nov 15"
 }

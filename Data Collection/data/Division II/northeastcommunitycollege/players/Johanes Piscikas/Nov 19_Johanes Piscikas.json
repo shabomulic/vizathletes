@@ -1,17 +1,17 @@
 {
     "Player Name": "Johanes Piscikas",
+    "MIN": "26",
     "FGM-A": "10-20",
     "3PM-A": "4-5",
     "FTM-A": "2-3",
     "OREB": "4",
     "DREB": "3",
     "REB": "7",
+    "AST": "1",
+    "STL": "3",
+    "BLK": "1",
+    "TO": "2",
     "PF": "2",
     "TP": "26",
-    "AST": "1",
-    "TO": "2",
-    "BLK": "1",
-    "STL": "3",
-    "MIN": "26",
     "eventDateFormatted": "Nov 19"
 }

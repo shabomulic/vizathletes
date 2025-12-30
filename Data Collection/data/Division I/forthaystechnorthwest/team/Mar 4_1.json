@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Mar 4",
+    "boxScoreLink": "20260304_4tiu.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Hutchinson Community College",
+                "result": "",
+                "teamId": "pc72uz7fojm87pro",
+                "winner": false,
+                "cleanName": "hutchinson community col"
+            },
+            {
+                "name": "Fort Hays Tech Northwest",
+                "result": "",
+                "teamId": "vxc4dwl1888maiyg",
+                "winner": false,
+                "cleanName": "fort hays tech northwest"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "Max L. Jones Fieldhouse | Goodland, KS",
+        "date": 1772670600000,
+        "localTimeZone": "America/Denver",
+        "tba": false,
+        "home": true,
+        "overall": true,
+        "conference": true,
+        "division": false,
+        "regional": false,
+        "national": true,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "4tiu22mr01bjvi15",
+        "fastdate": 1772670600000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": "prestosports"
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": true,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Hutchinson Community College",
+            "result": "",
+            "teamId": "pc72uz7fojm87pro",
+            "winner": false,
+            "cleanName": "hutchinson community col"
+        },
+        "us": {
+            "name": "Fort Hays Tech Northwest",
+            "result": "",
+            "teamId": "vxc4dwl1888maiyg",
+            "winner": false,
+            "cleanName": "fort hays tech northwest"
+        },
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "March 4 07:30 PM:"
+}

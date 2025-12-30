@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Jan 26",
+    "boxScoreLink": "20260126_t7cu.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Seminole State College",
+                "result": "",
+                "teamId": "21yctr3i114afpx4",
+                "winner": false,
+                "cleanName": "seminole st col"
+            },
+            {
+                "name": "Redlands Community College",
+                "result": "",
+                "teamId": "49pazd0dt56oo0sy",
+                "winner": false,
+                "cleanName": "redlands community col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "El Reno, OK",
+        "date": 1769473800000,
+        "localTimeZone": "America/Chicago",
+        "tba": false,
+        "home": false,
+        "overall": true,
+        "conference": true,
+        "division": false,
+        "regional": true,
+        "national": true,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "t7cuvwqx734o77th",
+        "fastdate": 1769473800000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "1300 S Country Club Rd",
+        "city": "El Reno",
+        "stateCountry": "Oklahoma",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "numericResults": [],
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Redlands Community College",
+            "result": "",
+            "teamId": "49pazd0dt56oo0sy",
+            "winner": false,
+            "cleanName": "redlands community col"
+        },
+        "us": {
+            "name": "Seminole State College",
+            "result": "",
+            "teamId": "21yctr3i114afpx4",
+            "winner": false,
+            "cleanName": "seminole st col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "numericResults": [],
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "January 26 07:30 PM:"
+}

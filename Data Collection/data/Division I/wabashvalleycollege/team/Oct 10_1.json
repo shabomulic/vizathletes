@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Oct 10",
+    "boxScoreLink": "20251010_sge8.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Wabash Valley College",
+                "result": "",
+                "teamId": "auuqnxp8fj1c106k",
+                "winner": false,
+                "cleanName": "wabash valley col"
+            },
+            {
+                "name": "Fort Hays Tech Northwest",
+                "result": "",
+                "teamId": "vxc4dwl1888maiyg",
+                "winner": false,
+                "cleanName": "fort hays tech northwest"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1760104800000,
+        "localTimeZone": "America/Denver",
+        "tba": false,
+        "home": false,
+        "overall": false,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "Midwest JUCO Jamboree",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "sge8kzfawin1zex2",
+        "fastdate": 1760104800000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "scrimmage",
+            "description": "Scrimmage",
+            "statsCount": false
+        },
+        "us": {
+            "name": "Wabash Valley College",
+            "result": "",
+            "teamId": "auuqnxp8fj1c106k",
+            "winner": false,
+            "cleanName": "wabash valley col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Fort Hays Tech Northwest",
+            "result": "",
+            "teamId": "vxc4dwl1888maiyg",
+            "winner": false,
+            "cleanName": "fort hays tech northwest"
+        },
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "October 10 10:00 AM:"
+}

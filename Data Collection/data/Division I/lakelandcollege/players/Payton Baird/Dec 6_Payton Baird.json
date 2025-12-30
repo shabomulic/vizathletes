@@ -1,17 +1,17 @@
 {
     "Player Name": "Payton Baird",
+    "MIN": "27",
     "FGM-A": "9-12",
     "3PM-A": "0-1",
     "FTM-A": "2-3",
     "OREB": "2",
     "DREB": "6",
     "REB": "8",
+    "AST": "2",
+    "STL": "2",
+    "BLK": "1",
+    "TO": "1",
     "PF": "3",
     "TP": "20",
-    "AST": "2",
-    "TO": "1",
-    "BLK": "1",
-    "STL": "2",
-    "MIN": "27",
     "eventDateFormatted": "Dec 6"
 }

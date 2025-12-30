@@ -1,17 +1,17 @@
 {
     "Player Name": "James Browning",
+    "MIN": "30",
     "FGM-A": "0-2",
     "3PM-A": "0-0",
     "FTM-A": "2-5",
     "OREB": "5",
     "DREB": "14",
     "REB": "19",
+    "AST": "1",
+    "STL": "1",
+    "BLK": "0",
+    "TO": "2",
     "PF": "4",
     "TP": "2",
-    "AST": "1",
-    "TO": "2",
-    "BLK": "0",
-    "STL": "1",
-    "MIN": "30",
     "eventDateFormatted": "Nov 15"
 }

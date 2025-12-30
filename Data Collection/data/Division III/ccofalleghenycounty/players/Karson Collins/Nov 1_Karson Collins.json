@@ -1,17 +1,17 @@
 {
     "Player Name": "Karson Collins",
+    "MIN": "1",
     "FGM-A": "4-11",
     "3PM-A": "3-9",
     "FTM-A": "7-10",
     "OREB": "1",
     "DREB": "0",
     "REB": "1",
+    "AST": "3",
+    "STL": "1",
+    "BLK": "0",
+    "TO": "4",
     "PF": "2",
     "TP": "18",
-    "AST": "3",
-    "TO": "4",
-    "BLK": "0",
-    "STL": "1",
-    "MIN": "1",
     "eventDateFormatted": "Nov 1"
 }

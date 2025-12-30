@@ -1,17 +1,17 @@
 {
     "Player Name": "Jordan Burgess",
+    "MIN": "34",
     "FGM-A": "2-8",
     "3PM-A": "1-3",
     "FTM-A": "0-0",
     "OREB": "1",
     "DREB": "3",
     "REB": "4",
+    "AST": "2",
+    "STL": "2",
+    "BLK": "0",
+    "TO": "1",
     "PF": "1",
     "TP": "5",
-    "AST": "2",
-    "TO": "1",
-    "BLK": "0",
-    "STL": "2",
-    "MIN": "34",
     "eventDateFormatted": "Nov 15"
 }

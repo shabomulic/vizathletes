@@ -1,17 +1,17 @@
 {
     "Player Name": "Aymen Kraria",
+    "MIN": "24",
     "FGM-A": "2-5",
     "3PM-A": "0-3",
     "FTM-A": "2-4",
     "OREB": "1",
     "DREB": "5",
     "REB": "6",
+    "AST": "7",
+    "STL": "1",
+    "BLK": "1",
+    "TO": "4",
     "PF": "2",
     "TP": "6",
-    "AST": "7",
-    "TO": "4",
-    "BLK": "1",
-    "STL": "1",
-    "MIN": "24",
     "eventDateFormatted": "Nov 28"
 }

@@ -1,17 +1,17 @@
 {
     "Player Name": "Brad Ballinger",
+    "MIN": "21",
     "FGM-A": "1-8",
     "3PM-A": "1-6",
     "FTM-A": "2-2",
     "OREB": "0",
     "DREB": "2",
     "REB": "2",
+    "AST": "0",
+    "STL": "1",
+    "BLK": "0",
+    "TO": "5",
     "PF": "2",
     "TP": "5",
-    "AST": "0",
-    "TO": "5",
-    "BLK": "0",
-    "STL": "1",
-    "MIN": "21",
     "eventDateFormatted": "Oct 31"
 }

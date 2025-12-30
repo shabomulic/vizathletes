@@ -1,17 +1,17 @@
 {
     "Player Name": "Jeremy Anderson",
+    "MIN": "33",
     "FGM-A": "8-15",
     "3PM-A": "0-0",
     "FTM-A": "6-6",
     "OREB": "3",
     "DREB": "7",
     "REB": "10",
+    "AST": "0",
+    "STL": "2",
+    "BLK": "0",
+    "TO": "0",
     "PF": "2",
     "TP": "22",
-    "AST": "0",
-    "TO": "0",
-    "BLK": "0",
-    "STL": "2",
-    "MIN": "33",
     "eventDateFormatted": "Dec 20"
 }

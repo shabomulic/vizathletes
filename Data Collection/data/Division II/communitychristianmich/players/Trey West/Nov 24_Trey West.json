@@ -1,17 +1,17 @@
 {
     "Player Name": "Trey West",
+    "MIN": "34",
     "FGM-A": "1-10",
     "3PM-A": "0-0",
     "FTM-A": "4-4",
     "OREB": "3",
     "DREB": "2",
     "REB": "5",
+    "AST": "0",
+    "STL": "0",
+    "BLK": "1",
+    "TO": "4",
     "PF": "0",
     "TP": "6",
-    "AST": "0",
-    "TO": "4",
-    "BLK": "1",
-    "STL": "0",
-    "MIN": "34",
     "eventDateFormatted": "Nov 24"
 }

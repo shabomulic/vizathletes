@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Oct 11",
+    "boxScoreLink": "20251011_e7od.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Prince George's Community College",
+                "result": "",
+                "teamId": "scxcyv3pyuq0wbgu",
+                "winner": false,
+                "cleanName": "prince george s community col"
+            },
+            {
+                "name": "Bryant & Stratton College (VA) @12:20, Virginia Peninsula CC @3:50",
+                "result": "",
+                "teamId": "y4itcwlg3i8cxq5h",
+                "winner": false,
+                "cleanName": "bryant stratton col va virginia peninsula cc"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1760155200000,
+        "localTimeZone": "America/New_York",
+        "tba": true,
+        "home": false,
+        "overall": false,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "e7odte2hi1c6zr0e",
+        "fastdate": 1760155200000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "preSeason",
+            "description": "Pre-Season",
+            "statsCount": true
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Bryant & Stratton College (VA) @12:20, Virginia Peninsula CC @3:50",
+            "result": "",
+            "teamId": "y4itcwlg3i8cxq5h",
+            "winner": false,
+            "cleanName": "bryant stratton col va virginia peninsula cc"
+        },
+        "us": {
+            "name": "Prince George's Community College",
+            "result": "",
+            "teamId": "scxcyv3pyuq0wbgu",
+            "winner": false,
+            "cleanName": "prince george s community col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "October 11 12:00 AM:"
+}

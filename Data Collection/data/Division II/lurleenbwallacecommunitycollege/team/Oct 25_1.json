@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Oct 25",
+    "boxScoreLink": "20251025_e1oi.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Auburn University Montgomery",
+                "result": "",
+                "teamId": "h8ysfja7le1uh6je",
+                "winner": false,
+                "cleanName": "auburn univ montgomery"
+            },
+            {
+                "name": "Lurleen B. Wallace Community College",
+                "result": "",
+                "teamId": "hyab6gjkotc1knxy",
+                "winner": false,
+                "cleanName": "lurleen b wallace community col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1761411600000,
+        "localTimeZone": "America/Chicago",
+        "tba": false,
+        "home": true,
+        "overall": false,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "e1oizunwa1lvuwgq",
+        "fastdate": 1761411600000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": true,
+        "eventType": {
+            "code": "scrimmage",
+            "description": "Scrimmage",
+            "statsCount": false
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Auburn University Montgomery",
+            "result": "",
+            "teamId": "h8ysfja7le1uh6je",
+            "winner": false,
+            "cleanName": "auburn univ montgomery"
+        },
+        "us": {
+            "name": "Lurleen B. Wallace Community College",
+            "result": "",
+            "teamId": "hyab6gjkotc1knxy",
+            "winner": false,
+            "cleanName": "lurleen b wallace community col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "October 25 01:00 PM:"
+}

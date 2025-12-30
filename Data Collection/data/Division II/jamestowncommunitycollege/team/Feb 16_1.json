@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Feb 16",
+    "boxScoreLink": "20260216_6jy2.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Jamestown Community College",
+                "result": "",
+                "teamId": "7ank172l042mkm04",
+                "winner": false,
+                "cleanName": "jamestown community col"
+            },
+            {
+                "name": "Hocking College",
+                "result": "",
+                "teamId": "ewzncgle2en9pk7y",
+                "winner": false,
+                "cleanName": "hocking col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1771288200000,
+        "localTimeZone": "America/New_York",
+        "tba": false,
+        "home": false,
+        "overall": true,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": true,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "6jy235v1tqoqsvpd",
+        "fastdate": 1771288200000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Hocking College",
+            "result": "",
+            "teamId": "ewzncgle2en9pk7y",
+            "winner": false,
+            "cleanName": "hocking col"
+        },
+        "us": {
+            "name": "Jamestown Community College",
+            "result": "",
+            "teamId": "7ank172l042mkm04",
+            "winner": false,
+            "cleanName": "jamestown community col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "February 16 07:30 PM:"
+}

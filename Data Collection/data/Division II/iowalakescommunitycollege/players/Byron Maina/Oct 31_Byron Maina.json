@@ -1,17 +1,17 @@
 {
     "Player Name": "Byron Maina",
+    "MIN": "25",
     "FGM-A": "2-6",
     "3PM-A": "2-5",
     "FTM-A": "1-2",
     "OREB": "0",
     "DREB": "3",
     "REB": "3",
+    "AST": "2",
+    "STL": "2",
+    "BLK": "0",
+    "TO": "1",
     "PF": "1",
     "TP": "7",
-    "AST": "2",
-    "TO": "1",
-    "BLK": "0",
-    "STL": "2",
-    "MIN": "25",
     "eventDateFormatted": "Oct 31"
 }

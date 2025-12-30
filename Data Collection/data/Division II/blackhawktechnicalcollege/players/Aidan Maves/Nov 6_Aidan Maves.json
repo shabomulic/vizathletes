@@ -1,17 +1,17 @@
 {
     "Player Name": "Aidan Maves",
+    "MIN": "1",
     "FGM-A": "2-4",
     "3PM-A": "1-1",
     "FTM-A": "0-0",
     "OREB": "0",
     "DREB": "3",
     "REB": "3",
+    "AST": "1",
+    "STL": "1",
+    "BLK": "0",
+    "TO": "2",
     "PF": "1",
     "TP": "5",
-    "AST": "1",
-    "TO": "2",
-    "BLK": "0",
-    "STL": "1",
-    "MIN": "1",
     "eventDateFormatted": "Nov 6"
 }

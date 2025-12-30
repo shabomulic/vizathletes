@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Jan 21",
+    "boxScoreLink": "20260121_tfg4.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "United Tribes Technical College",
+                "result": "",
+                "teamId": "uk516g77jofrdfkp",
+                "winner": false,
+                "cleanName": "united tribes technical col"
+            },
+            {
+                "name": "Lake Region State College - ND",
+                "result": "",
+                "teamId": "s42qhbgv53n64dcn",
+                "winner": false,
+                "cleanName": "lake region st col nd"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1769045400000,
+        "localTimeZone": "America/Chicago",
+        "tba": false,
+        "home": false,
+        "overall": true,
+        "conference": true,
+        "division": false,
+        "regional": false,
+        "national": true,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "tfg4kmmcjm4hwyzn",
+        "fastdate": 1769045400000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "1601 College Drive N, Devils Lake, ND 58301",
+        "city": "Devils Lake",
+        "stateCountry": "North Dakota",
+        "zipCode": "58301",
+        "venue": "Sport Center",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Lake Region State College - ND",
+            "result": "",
+            "teamId": "s42qhbgv53n64dcn",
+            "winner": false,
+            "cleanName": "lake region st col nd"
+        },
+        "us": {
+            "name": "United Tribes Technical College",
+            "result": "",
+            "teamId": "uk516g77jofrdfkp",
+            "winner": false,
+            "cleanName": "united tribes technical col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "January 21 08:30 PM:"
+}

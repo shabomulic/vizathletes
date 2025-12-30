@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Feb 11",
+    "boxScoreLink": "20260211_67s2.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "McCook Community College",
+                "result": "",
+                "teamId": "q4an22ykb2ffrhpa",
+                "winner": false,
+                "cleanName": "mccook community col"
+            },
+            {
+                "name": "North Platte Community College",
+                "result": "",
+                "teamId": "k5ubq4182upqgb24",
+                "winner": false,
+                "cleanName": "n platte community col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "North Platte, Neb.",
+        "date": 1770854400000,
+        "localTimeZone": "America/Chicago",
+        "tba": false,
+        "home": true,
+        "overall": true,
+        "conference": true,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "67s2ij2kvs7rc6nw",
+        "fastdate": 1770854400000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "McCook Community College",
+            "result": "",
+            "teamId": "q4an22ykb2ffrhpa",
+            "winner": false,
+            "cleanName": "mccook community col"
+        },
+        "us": {
+            "name": "North Platte Community College",
+            "result": "",
+            "teamId": "k5ubq4182upqgb24",
+            "winner": false,
+            "cleanName": "n platte community col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "February 11 07:00 PM:"
+}

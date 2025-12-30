@@ -1,17 +1,17 @@
 {
     "Player Name": "ODELL BRADLEY IV",
+    "MIN": "1",
     "FGM-A": "8-20",
     "3PM-A": "2-4",
     "FTM-A": "5-7",
     "OREB": "2",
     "DREB": "6",
     "REB": "8",
+    "AST": "3",
+    "STL": "1",
+    "BLK": "0",
+    "TO": "3",
     "PF": "0",
     "TP": "23",
-    "AST": "3",
-    "TO": "3",
-    "BLK": "0",
-    "STL": "1",
-    "MIN": "1",
     "eventDateFormatted": "Nov 15"
 }

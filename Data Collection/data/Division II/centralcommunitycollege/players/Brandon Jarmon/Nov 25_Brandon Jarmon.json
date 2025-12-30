@@ -1,17 +1,17 @@
 {
     "Player Name": "Brandon Jarmon",
+    "MIN": "30",
     "FGM-A": "8-14",
     "3PM-A": "1-6",
     "FTM-A": "0-0",
     "OREB": "2",
     "DREB": "5",
     "REB": "7",
+    "AST": "5",
+    "STL": "1",
+    "BLK": "0",
+    "TO": "2",
     "PF": "1",
     "TP": "17",
-    "AST": "5",
-    "TO": "2",
-    "BLK": "0",
-    "STL": "1",
-    "MIN": "30",
     "eventDateFormatted": "Nov 25"
 }

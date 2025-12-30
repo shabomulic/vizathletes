@@ -1,17 +1,17 @@
 {
     "Player Name": "Emmanuel Okogie",
+    "MIN": "1",
     "FGM-A": "5-15",
     "3PM-A": "3-10",
     "FTM-A": "3-6",
     "OREB": "6",
     "DREB": "7",
     "REB": "13",
+    "AST": "7",
+    "STL": "2",
+    "BLK": "1",
+    "TO": "1",
     "PF": "2",
     "TP": "16",
-    "AST": "7",
-    "TO": "1",
-    "BLK": "1",
-    "STL": "2",
-    "MIN": "1",
     "eventDateFormatted": "Oct 31"
 }

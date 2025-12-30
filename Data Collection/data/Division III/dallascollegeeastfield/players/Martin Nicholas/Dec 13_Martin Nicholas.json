@@ -1,17 +1,17 @@
 {
     "Player Name": "Martin Nicholas",
+    "MIN": "1",
     "FGM-A": "8-12",
     "3PM-A": "2-2",
     "FTM-A": "1-2",
     "OREB": "2",
     "DREB": "12",
     "REB": "14",
+    "AST": "4",
+    "STL": "3",
+    "BLK": "0",
+    "TO": "1",
     "PF": "0",
     "TP": "19",
-    "AST": "4",
-    "TO": "1",
-    "BLK": "0",
-    "STL": "3",
-    "MIN": "1",
     "eventDateFormatted": "Dec 13"
 }

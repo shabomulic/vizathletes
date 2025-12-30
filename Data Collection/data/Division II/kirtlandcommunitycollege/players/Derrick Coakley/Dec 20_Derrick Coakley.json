@@ -1,17 +1,17 @@
 {
     "Player Name": "Derrick Coakley",
+    "MIN": "30",
     "FGM-A": "2-6",
     "3PM-A": "1-4",
     "FTM-A": "1-3",
     "OREB": "1",
     "DREB": "0",
     "REB": "1",
+    "AST": "4",
+    "STL": "0",
+    "BLK": "0",
+    "TO": "3",
     "PF": "4",
     "TP": "6",
-    "AST": "4",
-    "TO": "3",
-    "BLK": "0",
-    "STL": "0",
-    "MIN": "30",
     "eventDateFormatted": "Dec 20"
 }

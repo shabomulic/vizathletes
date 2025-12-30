@@ -1,17 +1,17 @@
 {
     "Player Name": "Amari Bryce-Johnson",
+    "MIN": "31",
     "FGM-A": "3-12",
     "3PM-A": "1-5",
     "FTM-A": "6-8",
     "OREB": "2",
     "DREB": "2",
     "REB": "4",
+    "AST": "4",
+    "STL": "4",
+    "BLK": "0",
+    "TO": "3",
     "PF": "2",
     "TP": "13",
-    "AST": "4",
-    "TO": "3",
-    "BLK": "0",
-    "STL": "4",
-    "MIN": "31",
     "eventDateFormatted": "Nov 7"
 }

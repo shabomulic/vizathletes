@@ -1,17 +1,17 @@
 {
     "Player Name": "Kamren Hayes",
+    "MIN": "21",
     "FGM-A": "8-16",
     "3PM-A": "4-9",
     "FTM-A": "1-1",
     "OREB": "0",
     "DREB": "3",
     "REB": "3",
+    "AST": "4",
+    "STL": "0",
+    "BLK": "1",
+    "TO": "4",
     "PF": "1",
     "TP": "21",
-    "AST": "4",
-    "TO": "4",
-    "BLK": "1",
-    "STL": "0",
-    "MIN": "21",
     "eventDateFormatted": "Nov 1"
 }

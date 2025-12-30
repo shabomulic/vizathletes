@@ -1,17 +1,17 @@
 {
     "Player Name": "David Frazier",
+    "MIN": "40:00",
     "FGM-A": "6-14",
     "3PM-A": "2-4",
     "FTM-A": "3-4",
     "OREB": "0",
     "DREB": "9",
     "REB": "9",
+    "AST": "1",
+    "STL": "2",
+    "BLK": "0",
+    "TO": "6",
     "PF": "4",
     "TP": "17",
-    "AST": "1",
-    "TO": "6",
-    "BLK": "0",
-    "STL": "2",
-    "MIN": "40:00",
     "eventDateFormatted": "Dec 6"
 }

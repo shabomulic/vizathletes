@@ -1,17 +1,17 @@
 {
     "Player Name": "Pierre Smith",
+    "MIN": "27",
     "FGM-A": "8-15",
     "3PM-A": "2-5",
     "FTM-A": "2-2",
     "OREB": "1",
     "DREB": "3",
     "REB": "4",
+    "AST": "0",
+    "STL": "2",
+    "BLK": "0",
+    "TO": "1",
     "PF": "4",
     "TP": "20",
-    "AST": "0",
-    "TO": "1",
-    "BLK": "0",
-    "STL": "2",
-    "MIN": "27",
     "eventDateFormatted": "Dec 6"
 }

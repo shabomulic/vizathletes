@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Dec 29",
+    "boxScoreLink": "20251229_emuk.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Strength 'N Motion",
+                "result": "",
+                "teamId": "e4ipmoi9oh552dkf",
+                "winner": false,
+                "cleanName": "strength n motion"
+            },
+            {
+                "name": "Temple College",
+                "result": "",
+                "teamId": "9ivjdnh23xy5iw2n",
+                "winner": false,
+                "cleanName": "temple col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1767034800000,
+        "localTimeZone": "America/Chicago",
+        "tba": false,
+        "home": true,
+        "overall": true,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "emukyldxua1gqah2",
+        "fastdate": 1767034800000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "Temple",
+        "stateCountry": "TX",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "us": {
+            "name": "Temple College",
+            "result": "",
+            "teamId": "9ivjdnh23xy5iw2n",
+            "winner": false,
+            "cleanName": "temple col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Strength 'N Motion",
+            "result": "",
+            "teamId": "e4ipmoi9oh552dkf",
+            "winner": false,
+            "cleanName": "strength n motion"
+        },
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "December 29 02:00 PM:"
+}

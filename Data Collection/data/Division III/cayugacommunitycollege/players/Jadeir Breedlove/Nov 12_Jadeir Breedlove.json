@@ -1,17 +1,17 @@
 {
     "Player Name": "Jadeir Breedlove",
+    "MIN": "40",
     "FGM-A": "10-21",
     "3PM-A": "0-3",
     "FTM-A": "7-10",
     "OREB": "1",
     "DREB": "6",
     "REB": "7",
+    "AST": "9",
+    "STL": "2",
+    "BLK": "0",
+    "TO": "4",
     "PF": "2",
     "TP": "27",
-    "AST": "9",
-    "TO": "4",
-    "BLK": "0",
-    "STL": "2",
-    "MIN": "40",
     "eventDateFormatted": "Nov 12"
 }

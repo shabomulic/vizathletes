@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Jan 4",
+    "boxScoreLink": "20260104_abvg.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Franklin Prep",
+                "result": "",
+                "teamId": "33emq8k35rfhtzwr",
+                "winner": false,
+                "cleanName": "franklin prep"
+            },
+            {
+                "name": "USC Salkehatchie",
+                "result": "",
+                "teamId": "5ggr9ja725u11ojv",
+                "winner": false,
+                "cleanName": "usc salkehatchie"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1767556800000,
+        "localTimeZone": "America/New_York",
+        "tba": false,
+        "home": true,
+        "overall": true,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "abvg4kxe5i8t5rip",
+        "fastdate": 1767556800000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "807 Hampton Street",
+        "city": "Walterboro",
+        "stateCountry": "SC",
+        "zipCode": "29488",
+        "venue": "The Palace",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "us": {
+            "name": "USC Salkehatchie",
+            "result": "",
+            "teamId": "5ggr9ja725u11ojv",
+            "winner": false,
+            "cleanName": "usc salkehatchie"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Franklin Prep",
+            "result": "",
+            "teamId": "33emq8k35rfhtzwr",
+            "winner": false,
+            "cleanName": "franklin prep"
+        },
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "January 4 03:00 PM:"
+}

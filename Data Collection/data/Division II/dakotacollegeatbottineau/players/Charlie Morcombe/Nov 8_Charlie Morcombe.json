@@ -1,17 +1,17 @@
 {
     "Player Name": "Charlie Morcombe",
+    "MIN": "29",
     "FGM-A": "2-5",
     "3PM-A": "2-4",
     "FTM-A": "0-0",
     "OREB": "2",
     "DREB": "2",
     "REB": "4",
+    "AST": "0",
+    "STL": "2",
+    "BLK": "0",
+    "TO": "2",
     "PF": "3",
     "TP": "6",
-    "AST": "0",
-    "TO": "2",
-    "BLK": "0",
-    "STL": "2",
-    "MIN": "29",
     "eventDateFormatted": "Nov 8"
 }

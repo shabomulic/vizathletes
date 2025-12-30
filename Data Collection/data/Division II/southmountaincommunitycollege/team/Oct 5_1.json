@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Oct 5",
+    "boxScoreLink": "20251005_uakv.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "ACCAC Jamboree",
+                "result": "",
+                "teamId": "z0zm86agsml6nwuv",
+                "winner": false,
+                "cleanName": "accac jamboree"
+            },
+            {
+                "name": "South Mountain Community College",
+                "result": "",
+                "teamId": "3a69zaimqw5ja7k8",
+                "winner": false,
+                "cleanName": "s mountain community col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1759672800000,
+        "localTimeZone": "America/Phoenix",
+        "tba": false,
+        "home": true,
+        "overall": false,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "South Mountain CC (Phoenix, Ariz.) ",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "uakvev9kd7xls62o",
+        "fastdate": 1759672800000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "exhibition",
+            "description": "Exhibition",
+            "statsCount": false
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "ACCAC Jamboree",
+            "result": "",
+            "teamId": "z0zm86agsml6nwuv",
+            "winner": false,
+            "cleanName": "accac jamboree"
+        },
+        "us": {
+            "name": "South Mountain Community College",
+            "result": "",
+            "teamId": "3a69zaimqw5ja7k8",
+            "winner": false,
+            "cleanName": "s mountain community col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "October 5 10:00 AM:"
+}

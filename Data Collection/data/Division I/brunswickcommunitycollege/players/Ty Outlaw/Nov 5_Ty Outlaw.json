@@ -1,17 +1,17 @@
 {
     "Player Name": "Ty Outlaw",
+    "MIN": "16",
     "FGM-A": "2-2",
     "3PM-A": "0-0",
     "FTM-A": "0-0",
     "OREB": "0",
     "DREB": "3",
     "REB": "3",
+    "AST": "3",
+    "STL": "3",
+    "BLK": "2",
+    "TO": "0",
     "PF": "2",
     "TP": "4",
-    "AST": "3",
-    "TO": "0",
-    "BLK": "2",
-    "STL": "3",
-    "MIN": "16",
     "eventDateFormatted": "Nov 5"
 }

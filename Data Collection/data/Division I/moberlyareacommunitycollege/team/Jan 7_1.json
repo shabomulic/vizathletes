@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Jan 7",
+    "boxScoreLink": "20260107_l82u.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Moberly Area Community College",
+                "result": "",
+                "teamId": "xl5btwaiq0rx77k2",
+                "winner": false,
+                "cleanName": "moberly area community col"
+            },
+            {
+                "name": "Three Rivers College - MO",
+                "result": "",
+                "teamId": "02wf8ntbo0qtlgf3",
+                "winner": false,
+                "cleanName": "three rivers col mo"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1767830400000,
+        "localTimeZone": "America/Chicago",
+        "tba": false,
+        "home": false,
+        "overall": true,
+        "conference": true,
+        "division": false,
+        "regional": true,
+        "national": true,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "l82un2wcho6snjbh",
+        "fastdate": 1767830400000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Three Rivers College - MO",
+            "result": "",
+            "teamId": "02wf8ntbo0qtlgf3",
+            "winner": false,
+            "cleanName": "three rivers col mo"
+        },
+        "us": {
+            "name": "Moberly Area Community College",
+            "result": "",
+            "teamId": "xl5btwaiq0rx77k2",
+            "winner": false,
+            "cleanName": "moberly area community col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "January 7 07:00 PM:"
+}

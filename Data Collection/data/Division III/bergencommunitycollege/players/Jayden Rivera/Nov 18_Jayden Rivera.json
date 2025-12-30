@@ -1,17 +1,17 @@
 {
     "Player Name": "Jayden Rivera",
+    "MIN": "36",
     "FGM-A": "8-19",
     "3PM-A": "1-5",
     "FTM-A": "11-13",
     "OREB": "3",
     "DREB": "0",
     "REB": "3",
+    "AST": "5",
+    "STL": "1",
+    "BLK": "0",
+    "TO": "5",
     "PF": "4",
     "TP": "28",
-    "AST": "5",
-    "TO": "5",
-    "BLK": "0",
-    "STL": "1",
-    "MIN": "36",
     "eventDateFormatted": "Nov 18"
 }

@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Mar 2",
+    "boxScoreLink": "20260302_v1pp.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Eastern Oklahoma State College",
+                "result": "",
+                "teamId": "la71zambmlz5nr9s",
+                "winner": false,
+                "cleanName": "e oklahoma st col"
+            },
+            {
+                "name": "Northern Oklahoma College-Tonkawa",
+                "result": "",
+                "teamId": "p61g9vc41gnchs6w",
+                "winner": false,
+                "cleanName": "n oklahoma col tonkawa"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1772497800000,
+        "localTimeZone": "America/Chicago",
+        "tba": false,
+        "home": true,
+        "overall": true,
+        "conference": true,
+        "division": false,
+        "regional": true,
+        "national": true,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "v1ppz6nnd4db8st0",
+        "fastdate": 1772497800000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Eastern Oklahoma State College",
+            "result": "",
+            "teamId": "la71zambmlz5nr9s",
+            "winner": false,
+            "cleanName": "e oklahoma st col"
+        },
+        "us": {
+            "name": "Northern Oklahoma College-Tonkawa",
+            "result": "",
+            "teamId": "p61g9vc41gnchs6w",
+            "winner": false,
+            "cleanName": "n oklahoma col tonkawa"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "March 2 07:30 PM:"
+}

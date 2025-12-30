@@ -1,17 +1,17 @@
 {
     "Player Name": "Davion Goins",
+    "MIN": "17",
     "FGM-A": "4-7",
     "3PM-A": "1-2",
     "FTM-A": "5-8",
     "OREB": "1",
     "DREB": "2",
     "REB": "3",
+    "AST": "1",
+    "STL": "0",
+    "BLK": "0",
+    "TO": "4",
     "PF": "5",
     "TP": "14",
-    "AST": "1",
-    "TO": "4",
-    "BLK": "0",
-    "STL": "0",
-    "MIN": "17",
     "eventDateFormatted": "Nov 11"
 }

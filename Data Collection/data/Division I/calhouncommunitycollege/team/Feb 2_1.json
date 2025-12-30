@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Feb 2",
+    "boxScoreLink": "20260202_cq0n.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Wallace State Community College-Hanceville",
+                "result": "",
+                "teamId": "ur0vu3015ky0do6s",
+                "winner": false,
+                "cleanName": "wallace st community col hanceville"
+            },
+            {
+                "name": "Calhoun Community College",
+                "result": "",
+                "teamId": "onjl7kh9adms4px1",
+                "winner": false,
+                "cleanName": "calhoun community col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1770078600000,
+        "localTimeZone": "America/Chicago",
+        "tba": false,
+        "home": true,
+        "overall": true,
+        "conference": true,
+        "division": true,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "cq0n8cp0hl9k9efk",
+        "fastdate": 1770078600000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Wallace State Community College-Hanceville",
+            "result": "",
+            "teamId": "ur0vu3015ky0do6s",
+            "winner": false,
+            "cleanName": "wallace st community col hanceville"
+        },
+        "us": {
+            "name": "Calhoun Community College",
+            "result": "",
+            "teamId": "onjl7kh9adms4px1",
+            "winner": false,
+            "cleanName": "calhoun community col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "February 2 07:30 PM:"
+}

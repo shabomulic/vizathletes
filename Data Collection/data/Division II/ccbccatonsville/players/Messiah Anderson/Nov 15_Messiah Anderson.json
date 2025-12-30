@@ -1,17 +1,17 @@
 {
     "Player Name": "Messiah Anderson",
+    "MIN": "30",
     "FGM-A": "8-13",
     "3PM-A": "1-2",
     "FTM-A": "0-0",
     "OREB": "2",
     "DREB": "4",
     "REB": "6",
+    "AST": "4",
+    "STL": "3",
+    "BLK": "0",
+    "TO": "1",
     "PF": "1",
     "TP": "17",
-    "AST": "4",
-    "TO": "1",
-    "BLK": "0",
-    "STL": "3",
-    "MIN": "30",
     "eventDateFormatted": "Nov 15"
 }

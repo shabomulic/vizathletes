@@ -1,17 +1,17 @@
 {
     "Player Name": "KT Tatum",
+    "MIN": "26:59",
     "FGM-A": "3-6",
     "3PM-A": "0-1",
     "FTM-A": "1-1",
     "OREB": "0",
     "DREB": "2",
     "REB": "2",
+    "AST": "6",
+    "STL": "2",
+    "BLK": "0",
+    "TO": "2",
     "PF": "1",
     "TP": "7",
-    "AST": "6",
-    "TO": "2",
-    "BLK": "0",
-    "STL": "2",
-    "MIN": "26:59",
     "eventDateFormatted": "Dec 10"
 }

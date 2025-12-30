@@ -1,17 +1,17 @@
 {
     "Player Name": "Donovan Hand",
+    "MIN": "1",
     "FGM-A": "6-9",
     "3PM-A": "1-1",
     "FTM-A": "5-8",
     "OREB": "8",
     "DREB": "5",
     "REB": "13",
+    "AST": "1",
+    "STL": "0",
+    "BLK": "0",
+    "TO": "1",
     "PF": "0",
     "TP": "18",
-    "AST": "1",
-    "TO": "1",
-    "BLK": "0",
-    "STL": "0",
-    "MIN": "1",
     "eventDateFormatted": "Oct 31"
 }

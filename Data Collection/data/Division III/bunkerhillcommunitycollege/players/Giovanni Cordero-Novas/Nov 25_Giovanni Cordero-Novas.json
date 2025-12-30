@@ -1,17 +1,17 @@
 {
     "Player Name": "Giovanni Cordero-Novas",
+    "MIN": "1",
     "FGM-A": "2-15",
     "3PM-A": "1-7",
     "FTM-A": "0-0",
     "OREB": "3",
     "DREB": "11",
     "REB": "14",
+    "AST": "1",
+    "STL": "2",
+    "BLK": "0",
+    "TO": "5",
     "PF": "0",
     "TP": "5",
-    "AST": "1",
-    "TO": "5",
-    "BLK": "0",
-    "STL": "2",
-    "MIN": "1",
     "eventDateFormatted": "Nov 25"
 }

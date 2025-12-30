@@ -1,17 +1,17 @@
 {
     "Player Name": "Khalon Johnson",
+    "MIN": "33",
     "FGM-A": "8-12",
     "3PM-A": "0-3",
     "FTM-A": "3-5",
     "OREB": "2",
     "DREB": "4",
     "REB": "6",
+    "AST": "6",
+    "STL": "1",
+    "BLK": "0",
+    "TO": "3",
     "PF": "1",
     "TP": "19",
-    "AST": "6",
-    "TO": "3",
-    "BLK": "0",
-    "STL": "1",
-    "MIN": "33",
     "eventDateFormatted": "Dec 10"
 }

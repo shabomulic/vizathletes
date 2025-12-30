@@ -1,17 +1,17 @@
 {
     "Player Name": "Luke Leatherwood",
+    "MIN": "37",
     "FGM-A": "11-20",
     "3PM-A": "5-10",
     "FTM-A": "0-2",
     "OREB": "0",
     "DREB": "6",
     "REB": "6",
+    "AST": "0",
+    "STL": "2",
+    "BLK": "0",
+    "TO": "2",
     "PF": "1",
     "TP": "27",
-    "AST": "0",
-    "TO": "2",
-    "BLK": "0",
-    "STL": "2",
-    "MIN": "37",
     "eventDateFormatted": "Nov 25"
 }

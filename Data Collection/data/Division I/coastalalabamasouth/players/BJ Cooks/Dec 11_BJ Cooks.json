@@ -1,17 +1,17 @@
 {
     "Player Name": "BJ Cooks",
+    "MIN": "25",
     "FGM-A": "6-15",
     "3PM-A": "2-9",
     "FTM-A": "0-1",
     "OREB": "1",
     "DREB": "3",
     "REB": "4",
+    "AST": "4",
+    "STL": "0",
+    "BLK": "5",
+    "TO": "3",
     "PF": "0",
     "TP": "14",
-    "AST": "4",
-    "TO": "3",
-    "BLK": "5",
-    "STL": "0",
-    "MIN": "25",
     "eventDateFormatted": "Dec 11"
 }

@@ -1,17 +1,17 @@
 {
     "Player Name": "Diovion Famakinde",
+    "MIN": "31",
     "FGM-A": "4-17",
     "3PM-A": "0-4",
     "FTM-A": "2-5",
     "OREB": "1",
     "DREB": "1",
     "REB": "2",
+    "AST": "4",
+    "STL": "0",
+    "BLK": "1",
+    "TO": "4",
     "PF": "2",
     "TP": "10",
-    "AST": "4",
-    "TO": "4",
-    "BLK": "1",
-    "STL": "0",
-    "MIN": "31",
     "eventDateFormatted": "Nov 6"
 }

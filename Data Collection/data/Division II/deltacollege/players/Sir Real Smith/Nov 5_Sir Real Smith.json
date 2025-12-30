@@ -1,17 +1,17 @@
 {
     "Player Name": "Sir Real Smith",
+    "MIN": "37",
     "FGM-A": "15-26",
     "3PM-A": "4-10",
     "FTM-A": "4-7",
     "OREB": "7",
     "DREB": "2",
     "REB": "9",
+    "AST": "2",
+    "STL": "1",
+    "BLK": "0",
+    "TO": "0",
     "PF": "2",
     "TP": "38",
-    "AST": "2",
-    "TO": "0",
-    "BLK": "0",
-    "STL": "1",
-    "MIN": "37",
     "eventDateFormatted": "Nov 5"
 }

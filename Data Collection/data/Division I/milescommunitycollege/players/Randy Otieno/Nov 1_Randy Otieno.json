@@ -1,17 +1,17 @@
 {
     "Player Name": "Randy Otieno",
+    "MIN": "26",
     "FGM-A": "6-9",
     "3PM-A": "3-6",
     "FTM-A": "0-0",
     "OREB": "2",
     "DREB": "2",
     "REB": "4",
+    "AST": "0",
+    "STL": "0",
+    "BLK": "0",
+    "TO": "0",
     "PF": "0",
     "TP": "15",
-    "AST": "0",
-    "TO": "0",
-    "BLK": "0",
-    "STL": "0",
-    "MIN": "26",
     "eventDateFormatted": "Nov 1"
 }

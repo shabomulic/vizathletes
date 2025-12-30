@@ -1,17 +1,17 @@
 {
     "Player Name": "Rav Randhawa",
+    "MIN": "34",
     "FGM-A": "2-7",
     "3PM-A": "2-6",
     "FTM-A": "5-6",
     "OREB": "0",
     "DREB": "4",
     "REB": "4",
+    "AST": "7",
+    "STL": "0",
+    "BLK": "0",
+    "TO": "3",
     "PF": "0",
     "TP": "11",
-    "AST": "7",
-    "TO": "3",
-    "BLK": "0",
-    "STL": "0",
-    "MIN": "34",
     "eventDateFormatted": "Nov 8"
 }

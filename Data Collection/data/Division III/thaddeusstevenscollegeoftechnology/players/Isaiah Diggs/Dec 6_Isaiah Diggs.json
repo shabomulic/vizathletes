@@ -1,17 +1,17 @@
 {
     "Player Name": "Isaiah Diggs",
+    "MIN": "20",
     "FGM-A": "0-1",
     "3PM-A": "0-0",
     "FTM-A": "3-6",
     "OREB": "0",
     "DREB": "14",
     "REB": "14",
+    "AST": "0",
+    "STL": "0",
+    "BLK": "1",
+    "TO": "1",
     "PF": "1",
     "TP": "3",
-    "AST": "0",
-    "TO": "1",
-    "BLK": "1",
-    "STL": "0",
-    "MIN": "20",
     "eventDateFormatted": "Dec 6"
 }

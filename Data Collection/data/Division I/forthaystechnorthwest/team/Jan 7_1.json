@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Jan 7",
+    "boxScoreLink": "20260107_akrs.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Cloud County Community College",
+                "result": "",
+                "teamId": "w3cgw61s9okfyuje",
+                "winner": false,
+                "cleanName": "cloud county community col"
+            },
+            {
+                "name": "Fort Hays Tech Northwest",
+                "result": "",
+                "teamId": "vxc4dwl1888maiyg",
+                "winner": false,
+                "cleanName": "fort hays tech northwest"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "Max L. Jones Fieldhouse | Goodland, KS",
+        "date": 1767832200000,
+        "localTimeZone": "America/Denver",
+        "tba": false,
+        "home": true,
+        "overall": true,
+        "conference": true,
+        "division": false,
+        "regional": false,
+        "national": true,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "akrsfiew057mswbf",
+        "fastdate": 1767832200000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": "prestosports"
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": true,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Cloud County Community College",
+            "result": "",
+            "teamId": "w3cgw61s9okfyuje",
+            "winner": false,
+            "cleanName": "cloud county community col"
+        },
+        "us": {
+            "name": "Fort Hays Tech Northwest",
+            "result": "",
+            "teamId": "vxc4dwl1888maiyg",
+            "winner": false,
+            "cleanName": "fort hays tech northwest"
+        },
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "January 7 07:30 PM:"
+}

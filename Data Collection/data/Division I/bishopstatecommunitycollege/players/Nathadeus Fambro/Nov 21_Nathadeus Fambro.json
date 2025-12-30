@@ -1,17 +1,17 @@
 {
     "Player Name": "Nathadeus Fambro",
+    "MIN": "1",
     "FGM-A": "3-4",
     "3PM-A": "0-0",
     "FTM-A": "3-5",
     "OREB": "3",
     "DREB": "7",
     "REB": "10",
+    "AST": "1",
+    "STL": "1",
+    "BLK": "1",
+    "TO": "2",
     "PF": "4",
     "TP": "9",
-    "AST": "1",
-    "TO": "2",
-    "BLK": "1",
-    "STL": "1",
-    "MIN": "1",
     "eventDateFormatted": "Nov 21"
 }

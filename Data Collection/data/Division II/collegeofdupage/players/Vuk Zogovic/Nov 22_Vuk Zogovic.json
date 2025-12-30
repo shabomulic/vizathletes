@@ -1,17 +1,17 @@
 {
     "Player Name": "Vuk Zogovic",
+    "MIN": "23",
     "FGM-A": "7-10",
     "3PM-A": "6-9",
     "FTM-A": "2-3",
     "OREB": "0",
     "DREB": "3",
     "REB": "3",
+    "AST": "1",
+    "STL": "1",
+    "BLK": "1",
+    "TO": "0",
     "PF": "0",
     "TP": "22",
-    "AST": "1",
-    "TO": "0",
-    "BLK": "1",
-    "STL": "1",
-    "MIN": "23",
     "eventDateFormatted": "Nov 22"
 }

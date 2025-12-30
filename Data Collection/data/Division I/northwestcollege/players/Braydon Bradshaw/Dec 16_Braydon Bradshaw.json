@@ -1,17 +1,17 @@
 {
     "Player Name": "Braydon Bradshaw",
+    "MIN": "23",
     "FGM-A": "7-9",
     "3PM-A": "0-1",
     "FTM-A": "1-1",
     "OREB": "0",
     "DREB": "5",
     "REB": "5",
+    "AST": "1",
+    "STL": "2",
+    "BLK": "3",
+    "TO": "2",
     "PF": "0",
     "TP": "15",
-    "AST": "1",
-    "TO": "2",
-    "BLK": "3",
-    "STL": "2",
-    "MIN": "23",
     "eventDateFormatted": "Dec 16"
 }

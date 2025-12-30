@@ -1,0 +1,91 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Jan 3",
+    "boxScoreLink": "20260103_92hu.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Colorado Northwestern Community College",
+                "result": "",
+                "teamId": "2ycvhalf6bmuc206",
+                "winner": false,
+                "cleanName": "colorado northwestern community col"
+            },
+            {
+                "name": "Snow College",
+                "result": "",
+                "teamId": "cbovao7nryu2lp53",
+                "winner": false,
+                "cleanName": "snow col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1767470400000,
+        "localTimeZone": "America/Denver",
+        "tba": false,
+        "home": true,
+        "overall": true,
+        "conference": true,
+        "division": true,
+        "regional": true,
+        "national": true,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Men's Basketball",
+        "links": [],
+        "eventId": "92hug31e7l2mh93i",
+        "fastdate": 1767470400000,
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Colorado Northwestern Community College",
+            "result": "",
+            "teamId": "2ycvhalf6bmuc206",
+            "winner": false,
+            "cleanName": "colorado northwestern community col"
+        },
+        "us": {
+            "name": "Snow College",
+            "result": "",
+            "teamId": "cbovao7nryu2lp53",
+            "winner": false,
+            "cleanName": "snow col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "January 3 03:00 PM:"
+}

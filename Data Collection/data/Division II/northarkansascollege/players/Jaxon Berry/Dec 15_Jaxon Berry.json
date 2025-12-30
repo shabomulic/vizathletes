@@ -1,17 +1,17 @@
 {
     "Player Name": "Jaxon Berry",
+    "MIN": "27",
     "FGM-A": "10-16",
     "3PM-A": "1-2",
     "FTM-A": "5-5",
     "OREB": "6",
     "DREB": "5",
     "REB": "11",
+    "AST": "5",
+    "STL": "0",
+    "BLK": "1",
+    "TO": "3",
     "PF": "0",
     "TP": "26",
-    "AST": "5",
-    "TO": "3",
-    "BLK": "1",
-    "STL": "0",
-    "MIN": "27",
     "eventDateFormatted": "Dec 15"
 }

@@ -1,17 +1,17 @@
 {
     "Player Name": "Jeremiah Falko",
+    "MIN": "30",
     "FGM-A": "9-18",
     "3PM-A": "2-8",
     "FTM-A": "2-3",
     "OREB": "0",
     "DREB": "7",
     "REB": "7",
+    "AST": "6",
+    "STL": "1",
+    "BLK": "1",
+    "TO": "3",
     "PF": "1",
     "TP": "22",
-    "AST": "6",
-    "TO": "3",
-    "BLK": "1",
-    "STL": "1",
-    "MIN": "30",
     "eventDateFormatted": "Nov 19"
 }

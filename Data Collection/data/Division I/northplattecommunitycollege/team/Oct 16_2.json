@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Oct 16",
+    "boxScoreLink": "20251016_6o64.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "North Platte Community College",
+                "result": "",
+                "teamId": "k5ubq4182upqgb24",
+                "winner": false,
+                "cleanName": "n platte community col"
+            },
+            {
+                "name": "Four Winds University",
+                "result": "",
+                "teamId": "0wgp9nuzhv8cn8uj",
+                "winner": false,
+                "cleanName": "four winds univ"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1760634000000,
+        "localTimeZone": "America/Chicago",
+        "tba": false,
+        "home": false,
+        "overall": false,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "Rocky Mountain Jamboree | Windsor, Colo. ",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "6o64ks78h89xf8ao",
+        "fastdate": 1760634000000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "scrimmage",
+            "description": "Scrimmage",
+            "statsCount": false
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Four Winds University",
+            "result": "",
+            "teamId": "0wgp9nuzhv8cn8uj",
+            "winner": false,
+            "cleanName": "four winds univ"
+        },
+        "us": {
+            "name": "North Platte Community College",
+            "result": "",
+            "teamId": "k5ubq4182upqgb24",
+            "winner": false,
+            "cleanName": "n platte community col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "October 16 01:00 PM:"
+}

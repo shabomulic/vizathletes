@@ -1,17 +1,17 @@
 {
     "Player Name": "Dekwon Brown",
+    "MIN": "15:46",
     "FGM-A": "4-6",
     "3PM-A": "2-4",
     "FTM-A": "0-1",
     "OREB": "1",
     "DREB": "4",
     "REB": "5",
+    "AST": "1",
+    "STL": "3",
+    "BLK": "0",
+    "TO": "0",
     "PF": "0",
     "TP": "10",
-    "AST": "1",
-    "TO": "0",
-    "BLK": "0",
-    "STL": "3",
-    "MIN": "15:46",
     "eventDateFormatted": "Nov 1"
 }

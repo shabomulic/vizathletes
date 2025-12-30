@@ -1,17 +1,17 @@
 {
     "Player Name": "Austin Ouko",
+    "MIN": "30",
     "FGM-A": "2-12",
     "3PM-A": "0-9",
     "FTM-A": "3-4",
     "OREB": "2",
     "DREB": "3",
     "REB": "5",
+    "AST": "1",
+    "STL": "1",
+    "BLK": "0",
+    "TO": "1",
     "PF": "2",
     "TP": "7",
-    "AST": "1",
-    "TO": "1",
-    "BLK": "0",
-    "STL": "1",
-    "MIN": "30",
     "eventDateFormatted": "Nov 13"
 }

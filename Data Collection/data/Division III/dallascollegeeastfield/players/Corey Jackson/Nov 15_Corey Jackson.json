@@ -1,17 +1,17 @@
 {
     "Player Name": "Corey Jackson",
+    "MIN": "1",
     "FGM-A": "4-6",
     "3PM-A": "0-1",
     "FTM-A": "2-2",
     "OREB": "1",
     "DREB": "3",
     "REB": "4",
+    "AST": "7",
+    "STL": "3",
+    "BLK": "0",
+    "TO": "4",
     "PF": "0",
     "TP": "10",
-    "AST": "7",
-    "TO": "4",
-    "BLK": "0",
-    "STL": "3",
-    "MIN": "1",
     "eventDateFormatted": "Nov 15"
 }

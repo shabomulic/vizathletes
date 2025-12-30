@@ -1,17 +1,17 @@
 {
     "Player Name": "Colton Knoll",
+    "MIN": "30",
     "FGM-A": "7-13",
     "3PM-A": "0-1",
     "FTM-A": "1-5",
     "OREB": "2",
     "DREB": "4",
     "REB": "6",
+    "AST": "4",
+    "STL": "2",
+    "BLK": "1",
+    "TO": "2",
     "PF": "3",
     "TP": "15",
-    "AST": "4",
-    "TO": "2",
-    "BLK": "1",
-    "STL": "2",
-    "MIN": "30",
     "eventDateFormatted": "Dec 13"
 }

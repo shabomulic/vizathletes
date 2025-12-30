@@ -1,17 +1,17 @@
 {
     "Player Name": "Rafael Barcinas",
+    "MIN": "32",
     "FGM-A": "4-10",
     "3PM-A": "2-6",
     "FTM-A": "1-2",
     "OREB": "0",
     "DREB": "0",
     "REB": "0",
+    "AST": "5",
+    "STL": "2",
+    "BLK": "0",
+    "TO": "3",
     "PF": "1",
     "TP": "11",
-    "AST": "5",
-    "TO": "3",
-    "BLK": "0",
-    "STL": "2",
-    "MIN": "32",
     "eventDateFormatted": "Dec 14"
 }

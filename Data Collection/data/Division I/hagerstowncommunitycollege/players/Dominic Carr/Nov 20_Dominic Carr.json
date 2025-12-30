@@ -1,17 +1,17 @@
 {
     "Player Name": "Dominic Carr",
+    "MIN": "27",
     "FGM-A": "5-8",
     "3PM-A": "0-0",
     "FTM-A": "2-6",
     "OREB": "5",
     "DREB": "3",
     "REB": "8",
+    "AST": "0",
+    "STL": "2",
+    "BLK": "0",
+    "TO": "0",
     "PF": "2",
     "TP": "12",
-    "AST": "0",
-    "TO": "0",
-    "BLK": "0",
-    "STL": "2",
-    "MIN": "27",
     "eventDateFormatted": "Nov 20"
 }

@@ -1,17 +1,17 @@
 {
     "Player Name": "Stevie Tatum",
+    "MIN": "1",
     "FGM-A": "7-18",
     "3PM-A": "4-11",
     "FTM-A": "2-2",
     "OREB": "2",
     "DREB": "2",
     "REB": "4",
+    "AST": "3",
+    "STL": "1",
+    "BLK": "0",
+    "TO": "2",
     "PF": "4",
     "TP": "20",
-    "AST": "3",
-    "TO": "2",
-    "BLK": "0",
-    "STL": "1",
-    "MIN": "1",
     "eventDateFormatted": "Nov 4"
 }

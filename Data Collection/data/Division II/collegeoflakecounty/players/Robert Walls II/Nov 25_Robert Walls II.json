@@ -1,17 +1,17 @@
 {
     "Player Name": "Robert Walls II",
+    "MIN": "35",
     "FGM-A": "4-8",
     "3PM-A": "1-2",
     "FTM-A": "0-0",
     "OREB": "2",
     "DREB": "3",
     "REB": "5",
+    "AST": "4",
+    "STL": "3",
+    "BLK": "0",
+    "TO": "3",
     "PF": "1",
     "TP": "9",
-    "AST": "4",
-    "TO": "3",
-    "BLK": "0",
-    "STL": "3",
-    "MIN": "35",
     "eventDateFormatted": "Nov 25"
 }

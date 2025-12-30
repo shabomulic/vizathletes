@@ -1,17 +1,17 @@
 {
     "Player Name": "Noah Porter",
+    "MIN": "1",
     "FGM-A": "9-13",
     "3PM-A": "0-0",
     "FTM-A": "5-7",
     "OREB": "3",
     "DREB": "7",
     "REB": "10",
+    "AST": "0",
+    "STL": "1",
+    "BLK": "3",
+    "TO": "3",
     "PF": "4",
     "TP": "23",
-    "AST": "0",
-    "TO": "3",
-    "BLK": "3",
-    "STL": "1",
-    "MIN": "1",
     "eventDateFormatted": "Nov 14"
 }

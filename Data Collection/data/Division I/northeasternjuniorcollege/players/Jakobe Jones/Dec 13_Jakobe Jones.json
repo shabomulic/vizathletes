@@ -1,17 +1,17 @@
 {
     "Player Name": "Jakobe Jones",
+    "MIN": "21",
     "FGM-A": "2-4",
     "3PM-A": "2-4",
     "FTM-A": "0-0",
     "OREB": "0",
     "DREB": "6",
     "REB": "6",
+    "AST": "0",
+    "STL": "0",
+    "BLK": "1",
+    "TO": "2",
     "PF": "2",
     "TP": "6",
-    "AST": "0",
-    "TO": "2",
-    "BLK": "1",
-    "STL": "0",
-    "MIN": "21",
     "eventDateFormatted": "Dec 13"
 }

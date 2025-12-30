@@ -1,17 +1,17 @@
 {
     "Player Name": "Josiah McDonald",
+    "MIN": "40",
     "FGM-A": "8-20",
     "3PM-A": "4-12",
     "FTM-A": "1-2",
     "OREB": "3",
     "DREB": "4",
     "REB": "7",
+    "AST": "3",
+    "STL": "1",
+    "BLK": "0",
+    "TO": "5",
     "PF": "4",
     "TP": "21",
-    "AST": "3",
-    "TO": "5",
-    "BLK": "0",
-    "STL": "1",
-    "MIN": "40",
     "eventDateFormatted": "Nov 29"
 }

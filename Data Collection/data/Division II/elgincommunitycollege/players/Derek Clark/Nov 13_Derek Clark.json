@@ -1,17 +1,17 @@
 {
     "Player Name": "Derek Clark",
+    "MIN": "16:58",
     "FGM-A": "1-3",
     "3PM-A": "1-3",
     "FTM-A": "0-0",
     "OREB": "2",
     "DREB": "2",
     "REB": "4",
+    "AST": "2",
+    "STL": "1",
+    "BLK": "0",
+    "TO": "1",
     "PF": "1",
     "TP": "3",
-    "AST": "2",
-    "TO": "1",
-    "BLK": "0",
-    "STL": "1",
-    "MIN": "16:58",
     "eventDateFormatted": "Nov 13"
 }

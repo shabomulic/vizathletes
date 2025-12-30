@@ -1,17 +1,17 @@
 {
     "Player Name": "Jordan Russell",
+    "MIN": "15",
     "FGM-A": "4-4",
     "3PM-A": "1-1",
     "FTM-A": "1-3",
     "OREB": "2",
     "DREB": "2",
     "REB": "4",
+    "AST": "0",
+    "STL": "0",
+    "BLK": "0",
+    "TO": "1",
     "PF": "4",
     "TP": "10",
-    "AST": "0",
-    "TO": "1",
-    "BLK": "0",
-    "STL": "0",
-    "MIN": "15",
     "eventDateFormatted": "Nov 11"
 }

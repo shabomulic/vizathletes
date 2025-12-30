@@ -1,17 +1,17 @@
 {
     "Player Name": "Kuel Akot",
+    "MIN": "36",
     "FGM-A": "2-8",
     "3PM-A": "1-7",
     "FTM-A": "0-0",
     "OREB": "1",
     "DREB": "0",
     "REB": "1",
+    "AST": "0",
+    "STL": "0",
+    "BLK": "0",
+    "TO": "2",
     "PF": "1",
     "TP": "5",
-    "AST": "0",
-    "TO": "2",
-    "BLK": "0",
-    "STL": "0",
-    "MIN": "36",
     "eventDateFormatted": "Dec 6"
 }

@@ -1,17 +1,17 @@
 {
     "Player Name": "Jacori Ervin",
+    "MIN": "10",
     "FGM-A": "2-3",
     "3PM-A": "0-0",
     "FTM-A": "0-0",
     "OREB": "1",
     "DREB": "0",
     "REB": "1",
+    "AST": "0",
+    "STL": "0",
+    "BLK": "1",
+    "TO": "3",
     "PF": "1",
     "TP": "4",
-    "AST": "0",
-    "TO": "3",
-    "BLK": "1",
-    "STL": "0",
-    "MIN": "10",
     "eventDateFormatted": "Nov 6"
 }

@@ -1,17 +1,17 @@
 {
     "Player Name": "Eli Patterson",
+    "MIN": "23",
     "FGM-A": "3-5",
     "3PM-A": "0-0",
     "FTM-A": "2-4",
     "OREB": "3",
     "DREB": "3",
     "REB": "6",
+    "AST": "1",
+    "STL": "1",
+    "BLK": "0",
+    "TO": "2",
     "PF": "2",
     "TP": "8",
-    "AST": "1",
-    "TO": "2",
-    "BLK": "0",
-    "STL": "1",
-    "MIN": "23",
     "eventDateFormatted": "Dec 12"
 }

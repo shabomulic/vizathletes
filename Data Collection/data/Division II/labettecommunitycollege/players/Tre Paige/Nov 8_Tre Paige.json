@@ -1,17 +1,17 @@
 {
     "Player Name": "Tre Paige",
+    "MIN": "30",
     "FGM-A": "4-10",
     "3PM-A": "1-4",
     "FTM-A": "2-4",
     "OREB": "2",
     "DREB": "2",
     "REB": "4",
+    "AST": "3",
+    "STL": "1",
+    "BLK": "0",
+    "TO": "0",
     "PF": "3",
     "TP": "11",
-    "AST": "3",
-    "TO": "0",
-    "BLK": "0",
-    "STL": "1",
-    "MIN": "30",
     "eventDateFormatted": "Nov 8"
 }

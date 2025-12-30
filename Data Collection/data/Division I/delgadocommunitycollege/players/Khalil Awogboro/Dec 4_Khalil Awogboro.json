@@ -1,17 +1,17 @@
 {
     "Player Name": "Khalil Awogboro",
+    "MIN": "34",
     "FGM-A": "8-18",
     "3PM-A": "4-9",
     "FTM-A": "2-2",
     "OREB": "1",
     "DREB": "2",
     "REB": "3",
+    "AST": "6",
+    "STL": "3",
+    "BLK": "0",
+    "TO": "3",
     "PF": "1",
     "TP": "22",
-    "AST": "6",
-    "TO": "3",
-    "BLK": "0",
-    "STL": "3",
-    "MIN": "34",
     "eventDateFormatted": "Dec 4"
 }

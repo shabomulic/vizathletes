@@ -1,17 +1,17 @@
 {
     "Player Name": "Aidan Penchion",
+    "MIN": "16",
     "FGM-A": "0-6",
     "3PM-A": "0-0",
     "FTM-A": "0-0",
     "OREB": "5",
     "DREB": "2",
     "REB": "7",
+    "AST": "1",
+    "STL": "0",
+    "BLK": "0",
+    "TO": "2",
     "PF": "1",
     "TP": "0",
-    "AST": "1",
-    "TO": "2",
-    "BLK": "0",
-    "STL": "0",
-    "MIN": "16",
     "eventDateFormatted": "Nov 22"
 }

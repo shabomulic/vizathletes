@@ -1,17 +1,17 @@
 {
     "Player Name": "Grant Redd",
+    "MIN": "19",
     "FGM-A": "1-5",
     "3PM-A": "1-2",
     "FTM-A": "0-0",
     "OREB": "0",
     "DREB": "0",
     "REB": "0",
+    "AST": "3",
+    "STL": "1",
+    "BLK": "0",
+    "TO": "3",
     "PF": "3",
     "TP": "3",
-    "AST": "3",
-    "TO": "3",
-    "BLK": "0",
-    "STL": "1",
-    "MIN": "19",
     "eventDateFormatted": "Nov 4"
 }

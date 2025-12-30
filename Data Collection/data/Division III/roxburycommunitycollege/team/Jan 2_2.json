@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Jan 2",
+    "boxScoreLink": "20260102_rx38.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Wayne County Community College",
+                "result": "",
+                "teamId": "ybv1na7z6iwvqeon",
+                "winner": false,
+                "cleanName": "wayne county community col"
+            },
+            {
+                "name": "Roxbury Community College",
+                "result": "",
+                "teamId": "fes4z27l5wxkpyir",
+                "winner": false,
+                "cleanName": "roxbury community col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1767330000000,
+        "localTimeZone": "America/New_York",
+        "tba": true,
+        "home": true,
+        "overall": true,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "Palm Beach State Invitational ",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "rx38n11pompr09pu",
+        "fastdate": 1767330000000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Wayne County Community College",
+            "result": "",
+            "teamId": "ybv1na7z6iwvqeon",
+            "winner": false,
+            "cleanName": "wayne county community col"
+        },
+        "us": {
+            "name": "Roxbury Community College",
+            "result": "",
+            "teamId": "fes4z27l5wxkpyir",
+            "winner": false,
+            "cleanName": "roxbury community col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "January 2 12:00 AM:"
+}

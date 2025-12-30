@@ -1,17 +1,17 @@
 {
     "Player Name": "Marcel Hurst",
+    "MIN": "30",
     "FGM-A": "7-22",
     "3PM-A": "4-9",
     "FTM-A": "7-7",
     "OREB": "0",
     "DREB": "7",
     "REB": "7",
+    "AST": "1",
+    "STL": "3",
+    "BLK": "0",
+    "TO": "4",
     "PF": "1",
     "TP": "25",
-    "AST": "1",
-    "TO": "4",
-    "BLK": "0",
-    "STL": "3",
-    "MIN": "30",
     "eventDateFormatted": "Nov 15"
 }

@@ -1,17 +1,17 @@
 {
     "Player Name": "Bryce Wejuli",
+    "MIN": "23",
     "FGM-A": "2-5",
     "3PM-A": "0-0",
     "FTM-A": "3-4",
     "OREB": "1",
     "DREB": "4",
     "REB": "5",
+    "AST": "1",
+    "STL": "0",
+    "BLK": "1",
+    "TO": "0",
     "PF": "2",
     "TP": "7",
-    "AST": "1",
-    "TO": "0",
-    "BLK": "1",
-    "STL": "0",
-    "MIN": "23",
     "eventDateFormatted": "Dec 14"
 }

@@ -1,17 +1,17 @@
 {
     "Player Name": "Su Allyene",
+    "MIN": "18",
     "FGM-A": "3-6",
     "3PM-A": "0-0",
     "FTM-A": "2-2",
     "OREB": "0",
     "DREB": "5",
     "REB": "5",
+    "AST": "5",
+    "STL": "4",
+    "BLK": "0",
+    "TO": "2",
     "PF": "0",
     "TP": "8",
-    "AST": "5",
-    "TO": "2",
-    "BLK": "0",
-    "STL": "4",
-    "MIN": "18",
     "eventDateFormatted": "Nov 6"
 }

@@ -1,17 +1,17 @@
 {
     "Player Name": "Liban Aadan",
+    "MIN": "1",
     "FGM-A": "4-9",
     "3PM-A": "0-1",
     "FTM-A": "4-6",
     "OREB": "0",
     "DREB": "0",
     "REB": "0",
+    "AST": "3",
+    "STL": "1",
+    "BLK": "0",
+    "TO": "2",
     "PF": "2",
     "TP": "12",
-    "AST": "3",
-    "TO": "2",
-    "BLK": "0",
-    "STL": "1",
-    "MIN": "1",
     "eventDateFormatted": "Nov 15"
 }

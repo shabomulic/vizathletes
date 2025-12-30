@@ -1,17 +1,17 @@
 {
     "Player Name": "Nathan Ahner",
+    "MIN": "36",
     "FGM-A": "4-11",
     "3PM-A": "0-1",
     "FTM-A": "0-0",
     "OREB": "4",
     "DREB": "4",
     "REB": "8",
+    "AST": "3",
+    "STL": "1",
+    "BLK": "0",
+    "TO": "4",
     "PF": "3",
     "TP": "8",
-    "AST": "3",
-    "TO": "4",
-    "BLK": "0",
-    "STL": "1",
-    "MIN": "36",
     "eventDateFormatted": "Dec 15"
 }

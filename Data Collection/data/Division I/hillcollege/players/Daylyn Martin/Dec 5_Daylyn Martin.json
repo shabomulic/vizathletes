@@ -1,17 +1,17 @@
 {
     "Player Name": "Daylyn Martin",
+    "MIN": "31",
     "FGM-A": "2-7",
     "3PM-A": "0-1",
     "FTM-A": "0-0",
     "OREB": "1",
     "DREB": "6",
     "REB": "7",
+    "AST": "5",
+    "STL": "2",
+    "BLK": "0",
+    "TO": "8",
     "PF": "3",
     "TP": "4",
-    "AST": "5",
-    "TO": "8",
-    "BLK": "0",
-    "STL": "2",
-    "MIN": "31",
     "eventDateFormatted": "Dec 5"
 }

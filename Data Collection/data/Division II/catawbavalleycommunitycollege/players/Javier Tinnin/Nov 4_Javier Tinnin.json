@@ -1,17 +1,17 @@
 {
     "Player Name": "Javier Tinnin",
+    "MIN": "17",
     "FGM-A": "4-6",
     "3PM-A": "0-1",
     "FTM-A": "2-2",
     "OREB": "0",
     "DREB": "0",
     "REB": "0",
+    "AST": "1",
+    "STL": "3",
+    "BLK": "0",
+    "TO": "1",
     "PF": "3",
     "TP": "10",
-    "AST": "1",
-    "TO": "1",
-    "BLK": "0",
-    "STL": "3",
-    "MIN": "17",
     "eventDateFormatted": "Nov 4"
 }

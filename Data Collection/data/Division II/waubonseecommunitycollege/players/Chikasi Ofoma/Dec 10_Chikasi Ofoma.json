@@ -1,17 +1,17 @@
 {
     "Player Name": "Chikasi Ofoma",
+    "MIN": "1",
     "FGM-A": "4-9",
     "3PM-A": "0-3",
     "FTM-A": "3-6",
     "OREB": "4",
     "DREB": "8",
     "REB": "12",
+    "AST": "5",
+    "STL": "1",
+    "BLK": "0",
+    "TO": "0",
     "PF": "1",
     "TP": "11",
-    "AST": "5",
-    "TO": "0",
-    "BLK": "0",
-    "STL": "1",
-    "MIN": "1",
     "eventDateFormatted": "Dec 10"
 }

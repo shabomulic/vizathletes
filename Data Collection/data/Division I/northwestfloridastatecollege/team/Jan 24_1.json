@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Jan 24",
+    "boxScoreLink": "20260124_8plv.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Chipola  College",
+                "result": "",
+                "teamId": "i7ilsfilhehve5fg",
+                "winner": false,
+                "cleanName": "chipola col"
+            },
+            {
+                "name": "Northwest Florida State College",
+                "result": "",
+                "teamId": "rkhchb37q521n34p",
+                "winner": false,
+                "cleanName": "northwest florida st col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "Niceville, Fla.",
+        "date": 1769288400000,
+        "localTimeZone": "America/Regina",
+        "tba": false,
+        "home": true,
+        "overall": true,
+        "conference": true,
+        "division": false,
+        "regional": true,
+        "national": true,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "8plvyeukg1wm67ol",
+        "fastdate": 1769288400000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": "prestosports"
+            }
+        ],
+        "address": "",
+        "city": "Niceville",
+        "stateCountry": "FL",
+        "zipCode": "",
+        "venue": "",
+        "primetime": true,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Chipola  College",
+            "result": "",
+            "teamId": "i7ilsfilhehve5fg",
+            "winner": false,
+            "cleanName": "chipola col"
+        },
+        "us": {
+            "name": "Northwest Florida State College",
+            "result": "",
+            "teamId": "rkhchb37q521n34p",
+            "winner": false,
+            "cleanName": "northwest florida st col"
+        },
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "January 24 04:00 PM:"
+}

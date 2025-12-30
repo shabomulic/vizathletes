@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Oct 11",
+    "boxScoreLink": "20251011_tyd0.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Pitt Community College",
+                "result": "",
+                "teamId": "avv6sdoji7liwtnx",
+                "winner": false,
+                "cleanName": "pitt community col"
+            },
+            {
+                "name": "TBD",
+                "result": "",
+                "teamId": "a3zcmew8v3fhjhb7",
+                "winner": false,
+                "cleanName": "tbd"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "CBG Showcase",
+        "date": 1760155200000,
+        "localTimeZone": "America/New_York",
+        "tba": true,
+        "home": false,
+        "overall": false,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "tyd06lvitr51pq5q",
+        "fastdate": 1760155200000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": true,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "TBD",
+            "result": "",
+            "teamId": "a3zcmew8v3fhjhb7",
+            "winner": false,
+            "cleanName": "tbd"
+        },
+        "us": {
+            "name": "Pitt Community College",
+            "result": "",
+            "teamId": "avv6sdoji7liwtnx",
+            "winner": false,
+            "cleanName": "pitt community col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "October 11 12:00 AM:"
+}

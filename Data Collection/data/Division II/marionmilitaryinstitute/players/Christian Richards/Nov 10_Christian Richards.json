@@ -1,17 +1,17 @@
 {
     "Player Name": "Christian Richards",
+    "MIN": "40",
     "FGM-A": "7-14",
     "3PM-A": "4-8",
     "FTM-A": "4-6",
     "OREB": "3",
     "DREB": "9",
     "REB": "12",
+    "AST": "3",
+    "STL": "3",
+    "BLK": "0",
+    "TO": "2",
     "PF": "1",
     "TP": "22",
-    "AST": "3",
-    "TO": "2",
-    "BLK": "0",
-    "STL": "3",
-    "MIN": "40",
     "eventDateFormatted": "Nov 10"
 }

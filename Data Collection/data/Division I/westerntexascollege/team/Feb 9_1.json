@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Feb 9",
+    "boxScoreLink": "20260209_zqu6.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "New Mexico Junior College",
+                "result": "",
+                "teamId": "akpb4fogaywoydu3",
+                "winner": false,
+                "cleanName": "new mexico junior col"
+            },
+            {
+                "name": "Western Texas College",
+                "result": "",
+                "teamId": "mr9w6vptam5l49ii",
+                "winner": false,
+                "cleanName": "w texas col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1770683400000,
+        "localTimeZone": "America/Chicago",
+        "tba": false,
+        "home": true,
+        "overall": true,
+        "conference": true,
+        "division": false,
+        "regional": true,
+        "national": true,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "zqu6uc13r8bjedff",
+        "fastdate": 1770683400000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "Snyder, Texas",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": true,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "numericResults": [],
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "New Mexico Junior College",
+            "result": "",
+            "teamId": "akpb4fogaywoydu3",
+            "winner": false,
+            "cleanName": "new mexico junior col"
+        },
+        "us": {
+            "name": "Western Texas College",
+            "result": "",
+            "teamId": "mr9w6vptam5l49ii",
+            "winner": false,
+            "cleanName": "w texas col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "numericResults": [],
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "February 9 07:30 PM:"
+}

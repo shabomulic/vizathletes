@@ -1,17 +1,17 @@
 {
     "Player Name": "Donald Wilburn",
+    "MIN": "22",
     "FGM-A": "5-6",
     "3PM-A": "1-1",
     "FTM-A": "1-1",
     "OREB": "1",
     "DREB": "4",
     "REB": "5",
+    "AST": "0",
+    "STL": "1",
+    "BLK": "1",
+    "TO": "4",
     "PF": "1",
     "TP": "12",
-    "AST": "0",
-    "TO": "4",
-    "BLK": "1",
-    "STL": "1",
-    "MIN": "22",
     "eventDateFormatted": "Nov 30"
 }

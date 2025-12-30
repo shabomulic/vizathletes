@@ -1,17 +1,17 @@
 {
     "Player Name": "Champ Powaukee",
+    "MIN": "17",
     "FGM-A": "7-9",
     "3PM-A": "3-5",
     "FTM-A": "2-3",
     "OREB": "3",
     "DREB": "2",
     "REB": "5",
+    "AST": "1",
+    "STL": "1",
+    "BLK": "0",
+    "TO": "2",
     "PF": "2",
     "TP": "19",
-    "AST": "1",
-    "TO": "2",
-    "BLK": "0",
-    "STL": "1",
-    "MIN": "17",
     "eventDateFormatted": "Nov 1"
 }

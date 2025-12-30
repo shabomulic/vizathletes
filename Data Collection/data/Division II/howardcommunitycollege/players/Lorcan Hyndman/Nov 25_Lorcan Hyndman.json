@@ -1,17 +1,17 @@
 {
     "Player Name": "Lorcan Hyndman",
+    "MIN": "27",
     "FGM-A": "1-7",
     "3PM-A": "1-5",
     "FTM-A": "2-2",
     "OREB": "0",
     "DREB": "7",
     "REB": "7",
+    "AST": "3",
+    "STL": "1",
+    "BLK": "1",
+    "TO": "1",
     "PF": "4",
     "TP": "5",
-    "AST": "3",
-    "TO": "1",
-    "BLK": "1",
-    "STL": "1",
-    "MIN": "27",
     "eventDateFormatted": "Nov 25"
 }

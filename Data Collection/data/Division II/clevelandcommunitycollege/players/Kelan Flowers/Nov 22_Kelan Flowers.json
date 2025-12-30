@@ -1,17 +1,17 @@
 {
     "Player Name": "Kelan Flowers",
+    "MIN": "1",
     "FGM-A": "5-13",
     "3PM-A": "1-5",
     "FTM-A": "6-6",
     "OREB": "0",
     "DREB": "6",
     "REB": "6",
+    "AST": "5",
+    "STL": "2",
+    "BLK": "0",
+    "TO": "4",
     "PF": "0",
     "TP": "17",
-    "AST": "5",
-    "TO": "4",
-    "BLK": "0",
-    "STL": "2",
-    "MIN": "1",
     "eventDateFormatted": "Nov 22"
 }

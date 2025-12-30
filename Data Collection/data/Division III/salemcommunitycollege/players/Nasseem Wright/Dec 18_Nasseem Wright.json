@@ -1,17 +1,17 @@
 {
     "Player Name": "Nasseem Wright",
+    "MIN": "23",
     "FGM-A": "2-9",
     "3PM-A": "0-0",
     "FTM-A": "2-2",
     "OREB": "2",
     "DREB": "8",
     "REB": "10",
+    "AST": "9",
+    "STL": "2",
+    "BLK": "0",
+    "TO": "4",
     "PF": "1",
     "TP": "6",
-    "AST": "9",
-    "TO": "4",
-    "BLK": "0",
-    "STL": "2",
-    "MIN": "23",
     "eventDateFormatted": "Dec 18"
 }

@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Oct 23",
+    "boxScoreLink": "20251023_5mq8.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Pasco-Hernando State College",
+                "result": "",
+                "teamId": "df666ycmf91sxhs8",
+                "winner": false,
+                "cleanName": "pasco hernando st col"
+            },
+            {
+                "name": "Webber International",
+                "result": "",
+                "teamId": "gfvsuyexo9qh7sb0",
+                "winner": false,
+                "cleanName": "webber int"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1761256800000,
+        "localTimeZone": "America/New_York",
+        "tba": false,
+        "home": false,
+        "overall": false,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "5mq8od6pmledktg1",
+        "fastdate": 1761256800000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "Webber International",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "scrimmage",
+            "description": "Scrimmage",
+            "statsCount": false
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Webber International",
+            "result": "",
+            "teamId": "gfvsuyexo9qh7sb0",
+            "winner": false,
+            "cleanName": "webber int"
+        },
+        "us": {
+            "name": "Pasco-Hernando State College",
+            "result": "",
+            "teamId": "df666ycmf91sxhs8",
+            "winner": false,
+            "cleanName": "pasco hernando st col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "October 23 06:00 PM:"
+}

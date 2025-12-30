@@ -1,17 +1,17 @@
 {
     "Player Name": "Amonti Green",
+    "MIN": "32",
     "FGM-A": "4-12",
     "3PM-A": "0-3",
     "FTM-A": "0-0",
     "OREB": "3",
     "DREB": "1",
     "REB": "4",
+    "AST": "2",
+    "STL": "1",
+    "BLK": "2",
+    "TO": "4",
     "PF": "2",
     "TP": "8",
-    "AST": "2",
-    "TO": "4",
-    "BLK": "2",
-    "STL": "1",
-    "MIN": "32",
     "eventDateFormatted": "Nov 20"
 }

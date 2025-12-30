@@ -1,17 +1,17 @@
 {
     "Player Name": "Damion Byrd II",
+    "MIN": "33",
     "FGM-A": "5-19",
     "3PM-A": "3-10",
     "FTM-A": "0-0",
     "OREB": "2",
     "DREB": "2",
     "REB": "4",
+    "AST": "4",
+    "STL": "0",
+    "BLK": "0",
+    "TO": "2",
     "PF": "1",
     "TP": "13",
-    "AST": "4",
-    "TO": "2",
-    "BLK": "0",
-    "STL": "0",
-    "MIN": "33",
     "eventDateFormatted": "Nov 30"
 }

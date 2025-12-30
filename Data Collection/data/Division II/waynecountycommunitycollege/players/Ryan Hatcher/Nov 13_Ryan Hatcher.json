@@ -1,17 +1,17 @@
 {
     "Player Name": "Ryan Hatcher",
+    "MIN": "32",
     "FGM-A": "7-7",
     "3PM-A": "3-3",
     "FTM-A": "1-1",
     "OREB": "5",
     "DREB": "0",
     "REB": "5",
+    "AST": "1",
+    "STL": "1",
+    "BLK": "0",
+    "TO": "0",
     "PF": "1",
     "TP": "18",
-    "AST": "1",
-    "TO": "0",
-    "BLK": "0",
-    "STL": "1",
-    "MIN": "32",
     "eventDateFormatted": "Nov 13"
 }

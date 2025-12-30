@@ -1,17 +1,17 @@
 {
-    "Player Name": "Kenneth \"KJ\" Hurt, Jr",
+    "Player Name": "Kenneth \"KJ\" Hurt, Jr.",
+    "MIN": "32",
     "FGM-A": "3-9",
     "3PM-A": "0-2",
     "FTM-A": "0-0",
     "OREB": "0",
     "DREB": "3",
     "REB": "3",
+    "AST": "0",
+    "STL": "0",
+    "BLK": "0",
+    "TO": "4",
     "PF": "4",
     "TP": "6",
-    "AST": "0",
-    "TO": "4",
-    "BLK": "0",
-    "STL": "0",
-    "MIN": "32",
     "eventDateFormatted": "Nov 14"
 }

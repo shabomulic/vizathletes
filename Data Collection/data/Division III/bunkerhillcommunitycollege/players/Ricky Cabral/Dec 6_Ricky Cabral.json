@@ -1,17 +1,17 @@
 {
     "Player Name": "Ricky Cabral",
+    "MIN": "1",
     "FGM-A": "4-7",
     "3PM-A": "1-2",
     "FTM-A": "0-0",
     "OREB": "6",
     "DREB": "2",
     "REB": "8",
+    "AST": "3",
+    "STL": "2",
+    "BLK": "0",
+    "TO": "1",
     "PF": "0",
     "TP": "9",
-    "AST": "3",
-    "TO": "1",
-    "BLK": "0",
-    "STL": "2",
-    "MIN": "1",
     "eventDateFormatted": "Dec 6"
 }

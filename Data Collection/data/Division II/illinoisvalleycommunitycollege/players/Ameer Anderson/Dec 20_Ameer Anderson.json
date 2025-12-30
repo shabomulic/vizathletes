@@ -1,17 +1,17 @@
 {
     "Player Name": "Ameer Anderson",
+    "MIN": "26",
     "FGM-A": "2-6",
     "3PM-A": "0-1",
     "FTM-A": "2-4",
     "OREB": "2",
     "DREB": "8",
     "REB": "10",
+    "AST": "1",
+    "STL": "1",
+    "BLK": "1",
+    "TO": "1",
     "PF": "3",
     "TP": "6",
-    "AST": "1",
-    "TO": "1",
-    "BLK": "1",
-    "STL": "1",
-    "MIN": "26",
     "eventDateFormatted": "Dec 20"
 }

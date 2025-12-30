@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Oct 21",
+    "boxScoreLink": "20251021_sgyi.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "SE Prep",
+                "result": "",
+                "teamId": "rtlwvlailecdbjn2",
+                "winner": false,
+                "cleanName": "se prep"
+            },
+            {
+                "name": "Pasco-Hernando State College",
+                "result": "",
+                "teamId": "df666ycmf91sxhs8",
+                "winner": false,
+                "cleanName": "pasco hernando st col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1761080400000,
+        "localTimeZone": "America/New_York",
+        "tba": false,
+        "home": true,
+        "overall": false,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "sgyigfl7uk0bvl44",
+        "fastdate": 1761080400000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "Pasco-Hernando",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "scrimmage",
+            "description": "Scrimmage",
+            "statsCount": false
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "SE Prep",
+            "result": "",
+            "teamId": "rtlwvlailecdbjn2",
+            "winner": false,
+            "cleanName": "se prep"
+        },
+        "us": {
+            "name": "Pasco-Hernando State College",
+            "result": "",
+            "teamId": "df666ycmf91sxhs8",
+            "winner": false,
+            "cleanName": "pasco hernando st col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "October 21 05:00 PM:"
+}

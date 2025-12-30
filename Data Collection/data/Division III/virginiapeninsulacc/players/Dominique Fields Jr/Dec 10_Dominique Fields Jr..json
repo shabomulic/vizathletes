@@ -1,17 +1,17 @@
 {
-    "Player Name": "Dominique Fields Jr",
+    "Player Name": "Dominique Fields Jr.",
+    "MIN": "29",
     "FGM-A": "6-10",
     "3PM-A": "0-0",
     "FTM-A": "1-6",
     "OREB": "5",
     "DREB": "8",
     "REB": "13",
+    "AST": "0",
+    "STL": "0",
+    "BLK": "2",
+    "TO": "0",
     "PF": "3",
     "TP": "13",
-    "AST": "0",
-    "TO": "0",
-    "BLK": "2",
-    "STL": "0",
-    "MIN": "29",
     "eventDateFormatted": "Dec 10"
 }

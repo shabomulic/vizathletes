@@ -1,17 +1,17 @@
 {
     "Player Name": "Jaymes Brown-Peterson",
+    "MIN": "23",
     "FGM-A": "2-4",
     "3PM-A": "0-1",
     "FTM-A": "2-2",
     "OREB": "0",
     "DREB": "2",
     "REB": "2",
+    "AST": "0",
+    "STL": "1",
+    "BLK": "0",
+    "TO": "0",
     "PF": "5",
     "TP": "6",
-    "AST": "0",
-    "TO": "0",
-    "BLK": "0",
-    "STL": "1",
-    "MIN": "23",
     "eventDateFormatted": "Nov 22"
 }

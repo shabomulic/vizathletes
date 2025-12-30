@@ -1,17 +1,17 @@
 {
     "Player Name": "Malik Raines",
+    "MIN": "17",
     "FGM-A": "3-8",
     "3PM-A": "1-3",
     "FTM-A": "5-7",
     "OREB": "1",
     "DREB": "0",
     "REB": "1",
+    "AST": "0",
+    "STL": "3",
+    "BLK": "0",
+    "TO": "2",
     "PF": "3",
     "TP": "12",
-    "AST": "0",
-    "TO": "2",
-    "BLK": "0",
-    "STL": "3",
-    "MIN": "17",
     "eventDateFormatted": "Nov 22"
 }

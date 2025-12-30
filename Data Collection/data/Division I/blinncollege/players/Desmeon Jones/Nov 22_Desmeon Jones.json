@@ -1,17 +1,17 @@
 {
     "Player Name": "Desmeon Jones",
+    "MIN": "36",
     "FGM-A": "2-5",
     "3PM-A": "1-2",
     "FTM-A": "2-2",
     "OREB": "0",
     "DREB": "3",
     "REB": "3",
+    "AST": "5",
+    "STL": "2",
+    "BLK": "0",
+    "TO": "6",
     "PF": "0",
     "TP": "7",
-    "AST": "5",
-    "TO": "6",
-    "BLK": "0",
-    "STL": "2",
-    "MIN": "36",
     "eventDateFormatted": "Nov 22"
 }

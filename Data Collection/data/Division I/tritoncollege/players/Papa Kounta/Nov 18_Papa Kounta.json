@@ -1,17 +1,17 @@
 {
     "Player Name": "Papa Kounta",
+    "MIN": "1",
     "FGM-A": "6-9",
     "3PM-A": "2-3",
     "FTM-A": "2-5",
     "OREB": "2",
     "DREB": "8",
     "REB": "10",
+    "AST": "3",
+    "STL": "1",
+    "BLK": "1",
+    "TO": "4",
     "PF": "1",
     "TP": "16",
-    "AST": "3",
-    "TO": "4",
-    "BLK": "1",
-    "STL": "1",
-    "MIN": "1",
     "eventDateFormatted": "Nov 18"
 }

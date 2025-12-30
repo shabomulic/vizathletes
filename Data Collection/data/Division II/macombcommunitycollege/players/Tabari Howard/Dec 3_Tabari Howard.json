@@ -1,17 +1,17 @@
 {
     "Player Name": "Tabari Howard",
+    "MIN": "24",
     "FGM-A": "4-6",
     "3PM-A": "0-1",
     "FTM-A": "2-2",
     "OREB": "2",
     "DREB": "7",
     "REB": "9",
+    "AST": "4",
+    "STL": "1",
+    "BLK": "0",
+    "TO": "3",
     "PF": "1",
     "TP": "10",
-    "AST": "4",
-    "TO": "3",
-    "BLK": "0",
-    "STL": "1",
-    "MIN": "24",
     "eventDateFormatted": "Dec 3"
 }

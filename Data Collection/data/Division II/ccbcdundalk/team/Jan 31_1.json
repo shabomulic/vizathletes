@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Jan 31",
+    "boxScoreLink": "20260131_tard.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "CCBC Dundalk",
+                "result": "",
+                "teamId": "jhfzyd61v4l276h6",
+                "winner": false,
+                "cleanName": "ccbc dundalk"
+            },
+            {
+                "name": "SUNY Niagara",
+                "result": "",
+                "teamId": "23ix4h6cwccvgan1",
+                "winner": false,
+                "cleanName": "suny niagara"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1769882400000,
+        "localTimeZone": "America/New_York",
+        "tba": false,
+        "home": false,
+        "overall": true,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "tardcv3uz6r15soy",
+        "fastdate": 1769882400000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "SUNY Niagara",
+            "result": "",
+            "teamId": "23ix4h6cwccvgan1",
+            "winner": false,
+            "cleanName": "suny niagara"
+        },
+        "us": {
+            "name": "CCBC Dundalk",
+            "result": "",
+            "teamId": "jhfzyd61v4l276h6",
+            "winner": false,
+            "cleanName": "ccbc dundalk"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "January 31 01:00 PM:"
+}

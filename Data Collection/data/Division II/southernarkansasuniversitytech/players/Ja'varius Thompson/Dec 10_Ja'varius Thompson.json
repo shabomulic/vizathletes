@@ -1,17 +1,17 @@
 {
     "Player Name": "Ja'varius Thompson",
+    "MIN": "1",
     "FGM-A": "7-23",
     "3PM-A": "1-10",
     "FTM-A": "1-1",
     "OREB": "1",
     "DREB": "4",
     "REB": "5",
+    "AST": "5",
+    "STL": "5",
+    "BLK": "0",
+    "TO": "4",
     "PF": "1",
     "TP": "16",
-    "AST": "5",
-    "TO": "4",
-    "BLK": "0",
-    "STL": "5",
-    "MIN": "1",
     "eventDateFormatted": "Dec 10"
 }

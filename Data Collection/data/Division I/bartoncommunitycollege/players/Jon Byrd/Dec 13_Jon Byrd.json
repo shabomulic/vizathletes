@@ -1,17 +1,17 @@
 {
     "Player Name": "Jon Byrd",
+    "MIN": "37",
     "FGM-A": "5-10",
     "3PM-A": "0-0",
     "FTM-A": "7-12",
     "OREB": "2",
     "DREB": "2",
     "REB": "4",
+    "AST": "8",
+    "STL": "3",
+    "BLK": "1",
+    "TO": "6",
     "PF": "3",
     "TP": "17",
-    "AST": "8",
-    "TO": "6",
-    "BLK": "1",
-    "STL": "3",
-    "MIN": "37",
     "eventDateFormatted": "Dec 13"
 }

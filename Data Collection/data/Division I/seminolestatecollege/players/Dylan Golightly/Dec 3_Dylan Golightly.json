@@ -1,17 +1,17 @@
 {
     "Player Name": "Dylan Golightly",
+    "MIN": "29",
     "FGM-A": "7-10",
     "3PM-A": "3-6",
     "FTM-A": "1-2",
     "OREB": "1",
     "DREB": "5",
     "REB": "6",
+    "AST": "1",
+    "STL": "4",
+    "BLK": "1",
+    "TO": "1",
     "PF": "1",
     "TP": "18",
-    "AST": "1",
-    "TO": "1",
-    "BLK": "1",
-    "STL": "4",
-    "MIN": "29",
     "eventDateFormatted": "Dec 3"
 }

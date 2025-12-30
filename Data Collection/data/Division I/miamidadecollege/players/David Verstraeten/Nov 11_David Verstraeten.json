@@ -1,17 +1,17 @@
 {
     "Player Name": "David Verstraeten",
+    "MIN": "35",
     "FGM-A": "9-15",
     "3PM-A": "2-4",
     "FTM-A": "1-2",
     "OREB": "1",
     "DREB": "7",
     "REB": "8",
+    "AST": "2",
+    "STL": "1",
+    "BLK": "4",
+    "TO": "3",
     "PF": "2",
     "TP": "21",
-    "AST": "2",
-    "TO": "3",
-    "BLK": "4",
-    "STL": "1",
-    "MIN": "35",
     "eventDateFormatted": "Nov 11"
 }

@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Nov 8",
+    "boxScoreLink": "20251108_1ohc.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Sussex County Community College",
+                "result": "",
+                "teamId": "637d1xbdt8eho6y2",
+                "winner": false,
+                "cleanName": "sussex county community col"
+            },
+            {
+                "name": "Thaddeus Stevens College of Technology",
+                "result": "",
+                "teamId": "nnj3rf2k5qei5wl9",
+                "winner": false,
+                "cleanName": "thaddeus stevens col technology"
+            }
+        ],
+        "status": "Postponed",
+        "notes": "",
+        "notesShared": "",
+        "date": 1762624800000,
+        "localTimeZone": "America/New_York",
+        "tba": false,
+        "home": true,
+        "overall": true,
+        "conference": true,
+        "division": false,
+        "regional": false,
+        "national": true,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": true,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "1ohc41yhtuomv5a5",
+        "fastdate": 1762624800000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "ap2Result": "",
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Sussex County Community College",
+            "result": "",
+            "teamId": "637d1xbdt8eho6y2",
+            "winner": false,
+            "cleanName": "sussex county community col"
+        },
+        "us": {
+            "name": "Thaddeus Stevens College of Technology",
+            "result": "",
+            "teamId": "nnj3rf2k5qei5wl9",
+            "winner": false,
+            "cleanName": "thaddeus stevens col technology"
+        },
+        "apresult": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "November 8 01:00 PM:"
+}

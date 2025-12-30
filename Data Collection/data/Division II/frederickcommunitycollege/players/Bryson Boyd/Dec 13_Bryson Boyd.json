@@ -1,17 +1,17 @@
 {
     "Player Name": "Bryson Boyd",
+    "MIN": "34",
     "FGM-A": "8-11",
     "3PM-A": "0-0",
     "FTM-A": "1-7",
     "OREB": "4",
     "DREB": "1",
     "REB": "5",
+    "AST": "0",
+    "STL": "0",
+    "BLK": "3",
+    "TO": "3",
     "PF": "3",
     "TP": "17",
-    "AST": "0",
-    "TO": "3",
-    "BLK": "3",
-    "STL": "0",
-    "MIN": "34",
     "eventDateFormatted": "Dec 13"
 }

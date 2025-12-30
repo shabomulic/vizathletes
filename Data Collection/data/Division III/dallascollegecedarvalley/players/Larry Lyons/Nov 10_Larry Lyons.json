@@ -1,17 +1,17 @@
 {
     "Player Name": "Larry Lyons",
+    "MIN": "30",
     "FGM-A": "7-18",
     "3PM-A": "0-3",
     "FTM-A": "13-15",
     "OREB": "1",
     "DREB": "3",
     "REB": "4",
+    "AST": "1",
+    "STL": "1",
+    "BLK": "1",
+    "TO": "1",
     "PF": "1",
     "TP": "27",
-    "AST": "1",
-    "TO": "1",
-    "BLK": "1",
-    "STL": "1",
-    "MIN": "30",
     "eventDateFormatted": "Nov 10"
 }

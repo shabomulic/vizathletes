@@ -1,17 +1,17 @@
 {
     "Player Name": "Darius Styles",
+    "MIN": "31",
     "FGM-A": "6-15",
     "3PM-A": "5-10",
     "FTM-A": "2-2",
     "OREB": "0",
     "DREB": "3",
     "REB": "3",
+    "AST": "2",
+    "STL": "0",
+    "BLK": "0",
+    "TO": "0",
     "PF": "2",
     "TP": "19",
-    "AST": "2",
-    "TO": "0",
-    "BLK": "0",
-    "STL": "0",
-    "MIN": "31",
     "eventDateFormatted": "Dec 6"
 }

@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Feb 8",
+    "boxScoreLink": "20260208_wbmz.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Cuyahoga Community College",
+                "result": "",
+                "teamId": "kqgoy9nt4u9ftkf3",
+                "winner": false,
+                "cleanName": "cuyahoga community col"
+            },
+            {
+                "name": "SUNY Niagara",
+                "result": "",
+                "teamId": "23ix4h6cwccvgan1",
+                "winner": false,
+                "cleanName": "suny niagara"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1770570000000,
+        "localTimeZone": "America/New_York",
+        "tba": false,
+        "home": true,
+        "overall": true,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "wbmzt2qfxd3vstjl",
+        "fastdate": 1770570000000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "3111 Saunders Settlement Road",
+        "city": "Sanborn",
+        "stateCountry": "NY",
+        "zipCode": "14132",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Cuyahoga Community College",
+            "result": "",
+            "teamId": "kqgoy9nt4u9ftkf3",
+            "winner": false,
+            "cleanName": "cuyahoga community col"
+        },
+        "us": {
+            "name": "SUNY Niagara",
+            "result": "",
+            "teamId": "23ix4h6cwccvgan1",
+            "winner": false,
+            "cleanName": "suny niagara"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "February 8 12:00 PM:"
+}

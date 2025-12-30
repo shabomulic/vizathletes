@@ -1,17 +1,17 @@
 {
     "Player Name": "Vanja Mrduljas",
+    "MIN": "32",
     "FGM-A": "5-11",
     "3PM-A": "1-4",
     "FTM-A": "1-2",
     "OREB": "1",
     "DREB": "2",
     "REB": "3",
+    "AST": "0",
+    "STL": "2",
+    "BLK": "0",
+    "TO": "2",
     "PF": "1",
     "TP": "12",
-    "AST": "0",
-    "TO": "2",
-    "BLK": "0",
-    "STL": "2",
-    "MIN": "32",
     "eventDateFormatted": "Nov 6"
 }

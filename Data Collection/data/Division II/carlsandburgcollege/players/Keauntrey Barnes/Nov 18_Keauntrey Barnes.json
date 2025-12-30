@@ -1,17 +1,17 @@
 {
     "Player Name": "Keauntrey Barnes",
+    "MIN": "30",
     "FGM-A": "2-6",
     "3PM-A": "0-1",
     "FTM-A": "1-2",
     "OREB": "2",
     "DREB": "3",
     "REB": "5",
+    "AST": "0",
+    "STL": "4",
+    "BLK": "1",
+    "TO": "2",
     "PF": "5",
     "TP": "5",
-    "AST": "0",
-    "TO": "2",
-    "BLK": "1",
-    "STL": "4",
-    "MIN": "30",
     "eventDateFormatted": "Nov 18"
 }

@@ -1,17 +1,17 @@
 {
     "Player Name": "Alec Belter",
+    "MIN": "33",
     "FGM-A": "3-8",
     "3PM-A": "2-4",
     "FTM-A": "0-0",
     "OREB": "0",
     "DREB": "1",
     "REB": "1",
+    "AST": "4",
+    "STL": "0",
+    "BLK": "0",
+    "TO": "3",
     "PF": "4",
     "TP": "8",
-    "AST": "4",
-    "TO": "3",
-    "BLK": "0",
-    "STL": "0",
-    "MIN": "33",
     "eventDateFormatted": "Dec 17"
 }

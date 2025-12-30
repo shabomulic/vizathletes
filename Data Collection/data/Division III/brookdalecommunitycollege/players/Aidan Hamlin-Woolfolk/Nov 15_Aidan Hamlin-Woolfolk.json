@@ -1,17 +1,17 @@
 {
     "Player Name": "Aidan Hamlin-Woolfolk",
+    "MIN": "1",
     "FGM-A": "7-10",
     "3PM-A": "2-3",
     "FTM-A": "2-2",
     "OREB": "0",
     "DREB": "3",
     "REB": "3",
+    "AST": "0",
+    "STL": "1",
+    "BLK": "4",
+    "TO": "2",
     "PF": "0",
     "TP": "18",
-    "AST": "0",
-    "TO": "2",
-    "BLK": "4",
-    "STL": "1",
-    "MIN": "1",
     "eventDateFormatted": "Nov 15"
 }

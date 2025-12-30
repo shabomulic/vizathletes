@@ -1,17 +1,17 @@
 {
     "Player Name": "Josh Olutayo",
+    "MIN": "23:52",
     "FGM-A": "1-3",
     "3PM-A": "0-0",
     "FTM-A": "2-2",
     "OREB": "0",
     "DREB": "5",
     "REB": "5",
+    "AST": "0",
+    "STL": "0",
+    "BLK": "2",
+    "TO": "2",
     "PF": "3",
     "TP": "4",
-    "AST": "0",
-    "TO": "2",
-    "BLK": "2",
-    "STL": "0",
-    "MIN": "23:52",
     "eventDateFormatted": "Dec 6"
 }

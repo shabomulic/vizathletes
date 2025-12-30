@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Oct 11",
+    "boxScoreLink": "20251011_tfgd.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Brunswick Community College",
+                "result": "",
+                "teamId": "udv9ruz0koxbdpd0",
+                "winner": false,
+                "cleanName": "brunswick community col"
+            },
+            {
+                "name": "All American JUCO Jamboree",
+                "result": "",
+                "teamId": "4yl2vqkrzk0tl5ti",
+                "winner": false,
+                "cleanName": "all american juco jamboree"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1760155200000,
+        "localTimeZone": "America/New_York",
+        "tba": true,
+        "home": false,
+        "overall": false,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "The Big House, 1544 Ken Bragg Wy, Tavares, FL 32778",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "tfgdy0tanpj47ktc",
+        "fastdate": 1760155200000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "Tavares",
+        "stateCountry": "Florida",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "exhibition",
+            "description": "Exhibition",
+            "statsCount": false
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "All American JUCO Jamboree",
+            "result": "",
+            "teamId": "4yl2vqkrzk0tl5ti",
+            "winner": false,
+            "cleanName": "all american juco jamboree"
+        },
+        "us": {
+            "name": "Brunswick Community College",
+            "result": "",
+            "teamId": "udv9ruz0koxbdpd0",
+            "winner": false,
+            "cleanName": "brunswick community col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "October 11 12:00 AM:"
+}

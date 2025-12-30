@@ -1,17 +1,17 @@
 {
     "Player Name": "Devonte Reed",
+    "MIN": "30",
     "FGM-A": "3-12",
     "3PM-A": "1-5",
     "FTM-A": "5-7",
     "OREB": "0",
     "DREB": "4",
     "REB": "4",
+    "AST": "1",
+    "STL": "4",
+    "BLK": "4",
+    "TO": "4",
     "PF": "2",
     "TP": "12",
-    "AST": "1",
-    "TO": "4",
-    "BLK": "4",
-    "STL": "4",
-    "MIN": "30",
     "eventDateFormatted": "Dec 10"
 }

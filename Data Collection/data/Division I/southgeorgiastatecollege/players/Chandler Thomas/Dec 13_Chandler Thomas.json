@@ -1,17 +1,17 @@
 {
     "Player Name": "Chandler Thomas",
+    "MIN": "38",
     "FGM-A": "7-15",
     "3PM-A": "0-1",
     "FTM-A": "6-9",
     "OREB": "5",
     "DREB": "2",
     "REB": "7",
+    "AST": "8",
+    "STL": "7",
+    "BLK": "0",
+    "TO": "4",
     "PF": "3",
     "TP": "20",
-    "AST": "8",
-    "TO": "4",
-    "BLK": "0",
-    "STL": "7",
-    "MIN": "38",
     "eventDateFormatted": "Dec 13"
 }

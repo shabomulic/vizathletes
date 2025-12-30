@@ -1,17 +1,17 @@
 {
     "Player Name": "Lavion Owens",
+    "MIN": "40",
     "FGM-A": "16-27",
     "3PM-A": "4-12",
     "FTM-A": "2-4",
     "OREB": "3",
     "DREB": "7",
     "REB": "10",
+    "AST": "2",
+    "STL": "0",
+    "BLK": "0",
+    "TO": "1",
     "PF": "0",
     "TP": "38",
-    "AST": "2",
-    "TO": "1",
-    "BLK": "0",
-    "STL": "0",
-    "MIN": "40",
     "eventDateFormatted": "Dec 3"
 }

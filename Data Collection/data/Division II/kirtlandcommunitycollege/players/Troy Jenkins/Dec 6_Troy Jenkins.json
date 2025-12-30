@@ -1,17 +1,17 @@
 {
     "Player Name": "Troy Jenkins",
+    "MIN": "30",
     "FGM-A": "6-17",
     "3PM-A": "1-9",
     "FTM-A": "4-4",
     "OREB": "0",
     "DREB": "5",
     "REB": "5",
+    "AST": "2",
+    "STL": "0",
+    "BLK": "0",
+    "TO": "4",
     "PF": "3",
     "TP": "17",
-    "AST": "2",
-    "TO": "4",
-    "BLK": "0",
-    "STL": "0",
-    "MIN": "30",
     "eventDateFormatted": "Dec 6"
 }

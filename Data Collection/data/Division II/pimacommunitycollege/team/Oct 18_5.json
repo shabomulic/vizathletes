@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Oct 18",
+    "boxScoreLink": "20251018_slfb.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Performance First Academy",
+                "result": "",
+                "teamId": "t8uvi7nraidr0tmb",
+                "winner": false,
+                "cleanName": "performance first academy"
+            },
+            {
+                "name": "Pima Community College",
+                "result": "",
+                "teamId": "qulb4yrssxonevcn",
+                "winner": false,
+                "cleanName": "pima community col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "West Campus Aztec Gymnasium",
+        "date": 1760808600000,
+        "localTimeZone": "America/Phoenix",
+        "tba": false,
+        "home": true,
+        "overall": false,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "slfbzl40evmgvvtr",
+        "fastdate": 1760808600000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "preSeason",
+            "description": "Pre-Season",
+            "statsCount": true
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Performance First Academy",
+            "result": "",
+            "teamId": "t8uvi7nraidr0tmb",
+            "winner": false,
+            "cleanName": "performance first academy"
+        },
+        "us": {
+            "name": "Pima Community College",
+            "result": "",
+            "teamId": "qulb4yrssxonevcn",
+            "winner": false,
+            "cleanName": "pima community col"
+        },
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "October 18 01:30 PM:"
+}

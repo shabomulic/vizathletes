@@ -1,17 +1,17 @@
 {
     "Player Name": "Alex Obase",
+    "MIN": "30",
     "FGM-A": "2-3",
     "3PM-A": "0-0",
     "FTM-A": "0-1",
     "OREB": "2",
     "DREB": "6",
     "REB": "8",
+    "AST": "0",
+    "STL": "0",
+    "BLK": "0",
+    "TO": "1",
     "PF": "0",
     "TP": "4",
-    "AST": "0",
-    "TO": "1",
-    "BLK": "0",
-    "STL": "0",
-    "MIN": "30",
     "eventDateFormatted": "Dec 10"
 }

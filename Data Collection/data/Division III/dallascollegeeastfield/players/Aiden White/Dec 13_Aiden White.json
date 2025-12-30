@@ -1,17 +1,17 @@
 {
     "Player Name": "Aiden White",
+    "MIN": "1",
     "FGM-A": "5-11",
     "3PM-A": "4-6",
     "FTM-A": "4-6",
     "OREB": "0",
     "DREB": "3",
     "REB": "3",
+    "AST": "1",
+    "STL": "1",
+    "BLK": "0",
+    "TO": "0",
     "PF": "0",
     "TP": "18",
-    "AST": "1",
-    "TO": "0",
-    "BLK": "0",
-    "STL": "1",
-    "MIN": "1",
     "eventDateFormatted": "Dec 13"
 }

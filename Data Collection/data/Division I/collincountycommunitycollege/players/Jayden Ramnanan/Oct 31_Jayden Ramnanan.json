@@ -1,17 +1,17 @@
 {
     "Player Name": "Jayden Ramnanan",
+    "MIN": "1",
     "FGM-A": "9-12",
     "3PM-A": "3-6",
     "FTM-A": "2-2",
     "OREB": "0",
     "DREB": "3",
     "REB": "3",
+    "AST": "8",
+    "STL": "4",
+    "BLK": "0",
+    "TO": "1",
     "PF": "0",
     "TP": "23",
-    "AST": "8",
-    "TO": "1",
-    "BLK": "0",
-    "STL": "4",
-    "MIN": "1",
     "eventDateFormatted": "Oct 31"
 }

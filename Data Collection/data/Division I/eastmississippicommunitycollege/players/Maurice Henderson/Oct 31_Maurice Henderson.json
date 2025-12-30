@@ -1,17 +1,17 @@
 {
     "Player Name": "Maurice Henderson",
+    "MIN": "24",
     "FGM-A": "2-4",
     "3PM-A": "0-0",
     "FTM-A": "0-0",
     "OREB": "0",
     "DREB": "2",
     "REB": "2",
+    "AST": "4",
+    "STL": "1",
+    "BLK": "0",
+    "TO": "5",
     "PF": "2",
     "TP": "4",
-    "AST": "4",
-    "TO": "5",
-    "BLK": "0",
-    "STL": "1",
-    "MIN": "24",
     "eventDateFormatted": "Oct 31"
 }

@@ -1,17 +1,17 @@
 {
     "Player Name": "Fred Motley",
+    "MIN": "1",
     "FGM-A": "8-10",
     "3PM-A": "1-1",
     "FTM-A": "2-2",
     "OREB": "1",
     "DREB": "2",
     "REB": "3",
+    "AST": "5",
+    "STL": "5",
+    "BLK": "0",
+    "TO": "4",
     "PF": "0",
     "TP": "19",
-    "AST": "5",
-    "TO": "4",
-    "BLK": "0",
-    "STL": "5",
-    "MIN": "1",
     "eventDateFormatted": "Nov 18"
 }

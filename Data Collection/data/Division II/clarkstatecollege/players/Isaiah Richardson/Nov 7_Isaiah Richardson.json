@@ -1,17 +1,17 @@
 {
     "Player Name": "Isaiah Richardson",
+    "MIN": "32",
     "FGM-A": "2-2",
     "3PM-A": "1-1",
     "FTM-A": "6-6",
     "OREB": "3",
     "DREB": "0",
     "REB": "3",
+    "AST": "1",
+    "STL": "0",
+    "BLK": "0",
+    "TO": "0",
     "PF": "0",
     "TP": "11",
-    "AST": "1",
-    "TO": "0",
-    "BLK": "0",
-    "STL": "0",
-    "MIN": "32",
     "eventDateFormatted": "Nov 7"
 }

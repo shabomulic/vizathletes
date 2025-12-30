@@ -1,17 +1,17 @@
 {
     "Player Name": "Jahki Deloach",
+    "MIN": "28",
     "FGM-A": "3-7",
     "3PM-A": "1-2",
     "FTM-A": "0-0",
     "OREB": "1",
     "DREB": "8",
     "REB": "9",
+    "AST": "10",
+    "STL": "2",
+    "BLK": "0",
+    "TO": "7",
     "PF": "3",
     "TP": "7",
-    "AST": "10",
-    "TO": "7",
-    "BLK": "0",
-    "STL": "2",
-    "MIN": "28",
     "eventDateFormatted": "Nov 22"
 }

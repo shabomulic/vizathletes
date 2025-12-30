@@ -1,17 +1,17 @@
 {
     "Player Name": "Gavin Dabney",
+    "MIN": "31",
     "FGM-A": "3-8",
     "3PM-A": "0-3",
     "FTM-A": "5-8",
     "OREB": "4",
     "DREB": "2",
     "REB": "6",
+    "AST": "3",
+    "STL": "1",
+    "BLK": "0",
+    "TO": "0",
     "PF": "4",
     "TP": "11",
-    "AST": "3",
-    "TO": "0",
-    "BLK": "0",
-    "STL": "1",
-    "MIN": "31",
     "eventDateFormatted": "Nov 15"
 }

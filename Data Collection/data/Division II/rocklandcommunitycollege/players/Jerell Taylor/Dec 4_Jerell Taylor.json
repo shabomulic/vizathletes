@@ -1,17 +1,17 @@
 {
     "Player Name": "Jerell Taylor",
+    "MIN": "1",
     "FGM-A": "8-13",
     "3PM-A": "1-5",
     "FTM-A": "0-0",
     "OREB": "1",
     "DREB": "3",
     "REB": "4",
+    "AST": "6",
+    "STL": "5",
+    "BLK": "0",
+    "TO": "8",
     "PF": "0",
     "TP": "17",
-    "AST": "6",
-    "TO": "8",
-    "BLK": "0",
-    "STL": "5",
-    "MIN": "1",
     "eventDateFormatted": "Dec 4"
 }

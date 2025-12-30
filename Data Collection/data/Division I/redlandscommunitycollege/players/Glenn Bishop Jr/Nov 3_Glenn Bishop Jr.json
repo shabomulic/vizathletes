@@ -1,17 +1,17 @@
 {
     "Player Name": "Glenn Bishop Jr",
+    "MIN": "27",
     "FGM-A": "6-8",
     "3PM-A": "0-1",
     "FTM-A": "3-6",
     "OREB": "4",
     "DREB": "8",
     "REB": "12",
+    "AST": "4",
+    "STL": "2",
+    "BLK": "0",
+    "TO": "2",
     "PF": "0",
     "TP": "15",
-    "AST": "4",
-    "TO": "2",
-    "BLK": "0",
-    "STL": "2",
-    "MIN": "27",
     "eventDateFormatted": "Nov 3"
 }

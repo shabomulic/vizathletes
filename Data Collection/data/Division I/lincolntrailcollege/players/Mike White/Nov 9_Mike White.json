@@ -1,17 +1,17 @@
 {
     "Player Name": "Mike White",
+    "MIN": "1",
     "FGM-A": "7-16",
     "3PM-A": "3-6",
     "FTM-A": "4-4",
     "OREB": "3",
     "DREB": "4",
     "REB": "7",
+    "AST": "7",
+    "STL": "1",
+    "BLK": "0",
+    "TO": "3",
     "PF": "0",
     "TP": "21",
-    "AST": "7",
-    "TO": "3",
-    "BLK": "0",
-    "STL": "1",
-    "MIN": "1",
     "eventDateFormatted": "Nov 9"
 }

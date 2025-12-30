@@ -1,17 +1,17 @@
 {
     "Player Name": "Ejay Greer",
+    "MIN": "14",
     "FGM-A": "0-5",
     "3PM-A": "0-2",
     "FTM-A": "2-2",
     "OREB": "0",
     "DREB": "1",
     "REB": "1",
+    "AST": "0",
+    "STL": "0",
+    "BLK": "0",
+    "TO": "3",
     "PF": "0",
     "TP": "2",
-    "AST": "0",
-    "TO": "3",
-    "BLK": "0",
-    "STL": "0",
-    "MIN": "14",
     "eventDateFormatted": "Nov 23"
 }

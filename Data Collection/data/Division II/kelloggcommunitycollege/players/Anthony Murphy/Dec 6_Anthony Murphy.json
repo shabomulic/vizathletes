@@ -1,17 +1,17 @@
 {
     "Player Name": "Anthony Murphy",
+    "MIN": "27",
     "FGM-A": "7-14",
     "3PM-A": "0-0",
     "FTM-A": "2-3",
     "OREB": "2",
     "DREB": "9",
     "REB": "11",
+    "AST": "5",
+    "STL": "1",
+    "BLK": "0",
+    "TO": "3",
     "PF": "3",
     "TP": "16",
-    "AST": "5",
-    "TO": "3",
-    "BLK": "0",
-    "STL": "1",
-    "MIN": "27",
     "eventDateFormatted": "Dec 6"
 }

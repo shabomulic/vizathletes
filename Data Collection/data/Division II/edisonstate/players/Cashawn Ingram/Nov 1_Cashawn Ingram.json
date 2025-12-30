@@ -1,17 +1,17 @@
 {
     "Player Name": "Cashawn Ingram",
+    "MIN": "25",
     "FGM-A": "2-6",
     "3PM-A": "0-5",
     "FTM-A": "3-4",
     "OREB": "0",
     "DREB": "3",
     "REB": "3",
+    "AST": "5",
+    "STL": "3",
+    "BLK": "0",
+    "TO": "0",
     "PF": "1",
     "TP": "7",
-    "AST": "5",
-    "TO": "0",
-    "BLK": "0",
-    "STL": "3",
-    "MIN": "25",
     "eventDateFormatted": "Nov 1"
 }

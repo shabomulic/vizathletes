@@ -1,17 +1,17 @@
 {
     "Player Name": "Caleb Gatewood",
+    "MIN": "23",
     "FGM-A": "3-7",
     "3PM-A": "0-0",
     "FTM-A": "5-8",
     "OREB": "0",
     "DREB": "6",
     "REB": "6",
+    "AST": "1",
+    "STL": "0",
+    "BLK": "0",
+    "TO": "6",
     "PF": "3",
     "TP": "11",
-    "AST": "1",
-    "TO": "6",
-    "BLK": "0",
-    "STL": "0",
-    "MIN": "23",
     "eventDateFormatted": "Nov 8"
 }

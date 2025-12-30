@@ -1,17 +1,17 @@
 {
     "Player Name": "Roy Henderson III",
+    "MIN": "1",
     "FGM-A": "9-19",
     "3PM-A": "7-11",
     "FTM-A": "1-2",
     "OREB": "0",
     "DREB": "4",
     "REB": "4",
+    "AST": "3",
+    "STL": "2",
+    "BLK": "0",
+    "TO": "3",
     "PF": "1",
     "TP": "26",
-    "AST": "3",
-    "TO": "3",
-    "BLK": "0",
-    "STL": "2",
-    "MIN": "1",
     "eventDateFormatted": "Dec 4"
 }

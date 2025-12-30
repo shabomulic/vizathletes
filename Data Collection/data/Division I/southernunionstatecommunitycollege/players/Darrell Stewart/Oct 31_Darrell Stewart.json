@@ -1,17 +1,17 @@
 {
     "Player Name": "Darrell Stewart",
+    "MIN": "21",
     "FGM-A": "0-0",
     "3PM-A": "0-0",
     "FTM-A": "3-4",
     "OREB": "1",
     "DREB": "1",
     "REB": "2",
+    "AST": "1",
+    "STL": "0",
+    "BLK": "0",
+    "TO": "2",
     "PF": "3",
     "TP": "3",
-    "AST": "1",
-    "TO": "2",
-    "BLK": "0",
-    "STL": "0",
-    "MIN": "21",
     "eventDateFormatted": "Oct 31"
 }

@@ -1,17 +1,17 @@
 {
     "Player Name": "Jamal Woods",
+    "MIN": "20:09",
     "FGM-A": "7-11",
     "3PM-A": "3-4",
     "FTM-A": "0-0",
     "OREB": "1",
     "DREB": "3",
     "REB": "4",
+    "AST": "0",
+    "STL": "2",
+    "BLK": "0",
+    "TO": "4",
     "PF": "3",
     "TP": "17",
-    "AST": "0",
-    "TO": "4",
-    "BLK": "0",
-    "STL": "2",
-    "MIN": "20:09",
     "eventDateFormatted": "Dec 6"
 }

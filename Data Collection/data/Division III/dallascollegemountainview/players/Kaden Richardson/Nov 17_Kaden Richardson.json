@@ -1,17 +1,17 @@
 {
     "Player Name": "Kaden Richardson",
+    "MIN": "1",
     "FGM-A": "4-10",
     "3PM-A": "3-6",
     "FTM-A": "0-0",
     "OREB": "0",
     "DREB": "3",
     "REB": "3",
+    "AST": "3",
+    "STL": "2",
+    "BLK": "0",
+    "TO": "1",
     "PF": "2",
     "TP": "11",
-    "AST": "3",
-    "TO": "1",
-    "BLK": "0",
-    "STL": "2",
-    "MIN": "1",
     "eventDateFormatted": "Nov 17"
 }

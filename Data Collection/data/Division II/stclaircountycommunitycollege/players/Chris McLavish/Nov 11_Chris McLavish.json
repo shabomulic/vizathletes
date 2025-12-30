@@ -1,17 +1,17 @@
 {
-    "Player Name": "Chris Mclavish",
+    "Player Name": "Chris McLavish",
+    "MIN": "36",
     "FGM-A": "9-15",
     "3PM-A": "8-13",
     "FTM-A": "0-2",
     "OREB": "0",
     "DREB": "4",
     "REB": "4",
+    "AST": "5",
+    "STL": "2",
+    "BLK": "0",
+    "TO": "6",
     "PF": "3",
     "TP": "26",
-    "AST": "5",
-    "TO": "6",
-    "BLK": "0",
-    "STL": "2",
-    "MIN": "36",
     "eventDateFormatted": "Nov 11"
 }

@@ -1,17 +1,17 @@
 {
     "Player Name": "Leirre Collier",
+    "MIN": "28",
     "FGM-A": "0-2",
     "3PM-A": "0-1",
     "FTM-A": "0-0",
     "OREB": "0",
     "DREB": "3",
     "REB": "3",
+    "AST": "4",
+    "STL": "2",
+    "BLK": "0",
+    "TO": "2",
     "PF": "1",
     "TP": "0",
-    "AST": "4",
-    "TO": "2",
-    "BLK": "0",
-    "STL": "2",
-    "MIN": "28",
     "eventDateFormatted": "Dec 7"
 }

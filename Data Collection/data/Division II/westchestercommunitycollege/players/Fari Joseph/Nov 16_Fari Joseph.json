@@ -1,17 +1,17 @@
 {
     "Player Name": "Fari Joseph",
+    "MIN": "34",
     "FGM-A": "6-14",
     "3PM-A": "2-8",
     "FTM-A": "2-3",
     "OREB": "1",
     "DREB": "4",
     "REB": "5",
+    "AST": "3",
+    "STL": "3",
+    "BLK": "0",
+    "TO": "3",
     "PF": "2",
     "TP": "16",
-    "AST": "3",
-    "TO": "3",
-    "BLK": "0",
-    "STL": "3",
-    "MIN": "34",
     "eventDateFormatted": "Nov 16"
 }

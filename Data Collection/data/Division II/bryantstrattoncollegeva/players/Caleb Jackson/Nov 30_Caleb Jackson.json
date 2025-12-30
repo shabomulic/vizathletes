@@ -1,17 +1,17 @@
 {
     "Player Name": "Caleb Jackson",
+    "MIN": "27",
     "FGM-A": "5-6",
     "3PM-A": "0-0",
     "FTM-A": "0-1",
     "OREB": "7",
     "DREB": "4",
     "REB": "11",
+    "AST": "0",
+    "STL": "0",
+    "BLK": "1",
+    "TO": "3",
     "PF": "2",
     "TP": "10",
-    "AST": "0",
-    "TO": "3",
-    "BLK": "1",
-    "STL": "0",
-    "MIN": "27",
     "eventDateFormatted": "Nov 30"
 }

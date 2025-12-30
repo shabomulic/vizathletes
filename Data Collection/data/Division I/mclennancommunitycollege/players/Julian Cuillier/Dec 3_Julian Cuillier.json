@@ -1,17 +1,17 @@
 {
     "Player Name": "Julian Cuillier",
+    "MIN": "24",
     "FGM-A": "2-7",
     "3PM-A": "1-2",
     "FTM-A": "2-2",
     "OREB": "1",
     "DREB": "4",
     "REB": "5",
+    "AST": "2",
+    "STL": "0",
+    "BLK": "0",
+    "TO": "0",
     "PF": "0",
     "TP": "7",
-    "AST": "2",
-    "TO": "0",
-    "BLK": "0",
-    "STL": "0",
-    "MIN": "24",
     "eventDateFormatted": "Dec 3"
 }

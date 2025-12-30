@@ -1,17 +1,17 @@
 {
     "Player Name": "Sam Olotu",
+    "MIN": "1",
     "FGM-A": "3-8",
     "3PM-A": "0-2",
     "FTM-A": "0-0",
     "OREB": "3",
     "DREB": "2",
     "REB": "5",
+    "AST": "2",
+    "STL": "0",
+    "BLK": "0",
+    "TO": "3",
     "PF": "3",
     "TP": "6",
-    "AST": "2",
-    "TO": "3",
-    "BLK": "0",
-    "STL": "0",
-    "MIN": "1",
     "eventDateFormatted": "Nov 25"
 }

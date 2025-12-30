@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Mar 7",
+    "boxScoreLink": "20260307_y78w.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Metropolitan Community College",
+                "result": "",
+                "teamId": "2rluzyd48cjzw9rr",
+                "winner": false,
+                "cleanName": "metropolitan community col"
+            },
+            {
+                "name": "NJCAA District Championship",
+                "result": "",
+                "teamId": "f7mqs8tv8rv0bw5f",
+                "winner": false,
+                "cleanName": "njcaa district championship"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1772859600000,
+        "localTimeZone": "America/Chicago",
+        "tba": true,
+        "home": false,
+        "overall": true,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "y78wb0mn0vg57afs",
+        "fastdate": 1772859600000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "NJCAA District Championship",
+            "result": "",
+            "teamId": "f7mqs8tv8rv0bw5f",
+            "winner": false,
+            "cleanName": "njcaa district championship"
+        },
+        "us": {
+            "name": "Metropolitan Community College",
+            "result": "",
+            "teamId": "2rluzyd48cjzw9rr",
+            "winner": false,
+            "cleanName": "metropolitan community col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "March 7 12:00 AM:"
+}

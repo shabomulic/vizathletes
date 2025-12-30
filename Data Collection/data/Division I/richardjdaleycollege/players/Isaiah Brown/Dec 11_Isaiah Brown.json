@@ -1,17 +1,17 @@
 {
     "Player Name": "Isaiah Brown",
+    "MIN": "1",
     "FGM-A": "9-12",
     "3PM-A": "0-1",
     "FTM-A": "3-4",
     "OREB": "1",
     "DREB": "6",
     "REB": "7",
+    "AST": "5",
+    "STL": "1",
+    "BLK": "0",
+    "TO": "2",
     "PF": "0",
     "TP": "21",
-    "AST": "5",
-    "TO": "2",
-    "BLK": "0",
-    "STL": "1",
-    "MIN": "1",
     "eventDateFormatted": "Dec 11"
 }

@@ -1,17 +1,17 @@
 {
     "Player Name": "Cardell West",
+    "MIN": "1",
     "FGM-A": "0-8",
     "3PM-A": "0-2",
     "FTM-A": "1-2",
     "OREB": "0",
     "DREB": "4",
     "REB": "4",
+    "AST": "1",
+    "STL": "0",
+    "BLK": "0",
+    "TO": "0",
     "PF": "1",
     "TP": "1",
-    "AST": "1",
-    "TO": "0",
-    "BLK": "0",
-    "STL": "0",
-    "MIN": "1",
     "eventDateFormatted": "Nov 21"
 }

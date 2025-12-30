@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Jan 12",
+    "boxScoreLink": "20260112_von4.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Wallace Community College-Selma",
+                "result": "",
+                "teamId": "jkkjq664z6u9syvw",
+                "winner": false,
+                "cleanName": "wallace community col selma"
+            },
+            {
+                "name": "Chattahoochee Valley Community College",
+                "result": "",
+                "teamId": "rf52qvpv2nbr0xse",
+                "winner": false,
+                "cleanName": "chattahoochee valley community col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1768262400000,
+        "localTimeZone": "America/New_York",
+        "tba": false,
+        "home": true,
+        "overall": true,
+        "conference": true,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "von4zvfjopxf9r4u",
+        "fastdate": 1768262400000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Wallace Community College-Selma",
+            "result": "",
+            "teamId": "jkkjq664z6u9syvw",
+            "winner": false,
+            "cleanName": "wallace community col selma"
+        },
+        "us": {
+            "name": "Chattahoochee Valley Community College",
+            "result": "",
+            "teamId": "rf52qvpv2nbr0xse",
+            "winner": false,
+            "cleanName": "chattahoochee valley community col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "January 12 07:00 PM:"
+}

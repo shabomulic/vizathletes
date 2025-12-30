@@ -1,17 +1,17 @@
 {
     "Player Name": "Tim Halden",
+    "MIN": "1",
     "FGM-A": "4-8",
     "3PM-A": "0-2",
     "FTM-A": "0-0",
     "OREB": "1",
     "DREB": "6",
     "REB": "7",
+    "AST": "2",
+    "STL": "2",
+    "BLK": "1",
+    "TO": "4",
     "PF": "3",
     "TP": "8",
-    "AST": "2",
-    "TO": "4",
-    "BLK": "1",
-    "STL": "2",
-    "MIN": "1",
     "eventDateFormatted": "Nov 21"
 }

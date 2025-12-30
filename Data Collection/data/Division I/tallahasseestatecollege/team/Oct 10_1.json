@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Oct 10",
+    "boxScoreLink": "20251010_0q5o.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Tallahassee State College",
+                "result": "",
+                "teamId": "ddinsphor0wghmes",
+                "winner": false,
+                "cleanName": "tallahassee st col"
+            },
+            {
+                "name": "All Amercian Jamboree",
+                "result": "",
+                "teamId": "e1sap8t2xckn90r6",
+                "winner": false,
+                "cleanName": "all amercian jamboree"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "Tavares, FL",
+        "date": 1760068800000,
+        "localTimeZone": "America/New_York",
+        "tba": true,
+        "home": false,
+        "overall": false,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "Tavares, FL",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "0q5o7bb7se33ojy6",
+        "fastdate": 1760068800000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "Tavares, FL",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "scrimmage",
+            "description": "Scrimmage",
+            "statsCount": false
+        },
+        "ap2Result": "",
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "All Amercian Jamboree",
+            "result": "",
+            "teamId": "e1sap8t2xckn90r6",
+            "winner": false,
+            "cleanName": "all amercian jamboree"
+        },
+        "us": {
+            "name": "Tallahassee State College",
+            "result": "",
+            "teamId": "ddinsphor0wghmes",
+            "winner": false,
+            "cleanName": "tallahassee st col"
+        },
+        "apresult": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "October 10 12:00 AM:"
+}

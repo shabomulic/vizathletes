@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Feb 5",
+    "boxScoreLink": "20260205_b65d.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Bronx Community College",
+                "result": "",
+                "teamId": "xvlhqa8joacgo657",
+                "winner": false,
+                "cleanName": "bronx community col"
+            },
+            {
+                "name": "Borough of Manhattan Community College",
+                "result": "",
+                "teamId": "vydkbh5177o115iz",
+                "winner": false,
+                "cleanName": "borough manhattan community col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1770336000000,
+        "localTimeZone": "America/New_York",
+        "tba": false,
+        "home": true,
+        "overall": true,
+        "conference": true,
+        "division": false,
+        "regional": true,
+        "national": true,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "b65dhqw7p4e1z4f2",
+        "fastdate": 1770336000000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Bronx Community College",
+            "result": "",
+            "teamId": "xvlhqa8joacgo657",
+            "winner": false,
+            "cleanName": "bronx community col"
+        },
+        "us": {
+            "name": "Borough of Manhattan Community College",
+            "result": "",
+            "teamId": "vydkbh5177o115iz",
+            "winner": false,
+            "cleanName": "borough manhattan community col"
+        },
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "February 5 07:00 PM:"
+}

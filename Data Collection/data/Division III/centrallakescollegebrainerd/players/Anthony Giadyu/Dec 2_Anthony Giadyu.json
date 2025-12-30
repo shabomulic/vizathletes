@@ -1,17 +1,17 @@
 {
     "Player Name": "Anthony Giadyu",
+    "MIN": "20",
     "FGM-A": "1-3",
     "3PM-A": "0-1",
     "FTM-A": "1-2",
     "OREB": "0",
     "DREB": "0",
     "REB": "0",
+    "AST": "4",
+    "STL": "1",
+    "BLK": "0",
+    "TO": "1",
     "PF": "5",
     "TP": "3",
-    "AST": "4",
-    "TO": "1",
-    "BLK": "0",
-    "STL": "1",
-    "MIN": "20",
     "eventDateFormatted": "Dec 2"
 }

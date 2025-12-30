@@ -1,17 +1,17 @@
 {
     "Player Name": "Lajuan Holloway",
+    "MIN": "34",
     "FGM-A": "9-16",
     "3PM-A": "3-4",
     "FTM-A": "2-5",
     "OREB": "3",
     "DREB": "3",
     "REB": "6",
+    "AST": "3",
+    "STL": "1",
+    "BLK": "0",
+    "TO": "3",
     "PF": "4",
     "TP": "23",
-    "AST": "3",
-    "TO": "3",
-    "BLK": "0",
-    "STL": "1",
-    "MIN": "34",
     "eventDateFormatted": "Dec 6"
 }

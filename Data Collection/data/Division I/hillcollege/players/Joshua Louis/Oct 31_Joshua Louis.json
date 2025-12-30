@@ -1,17 +1,17 @@
 {
     "Player Name": "Joshua Louis",
+    "MIN": "1",
     "FGM-A": "5-9",
     "3PM-A": "2-5",
     "FTM-A": "1-1",
     "OREB": "0",
     "DREB": "4",
     "REB": "4",
+    "AST": "7",
+    "STL": "0",
+    "BLK": "0",
+    "TO": "4",
     "PF": "5",
     "TP": "13",
-    "AST": "7",
-    "TO": "4",
-    "BLK": "0",
-    "STL": "0",
-    "MIN": "1",
     "eventDateFormatted": "Oct 31"
 }

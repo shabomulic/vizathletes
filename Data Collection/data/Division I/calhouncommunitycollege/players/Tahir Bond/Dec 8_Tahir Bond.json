@@ -1,17 +1,17 @@
 {
     "Player Name": "Tahir Bond",
+    "MIN": "31",
     "FGM-A": "7-14",
     "3PM-A": "1-4",
     "FTM-A": "2-3",
     "OREB": "3",
     "DREB": "2",
     "REB": "5",
+    "AST": "2",
+    "STL": "4",
+    "BLK": "0",
+    "TO": "3",
     "PF": "1",
     "TP": "17",
-    "AST": "2",
-    "TO": "3",
-    "BLK": "0",
-    "STL": "4",
-    "MIN": "31",
     "eventDateFormatted": "Dec 8"
 }

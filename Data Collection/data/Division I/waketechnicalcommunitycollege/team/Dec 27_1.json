@@ -1,0 +1,119 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Dec 27",
+    "boxScoreLink": "20251227_ecjb.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Fayetteville Technical CC",
+                "result": "0",
+                "teamId": "npphpjv2wzdyzxlw",
+                "winner": false,
+                "cleanName": "fayetteville technical cc"
+            },
+            {
+                "name": "Wake Technical Community College",
+                "result": "0",
+                "teamId": "ox1f5nv9ucpwk8jh",
+                "winner": false,
+                "cleanName": "wake technical community col"
+            }
+        ],
+        "status": "Start of 1st",
+        "notes": "",
+        "notesShared": "",
+        "date": 1766865600000,
+        "localTimeZone": "America/New_York",
+        "tba": false,
+        "home": true,
+        "overall": true,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": true,
+        "inProgress": true,
+        "statusCode": -1,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "CCCC Cougar Classic",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "ecjbrl8g9pmr6svk",
+        "fastdate": 1766865600000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "CCCC Cougar Classic",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "ap2Result": "",
+        "conferenceResult": "",
+        "resultAsObject": {
+            "results": [
+                0,
+                0
+            ],
+            "resolved": false,
+            "hasScores": true,
+            "numericResults": [
+                0,
+                0
+            ],
+            "description": "",
+            "score": "0-0",
+            "winnerLoser": "0-0",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Fayetteville Technical CC",
+            "result": "0",
+            "teamId": "npphpjv2wzdyzxlw",
+            "winner": false,
+            "cleanName": "fayetteville technical cc"
+        },
+        "us": {
+            "name": "Wake Technical Community College",
+            "result": "0",
+            "teamId": "ox1f5nv9ucpwk8jh",
+            "winner": false,
+            "cleanName": "wake technical community col"
+        },
+        "apresult": "",
+        "result": {
+            "results": [
+                0,
+                0
+            ],
+            "resolved": false,
+            "hasScores": true,
+            "numericResults": [
+                0,
+                0
+            ],
+            "description": "",
+            "score": "0-0",
+            "winnerLoser": "0-0",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "December 27 03:00 PM:"
+}

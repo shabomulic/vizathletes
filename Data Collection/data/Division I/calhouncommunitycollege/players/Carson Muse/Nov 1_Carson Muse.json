@@ -1,17 +1,17 @@
 {
     "Player Name": "Carson Muse",
+    "MIN": "26",
     "FGM-A": "5-8",
     "3PM-A": "0-1",
     "FTM-A": "2-4",
     "OREB": "0",
     "DREB": "5",
     "REB": "5",
+    "AST": "0",
+    "STL": "2",
+    "BLK": "1",
+    "TO": "0",
     "PF": "1",
     "TP": "12",
-    "AST": "0",
-    "TO": "0",
-    "BLK": "1",
-    "STL": "2",
-    "MIN": "26",
     "eventDateFormatted": "Nov 1"
 }

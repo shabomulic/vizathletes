@@ -1,17 +1,17 @@
 {
     "Player Name": "Jajuan Cozark",
+    "MIN": "35",
     "FGM-A": "5-13",
     "3PM-A": "2-4",
     "FTM-A": "0-0",
     "OREB": "5",
     "DREB": "7",
     "REB": "12",
+    "AST": "1",
+    "STL": "0",
+    "BLK": "3",
+    "TO": "3",
     "PF": "4",
     "TP": "12",
-    "AST": "1",
-    "TO": "3",
-    "BLK": "3",
-    "STL": "0",
-    "MIN": "35",
     "eventDateFormatted": "Dec 12"
 }

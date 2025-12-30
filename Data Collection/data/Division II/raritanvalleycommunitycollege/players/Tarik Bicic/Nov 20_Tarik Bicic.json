@@ -1,17 +1,17 @@
 {
     "Player Name": "Tarik Bicic",
+    "MIN": "1",
     "FGM-A": "8-12",
     "3PM-A": "0-0",
     "FTM-A": "4-4",
     "OREB": "2",
     "DREB": "7",
     "REB": "9",
+    "AST": "7",
+    "STL": "1",
+    "BLK": "0",
+    "TO": "1",
     "PF": "2",
     "TP": "20",
-    "AST": "7",
-    "TO": "1",
-    "BLK": "0",
-    "STL": "1",
-    "MIN": "1",
     "eventDateFormatted": "Nov 20"
 }

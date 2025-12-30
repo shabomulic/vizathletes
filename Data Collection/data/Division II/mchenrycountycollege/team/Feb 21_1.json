@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Feb 21",
+    "boxScoreLink": "20260221_j95n.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "College of DuPage",
+                "result": "",
+                "teamId": "7p9wu4ab2mzjq40d",
+                "winner": false,
+                "cleanName": "col dupage"
+            },
+            {
+                "name": "McHenry County College",
+                "result": "",
+                "teamId": "kvl9x9s6xpo91ehg",
+                "winner": false,
+                "cleanName": "mchenry county col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1771704000000,
+        "localTimeZone": "America/Chicago",
+        "tba": false,
+        "home": true,
+        "overall": true,
+        "conference": false,
+        "division": false,
+        "regional": true,
+        "national": true,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "j95nzm2o212bcn3v",
+        "fastdate": 1771704000000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "College of DuPage",
+            "result": "",
+            "teamId": "7p9wu4ab2mzjq40d",
+            "winner": false,
+            "cleanName": "col dupage"
+        },
+        "us": {
+            "name": "McHenry County College",
+            "result": "",
+            "teamId": "kvl9x9s6xpo91ehg",
+            "winner": false,
+            "cleanName": "mchenry county col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "February 21 03:00 PM:"
+}

@@ -1,17 +1,17 @@
 {
     "Player Name": "A'Marien Page",
+    "MIN": "18",
     "FGM-A": "2-2",
     "3PM-A": "0-0",
     "FTM-A": "2-4",
     "OREB": "2",
     "DREB": "3",
     "REB": "5",
+    "AST": "0",
+    "STL": "1",
+    "BLK": "0",
+    "TO": "2",
     "PF": "5",
     "TP": "6",
-    "AST": "0",
-    "TO": "2",
-    "BLK": "0",
-    "STL": "1",
-    "MIN": "18",
     "eventDateFormatted": "Dec 13"
 }

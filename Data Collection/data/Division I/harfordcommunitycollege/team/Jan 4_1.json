@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Jan 4",
+    "boxScoreLink": "20260104_wsm0.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Brunswick Community College",
+                "result": "",
+                "teamId": "udv9ruz0koxbdpd0",
+                "winner": false,
+                "cleanName": "brunswick community col"
+            },
+            {
+                "name": "Harford Community College",
+                "result": "",
+                "teamId": "u3ulfef0t32qpz3j",
+                "winner": false,
+                "cleanName": "harford community col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "Harford Community College Classic - 401 Thomas Run Rd, Bel Air, MD 21015",
+        "date": 1767556800000,
+        "localTimeZone": "America/New_York",
+        "tba": false,
+        "home": true,
+        "overall": true,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": true,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "wsm04eh7d3sgxrab",
+        "fastdate": 1767556800000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Brunswick Community College",
+            "result": "",
+            "teamId": "udv9ruz0koxbdpd0",
+            "winner": false,
+            "cleanName": "brunswick community col"
+        },
+        "us": {
+            "name": "Harford Community College",
+            "result": "",
+            "teamId": "u3ulfef0t32qpz3j",
+            "winner": false,
+            "cleanName": "harford community col"
+        },
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "January 4 03:00 PM:"
+}

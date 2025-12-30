@@ -1,17 +1,17 @@
 {
     "Player Name": "Amari Davis",
+    "MIN": "20",
     "FGM-A": "10-12",
     "3PM-A": "0-0",
     "FTM-A": "1-1",
     "OREB": "4",
     "DREB": "4",
     "REB": "8",
+    "AST": "3",
+    "STL": "0",
+    "BLK": "1",
+    "TO": "0",
     "PF": "0",
     "TP": "21",
-    "AST": "3",
-    "TO": "0",
-    "BLK": "1",
-    "STL": "0",
-    "MIN": "20",
     "eventDateFormatted": "Oct 31"
 }

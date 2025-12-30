@@ -1,17 +1,17 @@
 {
     "Player Name": "Kardi Tyler",
+    "MIN": "1",
     "FGM-A": "6-11",
     "3PM-A": "0-1",
     "FTM-A": "0-0",
     "OREB": "1",
     "DREB": "4",
     "REB": "5",
+    "AST": "12",
+    "STL": "4",
+    "BLK": "1",
+    "TO": "4",
     "PF": "0",
     "TP": "12",
-    "AST": "12",
-    "TO": "4",
-    "BLK": "1",
-    "STL": "4",
-    "MIN": "1",
     "eventDateFormatted": "Nov 20"
 }

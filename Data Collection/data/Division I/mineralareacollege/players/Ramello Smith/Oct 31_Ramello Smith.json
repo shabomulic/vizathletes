@@ -1,17 +1,17 @@
 {
     "Player Name": "Ramello Smith",
+    "MIN": "1",
     "FGM-A": "2-11",
     "3PM-A": "1-6",
     "FTM-A": "0-0",
     "OREB": "1",
     "DREB": "1",
     "REB": "2",
+    "AST": "4",
+    "STL": "1",
+    "BLK": "0",
+    "TO": "6",
     "PF": "0",
     "TP": "5",
-    "AST": "4",
-    "TO": "6",
-    "BLK": "0",
-    "STL": "1",
-    "MIN": "1",
     "eventDateFormatted": "Oct 31"
 }

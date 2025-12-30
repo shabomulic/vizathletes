@@ -1,17 +1,17 @@
 {
     "Player Name": "Marquis Burse",
+    "MIN": "36",
     "FGM-A": "10-13",
     "3PM-A": "1-1",
     "FTM-A": "6-7",
     "OREB": "3",
     "DREB": "11",
     "REB": "14",
+    "AST": "4",
+    "STL": "1",
+    "BLK": "1",
+    "TO": "4",
     "PF": "2",
     "TP": "27",
-    "AST": "4",
-    "TO": "4",
-    "BLK": "1",
-    "STL": "1",
-    "MIN": "36",
     "eventDateFormatted": "Nov 7"
 }

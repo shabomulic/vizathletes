@@ -1,17 +1,17 @@
 {
     "Player Name": "David Popson",
+    "MIN": "13:57",
     "FGM-A": "1-3",
     "3PM-A": "0-0",
     "FTM-A": "2-3",
     "OREB": "0",
     "DREB": "4",
     "REB": "4",
+    "AST": "1",
+    "STL": "0",
+    "BLK": "1",
+    "TO": "1",
     "PF": "0",
     "TP": "4",
-    "AST": "1",
-    "TO": "1",
-    "BLK": "1",
-    "STL": "0",
-    "MIN": "13:57",
     "eventDateFormatted": "Nov 18"
 }

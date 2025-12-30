@@ -177,7 +177,7 @@
     "lastUpdated": 1765815243000,
     "position": "G",
     "positionAbbreviation": "G",
-    "positionCode": null,
+    "positionCode": "G0FR",
     "dataMap": {
         "hometown": "Great Britain",
         "born": "",
@@ -200,11 +200,11 @@
             "defaultValue": 0,
             "mutable": false,
             "componentType": false,
-            "collectionType": false,
-            "anyType": false,
             "entityType": false,
             "associationType": false,
-            "xmlelement": false
+            "xmlelement": false,
+            "collectionType": false,
+            "anyType": false
         },
         "mutable": false
     },

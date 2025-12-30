@@ -1,17 +1,17 @@
 {
     "Player Name": "Derrick Rivers",
+    "MIN": "37",
     "FGM-A": "8-16",
     "3PM-A": "2-8",
     "FTM-A": "10-12",
     "OREB": "1",
     "DREB": "5",
     "REB": "6",
+    "AST": "5",
+    "STL": "3",
+    "BLK": "0",
+    "TO": "3",
     "PF": "4",
     "TP": "28",
-    "AST": "5",
-    "TO": "3",
-    "BLK": "0",
-    "STL": "3",
-    "MIN": "37",
     "eventDateFormatted": "Nov 1"
 }

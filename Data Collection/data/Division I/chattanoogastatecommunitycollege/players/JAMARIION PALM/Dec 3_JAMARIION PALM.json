@@ -1,17 +1,17 @@
 {
     "Player Name": "JAMARIION PALM",
+    "MIN": "1",
     "FGM-A": "2-9",
     "3PM-A": "2-5",
     "FTM-A": "2-2",
     "OREB": "1",
     "DREB": "4",
     "REB": "5",
+    "AST": "1",
+    "STL": "0",
+    "BLK": "0",
+    "TO": "5",
     "PF": "0",
     "TP": "8",
-    "AST": "1",
-    "TO": "5",
-    "BLK": "0",
-    "STL": "0",
-    "MIN": "1",
     "eventDateFormatted": "Dec 3"
 }

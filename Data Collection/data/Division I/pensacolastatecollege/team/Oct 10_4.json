@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Oct 10",
+    "boxScoreLink": "20251010_jv3u.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Pensacola State College",
+                "result": "",
+                "teamId": "32iri9q24nfwy008",
+                "winner": false,
+                "cleanName": "pensacola st col"
+            },
+            {
+                "name": "Enterprise State Community College",
+                "result": "",
+                "teamId": "clf86jhkvm4x7egx",
+                "winner": false,
+                "cleanName": "enterprise st community col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1760113200000,
+        "localTimeZone": "America/Regina",
+        "tba": false,
+        "home": false,
+        "overall": false,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "Juco All American Jamboree",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "jv3uq93rhr80j306",
+        "fastdate": 1760113200000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "Juco All American Jamboree",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "scrimmage",
+            "description": "Scrimmage",
+            "statsCount": false
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Enterprise State Community College",
+            "result": "",
+            "teamId": "clf86jhkvm4x7egx",
+            "winner": false,
+            "cleanName": "enterprise st community col"
+        },
+        "us": {
+            "name": "Pensacola State College",
+            "result": "",
+            "teamId": "32iri9q24nfwy008",
+            "winner": false,
+            "cleanName": "pensacola st col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "October 10 12:20 PM:"
+}

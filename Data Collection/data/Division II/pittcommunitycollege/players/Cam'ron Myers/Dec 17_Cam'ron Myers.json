@@ -1,17 +1,17 @@
 {
     "Player Name": "Cam'ron Myers",
+    "MIN": "34:20",
     "FGM-A": "8-11",
     "3PM-A": "0-0",
     "FTM-A": "1-2",
     "OREB": "3",
     "DREB": "10",
     "REB": "13",
+    "AST": "2",
+    "STL": "0",
+    "BLK": "1",
+    "TO": "4",
     "PF": "1",
     "TP": "17",
-    "AST": "2",
-    "TO": "4",
-    "BLK": "1",
-    "STL": "0",
-    "MIN": "34:20",
     "eventDateFormatted": "Dec 17"
 }

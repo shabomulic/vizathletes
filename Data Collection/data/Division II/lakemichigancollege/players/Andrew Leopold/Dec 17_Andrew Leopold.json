@@ -1,17 +1,17 @@
 {
     "Player Name": "Andrew Leopold",
+    "MIN": "25",
     "FGM-A": "5-8",
     "3PM-A": "0-2",
     "FTM-A": "5-5",
     "OREB": "3",
     "DREB": "2",
     "REB": "5",
+    "AST": "2",
+    "STL": "1",
+    "BLK": "0",
+    "TO": "1",
     "PF": "2",
     "TP": "15",
-    "AST": "2",
-    "TO": "1",
-    "BLK": "0",
-    "STL": "1",
-    "MIN": "25",
     "eventDateFormatted": "Dec 17"
 }

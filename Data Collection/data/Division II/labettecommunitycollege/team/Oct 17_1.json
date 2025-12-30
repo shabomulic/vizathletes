@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Oct 17",
+    "boxScoreLink": "20251017_0ipa.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Labette Community College",
+                "result": "",
+                "teamId": "dccwnomai8l3oqdr",
+                "winner": false,
+                "cleanName": "labette community col"
+            },
+            {
+                "name": "Southwestern Community College",
+                "result": "",
+                "teamId": "nb0464wsl79m5ma9",
+                "winner": false,
+                "cleanName": "southwestern community col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "Mokan Juco Jamboree",
+        "date": 1760712300000,
+        "localTimeZone": "America/Chicago",
+        "tba": false,
+        "home": false,
+        "overall": false,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "Kansas City, Missouri",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "0ipahuqp11v5mrgx",
+        "fastdate": 1760712300000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "Homefield Center",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Southwestern Community College",
+            "result": "",
+            "teamId": "nb0464wsl79m5ma9",
+            "winner": false,
+            "cleanName": "southwestern community col"
+        },
+        "us": {
+            "name": "Labette Community College",
+            "result": "",
+            "teamId": "dccwnomai8l3oqdr",
+            "winner": false,
+            "cleanName": "labette community col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "October 17 10:45 AM:"
+}

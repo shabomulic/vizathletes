@@ -1,17 +1,17 @@
 {
     "Player Name": "Cameroon Woodberry",
+    "MIN": "1",
     "FGM-A": "4-13",
     "3PM-A": "4-10",
     "FTM-A": "0-0",
     "OREB": "2",
     "DREB": "4",
     "REB": "6",
+    "AST": "5",
+    "STL": "1",
+    "BLK": "0",
+    "TO": "2",
     "PF": "0",
     "TP": "12",
-    "AST": "5",
-    "TO": "2",
-    "BLK": "0",
-    "STL": "1",
-    "MIN": "1",
     "eventDateFormatted": "Nov 15"
 }

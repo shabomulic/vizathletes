@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Mar 7",
+    "boxScoreLink": "20260307_wrm3.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Marion Military Institute",
+                "result": "",
+                "teamId": "vkeq3q6q1mgf1d2z",
+                "winner": false,
+                "cleanName": "marion military institute"
+            },
+            {
+                "name": "NJCAA District Game 8/22 Winner",
+                "result": "",
+                "teamId": "9ghxsygewmo8oh79",
+                "winner": false,
+                "cleanName": "njcaa district game winner"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1772859600000,
+        "localTimeZone": "America/Chicago",
+        "tba": true,
+        "home": false,
+        "overall": true,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": true,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "wrm3a116zfb3omrp",
+        "fastdate": 1772859600000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "postSeason",
+            "description": "Post-Season/Play-Offs",
+            "statsCount": true
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "NJCAA District Game 8/22 Winner",
+            "result": "",
+            "teamId": "9ghxsygewmo8oh79",
+            "winner": false,
+            "cleanName": "njcaa district game winner"
+        },
+        "us": {
+            "name": "Marion Military Institute",
+            "result": "",
+            "teamId": "vkeq3q6q1mgf1d2z",
+            "winner": false,
+            "cleanName": "marion military institute"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "March 7 12:00 AM:"
+}

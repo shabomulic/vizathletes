@@ -1,17 +1,17 @@
 {
     "Player Name": "Braden Walters",
+    "MIN": "1",
     "FGM-A": "4-8",
     "3PM-A": "0-0",
     "FTM-A": "4-6",
     "OREB": "2",
     "DREB": "8",
     "REB": "10",
+    "AST": "4",
+    "STL": "0",
+    "BLK": "1",
+    "TO": "4",
     "PF": "4",
     "TP": "12",
-    "AST": "4",
-    "TO": "4",
-    "BLK": "1",
-    "STL": "0",
-    "MIN": "1",
     "eventDateFormatted": "Nov 8"
 }

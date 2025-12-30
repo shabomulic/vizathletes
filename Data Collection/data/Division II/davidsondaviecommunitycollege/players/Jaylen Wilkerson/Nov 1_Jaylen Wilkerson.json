@@ -1,17 +1,17 @@
 {
     "Player Name": "Jaylen Wilkerson",
+    "MIN": "25:09",
     "FGM-A": "2-8",
     "3PM-A": "1-5",
     "FTM-A": "2-3",
     "OREB": "1",
     "DREB": "1",
     "REB": "2",
+    "AST": "4",
+    "STL": "0",
+    "BLK": "0",
+    "TO": "2",
     "PF": "2",
     "TP": "7",
-    "AST": "4",
-    "TO": "2",
-    "BLK": "0",
-    "STL": "0",
-    "MIN": "25:09",
     "eventDateFormatted": "Nov 1"
 }

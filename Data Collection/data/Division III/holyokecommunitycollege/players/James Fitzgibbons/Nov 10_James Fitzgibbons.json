@@ -1,17 +1,17 @@
 {
     "Player Name": "James Fitzgibbons",
+    "MIN": "1",
     "FGM-A": "7-9",
     "3PM-A": "0-2",
     "FTM-A": "1-1",
     "OREB": "3",
     "DREB": "8",
     "REB": "11",
+    "AST": "4",
+    "STL": "0",
+    "BLK": "0",
+    "TO": "3",
     "PF": "1",
     "TP": "15",
-    "AST": "4",
-    "TO": "3",
-    "BLK": "0",
-    "STL": "0",
-    "MIN": "1",
     "eventDateFormatted": "Nov 10"
 }

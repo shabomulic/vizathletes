@@ -1,17 +1,17 @@
 {
     "Player Name": "RJ Foreman",
+    "MIN": "31",
     "FGM-A": "2-7",
     "3PM-A": "2-5",
     "FTM-A": "4-6",
     "OREB": "2",
     "DREB": "6",
     "REB": "8",
+    "AST": "2",
+    "STL": "1",
+    "BLK": "0",
+    "TO": "0",
     "PF": "0",
     "TP": "10",
-    "AST": "2",
-    "TO": "0",
-    "BLK": "0",
-    "STL": "1",
-    "MIN": "31",
     "eventDateFormatted": "Nov 11"
 }

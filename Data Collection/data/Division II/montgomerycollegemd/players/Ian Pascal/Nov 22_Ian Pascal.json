@@ -1,17 +1,17 @@
 {
     "Player Name": "Ian Pascal",
+    "MIN": "32",
     "FGM-A": "12-19",
     "3PM-A": "1-4",
     "FTM-A": "4-5",
     "OREB": "2",
     "DREB": "10",
     "REB": "12",
+    "AST": "2",
+    "STL": "2",
+    "BLK": "0",
+    "TO": "9",
     "PF": "1",
     "TP": "29",
-    "AST": "2",
-    "TO": "9",
-    "BLK": "0",
-    "STL": "2",
-    "MIN": "32",
     "eventDateFormatted": "Nov 22"
 }

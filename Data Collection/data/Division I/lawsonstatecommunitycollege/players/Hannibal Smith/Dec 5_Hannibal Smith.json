@@ -1,17 +1,17 @@
 {
     "Player Name": "Hannibal Smith",
+    "MIN": "24",
     "FGM-A": "2-5",
     "3PM-A": "0-0",
     "FTM-A": "0-0",
     "OREB": "5",
     "DREB": "2",
     "REB": "7",
+    "AST": "3",
+    "STL": "1",
+    "BLK": "2",
+    "TO": "1",
     "PF": "3",
     "TP": "4",
-    "AST": "3",
-    "TO": "1",
-    "BLK": "2",
-    "STL": "1",
-    "MIN": "24",
     "eventDateFormatted": "Dec 5"
 }

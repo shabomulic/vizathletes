@@ -1,17 +1,17 @@
 {
     "Player Name": "Reggie Strong",
+    "MIN": "31",
     "FGM-A": "9-17",
     "3PM-A": "3-7",
     "FTM-A": "2-4",
     "OREB": "2",
     "DREB": "3",
     "REB": "5",
+    "AST": "4",
+    "STL": "1",
+    "BLK": "1",
+    "TO": "5",
     "PF": "0",
     "TP": "23",
-    "AST": "4",
-    "TO": "5",
-    "BLK": "1",
-    "STL": "1",
-    "MIN": "31",
     "eventDateFormatted": "Nov 18"
 }

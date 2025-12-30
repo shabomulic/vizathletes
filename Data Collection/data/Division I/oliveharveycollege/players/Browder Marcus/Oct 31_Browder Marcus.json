@@ -1,17 +1,17 @@
 {
     "Player Name": "Browder Marcus",
+    "MIN": "31",
     "FGM-A": "10-13",
     "3PM-A": "1-2",
     "FTM-A": "1-2",
     "OREB": "1",
     "DREB": "4",
     "REB": "5",
+    "AST": "4",
+    "STL": "2",
+    "BLK": "0",
+    "TO": "2",
     "PF": "3",
     "TP": "22",
-    "AST": "4",
-    "TO": "2",
-    "BLK": "0",
-    "STL": "2",
-    "MIN": "31",
     "eventDateFormatted": "Oct 31"
 }

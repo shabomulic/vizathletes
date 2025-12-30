@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Dec 30",
+    "boxScoreLink": "20251230_nckt.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Chipola  College",
+                "result": "",
+                "teamId": "i7ilsfilhehve5fg",
+                "winner": false,
+                "cleanName": "chipola col"
+            },
+            {
+                "name": "Southern Union State Community College",
+                "result": "",
+                "teamId": "eu58zelvf6o156jj",
+                "winner": false,
+                "cleanName": "s union st community col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1767121200000,
+        "localTimeZone": "America/Chicago",
+        "tba": false,
+        "home": false,
+        "overall": true,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": true,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "Gulf Coast State Shootout",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "ncktsnpybk3wzhvv",
+        "fastdate": 1767121200000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "Gulf Coast State",
+        "city": "Panama City",
+        "stateCountry": "FL",
+        "zipCode": "",
+        "venue": "Gulf Coast State Shootout",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "us": {
+            "name": "Chipola  College",
+            "result": "",
+            "teamId": "i7ilsfilhehve5fg",
+            "winner": false,
+            "cleanName": "chipola col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Southern Union State Community College",
+            "result": "",
+            "teamId": "eu58zelvf6o156jj",
+            "winner": false,
+            "cleanName": "s union st community col"
+        },
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "December 30 02:00 PM:"
+}

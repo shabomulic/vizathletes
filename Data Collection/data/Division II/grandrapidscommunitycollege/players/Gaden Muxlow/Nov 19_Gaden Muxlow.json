@@ -1,17 +1,17 @@
 {
     "Player Name": "Gaden Muxlow",
+    "MIN": "27",
     "FGM-A": "5-8",
     "3PM-A": "3-6",
     "FTM-A": "1-1",
     "OREB": "0",
     "DREB": "3",
     "REB": "3",
+    "AST": "2",
+    "STL": "3",
+    "BLK": "0",
+    "TO": "1",
     "PF": "1",
     "TP": "14",
-    "AST": "2",
-    "TO": "1",
-    "BLK": "0",
-    "STL": "3",
-    "MIN": "27",
     "eventDateFormatted": "Nov 19"
 }

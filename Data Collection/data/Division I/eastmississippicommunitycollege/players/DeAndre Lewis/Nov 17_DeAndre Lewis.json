@@ -1,17 +1,17 @@
 {
     "Player Name": "DeAndre Lewis",
+    "MIN": "37",
     "FGM-A": "3-9",
     "3PM-A": "0-3",
     "FTM-A": "6-8",
     "OREB": "0",
     "DREB": "8",
     "REB": "8",
+    "AST": "1",
+    "STL": "3",
+    "BLK": "0",
+    "TO": "2",
     "PF": "2",
     "TP": "12",
-    "AST": "1",
-    "TO": "2",
-    "BLK": "0",
-    "STL": "3",
-    "MIN": "37",
     "eventDateFormatted": "Nov 17"
 }

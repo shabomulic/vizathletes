@@ -1,17 +1,17 @@
 {
     "Player Name": "Jay Chiles",
+    "MIN": "1",
     "FGM-A": "10-21",
     "3PM-A": "5-9",
     "FTM-A": "0-0",
     "OREB": "4",
     "DREB": "3",
     "REB": "7",
+    "AST": "4",
+    "STL": "4",
+    "BLK": "0",
+    "TO": "3",
     "PF": "1",
     "TP": "25",
-    "AST": "4",
-    "TO": "3",
-    "BLK": "0",
-    "STL": "4",
-    "MIN": "1",
     "eventDateFormatted": "Nov 1"
 }

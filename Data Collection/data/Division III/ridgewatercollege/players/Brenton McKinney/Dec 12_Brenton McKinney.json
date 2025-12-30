@@ -1,17 +1,17 @@
 {
     "Player Name": "Brenton McKinney",
+    "MIN": "26",
     "FGM-A": "7-14",
     "3PM-A": "2-4",
     "FTM-A": "6-10",
     "OREB": "2",
     "DREB": "3",
     "REB": "5",
+    "AST": "3",
+    "STL": "4",
+    "BLK": "1",
+    "TO": "5",
     "PF": "0",
     "TP": "22",
-    "AST": "3",
-    "TO": "5",
-    "BLK": "1",
-    "STL": "4",
-    "MIN": "26",
     "eventDateFormatted": "Dec 12"
 }

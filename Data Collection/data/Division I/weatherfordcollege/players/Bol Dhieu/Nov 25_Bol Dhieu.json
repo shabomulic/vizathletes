@@ -1,17 +1,17 @@
 {
     "Player Name": "Bol Dhieu",
+    "MIN": "1",
     "FGM-A": "5-11",
     "3PM-A": "0-1",
     "FTM-A": "1-2",
     "OREB": "2",
     "DREB": "1",
     "REB": "3",
+    "AST": "1",
+    "STL": "1",
+    "BLK": "0",
+    "TO": "3",
     "PF": "4",
     "TP": "11",
-    "AST": "1",
-    "TO": "3",
-    "BLK": "0",
-    "STL": "1",
-    "MIN": "1",
     "eventDateFormatted": "Nov 25"
 }

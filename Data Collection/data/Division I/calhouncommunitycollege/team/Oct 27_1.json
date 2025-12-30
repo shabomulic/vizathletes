@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Oct 27",
+    "boxScoreLink": "20251027_30fo.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Calhoun Community College",
+                "result": "",
+                "teamId": "onjl7kh9adms4px1",
+                "winner": false,
+                "cleanName": "calhoun community col"
+            },
+            {
+                "name": "Community Christian College Tennessee Valley",
+                "result": "",
+                "teamId": "ddiah3nyxbppphb9",
+                "winner": false,
+                "cleanName": "community christian col tennessee valley"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1761602400000,
+        "localTimeZone": "America/Chicago",
+        "tba": false,
+        "home": false,
+        "overall": false,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "30fo8sll8qtqxbvr",
+        "fastdate": 1761602400000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "exhibition",
+            "description": "Exhibition",
+            "statsCount": false
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Community Christian College Tennessee Valley",
+            "result": "",
+            "teamId": "ddiah3nyxbppphb9",
+            "winner": false,
+            "cleanName": "community christian col tennessee valley"
+        },
+        "us": {
+            "name": "Calhoun Community College",
+            "result": "",
+            "teamId": "onjl7kh9adms4px1",
+            "winner": false,
+            "cleanName": "calhoun community col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "October 27 06:00 PM:"
+}

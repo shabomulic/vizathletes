@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Feb 25",
+    "boxScoreLink": "20260225_uboo.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Howard Community College",
+                "result": "",
+                "teamId": "zhqwpfmqecysf01e",
+                "winner": false,
+                "cleanName": "howard community col"
+            },
+            {
+                "name": "CCBC Catonsville",
+                "result": "",
+                "teamId": "mbhu3rvpbgorzyuu",
+                "winner": false,
+                "cleanName": "ccbc catonsville"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1772064000000,
+        "localTimeZone": "America/New_York",
+        "tba": false,
+        "home": true,
+        "overall": true,
+        "conference": true,
+        "division": true,
+        "regional": true,
+        "national": true,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "ubooe6882ajg8xuy",
+        "fastdate": 1772064000000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": true,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Howard Community College",
+            "result": "",
+            "teamId": "zhqwpfmqecysf01e",
+            "winner": false,
+            "cleanName": "howard community col"
+        },
+        "us": {
+            "name": "CCBC Catonsville",
+            "result": "",
+            "teamId": "mbhu3rvpbgorzyuu",
+            "winner": false,
+            "cleanName": "ccbc catonsville"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "February 25 07:00 PM:"
+}

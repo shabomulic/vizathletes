@@ -1,17 +1,17 @@
 {
     "Player Name": "Kamoni Sieber",
+    "MIN": "33",
     "FGM-A": "0-6",
     "3PM-A": "0-4",
     "FTM-A": "0-2",
     "OREB": "2",
     "DREB": "6",
     "REB": "8",
+    "AST": "4",
+    "STL": "0",
+    "BLK": "0",
+    "TO": "4",
     "PF": "5",
     "TP": "0",
-    "AST": "4",
-    "TO": "4",
-    "BLK": "0",
-    "STL": "0",
-    "MIN": "33",
     "eventDateFormatted": "Dec 13"
 }

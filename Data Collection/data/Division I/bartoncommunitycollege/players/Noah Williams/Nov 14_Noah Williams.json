@@ -1,17 +1,17 @@
 {
     "Player Name": "Noah Williams",
+    "MIN": "26",
     "FGM-A": "5-8",
     "3PM-A": "3-5",
     "FTM-A": "4-6",
     "OREB": "2",
     "DREB": "2",
     "REB": "4",
+    "AST": "0",
+    "STL": "1",
+    "BLK": "0",
+    "TO": "1",
     "PF": "2",
     "TP": "17",
-    "AST": "0",
-    "TO": "1",
-    "BLK": "0",
-    "STL": "1",
-    "MIN": "26",
     "eventDateFormatted": "Nov 14"
 }

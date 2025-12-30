@@ -1,17 +1,17 @@
 {
     "Player Name": "Amont'e Allen-Johnson",
+    "MIN": "22",
     "FGM-A": "3-6",
     "3PM-A": "0-2",
     "FTM-A": "0-1",
     "OREB": "0",
     "DREB": "2",
     "REB": "2",
+    "AST": "3",
+    "STL": "0",
+    "BLK": "0",
+    "TO": "3",
     "PF": "0",
     "TP": "6",
-    "AST": "3",
-    "TO": "3",
-    "BLK": "0",
-    "STL": "0",
-    "MIN": "22",
     "eventDateFormatted": "Nov 14"
 }

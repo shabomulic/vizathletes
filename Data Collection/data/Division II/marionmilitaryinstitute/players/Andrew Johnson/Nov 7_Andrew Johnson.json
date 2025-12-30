@@ -1,17 +1,17 @@
 {
     "Player Name": "Andrew Johnson",
+    "MIN": "1",
     "FGM-A": "7-9",
     "3PM-A": "2-2",
     "FTM-A": "3-6",
     "OREB": "2",
     "DREB": "8",
     "REB": "10",
+    "AST": "1",
+    "STL": "3",
+    "BLK": "1",
+    "TO": "2",
     "PF": "0",
     "TP": "19",
-    "AST": "1",
-    "TO": "2",
-    "BLK": "1",
-    "STL": "3",
-    "MIN": "1",
     "eventDateFormatted": "Nov 7"
 }

@@ -1,17 +1,17 @@
 {
     "Player Name": "Evan Ingram",
+    "MIN": "19:08",
     "FGM-A": "2-4",
     "3PM-A": "0-0",
     "FTM-A": "3-4",
     "OREB": "2",
     "DREB": "5",
     "REB": "7",
+    "AST": "4",
+    "STL": "7",
+    "BLK": "0",
+    "TO": "2",
     "PF": "1",
     "TP": "7",
-    "AST": "4",
-    "TO": "2",
-    "BLK": "0",
-    "STL": "7",
-    "MIN": "19:08",
     "eventDateFormatted": "Nov 8"
 }

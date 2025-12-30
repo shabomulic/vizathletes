@@ -1,17 +1,17 @@
 {
     "Player Name": "Adyn Prophete",
+    "MIN": "34",
     "FGM-A": "1-7",
     "3PM-A": "0-1",
     "FTM-A": "8-14",
     "OREB": "4",
     "DREB": "3",
     "REB": "7",
+    "AST": "1",
+    "STL": "2",
+    "BLK": "0",
+    "TO": "3",
     "PF": "3",
     "TP": "10",
-    "AST": "1",
-    "TO": "3",
-    "BLK": "0",
-    "STL": "2",
-    "MIN": "34",
     "eventDateFormatted": "Nov 7"
 }

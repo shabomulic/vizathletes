@@ -1,17 +1,17 @@
 {
     "Player Name": "Chauncey Brashers",
+    "MIN": "24",
     "FGM-A": "2-8",
     "3PM-A": "0-3",
     "FTM-A": "0-0",
     "OREB": "1",
     "DREB": "4",
     "REB": "5",
+    "AST": "0",
+    "STL": "0",
+    "BLK": "0",
+    "TO": "3",
     "PF": "4",
     "TP": "4",
-    "AST": "0",
-    "TO": "3",
-    "BLK": "0",
-    "STL": "0",
-    "MIN": "24",
     "eventDateFormatted": "Nov 5"
 }

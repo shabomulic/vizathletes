@@ -1,17 +1,17 @@
 {
     "Player Name": "Christian Curl",
+    "MIN": "1",
     "FGM-A": "4-9",
     "3PM-A": "2-2",
     "FTM-A": "5-7",
     "OREB": "0",
     "DREB": "3",
     "REB": "3",
+    "AST": "4",
+    "STL": "2",
+    "BLK": "0",
+    "TO": "3",
     "PF": "0",
     "TP": "15",
-    "AST": "4",
-    "TO": "3",
-    "BLK": "0",
-    "STL": "2",
-    "MIN": "1",
     "eventDateFormatted": "Nov 3"
 }

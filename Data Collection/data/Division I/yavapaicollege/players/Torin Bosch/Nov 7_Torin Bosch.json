@@ -1,17 +1,17 @@
 {
     "Player Name": "Torin Bosch",
+    "MIN": "31",
     "FGM-A": "4-8",
     "3PM-A": "1-2",
     "FTM-A": "11-11",
     "OREB": "3",
     "DREB": "8",
     "REB": "11",
+    "AST": "2",
+    "STL": "1",
+    "BLK": "0",
+    "TO": "2",
     "PF": "2",
     "TP": "20",
-    "AST": "2",
-    "TO": "2",
-    "BLK": "0",
-    "STL": "1",
-    "MIN": "31",
     "eventDateFormatted": "Nov 7"
 }

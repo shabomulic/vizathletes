@@ -1,17 +1,17 @@
 {
     "Player Name": "Amir Dade",
+    "MIN": "43",
     "FGM-A": "5-13",
     "3PM-A": "0-2",
     "FTM-A": "4-16",
     "OREB": "1",
     "DREB": "8",
     "REB": "9",
+    "AST": "6",
+    "STL": "1",
+    "BLK": "0",
+    "TO": "2",
     "PF": "4",
     "TP": "14",
-    "AST": "6",
-    "TO": "2",
-    "BLK": "0",
-    "STL": "1",
-    "MIN": "43",
     "eventDateFormatted": "Nov 18"
 }

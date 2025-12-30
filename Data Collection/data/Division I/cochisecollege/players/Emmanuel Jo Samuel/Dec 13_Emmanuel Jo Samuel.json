@@ -1,17 +1,17 @@
 {
     "Player Name": "Emmanuel Jo Samuel",
+    "MIN": "24",
     "FGM-A": "10-16",
     "3PM-A": "7-9",
     "FTM-A": "1-1",
     "OREB": "0",
     "DREB": "7",
     "REB": "7",
+    "AST": "3",
+    "STL": "3",
+    "BLK": "0",
+    "TO": "1",
     "PF": "0",
     "TP": "28",
-    "AST": "3",
-    "TO": "1",
-    "BLK": "0",
-    "STL": "3",
-    "MIN": "24",
     "eventDateFormatted": "Dec 13"
 }

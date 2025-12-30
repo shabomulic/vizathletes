@@ -1,17 +1,17 @@
 {
     "Player Name": "Jaylen Ingram",
+    "MIN": "31",
     "FGM-A": "4-7",
     "3PM-A": "0-1",
     "FTM-A": "1-4",
     "OREB": "5",
     "DREB": "4",
     "REB": "9",
+    "AST": "0",
+    "STL": "2",
+    "BLK": "0",
+    "TO": "1",
     "PF": "1",
     "TP": "9",
-    "AST": "0",
-    "TO": "1",
-    "BLK": "0",
-    "STL": "2",
-    "MIN": "31",
     "eventDateFormatted": "Nov 8"
 }

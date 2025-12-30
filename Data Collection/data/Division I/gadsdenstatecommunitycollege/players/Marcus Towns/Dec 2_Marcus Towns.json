@@ -1,17 +1,17 @@
 {
     "Player Name": "Marcus Towns",
+    "MIN": "1",
     "FGM-A": "9-11",
     "3PM-A": "2-2",
     "FTM-A": "3-4",
     "OREB": "4",
     "DREB": "3",
     "REB": "7",
+    "AST": "3",
+    "STL": "0",
+    "BLK": "0",
+    "TO": "2",
     "PF": "0",
     "TP": "23",
-    "AST": "3",
-    "TO": "2",
-    "BLK": "0",
-    "STL": "0",
-    "MIN": "1",
     "eventDateFormatted": "Dec 2"
 }

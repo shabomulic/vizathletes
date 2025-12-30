@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Oct 11",
+    "boxScoreLink": "20251011_pkyi.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Fayetteville Technical CC",
+                "result": "",
+                "teamId": "npphpjv2wzdyzxlw",
+                "winner": false,
+                "cleanName": "fayetteville technical cc"
+            },
+            {
+                "name": "CCBC Catonsville",
+                "result": "",
+                "teamId": "mbhu3rvpbgorzyuu",
+                "winner": false,
+                "cleanName": "ccbc catonsville"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1760216400000,
+        "localTimeZone": "America/New_York",
+        "tba": false,
+        "home": false,
+        "overall": false,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "Henrico Sports & Event Center",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "pkyihyq3rpgsqavh",
+        "fastdate": 1760216400000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "scrimmage",
+            "description": "Scrimmage",
+            "statsCount": false
+        },
+        "ap2Result": "",
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "CCBC Catonsville",
+            "result": "",
+            "teamId": "mbhu3rvpbgorzyuu",
+            "winner": false,
+            "cleanName": "ccbc catonsville"
+        },
+        "us": {
+            "name": "Fayetteville Technical CC",
+            "result": "",
+            "teamId": "npphpjv2wzdyzxlw",
+            "winner": false,
+            "cleanName": "fayetteville technical cc"
+        },
+        "apresult": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "October 11 05:00 PM:"
+}

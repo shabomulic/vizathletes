@@ -1,17 +1,17 @@
 {
     "Player Name": "Riley Dunn",
+    "MIN": "27",
     "FGM-A": "0-3",
     "3PM-A": "0-2",
     "FTM-A": "0-0",
     "OREB": "1",
     "DREB": "7",
     "REB": "8",
+    "AST": "1",
+    "STL": "1",
+    "BLK": "2",
+    "TO": "1",
     "PF": "0",
     "TP": "0",
-    "AST": "1",
-    "TO": "1",
-    "BLK": "2",
-    "STL": "1",
-    "MIN": "27",
     "eventDateFormatted": "Oct 22"
 }

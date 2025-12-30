@@ -1,17 +1,17 @@
 {
     "Player Name": "Chase Thomas",
+    "MIN": "1",
     "FGM-A": "13-15",
     "3PM-A": "1-2",
     "FTM-A": "3-4",
     "OREB": "2",
     "DREB": "4",
     "REB": "6",
+    "AST": "1",
+    "STL": "4",
+    "BLK": "2",
+    "TO": "2",
     "PF": "1",
     "TP": "30",
-    "AST": "1",
-    "TO": "2",
-    "BLK": "2",
-    "STL": "4",
-    "MIN": "1",
     "eventDateFormatted": "Nov 22"
 }

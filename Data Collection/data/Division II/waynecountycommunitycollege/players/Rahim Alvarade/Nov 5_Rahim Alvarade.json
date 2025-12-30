@@ -1,17 +1,17 @@
 {
     "Player Name": "Rahim Alvarade",
+    "MIN": "37",
     "FGM-A": "12-24",
     "3PM-A": "0-1",
     "FTM-A": "4-7",
     "OREB": "4",
     "DREB": "6",
     "REB": "10",
+    "AST": "0",
+    "STL": "1",
+    "BLK": "2",
+    "TO": "3",
     "PF": "1",
     "TP": "28",
-    "AST": "0",
-    "TO": "3",
-    "BLK": "2",
-    "STL": "1",
-    "MIN": "37",
     "eventDateFormatted": "Nov 5"
 }

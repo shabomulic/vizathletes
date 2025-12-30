@@ -1,17 +1,17 @@
 {
     "Player Name": "Jalen Wynter",
+    "MIN": "22",
     "FGM-A": "5-11",
     "3PM-A": "3-8",
     "FTM-A": "2-2",
     "OREB": "0",
     "DREB": "3",
     "REB": "3",
+    "AST": "2",
+    "STL": "2",
+    "BLK": "0",
+    "TO": "1",
     "PF": "0",
     "TP": "15",
-    "AST": "2",
-    "TO": "1",
-    "BLK": "0",
-    "STL": "2",
-    "MIN": "22",
     "eventDateFormatted": "Nov 19"
 }

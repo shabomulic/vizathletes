@@ -1,17 +1,17 @@
 {
     "Player Name": "Markalon Rochell",
+    "MIN": "36",
     "FGM-A": "6-16",
     "3PM-A": "0-0",
     "FTM-A": "6-8",
     "OREB": "4",
     "DREB": "3",
     "REB": "7",
+    "AST": "1",
+    "STL": "1",
+    "BLK": "0",
+    "TO": "1",
     "PF": "4",
     "TP": "18",
-    "AST": "1",
-    "TO": "1",
-    "BLK": "0",
-    "STL": "1",
-    "MIN": "36",
     "eventDateFormatted": "Dec 5"
 }

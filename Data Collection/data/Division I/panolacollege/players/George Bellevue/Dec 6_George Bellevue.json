@@ -1,17 +1,17 @@
 {
     "Player Name": "George Bellevue",
+    "MIN": "1",
     "FGM-A": "3-13",
     "3PM-A": "0-4",
     "FTM-A": "1-1",
     "OREB": "4",
     "DREB": "3",
     "REB": "7",
+    "AST": "2",
+    "STL": "2",
+    "BLK": "0",
+    "TO": "4",
     "PF": "5",
     "TP": "7",
-    "AST": "2",
-    "TO": "4",
-    "BLK": "0",
-    "STL": "2",
-    "MIN": "1",
     "eventDateFormatted": "Dec 6"
 }

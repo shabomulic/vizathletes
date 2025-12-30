@@ -1,17 +1,17 @@
 {
     "Player Name": "Kasym Nash",
+    "MIN": "1",
     "FGM-A": "4-10",
     "3PM-A": "1-4",
     "FTM-A": "9-10",
     "OREB": "1",
     "DREB": "2",
     "REB": "3",
+    "AST": "3",
+    "STL": "0",
+    "BLK": "0",
+    "TO": "3",
     "PF": "3",
     "TP": "18",
-    "AST": "3",
-    "TO": "3",
-    "BLK": "0",
-    "STL": "0",
-    "MIN": "1",
     "eventDateFormatted": "Nov 1"
 }

@@ -1,17 +1,17 @@
 {
     "Player Name": "Kevin Kirk",
+    "MIN": "22",
     "FGM-A": "6-11",
     "3PM-A": "3-7",
     "FTM-A": "0-0",
     "OREB": "1",
     "DREB": "3",
     "REB": "4",
+    "AST": "0",
+    "STL": "1",
+    "BLK": "1",
+    "TO": "3",
     "PF": "3",
     "TP": "15",
-    "AST": "0",
-    "TO": "3",
-    "BLK": "1",
-    "STL": "1",
-    "MIN": "22",
     "eventDateFormatted": "Dec 13"
 }

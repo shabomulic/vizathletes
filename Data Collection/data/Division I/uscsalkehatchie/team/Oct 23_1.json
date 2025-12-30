@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Oct 23",
+    "boxScoreLink": "20251023_ma96.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "USC Salkehatchie",
+                "result": "",
+                "teamId": "5ggr9ja725u11ojv",
+                "winner": false,
+                "cleanName": "usc salkehatchie"
+            },
+            {
+                "name": "Francis Marion University",
+                "result": "",
+                "teamId": "j2szv6dksl9bcyyo",
+                "winner": false,
+                "cleanName": "francis marion univ"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1761256800000,
+        "localTimeZone": "America/New_York",
+        "tba": false,
+        "home": false,
+        "overall": false,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "ma96md2jwj3zq86o",
+        "fastdate": 1761256800000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "scrimmage",
+            "description": "Scrimmage",
+            "statsCount": false
+        },
+        "us": {
+            "name": "USC Salkehatchie",
+            "result": "",
+            "teamId": "5ggr9ja725u11ojv",
+            "winner": false,
+            "cleanName": "usc salkehatchie"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Francis Marion University",
+            "result": "",
+            "teamId": "j2szv6dksl9bcyyo",
+            "winner": false,
+            "cleanName": "francis marion univ"
+        },
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "October 23 06:00 PM:"
+}

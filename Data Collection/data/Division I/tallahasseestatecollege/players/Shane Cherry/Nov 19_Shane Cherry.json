@@ -1,17 +1,17 @@
 {
     "Player Name": "Shane Cherry",
+    "MIN": "1",
     "FGM-A": "8-10",
     "3PM-A": "3-3",
     "FTM-A": "0-1",
     "OREB": "1",
     "DREB": "3",
     "REB": "4",
+    "AST": "1",
+    "STL": "5",
+    "BLK": "0",
+    "TO": "2",
     "PF": "0",
     "TP": "19",
-    "AST": "1",
-    "TO": "2",
-    "BLK": "0",
-    "STL": "5",
-    "MIN": "1",
     "eventDateFormatted": "Nov 19"
 }

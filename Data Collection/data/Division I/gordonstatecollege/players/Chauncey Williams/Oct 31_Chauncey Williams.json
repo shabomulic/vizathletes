@@ -1,17 +1,17 @@
 {
     "Player Name": "Chauncey Williams",
+    "MIN": "1",
     "FGM-A": "3-11",
     "3PM-A": "0-3",
     "FTM-A": "3-5",
     "OREB": "5",
     "DREB": "3",
     "REB": "8",
+    "AST": "1",
+    "STL": "1",
+    "BLK": "0",
+    "TO": "1",
     "PF": "0",
     "TP": "9",
-    "AST": "1",
-    "TO": "1",
-    "BLK": "0",
-    "STL": "1",
-    "MIN": "1",
     "eventDateFormatted": "Oct 31"
 }

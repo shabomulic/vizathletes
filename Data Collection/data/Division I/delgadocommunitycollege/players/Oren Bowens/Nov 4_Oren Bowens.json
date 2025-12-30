@@ -1,17 +1,17 @@
 {
     "Player Name": "Oren Bowens",
+    "MIN": "33:35",
     "FGM-A": "7-12",
     "3PM-A": "3-4",
     "FTM-A": "0-0",
     "OREB": "1",
     "DREB": "6",
     "REB": "7",
+    "AST": "0",
+    "STL": "2",
+    "BLK": "0",
+    "TO": "3",
     "PF": "4",
     "TP": "17",
-    "AST": "0",
-    "TO": "3",
-    "BLK": "0",
-    "STL": "2",
-    "MIN": "33:35",
     "eventDateFormatted": "Nov 4"
 }

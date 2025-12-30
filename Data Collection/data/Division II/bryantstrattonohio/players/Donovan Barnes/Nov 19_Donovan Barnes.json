@@ -1,17 +1,17 @@
 {
     "Player Name": "Donovan Barnes",
+    "MIN": "30",
     "FGM-A": "5-12",
     "3PM-A": "1-2",
     "FTM-A": "8-9",
     "OREB": "5",
     "DREB": "6",
     "REB": "11",
+    "AST": "9",
+    "STL": "6",
+    "BLK": "0",
+    "TO": "5",
     "PF": "2",
     "TP": "19",
-    "AST": "9",
-    "TO": "5",
-    "BLK": "0",
-    "STL": "6",
-    "MIN": "30",
     "eventDateFormatted": "Nov 19"
 }

@@ -1,17 +1,17 @@
 {
     "Player Name": "Josh Bullock",
+    "MIN": "1",
     "FGM-A": "2-5",
     "3PM-A": "0-3",
     "FTM-A": "3-3",
     "OREB": "0",
     "DREB": "4",
     "REB": "4",
+    "AST": "7",
+    "STL": "3",
+    "BLK": "0",
+    "TO": "3",
     "PF": "0",
     "TP": "7",
-    "AST": "7",
-    "TO": "3",
-    "BLK": "0",
-    "STL": "3",
-    "MIN": "1",
     "eventDateFormatted": "Nov 1"
 }

@@ -1,17 +1,17 @@
 {
     "Player Name": "Julien Barnett",
+    "MIN": "31",
     "FGM-A": "7-11",
     "3PM-A": "2-5",
     "FTM-A": "2-4",
     "OREB": "0",
     "DREB": "3",
     "REB": "3",
+    "AST": "1",
+    "STL": "1",
+    "BLK": "1",
+    "TO": "2",
     "PF": "4",
     "TP": "18",
-    "AST": "1",
-    "TO": "2",
-    "BLK": "1",
-    "STL": "1",
-    "MIN": "31",
     "eventDateFormatted": "Nov 3"
 }

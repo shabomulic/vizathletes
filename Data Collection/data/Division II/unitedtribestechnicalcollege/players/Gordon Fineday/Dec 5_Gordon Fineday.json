@@ -1,17 +1,17 @@
 {
     "Player Name": "Gordon Fineday",
+    "MIN": "33",
     "FGM-A": "4-9",
     "3PM-A": "1-4",
     "FTM-A": "2-4",
     "OREB": "3",
     "DREB": "4",
     "REB": "7",
+    "AST": "0",
+    "STL": "1",
+    "BLK": "0",
+    "TO": "0",
     "PF": "5",
     "TP": "11",
-    "AST": "0",
-    "TO": "0",
-    "BLK": "0",
-    "STL": "1",
-    "MIN": "33",
     "eventDateFormatted": "Dec 5"
 }

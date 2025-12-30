@@ -1,17 +1,17 @@
 {
     "Player Name": "Roy Gardner",
+    "MIN": "21",
     "FGM-A": "4-10",
     "3PM-A": "0-2",
     "FTM-A": "4-5",
     "OREB": "2",
     "DREB": "3",
     "REB": "5",
+    "AST": "2",
+    "STL": "5",
+    "BLK": "0",
+    "TO": "1",
     "PF": "2",
     "TP": "12",
-    "AST": "2",
-    "TO": "1",
-    "BLK": "0",
-    "STL": "5",
-    "MIN": "21",
     "eventDateFormatted": "Dec 5"
 }

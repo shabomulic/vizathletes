@@ -1,17 +1,17 @@
 {
     "Player Name": "Jaksa Pejovic",
+    "MIN": "27:07",
     "FGM-A": "5-11",
     "3PM-A": "1-3",
     "FTM-A": "9-11",
     "OREB": "0",
     "DREB": "3",
     "REB": "3",
+    "AST": "1",
+    "STL": "4",
+    "BLK": "0",
+    "TO": "2",
     "PF": "1",
     "TP": "20",
-    "AST": "1",
-    "TO": "2",
-    "BLK": "0",
-    "STL": "4",
-    "MIN": "27:07",
     "eventDateFormatted": "Nov 6"
 }

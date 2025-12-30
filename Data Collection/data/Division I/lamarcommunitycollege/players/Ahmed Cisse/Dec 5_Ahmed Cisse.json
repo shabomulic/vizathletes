@@ -1,17 +1,17 @@
 {
     "Player Name": "Ahmed Cisse",
+    "MIN": "26",
     "FGM-A": "2-7",
     "3PM-A": "0-3",
     "FTM-A": "6-9",
     "OREB": "0",
     "DREB": "0",
     "REB": "0",
+    "AST": "0",
+    "STL": "1",
+    "BLK": "0",
+    "TO": "2",
     "PF": "1",
     "TP": "10",
-    "AST": "0",
-    "TO": "2",
-    "BLK": "0",
-    "STL": "1",
-    "MIN": "26",
     "eventDateFormatted": "Dec 5"
 }

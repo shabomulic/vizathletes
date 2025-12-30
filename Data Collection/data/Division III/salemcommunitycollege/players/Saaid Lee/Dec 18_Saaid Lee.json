@@ -1,17 +1,17 @@
 {
     "Player Name": "Saaid Lee",
+    "MIN": "33",
     "FGM-A": "9-13",
     "3PM-A": "0-1",
     "FTM-A": "7-8",
     "OREB": "2",
     "DREB": "8",
     "REB": "10",
+    "AST": "8",
+    "STL": "1",
+    "BLK": "0",
+    "TO": "3",
     "PF": "2",
     "TP": "25",
-    "AST": "8",
-    "TO": "3",
-    "BLK": "0",
-    "STL": "1",
-    "MIN": "33",
     "eventDateFormatted": "Dec 18"
 }

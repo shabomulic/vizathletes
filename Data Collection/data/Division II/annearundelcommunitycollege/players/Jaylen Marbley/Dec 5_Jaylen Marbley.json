@@ -1,17 +1,17 @@
 {
     "Player Name": "Jaylen Marbley",
+    "MIN": "37",
     "FGM-A": "7-17",
     "3PM-A": "1-7",
     "FTM-A": "2-2",
     "OREB": "2",
     "DREB": "3",
     "REB": "5",
+    "AST": "4",
+    "STL": "4",
+    "BLK": "0",
+    "TO": "1",
     "PF": "2",
     "TP": "17",
-    "AST": "4",
-    "TO": "1",
-    "BLK": "0",
-    "STL": "4",
-    "MIN": "37",
     "eventDateFormatted": "Dec 5"
 }

@@ -1,17 +1,17 @@
 {
     "Player Name": "Dupree Fletcher Jr",
+    "MIN": "1",
     "FGM-A": "4-15",
     "3PM-A": "0-3",
     "FTM-A": "13-15",
     "OREB": "1",
     "DREB": "4",
     "REB": "5",
+    "AST": "7",
+    "STL": "2",
+    "BLK": "0",
+    "TO": "4",
     "PF": "3",
     "TP": "21",
-    "AST": "7",
-    "TO": "4",
-    "BLK": "0",
-    "STL": "2",
-    "MIN": "1",
     "eventDateFormatted": "Dec 8"
 }

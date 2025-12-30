@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Mar 1",
+    "boxScoreLink": "20260301_8aud.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "TBA",
+                "result": "",
+                "teamId": "nc7x4nembqped3kz",
+                "winner": false,
+                "cleanName": "tba"
+            },
+            {
+                "name": "Miles Community College",
+                "result": "",
+                "teamId": "fn476ki3bxzrw558",
+                "winner": false,
+                "cleanName": "miles community col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "Region XIII Playoffs",
+        "date": 1772341200000,
+        "localTimeZone": "America/Denver",
+        "tba": true,
+        "home": true,
+        "overall": true,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": true,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "8auddqw5vmjxkhh4",
+        "fastdate": 1772341200000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "postSeason",
+            "description": "Post-Season/Play-Offs",
+            "statsCount": true
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "TBA",
+            "result": "",
+            "teamId": "nc7x4nembqped3kz",
+            "winner": false,
+            "cleanName": "tba"
+        },
+        "us": {
+            "name": "Miles Community College",
+            "result": "",
+            "teamId": "fn476ki3bxzrw558",
+            "winner": false,
+            "cleanName": "miles community col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "March 1 12:00 AM:"
+}

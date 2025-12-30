@@ -1,17 +1,17 @@
 {
     "Player Name": "Nedum Chiadika",
+    "MIN": "21",
     "FGM-A": "2-3",
     "3PM-A": "0-0",
     "FTM-A": "2-2",
     "OREB": "1",
     "DREB": "3",
     "REB": "4",
+    "AST": "5",
+    "STL": "2",
+    "BLK": "0",
+    "TO": "3",
     "PF": "2",
     "TP": "6",
-    "AST": "5",
-    "TO": "3",
-    "BLK": "0",
-    "STL": "2",
-    "MIN": "21",
     "eventDateFormatted": "Nov 1"
 }

@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Oct 23",
+    "boxScoreLink": "20251023_ljjt.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Salem Community College",
+                "result": "",
+                "teamId": "j73ep0s74qenj6gk",
+                "winner": false,
+                "cleanName": "salem community col"
+            },
+            {
+                "name": "Alvernia University",
+                "result": "",
+                "teamId": "it357rc79ik6ac73",
+                "winner": false,
+                "cleanName": "alvernia univ"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1761260400000,
+        "localTimeZone": "America/New_York",
+        "tba": false,
+        "home": false,
+        "overall": false,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "ljjt0qyibp04ds9n",
+        "fastdate": 1761260400000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "scrimmage",
+            "description": "Scrimmage",
+            "statsCount": false
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Alvernia University",
+            "result": "",
+            "teamId": "it357rc79ik6ac73",
+            "winner": false,
+            "cleanName": "alvernia univ"
+        },
+        "us": {
+            "name": "Salem Community College",
+            "result": "",
+            "teamId": "j73ep0s74qenj6gk",
+            "winner": false,
+            "cleanName": "salem community col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "October 23 07:00 PM:"
+}

@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Feb 15",
+    "boxScoreLink": "20260215_xpg7.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Central Carolina Community College",
+                "result": "",
+                "teamId": "rakqu3gx9mt7r7od",
+                "winner": false,
+                "cleanName": "central carolina community col"
+            },
+            {
+                "name": "Pitt Community College",
+                "result": "",
+                "teamId": "avv6sdoji7liwtnx",
+                "winner": false,
+                "cleanName": "pitt community col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1771185600000,
+        "localTimeZone": "America/New_York",
+        "tba": false,
+        "home": false,
+        "overall": true,
+        "conference": true,
+        "division": false,
+        "regional": true,
+        "national": true,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "xpg7alhygopdtaw3",
+        "fastdate": 1771185600000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "us": {
+            "name": "Central Carolina Community College",
+            "result": "",
+            "teamId": "rakqu3gx9mt7r7od",
+            "winner": false,
+            "cleanName": "central carolina community col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Pitt Community College",
+            "result": "",
+            "teamId": "avv6sdoji7liwtnx",
+            "winner": false,
+            "cleanName": "pitt community col"
+        },
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "February 15 03:00 PM:"
+}

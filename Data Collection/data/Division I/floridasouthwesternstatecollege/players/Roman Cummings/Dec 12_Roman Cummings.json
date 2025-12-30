@@ -1,17 +1,17 @@
 {
     "Player Name": "Roman Cummings",
+    "MIN": "30",
     "FGM-A": "7-12",
     "3PM-A": "0-0",
     "FTM-A": "0-4",
     "OREB": "4",
     "DREB": "10",
     "REB": "14",
+    "AST": "1",
+    "STL": "1",
+    "BLK": "1",
+    "TO": "3",
     "PF": "1",
     "TP": "14",
-    "AST": "1",
-    "TO": "3",
-    "BLK": "1",
-    "STL": "1",
-    "MIN": "30",
     "eventDateFormatted": "Dec 12"
 }

@@ -1,17 +1,17 @@
 {
     "Player Name": "Terrence Hall",
+    "MIN": "18:55",
     "FGM-A": "3-7",
     "3PM-A": "1-3",
     "FTM-A": "0-0",
     "OREB": "1",
     "DREB": "2",
     "REB": "3",
+    "AST": "1",
+    "STL": "3",
+    "BLK": "0",
+    "TO": "1",
     "PF": "2",
     "TP": "7",
-    "AST": "1",
-    "TO": "1",
-    "BLK": "0",
-    "STL": "3",
-    "MIN": "18:55",
     "eventDateFormatted": "Nov 6"
 }

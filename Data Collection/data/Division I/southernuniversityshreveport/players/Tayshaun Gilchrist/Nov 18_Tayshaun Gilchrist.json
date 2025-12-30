@@ -1,17 +1,17 @@
 {
     "Player Name": "Tayshaun Gilchrist",
+    "MIN": "1",
     "FGM-A": "3-9",
     "3PM-A": "1-5",
     "FTM-A": "5-7",
     "OREB": "0",
     "DREB": "0",
     "REB": "0",
+    "AST": "7",
+    "STL": "5",
+    "BLK": "0",
+    "TO": "4",
     "PF": "0",
     "TP": "12",
-    "AST": "7",
-    "TO": "4",
-    "BLK": "0",
-    "STL": "5",
-    "MIN": "1",
     "eventDateFormatted": "Nov 18"
 }

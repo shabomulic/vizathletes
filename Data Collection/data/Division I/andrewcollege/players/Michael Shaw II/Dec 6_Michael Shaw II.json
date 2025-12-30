@@ -1,17 +1,17 @@
 {
     "Player Name": "Michael Shaw II",
+    "MIN": "17",
     "FGM-A": "3-6",
     "3PM-A": "1-2",
     "FTM-A": "3-4",
     "OREB": "2",
     "DREB": "2",
     "REB": "4",
+    "AST": "2",
+    "STL": "0",
+    "BLK": "1",
+    "TO": "1",
     "PF": "0",
     "TP": "10",
-    "AST": "2",
-    "TO": "1",
-    "BLK": "1",
-    "STL": "0",
-    "MIN": "17",
     "eventDateFormatted": "Dec 6"
 }

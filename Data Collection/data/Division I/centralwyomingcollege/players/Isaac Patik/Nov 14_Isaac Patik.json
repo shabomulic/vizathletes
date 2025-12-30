@@ -1,17 +1,17 @@
 {
     "Player Name": "Isaac Patik",
+    "MIN": "30",
     "FGM-A": "2-7",
     "3PM-A": "0-1",
     "FTM-A": "0-0",
     "OREB": "2",
     "DREB": "7",
     "REB": "9",
+    "AST": "3",
+    "STL": "1",
+    "BLK": "0",
+    "TO": "3",
     "PF": "3",
     "TP": "4",
-    "AST": "3",
-    "TO": "3",
-    "BLK": "0",
-    "STL": "1",
-    "MIN": "30",
     "eventDateFormatted": "Nov 14"
 }

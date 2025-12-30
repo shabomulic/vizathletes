@@ -1,17 +1,17 @@
 {
     "Player Name": "Jermiah Johnson",
+    "MIN": "34",
     "FGM-A": "4-5",
     "3PM-A": "0-1",
     "FTM-A": "0-0",
     "OREB": "1",
     "DREB": "3",
     "REB": "4",
+    "AST": "8",
+    "STL": "4",
+    "BLK": "1",
+    "TO": "2",
     "PF": "2",
     "TP": "8",
-    "AST": "8",
-    "TO": "2",
-    "BLK": "1",
-    "STL": "4",
-    "MIN": "34",
     "eventDateFormatted": "Nov 18"
 }

@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Jan 23",
+    "boxScoreLink": "20260123_tpa1.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Cuyahoga Community College",
+                "result": "",
+                "teamId": "kqgoy9nt4u9ftkf3",
+                "winner": false,
+                "cleanName": "cuyahoga community col"
+            },
+            {
+                "name": "Clark State College",
+                "result": "",
+                "teamId": "0y8pqvg0s9er6yo9",
+                "winner": false,
+                "cleanName": "clark st col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "The Wellness Center",
+        "date": 1769214600000,
+        "localTimeZone": "America/New_York",
+        "tba": false,
+        "home": true,
+        "overall": true,
+        "conference": true,
+        "division": false,
+        "regional": true,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "tpa1ayjpb85eka2q",
+        "fastdate": 1769214600000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "570 E. Leffel Lane",
+        "city": "570 E. Leffel Lane ? Springfield, Ohio 45505 ",
+        "stateCountry": "OH",
+        "zipCode": "45505",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Cuyahoga Community College",
+            "result": "",
+            "teamId": "kqgoy9nt4u9ftkf3",
+            "winner": false,
+            "cleanName": "cuyahoga community col"
+        },
+        "us": {
+            "name": "Clark State College",
+            "result": "",
+            "teamId": "0y8pqvg0s9er6yo9",
+            "winner": false,
+            "cleanName": "clark st col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "January 23 07:30 PM:"
+}

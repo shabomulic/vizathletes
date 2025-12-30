@@ -1,17 +1,17 @@
 {
     "Player Name": "Brayden Gant",
+    "MIN": "38",
     "FGM-A": "3-11",
     "3PM-A": "0-3",
     "FTM-A": "2-2",
     "OREB": "1",
     "DREB": "4",
     "REB": "5",
+    "AST": "2",
+    "STL": "0",
+    "BLK": "0",
+    "TO": "4",
     "PF": "4",
     "TP": "8",
-    "AST": "2",
-    "TO": "4",
-    "BLK": "0",
-    "STL": "0",
-    "MIN": "38",
     "eventDateFormatted": "Dec 6"
 }

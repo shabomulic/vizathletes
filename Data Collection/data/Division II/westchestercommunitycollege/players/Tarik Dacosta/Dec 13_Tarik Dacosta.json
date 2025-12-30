@@ -1,17 +1,17 @@
 {
     "Player Name": "Tarik Dacosta",
+    "MIN": "18",
     "FGM-A": "6-13",
     "3PM-A": "0-1",
     "FTM-A": "1-3",
     "OREB": "0",
     "DREB": "3",
     "REB": "3",
+    "AST": "7",
+    "STL": "2",
+    "BLK": "0",
+    "TO": "2",
     "PF": "4",
     "TP": "13",
-    "AST": "7",
-    "TO": "2",
-    "BLK": "0",
-    "STL": "2",
-    "MIN": "18",
     "eventDateFormatted": "Dec 13"
 }

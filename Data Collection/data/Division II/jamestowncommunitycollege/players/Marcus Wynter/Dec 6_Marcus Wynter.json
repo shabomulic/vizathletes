@@ -1,17 +1,17 @@
 {
     "Player Name": "Marcus Wynter",
+    "MIN": "38",
     "FGM-A": "3-6",
     "3PM-A": "0-0",
     "FTM-A": "4-4",
     "OREB": "1",
     "DREB": "8",
     "REB": "9",
+    "AST": "10",
+    "STL": "3",
+    "BLK": "0",
+    "TO": "2",
     "PF": "1",
     "TP": "10",
-    "AST": "10",
-    "TO": "2",
-    "BLK": "0",
-    "STL": "3",
-    "MIN": "38",
     "eventDateFormatted": "Dec 6"
 }

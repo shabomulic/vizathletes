@@ -1,17 +1,17 @@
 {
     "Player Name": "Lucas N'Gombo",
+    "MIN": "32",
     "FGM-A": "4-6",
     "3PM-A": "0-0",
     "FTM-A": "5-8",
     "OREB": "3",
     "DREB": "5",
     "REB": "8",
+    "AST": "0",
+    "STL": "2",
+    "BLK": "0",
+    "TO": "6",
     "PF": "1",
     "TP": "13",
-    "AST": "0",
-    "TO": "6",
-    "BLK": "0",
-    "STL": "2",
-    "MIN": "32",
     "eventDateFormatted": "Nov 22"
 }

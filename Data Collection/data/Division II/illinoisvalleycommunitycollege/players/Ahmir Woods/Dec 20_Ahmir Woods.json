@@ -1,17 +1,17 @@
 {
     "Player Name": "Ahmir Woods",
+    "MIN": "26",
     "FGM-A": "6-13",
     "3PM-A": "2-6",
     "FTM-A": "3-4",
     "OREB": "1",
     "DREB": "2",
     "REB": "3",
+    "AST": "0",
+    "STL": "2",
+    "BLK": "0",
+    "TO": "2",
     "PF": "4",
     "TP": "17",
-    "AST": "0",
-    "TO": "2",
-    "BLK": "0",
-    "STL": "2",
-    "MIN": "26",
     "eventDateFormatted": "Dec 20"
 }

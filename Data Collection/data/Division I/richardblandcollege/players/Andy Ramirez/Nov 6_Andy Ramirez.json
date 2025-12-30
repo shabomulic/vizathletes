@@ -1,17 +1,17 @@
 {
     "Player Name": "Andy Ramirez",
+    "MIN": "39",
     "FGM-A": "5-11",
     "3PM-A": "0-3",
     "FTM-A": "9-12",
     "OREB": "4",
     "DREB": "9",
     "REB": "13",
+    "AST": "0",
+    "STL": "4",
+    "BLK": "1",
+    "TO": "11",
     "PF": "3",
     "TP": "19",
-    "AST": "0",
-    "TO": "11",
-    "BLK": "1",
-    "STL": "4",
-    "MIN": "39",
     "eventDateFormatted": "Nov 6"
 }

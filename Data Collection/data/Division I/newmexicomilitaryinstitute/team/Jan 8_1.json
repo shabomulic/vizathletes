@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Jan 8",
+    "boxScoreLink": "20260108_asz3.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Howard College",
+                "result": "",
+                "teamId": "gvf6l85e6sbtuxxi",
+                "winner": false,
+                "cleanName": "howard col"
+            },
+            {
+                "name": "New Mexico Military Institute",
+                "result": "",
+                "teamId": "6pcpqcrgx7wny7o9",
+                "winner": false,
+                "cleanName": "new mexico military institute"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "Cahoon Armory Gym | Roswell, NM",
+        "date": 1767915000000,
+        "localTimeZone": "America/Phoenix",
+        "tba": false,
+        "home": true,
+        "overall": true,
+        "conference": true,
+        "division": false,
+        "regional": true,
+        "national": true,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "asz30nznitgw02d3",
+        "fastdate": 1767915000000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "101 W College Blvd",
+        "city": "Roswell",
+        "stateCountry": "New Mexico",
+        "zipCode": "88201",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Howard College",
+            "result": "",
+            "teamId": "gvf6l85e6sbtuxxi",
+            "winner": false,
+            "cleanName": "howard col"
+        },
+        "us": {
+            "name": "New Mexico Military Institute",
+            "result": "",
+            "teamId": "6pcpqcrgx7wny7o9",
+            "winner": false,
+            "cleanName": "new mexico military institute"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "January 8 06:30 PM:"
+}

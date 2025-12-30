@@ -1,17 +1,17 @@
 {
     "Player Name": "Parker Escalante",
+    "MIN": "30",
     "FGM-A": "4-7",
     "3PM-A": "1-2",
     "FTM-A": "0-4",
     "OREB": "0",
     "DREB": "3",
     "REB": "3",
+    "AST": "1",
+    "STL": "2",
+    "BLK": "1",
+    "TO": "3",
     "PF": "3",
     "TP": "9",
-    "AST": "1",
-    "TO": "3",
-    "BLK": "1",
-    "STL": "2",
-    "MIN": "30",
     "eventDateFormatted": "Nov 22"
 }

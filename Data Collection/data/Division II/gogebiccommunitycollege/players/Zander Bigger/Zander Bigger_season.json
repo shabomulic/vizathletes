@@ -5,13 +5,13 @@
         "fgp3pg": "0.0-0.0",
         "ftppg": "0.0-0.0",
         "ga": "0-0",
-        "fgppg": "0.0-0.0",
         "fgp3": "0-0",
-        "ftppm": "0.0-0.0",
+        "fgppg": "0.0-0.0",
         "fgp3pm": "0.0-0.0",
-        "fgp": "0-0",
+        "ftppm": "0.0-0.0",
         "pts": "0",
-        "minpm": "40"
+        "minpm": "40",
+        "fgp": "0-0"
     },
     "statsConference": {
         "fgppm": "0.0-0.0",
@@ -33,13 +33,13 @@
         "fgp3pg": "0.0-0.0",
         "ftppg": "0.0-0.0",
         "ga": "0-0",
-        "fgppg": "0.0-0.0",
         "fgp3": "0-0",
-        "ftppm": "0.0-0.0",
+        "fgppg": "0.0-0.0",
         "fgp3pm": "0.0-0.0",
-        "fgp": "0-0",
+        "ftppm": "0.0-0.0",
         "pts": "0",
-        "minpm": "40"
+        "minpm": "40",
+        "fgp": "0-0"
     },
     "pageName": "zanderbiggeriofu",
     "teamPageName": null,

@@ -1,17 +1,17 @@
 {
     "Player Name": "J'Twane Mike",
+    "MIN": "31",
     "FGM-A": "4-10",
     "3PM-A": "0-2",
     "FTM-A": "4-6",
     "OREB": "4",
     "DREB": "8",
     "REB": "12",
+    "AST": "2",
+    "STL": "1",
+    "BLK": "0",
+    "TO": "2",
     "PF": "1",
     "TP": "12",
-    "AST": "2",
-    "TO": "2",
-    "BLK": "0",
-    "STL": "1",
-    "MIN": "31",
     "eventDateFormatted": "Nov 10"
 }

@@ -1,17 +1,17 @@
 {
     "Player Name": "Naeem Colston",
+    "MIN": "25",
     "FGM-A": "3-6",
     "3PM-A": "0-0",
     "FTM-A": "0-0",
     "OREB": "1",
     "DREB": "9",
     "REB": "10",
+    "AST": "2",
+    "STL": "2",
+    "BLK": "0",
+    "TO": "2",
     "PF": "4",
     "TP": "6",
-    "AST": "2",
-    "TO": "2",
-    "BLK": "0",
-    "STL": "2",
-    "MIN": "25",
     "eventDateFormatted": "Nov 13"
 }

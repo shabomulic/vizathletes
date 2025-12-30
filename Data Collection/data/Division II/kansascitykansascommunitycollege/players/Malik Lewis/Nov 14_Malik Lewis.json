@@ -1,17 +1,17 @@
 {
     "Player Name": "Malik Lewis",
+    "MIN": "31",
     "FGM-A": "5-9",
     "3PM-A": "1-5",
     "FTM-A": "4-6",
     "OREB": "3",
     "DREB": "4",
     "REB": "7",
+    "AST": "3",
+    "STL": "3",
+    "BLK": "0",
+    "TO": "5",
     "PF": "4",
     "TP": "15",
-    "AST": "3",
-    "TO": "5",
-    "BLK": "0",
-    "STL": "3",
-    "MIN": "31",
     "eventDateFormatted": "Nov 14"
 }

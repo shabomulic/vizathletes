@@ -1,17 +1,17 @@
 {
     "Player Name": "Yagub Drammeh",
+    "MIN": "1",
     "FGM-A": "7-15",
     "3PM-A": "1-3",
     "FTM-A": "3-4",
     "OREB": "3",
     "DREB": "8",
     "REB": "11",
+    "AST": "1",
+    "STL": "1",
+    "BLK": "1",
+    "TO": "1",
     "PF": "3",
     "TP": "18",
-    "AST": "1",
-    "TO": "1",
-    "BLK": "1",
-    "STL": "1",
-    "MIN": "1",
     "eventDateFormatted": "Nov 2"
 }

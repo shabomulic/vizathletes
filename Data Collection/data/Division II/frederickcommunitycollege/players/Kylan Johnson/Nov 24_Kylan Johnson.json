@@ -1,17 +1,17 @@
 {
     "Player Name": "Kylan Johnson",
+    "MIN": "25",
     "FGM-A": "8-18",
     "3PM-A": "0-2",
     "FTM-A": "8-8",
     "OREB": "0",
     "DREB": "3",
     "REB": "3",
+    "AST": "3",
+    "STL": "3",
+    "BLK": "0",
+    "TO": "3",
     "PF": "1",
     "TP": "24",
-    "AST": "3",
-    "TO": "3",
-    "BLK": "0",
-    "STL": "3",
-    "MIN": "25",
     "eventDateFormatted": "Nov 24"
 }

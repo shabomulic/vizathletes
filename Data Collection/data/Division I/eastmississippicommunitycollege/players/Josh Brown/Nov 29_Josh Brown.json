@@ -1,17 +1,17 @@
 {
     "Player Name": "Josh Brown",
+    "MIN": "21",
     "FGM-A": "3-9",
     "3PM-A": "2-7",
     "FTM-A": "1-1",
     "OREB": "1",
     "DREB": "6",
     "REB": "7",
+    "AST": "2",
+    "STL": "0",
+    "BLK": "1",
+    "TO": "1",
     "PF": "2",
     "TP": "9",
-    "AST": "2",
-    "TO": "1",
-    "BLK": "1",
-    "STL": "0",
-    "MIN": "21",
     "eventDateFormatted": "Nov 29"
 }

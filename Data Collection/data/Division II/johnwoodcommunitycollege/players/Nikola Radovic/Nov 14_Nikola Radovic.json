@@ -1,17 +1,17 @@
 {
     "Player Name": "Nikola Radovic",
+    "MIN": "33",
     "FGM-A": "5-13",
     "3PM-A": "2-6",
     "FTM-A": "0-0",
     "OREB": "0",
     "DREB": "6",
     "REB": "6",
+    "AST": "3",
+    "STL": "5",
+    "BLK": "0",
+    "TO": "3",
     "PF": "5",
     "TP": "12",
-    "AST": "3",
-    "TO": "3",
-    "BLK": "0",
-    "STL": "5",
-    "MIN": "33",
     "eventDateFormatted": "Nov 14"
 }

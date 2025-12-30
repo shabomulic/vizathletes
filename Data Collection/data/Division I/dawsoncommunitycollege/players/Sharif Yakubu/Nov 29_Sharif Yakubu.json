@@ -1,17 +1,17 @@
 {
     "Player Name": "Sharif Yakubu",
+    "MIN": "16",
     "FGM-A": "2-3",
     "3PM-A": "0-0",
     "FTM-A": "0-2",
     "OREB": "3",
     "DREB": "0",
     "REB": "3",
+    "AST": "0",
+    "STL": "2",
+    "BLK": "1",
+    "TO": "1",
     "PF": "1",
     "TP": "4",
-    "AST": "0",
-    "TO": "1",
-    "BLK": "1",
-    "STL": "2",
-    "MIN": "16",
     "eventDateFormatted": "Nov 29"
 }

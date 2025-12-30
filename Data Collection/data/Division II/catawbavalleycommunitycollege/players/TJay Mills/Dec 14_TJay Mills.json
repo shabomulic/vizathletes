@@ -1,17 +1,17 @@
 {
     "Player Name": "TJay Mills",
+    "MIN": "39",
     "FGM-A": "8-19",
     "3PM-A": "1-6",
     "FTM-A": "6-7",
     "OREB": "0",
     "DREB": "2",
     "REB": "2",
+    "AST": "7",
+    "STL": "4",
+    "BLK": "0",
+    "TO": "3",
     "PF": "3",
     "TP": "23",
-    "AST": "7",
-    "TO": "3",
-    "BLK": "0",
-    "STL": "4",
-    "MIN": "39",
     "eventDateFormatted": "Dec 14"
 }

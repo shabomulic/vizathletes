@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Oct 29",
+    "boxScoreLink": "20251029_mqtd.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Lakeland Community College",
+                "result": "",
+                "teamId": "bn7iowokd59ssivc",
+                "winner": false,
+                "cleanName": "lakeland community col"
+            },
+            {
+                "name": "Tiffin University",
+                "result": "",
+                "teamId": "mly1s43qiblf8yeg",
+                "winner": false,
+                "cleanName": "tiffin univ"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1761784200000,
+        "localTimeZone": "America/New_York",
+        "tba": false,
+        "home": false,
+        "overall": false,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "mqtdlgyx8jl3hult",
+        "fastdate": 1761784200000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "scrimmage",
+            "description": "Scrimmage",
+            "statsCount": false
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Tiffin University",
+            "result": "",
+            "teamId": "mly1s43qiblf8yeg",
+            "winner": false,
+            "cleanName": "tiffin univ"
+        },
+        "us": {
+            "name": "Lakeland Community College",
+            "result": "",
+            "teamId": "bn7iowokd59ssivc",
+            "winner": false,
+            "cleanName": "lakeland community col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "October 29 08:30 PM:"
+}

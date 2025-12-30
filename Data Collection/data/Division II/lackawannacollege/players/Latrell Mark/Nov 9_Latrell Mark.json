@@ -1,17 +1,17 @@
 {
     "Player Name": "Latrell Mark",
+    "MIN": "27",
     "FGM-A": "7-13",
     "3PM-A": "2-6",
     "FTM-A": "0-2",
     "OREB": "0",
     "DREB": "4",
     "REB": "4",
+    "AST": "5",
+    "STL": "4",
+    "BLK": "1",
+    "TO": "2",
     "PF": "4",
     "TP": "16",
-    "AST": "5",
-    "TO": "2",
-    "BLK": "1",
-    "STL": "4",
-    "MIN": "27",
     "eventDateFormatted": "Nov 9"
 }

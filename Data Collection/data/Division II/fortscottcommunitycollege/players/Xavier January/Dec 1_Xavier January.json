@@ -1,17 +1,17 @@
 {
     "Player Name": "Xavier January",
+    "MIN": "16",
     "FGM-A": "2-4",
     "3PM-A": "0-0",
     "FTM-A": "1-2",
     "OREB": "2",
     "DREB": "4",
     "REB": "6",
+    "AST": "0",
+    "STL": "0",
+    "BLK": "1",
+    "TO": "1",
     "PF": "2",
     "TP": "5",
-    "AST": "0",
-    "TO": "1",
-    "BLK": "1",
-    "STL": "0",
-    "MIN": "16",
     "eventDateFormatted": "Dec 1"
 }

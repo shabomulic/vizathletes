@@ -1,17 +1,17 @@
 {
     "Player Name": "Landon Cayton",
+    "MIN": "1",
     "FGM-A": "7-15",
     "3PM-A": "0-3",
     "FTM-A": "6-8",
     "OREB": "0",
     "DREB": "5",
     "REB": "5",
+    "AST": "4",
+    "STL": "0",
+    "BLK": "3",
+    "TO": "3",
     "PF": "0",
     "TP": "20",
-    "AST": "4",
-    "TO": "3",
-    "BLK": "3",
-    "STL": "0",
-    "MIN": "1",
     "eventDateFormatted": "Nov 18"
 }

@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Feb 10",
+    "boxScoreLink": "20260210_m3mc.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Bergen Community College",
+                "result": "",
+                "teamId": "i3t37vz94okcfbea",
+                "winner": false,
+                "cleanName": "bergen community col"
+            },
+            {
+                "name": "Brookdale Community College",
+                "result": "",
+                "teamId": "m8y6ny1b50h0p810",
+                "winner": false,
+                "cleanName": "brookdale community col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1770768000000,
+        "localTimeZone": "America/New_York",
+        "tba": false,
+        "home": true,
+        "overall": true,
+        "conference": true,
+        "division": true,
+        "regional": false,
+        "national": true,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "m3mc3os8wqrgwl1a",
+        "fastdate": 1770768000000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Bergen Community College",
+            "result": "",
+            "teamId": "i3t37vz94okcfbea",
+            "winner": false,
+            "cleanName": "bergen community col"
+        },
+        "us": {
+            "name": "Brookdale Community College",
+            "result": "",
+            "teamId": "m8y6ny1b50h0p810",
+            "winner": false,
+            "cleanName": "brookdale community col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "February 10 07:00 PM:"
+}

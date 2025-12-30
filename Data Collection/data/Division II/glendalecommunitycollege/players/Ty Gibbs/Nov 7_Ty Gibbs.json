@@ -1,17 +1,17 @@
 {
     "Player Name": "Ty Gibbs",
+    "MIN": "36",
     "FGM-A": "0-4",
     "3PM-A": "0-1",
     "FTM-A": "4-6",
     "OREB": "1",
     "DREB": "5",
     "REB": "6",
+    "AST": "4",
+    "STL": "2",
+    "BLK": "0",
+    "TO": "0",
     "PF": "0",
     "TP": "4",
-    "AST": "4",
-    "TO": "0",
-    "BLK": "0",
-    "STL": "2",
-    "MIN": "36",
     "eventDateFormatted": "Nov 7"
 }

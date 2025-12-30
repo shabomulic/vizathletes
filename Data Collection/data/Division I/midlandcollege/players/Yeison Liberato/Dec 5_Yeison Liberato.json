@@ -1,17 +1,17 @@
 {
     "Player Name": "Yeison Liberato",
+    "MIN": "26",
     "FGM-A": "3-7",
     "3PM-A": "0-0",
     "FTM-A": "2-3",
     "OREB": "1",
     "DREB": "1",
     "REB": "2",
+    "AST": "4",
+    "STL": "0",
+    "BLK": "0",
+    "TO": "3",
     "PF": "3",
     "TP": "8",
-    "AST": "4",
-    "TO": "3",
-    "BLK": "0",
-    "STL": "0",
-    "MIN": "26",
     "eventDateFormatted": "Dec 5"
 }

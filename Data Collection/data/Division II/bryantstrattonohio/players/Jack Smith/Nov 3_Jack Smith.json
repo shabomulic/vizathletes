@@ -1,17 +1,17 @@
 {
     "Player Name": "Jack Smith",
+    "MIN": "9",
     "FGM-A": "1-3",
     "3PM-A": "1-3",
     "FTM-A": "0-0",
     "OREB": "1",
     "DREB": "0",
     "REB": "1",
+    "AST": "0",
+    "STL": "1",
+    "BLK": "0",
+    "TO": "2",
     "PF": "2",
     "TP": "3",
-    "AST": "0",
-    "TO": "2",
-    "BLK": "0",
-    "STL": "1",
-    "MIN": "9",
     "eventDateFormatted": "Nov 3"
 }

@@ -1,17 +1,17 @@
 {
     "Player Name": "Bryce Goodwin",
+    "MIN": "14",
     "FGM-A": "2-4",
     "3PM-A": "1-1",
     "FTM-A": "2-2",
     "OREB": "2",
     "DREB": "2",
     "REB": "4",
+    "AST": "1",
+    "STL": "0",
+    "BLK": "0",
+    "TO": "3",
     "PF": "0",
     "TP": "7",
-    "AST": "1",
-    "TO": "3",
-    "BLK": "0",
-    "STL": "0",
-    "MIN": "14",
     "eventDateFormatted": "Nov 17"
 }

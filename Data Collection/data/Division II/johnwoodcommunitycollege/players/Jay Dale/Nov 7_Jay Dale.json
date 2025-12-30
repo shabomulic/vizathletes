@@ -1,17 +1,17 @@
 {
     "Player Name": "Jay Dale",
+    "MIN": "17",
     "FGM-A": "3-10",
     "3PM-A": "0-2",
     "FTM-A": "0-0",
     "OREB": "0",
     "DREB": "3",
     "REB": "3",
+    "AST": "3",
+    "STL": "1",
+    "BLK": "2",
+    "TO": "1",
     "PF": "1",
     "TP": "6",
-    "AST": "3",
-    "TO": "1",
-    "BLK": "2",
-    "STL": "1",
-    "MIN": "17",
     "eventDateFormatted": "Nov 7"
 }

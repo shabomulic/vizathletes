@@ -1,17 +1,17 @@
 {
     "Player Name": "Barron Harris",
+    "MIN": "33",
     "FGM-A": "4-9",
     "3PM-A": "2-4",
     "FTM-A": "4-4",
     "OREB": "0",
     "DREB": "5",
     "REB": "5",
+    "AST": "4",
+    "STL": "1",
+    "BLK": "0",
+    "TO": "6",
     "PF": "1",
     "TP": "14",
-    "AST": "4",
-    "TO": "6",
-    "BLK": "0",
-    "STL": "1",
-    "MIN": "33",
     "eventDateFormatted": "Nov 8"
 }

@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Dec 13",
+    "boxScoreLink": "20251213_vq96.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Kishwaukee College",
+                "result": "",
+                "teamId": "p4y7ccn4ib8i5o0s",
+                "winner": false,
+                "cleanName": "kishwaukee col"
+            },
+            {
+                "name": "Illinois Central College",
+                "result": "",
+                "teamId": "2q0oq07qxqryfwvg",
+                "winner": false,
+                "cleanName": "illinois central col"
+            }
+        ],
+        "status": "Cancelled",
+        "notes": "",
+        "notesShared": "",
+        "date": 1765652400000,
+        "localTimeZone": "America/Chicago",
+        "tba": false,
+        "home": false,
+        "overall": true,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": true,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": true,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "vq9627d49iz4puy2",
+        "fastdate": 1765652400000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Illinois Central College",
+            "result": "",
+            "teamId": "2q0oq07qxqryfwvg",
+            "winner": false,
+            "cleanName": "illinois central col"
+        },
+        "us": {
+            "name": "Kishwaukee College",
+            "result": "",
+            "teamId": "p4y7ccn4ib8i5o0s",
+            "winner": false,
+            "cleanName": "kishwaukee col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "December 13 02:00 PM:"
+}

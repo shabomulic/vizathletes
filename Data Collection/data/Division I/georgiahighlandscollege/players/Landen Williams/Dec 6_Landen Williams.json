@@ -1,17 +1,17 @@
 {
     "Player Name": "Landen Williams",
+    "MIN": "35",
     "FGM-A": "0-7",
     "3PM-A": "0-2",
     "FTM-A": "2-2",
     "OREB": "0",
     "DREB": "1",
     "REB": "1",
+    "AST": "1",
+    "STL": "1",
+    "BLK": "0",
+    "TO": "0",
     "PF": "1",
     "TP": "2",
-    "AST": "1",
-    "TO": "0",
-    "BLK": "0",
-    "STL": "1",
-    "MIN": "35",
     "eventDateFormatted": "Dec 6"
 }

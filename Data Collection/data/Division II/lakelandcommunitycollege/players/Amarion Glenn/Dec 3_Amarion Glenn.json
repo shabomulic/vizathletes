@@ -1,17 +1,17 @@
 {
     "Player Name": "Amarion Glenn",
+    "MIN": "28",
     "FGM-A": "2-3",
     "3PM-A": "1-2",
     "FTM-A": "0-0",
     "OREB": "0",
     "DREB": "2",
     "REB": "2",
+    "AST": "1",
+    "STL": "0",
+    "BLK": "1",
+    "TO": "2",
     "PF": "3",
     "TP": "5",
-    "AST": "1",
-    "TO": "2",
-    "BLK": "1",
-    "STL": "0",
-    "MIN": "28",
     "eventDateFormatted": "Dec 3"
 }

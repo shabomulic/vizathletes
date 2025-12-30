@@ -1,17 +1,17 @@
 {
     "Player Name": "KJ Nichols",
+    "MIN": "26",
     "FGM-A": "4-10",
     "3PM-A": "2-5",
     "FTM-A": "3-5",
     "OREB": "1",
     "DREB": "5",
     "REB": "6",
+    "AST": "1",
+    "STL": "1",
+    "BLK": "0",
+    "TO": "6",
     "PF": "1",
     "TP": "13",
-    "AST": "1",
-    "TO": "6",
-    "BLK": "0",
-    "STL": "1",
-    "MIN": "26",
     "eventDateFormatted": "Dec 3"
 }

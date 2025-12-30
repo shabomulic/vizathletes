@@ -1,17 +1,17 @@
 {
     "Player Name": "Gerald Patterson",
+    "MIN": "37",
     "FGM-A": "7-12",
     "3PM-A": "1-3",
     "FTM-A": "4-8",
     "OREB": "2",
     "DREB": "6",
     "REB": "8",
+    "AST": "4",
+    "STL": "3",
+    "BLK": "0",
+    "TO": "1",
     "PF": "4",
     "TP": "19",
-    "AST": "4",
-    "TO": "1",
-    "BLK": "0",
-    "STL": "3",
-    "MIN": "37",
     "eventDateFormatted": "Oct 31"
 }

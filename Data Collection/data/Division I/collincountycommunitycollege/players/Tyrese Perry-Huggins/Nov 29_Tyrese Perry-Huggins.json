@@ -1,17 +1,17 @@
 {
     "Player Name": "Tyrese Perry-Huggins",
+    "MIN": "1",
     "FGM-A": "1-2",
     "3PM-A": "0-0",
     "FTM-A": "0-0",
     "OREB": "4",
     "DREB": "0",
     "REB": "4",
+    "AST": "1",
+    "STL": "0",
+    "BLK": "0",
+    "TO": "2",
     "PF": "1",
     "TP": "2",
-    "AST": "1",
-    "TO": "2",
-    "BLK": "0",
-    "STL": "0",
-    "MIN": "1",
     "eventDateFormatted": "Nov 29"
 }

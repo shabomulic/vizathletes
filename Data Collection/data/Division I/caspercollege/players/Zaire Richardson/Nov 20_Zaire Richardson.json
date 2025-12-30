@@ -1,17 +1,17 @@
 {
     "Player Name": "Zaire Richardson",
+    "MIN": "32",
     "FGM-A": "5-15",
     "3PM-A": "0-5",
     "FTM-A": "3-3",
     "OREB": "2",
     "DREB": "2",
     "REB": "4",
+    "AST": "2",
+    "STL": "3",
+    "BLK": "0",
+    "TO": "2",
     "PF": "4",
     "TP": "13",
-    "AST": "2",
-    "TO": "2",
-    "BLK": "0",
-    "STL": "3",
-    "MIN": "32",
     "eventDateFormatted": "Nov 20"
 }

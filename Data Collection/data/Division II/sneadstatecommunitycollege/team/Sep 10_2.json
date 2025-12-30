@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Sep 10",
+    "boxScoreLink": "20250910_84z8.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Snead State Community College",
+                "result": "",
+                "teamId": "0ay1cyaerr3dgoue",
+                "winner": false,
+                "cleanName": "snead st community col"
+            },
+            {
+                "name": "Alabama JUCO Practice Day",
+                "result": "",
+                "teamId": "m0cynqhuibqjd0lv",
+                "winner": false,
+                "cleanName": "alabama juco practice day"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1757476800000,
+        "localTimeZone": "America/Chicago",
+        "tba": true,
+        "home": false,
+        "overall": true,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "84z8prd8nd7qullp",
+        "fastdate": 1757476800000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "Faulkner University",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Alabama JUCO Practice Day",
+            "result": "",
+            "teamId": "m0cynqhuibqjd0lv",
+            "winner": false,
+            "cleanName": "alabama juco practice day"
+        },
+        "us": {
+            "name": "Snead State Community College",
+            "result": "",
+            "teamId": "0ay1cyaerr3dgoue",
+            "winner": false,
+            "cleanName": "snead st community col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "September 10 12:00 AM:"
+}

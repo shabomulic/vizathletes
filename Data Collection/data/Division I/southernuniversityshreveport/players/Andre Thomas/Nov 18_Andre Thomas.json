@@ -1,17 +1,17 @@
 {
     "Player Name": "Andre Thomas",
+    "MIN": "1",
     "FGM-A": "9-15",
     "3PM-A": "3-6",
     "FTM-A": "2-2",
     "OREB": "1",
     "DREB": "3",
     "REB": "4",
+    "AST": "2",
+    "STL": "3",
+    "BLK": "1",
+    "TO": "0",
     "PF": "0",
     "TP": "23",
-    "AST": "2",
-    "TO": "0",
-    "BLK": "1",
-    "STL": "3",
-    "MIN": "1",
     "eventDateFormatted": "Nov 18"
 }

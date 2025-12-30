@@ -1,17 +1,17 @@
 {
     "Player Name": "Jordan Peel",
+    "MIN": "30",
     "FGM-A": "3-10",
     "3PM-A": "2-6",
     "FTM-A": "3-3",
     "OREB": "3",
     "DREB": "2",
     "REB": "5",
+    "AST": "5",
+    "STL": "1",
+    "BLK": "0",
+    "TO": "3",
     "PF": "3",
     "TP": "11",
-    "AST": "5",
-    "TO": "3",
-    "BLK": "0",
-    "STL": "1",
-    "MIN": "30",
     "eventDateFormatted": "Nov 14"
 }

@@ -1,17 +1,17 @@
 {
     "Player Name": "Hans Dorlues",
+    "MIN": "15",
     "FGM-A": "2-7",
     "3PM-A": "0-0",
     "FTM-A": "0-0",
     "OREB": "2",
     "DREB": "0",
     "REB": "2",
+    "AST": "0",
+    "STL": "0",
+    "BLK": "0",
+    "TO": "2",
     "PF": "5",
     "TP": "4",
-    "AST": "0",
-    "TO": "2",
-    "BLK": "0",
-    "STL": "0",
-    "MIN": "15",
     "eventDateFormatted": "Nov 25"
 }

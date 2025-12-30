@@ -1,17 +1,17 @@
 {
     "Player Name": "Cortlin Siska",
+    "MIN": "1",
     "FGM-A": "3-5",
     "3PM-A": "0-0",
     "FTM-A": "2-2",
     "OREB": "2",
     "DREB": "5",
     "REB": "7",
+    "AST": "6",
+    "STL": "1",
+    "BLK": "0",
+    "TO": "5",
     "PF": "4",
     "TP": "8",
-    "AST": "6",
-    "TO": "5",
-    "BLK": "0",
-    "STL": "1",
-    "MIN": "1",
     "eventDateFormatted": "Nov 22"
 }

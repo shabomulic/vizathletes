@@ -1,17 +1,17 @@
 {
     "Player Name": "Kahu Treacher",
+    "MIN": "31",
     "FGM-A": "4-12",
     "3PM-A": "1-4",
     "FTM-A": "4-4",
     "OREB": "4",
     "DREB": "3",
     "REB": "7",
+    "AST": "1",
+    "STL": "1",
+    "BLK": "0",
+    "TO": "2",
     "PF": "0",
     "TP": "13",
-    "AST": "1",
-    "TO": "2",
-    "BLK": "0",
-    "STL": "1",
-    "MIN": "31",
     "eventDateFormatted": "Dec 15"
 }

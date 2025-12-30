@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Feb 7",
+    "boxScoreLink": "20260207_adci.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Cuyahoga Community College",
+                "result": "",
+                "teamId": "kqgoy9nt4u9ftkf3",
+                "winner": false,
+                "cleanName": "cuyahoga community col"
+            },
+            {
+                "name": "Erie Community College",
+                "result": "",
+                "teamId": "g5740upzvughrx7o",
+                "winner": false,
+                "cleanName": "erie community col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "Fitness Center",
+        "date": 1770480000000,
+        "localTimeZone": "America/New_York",
+        "tba": false,
+        "home": true,
+        "overall": true,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": true,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "adcix8y3pib2uir6",
+        "fastdate": 1770480000000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "121 Ellicott Street",
+        "city": "Buffalo",
+        "stateCountry": "NY",
+        "zipCode": "14203",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Cuyahoga Community College",
+            "result": "",
+            "teamId": "kqgoy9nt4u9ftkf3",
+            "winner": false,
+            "cleanName": "cuyahoga community col"
+        },
+        "us": {
+            "name": "Erie Community College",
+            "result": "",
+            "teamId": "g5740upzvughrx7o",
+            "winner": false,
+            "cleanName": "erie community col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "February 7 11:00 AM:"
+}

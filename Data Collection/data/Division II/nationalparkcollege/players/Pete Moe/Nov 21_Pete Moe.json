@@ -1,17 +1,17 @@
 {
     "Player Name": "Pete Moe",
+    "MIN": "1",
     "FGM-A": "8-17",
     "3PM-A": "1-1",
     "FTM-A": "3-3",
     "OREB": "2",
     "DREB": "3",
     "REB": "5",
+    "AST": "6",
+    "STL": "1",
+    "BLK": "0",
+    "TO": "4",
     "PF": "1",
     "TP": "20",
-    "AST": "6",
-    "TO": "4",
-    "BLK": "0",
-    "STL": "1",
-    "MIN": "1",
     "eventDateFormatted": "Nov 21"
 }

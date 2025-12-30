@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Feb 7",
+    "boxScoreLink": "20260207_0d2n.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Kirkwood Community College",
+                "result": "",
+                "teamId": "9737vad7r5llflcf",
+                "winner": false,
+                "cleanName": "kirkwood community col"
+            },
+            {
+                "name": "Western Iowa Tech",
+                "result": "",
+                "teamId": "pdtwrwcoh5g34ap1",
+                "winner": false,
+                "cleanName": "w iowa tech"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1770494400000,
+        "localTimeZone": "America/Chicago",
+        "tba": false,
+        "home": true,
+        "overall": true,
+        "conference": true,
+        "division": false,
+        "regional": false,
+        "national": true,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "0d2nifyjzmv5my0j",
+        "fastdate": 1770494400000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Kirkwood Community College",
+            "result": "",
+            "teamId": "9737vad7r5llflcf",
+            "winner": false,
+            "cleanName": "kirkwood community col"
+        },
+        "us": {
+            "name": "Western Iowa Tech",
+            "result": "",
+            "teamId": "pdtwrwcoh5g34ap1",
+            "winner": false,
+            "cleanName": "w iowa tech"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "February 7 03:00 PM:"
+}

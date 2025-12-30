@@ -1,17 +1,17 @@
 {
     "Player Name": "Carter Korab",
+    "MIN": "26",
     "FGM-A": "2-5",
     "3PM-A": "0-1",
     "FTM-A": "2-4",
     "OREB": "3",
     "DREB": "3",
     "REB": "6",
+    "AST": "1",
+    "STL": "0",
+    "BLK": "3",
+    "TO": "1",
     "PF": "2",
     "TP": "6",
-    "AST": "1",
-    "TO": "1",
-    "BLK": "3",
-    "STL": "0",
-    "MIN": "26",
     "eventDateFormatted": "Nov 7"
 }

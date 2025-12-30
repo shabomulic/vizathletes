@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Feb 3",
+    "boxScoreLink": "20260203_0yr6.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Johnson County Community College",
+                "result": "",
+                "teamId": "e4cr0jwhahc6zkyw",
+                "winner": false,
+                "cleanName": "johnson county community col"
+            },
+            {
+                "name": "North Central Missouri College",
+                "result": "",
+                "teamId": "r371r0ybbvgqvjbh",
+                "winner": false,
+                "cleanName": "n central missouri col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1770163200000,
+        "localTimeZone": "America/Chicago",
+        "tba": false,
+        "home": false,
+        "overall": true,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": true,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "0yr6bz9dwky1iakt",
+        "fastdate": 1770163200000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": true,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "North Central Missouri College",
+            "result": "",
+            "teamId": "r371r0ybbvgqvjbh",
+            "winner": false,
+            "cleanName": "n central missouri col"
+        },
+        "us": {
+            "name": "Johnson County Community College",
+            "result": "",
+            "teamId": "e4cr0jwhahc6zkyw",
+            "winner": false,
+            "cleanName": "johnson county community col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "February 3 07:00 PM:"
+}

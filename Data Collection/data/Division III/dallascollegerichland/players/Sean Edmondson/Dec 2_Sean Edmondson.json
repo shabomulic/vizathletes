@@ -1,17 +1,17 @@
 {
     "Player Name": "Sean Edmondson",
+    "MIN": "1",
     "FGM-A": "7-11",
     "3PM-A": "1-2",
     "FTM-A": "3-6",
     "OREB": "3",
     "DREB": "3",
     "REB": "6",
+    "AST": "1",
+    "STL": "0",
+    "BLK": "0",
+    "TO": "1",
     "PF": "0",
     "TP": "18",
-    "AST": "1",
-    "TO": "1",
-    "BLK": "0",
-    "STL": "0",
-    "MIN": "1",
     "eventDateFormatted": "Dec 2"
 }

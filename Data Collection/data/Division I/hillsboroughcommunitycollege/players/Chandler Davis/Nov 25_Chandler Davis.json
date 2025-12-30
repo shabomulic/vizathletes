@@ -1,17 +1,17 @@
 {
     "Player Name": "Chandler Davis",
+    "MIN": "1",
     "FGM-A": "10-15",
     "3PM-A": "4-5",
     "FTM-A": "9-10",
     "OREB": "2",
     "DREB": "10",
     "REB": "12",
+    "AST": "5",
+    "STL": "2",
+    "BLK": "0",
+    "TO": "3",
     "PF": "1",
     "TP": "33",
-    "AST": "5",
-    "TO": "3",
-    "BLK": "0",
-    "STL": "2",
-    "MIN": "1",
     "eventDateFormatted": "Nov 25"
 }

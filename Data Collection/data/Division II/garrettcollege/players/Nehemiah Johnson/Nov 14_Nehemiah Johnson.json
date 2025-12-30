@@ -1,17 +1,17 @@
 {
     "Player Name": "Nehemiah Johnson",
+    "MIN": "35",
     "FGM-A": "5-10",
     "3PM-A": "0-0",
     "FTM-A": "0-2",
     "OREB": "3",
     "DREB": "6",
     "REB": "9",
+    "AST": "3",
+    "STL": "2",
+    "BLK": "3",
+    "TO": "3",
     "PF": "5",
     "TP": "10",
-    "AST": "3",
-    "TO": "3",
-    "BLK": "3",
-    "STL": "2",
-    "MIN": "35",
     "eventDateFormatted": "Nov 14"
 }

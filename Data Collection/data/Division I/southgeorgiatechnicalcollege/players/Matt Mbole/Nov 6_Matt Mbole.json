@@ -1,17 +1,17 @@
 {
     "Player Name": "Matt Mbole",
+    "MIN": "31",
     "FGM-A": "6-7",
     "3PM-A": "0-0",
     "FTM-A": "4-6",
     "OREB": "4",
     "DREB": "9",
     "REB": "13",
+    "AST": "0",
+    "STL": "0",
+    "BLK": "4",
+    "TO": "2",
     "PF": "4",
     "TP": "16",
-    "AST": "0",
-    "TO": "2",
-    "BLK": "4",
-    "STL": "0",
-    "MIN": "31",
     "eventDateFormatted": "Nov 6"
 }

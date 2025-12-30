@@ -1,17 +1,17 @@
 {
     "Player Name": "Rodney Vilsaint",
+    "MIN": "40",
     "FGM-A": "5-11",
     "3PM-A": "1-5",
     "FTM-A": "5-5",
     "OREB": "0",
     "DREB": "4",
     "REB": "4",
+    "AST": "2",
+    "STL": "3",
+    "BLK": "0",
+    "TO": "3",
     "PF": "2",
     "TP": "16",
-    "AST": "2",
-    "TO": "3",
-    "BLK": "0",
-    "STL": "3",
-    "MIN": "40",
     "eventDateFormatted": "Nov 18"
 }

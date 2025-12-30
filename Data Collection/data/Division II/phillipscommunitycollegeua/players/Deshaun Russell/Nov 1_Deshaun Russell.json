@@ -1,17 +1,17 @@
 {
     "Player Name": "Deshaun Russell",
+    "MIN": "20",
     "FGM-A": "1-6",
     "3PM-A": "0-2",
     "FTM-A": "1-3",
     "OREB": "0",
     "DREB": "3",
     "REB": "3",
+    "AST": "3",
+    "STL": "1",
+    "BLK": "0",
+    "TO": "4",
     "PF": "1",
     "TP": "3",
-    "AST": "3",
-    "TO": "4",
-    "BLK": "0",
-    "STL": "1",
-    "MIN": "20",
     "eventDateFormatted": "Nov 1"
 }

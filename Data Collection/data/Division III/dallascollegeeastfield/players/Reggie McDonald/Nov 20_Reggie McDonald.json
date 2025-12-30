@@ -1,17 +1,17 @@
 {
     "Player Name": "Reggie McDonald",
+    "MIN": "1",
     "FGM-A": "7-18",
     "3PM-A": "1-7",
     "FTM-A": "2-3",
     "OREB": "0",
     "DREB": "3",
     "REB": "3",
+    "AST": "2",
+    "STL": "2",
+    "BLK": "1",
+    "TO": "1",
     "PF": "0",
     "TP": "17",
-    "AST": "2",
-    "TO": "1",
-    "BLK": "1",
-    "STL": "2",
-    "MIN": "1",
     "eventDateFormatted": "Nov 20"
 }

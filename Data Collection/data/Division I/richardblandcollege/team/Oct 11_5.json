@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Oct 11",
+    "boxScoreLink": "20251011_2top.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Richard Bland College",
+                "result": "",
+                "teamId": "wwjd9rxorfx5txz6",
+                "winner": false,
+                "cleanName": "richard bland col"
+            },
+            {
+                "name": "Daytona State College",
+                "result": "",
+                "teamId": "ao6mzkmwcd6z85t3",
+                "winner": false,
+                "cleanName": "daytona st col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "2025 All-American Jamboree",
+        "date": 1760214900000,
+        "localTimeZone": "America/New_York",
+        "tba": false,
+        "home": false,
+        "overall": false,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "The Big House, Tavares, FL / Court 2",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "2top4xrernl6z5os",
+        "fastdate": 1760214900000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "scrimmage",
+            "description": "Scrimmage",
+            "statsCount": false
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Daytona State College",
+            "result": "",
+            "teamId": "ao6mzkmwcd6z85t3",
+            "winner": false,
+            "cleanName": "daytona st col"
+        },
+        "us": {
+            "name": "Richard Bland College",
+            "result": "",
+            "teamId": "wwjd9rxorfx5txz6",
+            "winner": false,
+            "cleanName": "richard bland col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "October 11 04:35 PM:"
+}

@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Jan 17",
+    "boxScoreLink": "20260117_ixdv.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Kansas City Kansas Community College",
+                "result": "",
+                "teamId": "miyy2uisubqx0h06",
+                "winner": false,
+                "cleanName": "kansas city kansas community col"
+            },
+            {
+                "name": "Johnson County Community College",
+                "result": "",
+                "teamId": "e4cr0jwhahc6zkyw",
+                "winner": false,
+                "cleanName": "johnson county community col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "@ Johnson County Community College - Overland Park, KS",
+        "date": 1768683600000,
+        "localTimeZone": "America/Chicago",
+        "tba": false,
+        "home": true,
+        "overall": true,
+        "conference": true,
+        "division": false,
+        "regional": false,
+        "national": true,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "ixdvrhm3a0h8fyzl",
+        "fastdate": 1768683600000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "Overland Park, KS",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Kansas City Kansas Community College",
+            "result": "",
+            "teamId": "miyy2uisubqx0h06",
+            "winner": false,
+            "cleanName": "kansas city kansas community col"
+        },
+        "us": {
+            "name": "Johnson County Community College",
+            "result": "",
+            "teamId": "e4cr0jwhahc6zkyw",
+            "winner": false,
+            "cleanName": "johnson county community col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "January 17 04:00 PM:"
+}

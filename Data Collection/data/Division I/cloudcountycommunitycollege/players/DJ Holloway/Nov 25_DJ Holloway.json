@@ -1,17 +1,17 @@
 {
     "Player Name": "DJ Holloway",
+    "MIN": "27",
     "FGM-A": "3-6",
     "3PM-A": "2-3",
     "FTM-A": "2-2",
     "OREB": "0",
     "DREB": "5",
     "REB": "5",
+    "AST": "0",
+    "STL": "2",
+    "BLK": "0",
+    "TO": "5",
     "PF": "4",
     "TP": "10",
-    "AST": "0",
-    "TO": "5",
-    "BLK": "0",
-    "STL": "2",
-    "MIN": "27",
     "eventDateFormatted": "Nov 25"
 }

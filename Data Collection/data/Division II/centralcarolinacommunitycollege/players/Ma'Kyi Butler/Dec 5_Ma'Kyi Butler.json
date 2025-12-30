@@ -1,17 +1,17 @@
 {
     "Player Name": "Ma'Kyi Butler",
+    "MIN": "1",
     "FGM-A": "4-9",
     "3PM-A": "2-2",
     "FTM-A": "8-8",
     "OREB": "1",
     "DREB": "6",
     "REB": "7",
+    "AST": "4",
+    "STL": "1",
+    "BLK": "0",
+    "TO": "3",
     "PF": "5",
     "TP": "18",
-    "AST": "4",
-    "TO": "3",
-    "BLK": "0",
-    "STL": "1",
-    "MIN": "1",
     "eventDateFormatted": "Dec 5"
 }

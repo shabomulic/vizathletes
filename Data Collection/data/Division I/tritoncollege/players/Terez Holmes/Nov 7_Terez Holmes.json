@@ -1,17 +1,17 @@
 {
     "Player Name": "Terez Holmes",
+    "MIN": "1",
     "FGM-A": "4-12",
     "3PM-A": "2-6",
     "FTM-A": "2-4",
     "OREB": "3",
     "DREB": "10",
     "REB": "13",
+    "AST": "3",
+    "STL": "2",
+    "BLK": "1",
+    "TO": "4",
     "PF": "2",
     "TP": "12",
-    "AST": "3",
-    "TO": "4",
-    "BLK": "1",
-    "STL": "2",
-    "MIN": "1",
     "eventDateFormatted": "Nov 7"
 }

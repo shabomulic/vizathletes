@@ -1,17 +1,17 @@
 {
     "Player Name": "Tyson Garner",
+    "MIN": "23",
     "FGM-A": "9-11",
     "3PM-A": "0-0",
     "FTM-A": "2-5",
     "OREB": "0",
     "DREB": "3",
     "REB": "3",
+    "AST": "3",
+    "STL": "1",
+    "BLK": "0",
+    "TO": "3",
     "PF": "1",
     "TP": "20",
-    "AST": "3",
-    "TO": "3",
-    "BLK": "0",
-    "STL": "1",
-    "MIN": "23",
     "eventDateFormatted": "Nov 15"
 }

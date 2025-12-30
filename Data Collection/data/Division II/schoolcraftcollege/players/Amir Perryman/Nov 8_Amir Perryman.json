@@ -1,17 +1,17 @@
 {
     "Player Name": "Amir Perryman",
+    "MIN": "27",
     "FGM-A": "4-11",
     "3PM-A": "0-4",
     "FTM-A": "4-5",
     "OREB": "0",
     "DREB": "0",
     "REB": "0",
+    "AST": "4",
+    "STL": "5",
+    "BLK": "0",
+    "TO": "4",
     "PF": "2",
     "TP": "12",
-    "AST": "4",
-    "TO": "4",
-    "BLK": "0",
-    "STL": "5",
-    "MIN": "27",
     "eventDateFormatted": "Nov 8"
 }

@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Oct 11",
+    "boxScoreLink": "20251011_1t8m.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Southwestern Michigan",
+                "result": "",
+                "teamId": "ncifb9cqkodtcalk",
+                "winner": false,
+                "cleanName": "southwestern michigan"
+            },
+            {
+                "name": "Oakton Community College",
+                "result": "",
+                "teamId": "n97aq1j5byhqkj4g",
+                "winner": false,
+                "cleanName": "oakton community col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "Rock Valley College Jamboree ",
+        "date": 1760184000000,
+        "localTimeZone": "America/Chicago",
+        "tba": false,
+        "home": true,
+        "overall": false,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": true,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "Rock Valley College",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "1t8mcu4cu1amr3yh",
+        "fastdate": 1760184000000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "Rockford",
+        "stateCountry": "IL",
+        "zipCode": "",
+        "venue": "Rock Valley College",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "scrimmage",
+            "description": "Scrimmage",
+            "statsCount": false
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Southwestern Michigan",
+            "result": "",
+            "teamId": "ncifb9cqkodtcalk",
+            "winner": false,
+            "cleanName": "southwestern michigan"
+        },
+        "us": {
+            "name": "Oakton Community College",
+            "result": "",
+            "teamId": "n97aq1j5byhqkj4g",
+            "winner": false,
+            "cleanName": "oakton community col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "October 11 08:00 AM:"
+}

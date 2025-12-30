@@ -1,17 +1,17 @@
 {
     "Player Name": "Amauri Moore",
+    "MIN": "30",
     "FGM-A": "12-18",
     "3PM-A": "0-0",
     "FTM-A": "1-6",
     "OREB": "5",
     "DREB": "3",
     "REB": "8",
+    "AST": "1",
+    "STL": "1",
+    "BLK": "0",
+    "TO": "2",
     "PF": "0",
     "TP": "25",
-    "AST": "1",
-    "TO": "2",
-    "BLK": "0",
-    "STL": "1",
-    "MIN": "30",
     "eventDateFormatted": "Dec 13"
 }

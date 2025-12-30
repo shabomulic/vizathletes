@@ -1,17 +1,17 @@
 {
     "Player Name": "Daylen Burks",
+    "MIN": "30",
     "FGM-A": "5-17",
     "3PM-A": "1-7",
     "FTM-A": "8-10",
     "OREB": "0",
     "DREB": "0",
     "REB": "0",
+    "AST": "3",
+    "STL": "1",
+    "BLK": "0",
+    "TO": "3",
     "PF": "3",
     "TP": "19",
-    "AST": "3",
-    "TO": "3",
-    "BLK": "0",
-    "STL": "1",
-    "MIN": "30",
     "eventDateFormatted": "Nov 10"
 }

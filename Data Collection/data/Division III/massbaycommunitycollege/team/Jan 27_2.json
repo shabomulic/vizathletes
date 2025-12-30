@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Jan 27",
+    "boxScoreLink": "20260127_qpz1.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "MassBay Community College",
+                "result": "",
+                "teamId": "8565se5wd1ujp12v",
+                "winner": false,
+                "cleanName": "massbay community col"
+            },
+            {
+                "name": "Quinsigamond Community College",
+                "result": "",
+                "teamId": "ju9bft1bl8qs0kh2",
+                "winner": false,
+                "cleanName": "quinsigamond community col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1769554800000,
+        "localTimeZone": "America/New_York",
+        "tba": false,
+        "home": false,
+        "overall": true,
+        "conference": true,
+        "division": true,
+        "regional": true,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "qpz1ztye34gqwr7g",
+        "fastdate": 1769554800000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Quinsigamond Community College",
+            "result": "",
+            "teamId": "ju9bft1bl8qs0kh2",
+            "winner": false,
+            "cleanName": "quinsigamond community col"
+        },
+        "us": {
+            "name": "MassBay Community College",
+            "result": "",
+            "teamId": "8565se5wd1ujp12v",
+            "winner": false,
+            "cleanName": "massbay community col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "January 27 06:00 PM:"
+}

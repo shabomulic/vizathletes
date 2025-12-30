@@ -1,17 +1,17 @@
 {
     "Player Name": "Jayde Braswell",
+    "MIN": "1",
     "FGM-A": "6-11",
     "3PM-A": "3-3",
     "FTM-A": "5-6",
     "OREB": "0",
     "DREB": "0",
     "REB": "0",
+    "AST": "3",
+    "STL": "0",
+    "BLK": "1",
+    "TO": "4",
     "PF": "0",
     "TP": "20",
-    "AST": "3",
-    "TO": "4",
-    "BLK": "1",
-    "STL": "0",
-    "MIN": "1",
     "eventDateFormatted": "Nov 11"
 }

@@ -1,17 +1,17 @@
 {
     "Player Name": "Sir Cox",
+    "MIN": "10",
     "FGM-A": "0-2",
     "3PM-A": "0-1",
     "FTM-A": "0-0",
     "OREB": "0",
     "DREB": "1",
     "REB": "1",
+    "AST": "1",
+    "STL": "0",
+    "BLK": "0",
+    "TO": "2",
     "PF": "1",
     "TP": "0",
-    "AST": "1",
-    "TO": "2",
-    "BLK": "0",
-    "STL": "0",
-    "MIN": "10",
     "eventDateFormatted": "Nov 19"
 }

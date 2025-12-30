@@ -1,17 +1,17 @@
 {
     "Player Name": "Wylee Dauenbaugh",
+    "MIN": "27",
     "FGM-A": "2-6",
     "3PM-A": "0-3",
     "FTM-A": "2-2",
     "OREB": "1",
     "DREB": "3",
     "REB": "4",
+    "AST": "4",
+    "STL": "2",
+    "BLK": "0",
+    "TO": "2",
     "PF": "3",
     "TP": "6",
-    "AST": "4",
-    "TO": "2",
-    "BLK": "0",
-    "STL": "2",
-    "MIN": "27",
     "eventDateFormatted": "Dec 12"
 }

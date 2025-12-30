@@ -1,17 +1,17 @@
 {
     "Player Name": "Caleb Chavers",
+    "MIN": "9",
     "FGM-A": "0-1",
     "3PM-A": "0-0",
     "FTM-A": "0-0",
     "OREB": "0",
     "DREB": "1",
     "REB": "1",
+    "AST": "5",
+    "STL": "2",
+    "BLK": "0",
+    "TO": "1",
     "PF": "0",
     "TP": "0",
-    "AST": "5",
-    "TO": "1",
-    "BLK": "0",
-    "STL": "2",
-    "MIN": "9",
     "eventDateFormatted": "Nov 5"
 }

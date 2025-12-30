@@ -1,17 +1,17 @@
 {
     "Player Name": "Xavier Sulaiman",
+    "MIN": "33",
     "FGM-A": "7-16",
     "3PM-A": "2-5",
     "FTM-A": "2-2",
     "OREB": "1",
     "DREB": "11",
     "REB": "12",
+    "AST": "2",
+    "STL": "1",
+    "BLK": "1",
+    "TO": "1",
     "PF": "1",
     "TP": "18",
-    "AST": "2",
-    "TO": "1",
-    "BLK": "1",
-    "STL": "1",
-    "MIN": "33",
     "eventDateFormatted": "Nov 8"
 }

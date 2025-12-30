@@ -1,17 +1,17 @@
 {
     "Player Name": "Jaylan Jackson",
+    "MIN": "30",
     "FGM-A": "3-6",
     "3PM-A": "0-0",
     "FTM-A": "0-1",
     "OREB": "2",
     "DREB": "4",
     "REB": "6",
+    "AST": "4",
+    "STL": "1",
+    "BLK": "0",
+    "TO": "2",
     "PF": "2",
     "TP": "6",
-    "AST": "4",
-    "TO": "2",
-    "BLK": "0",
-    "STL": "1",
-    "MIN": "30",
     "eventDateFormatted": "Nov 25"
 }

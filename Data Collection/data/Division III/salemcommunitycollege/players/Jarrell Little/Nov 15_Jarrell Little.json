@@ -1,17 +1,17 @@
 {
     "Player Name": "Jarrell Little",
+    "MIN": "25",
     "FGM-A": "7-15",
     "3PM-A": "5-11",
     "FTM-A": "0-0",
     "OREB": "0",
     "DREB": "6",
     "REB": "6",
+    "AST": "4",
+    "STL": "4",
+    "BLK": "0",
+    "TO": "2",
     "PF": "3",
     "TP": "19",
-    "AST": "4",
-    "TO": "2",
-    "BLK": "0",
-    "STL": "4",
-    "MIN": "25",
     "eventDateFormatted": "Nov 15"
 }

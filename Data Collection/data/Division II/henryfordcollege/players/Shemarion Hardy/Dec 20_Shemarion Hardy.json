@@ -1,17 +1,17 @@
 {
     "Player Name": "Shemarion Hardy",
+    "MIN": "21",
     "FGM-A": "4-10",
     "3PM-A": "0-3",
     "FTM-A": "0-0",
     "OREB": "0",
     "DREB": "4",
     "REB": "4",
+    "AST": "9",
+    "STL": "3",
+    "BLK": "0",
+    "TO": "0",
     "PF": "0",
     "TP": "8",
-    "AST": "9",
-    "TO": "0",
-    "BLK": "0",
-    "STL": "3",
-    "MIN": "21",
     "eventDateFormatted": "Dec 20"
 }

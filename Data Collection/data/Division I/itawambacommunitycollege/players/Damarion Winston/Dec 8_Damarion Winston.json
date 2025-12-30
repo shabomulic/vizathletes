@@ -1,17 +1,17 @@
 {
     "Player Name": "Damarion Winston",
+    "MIN": "27",
     "FGM-A": "6-12",
     "3PM-A": "3-4",
     "FTM-A": "7-11",
     "OREB": "2",
     "DREB": "6",
     "REB": "8",
+    "AST": "4",
+    "STL": "1",
+    "BLK": "1",
+    "TO": "2",
     "PF": "4",
     "TP": "22",
-    "AST": "4",
-    "TO": "2",
-    "BLK": "1",
-    "STL": "1",
-    "MIN": "27",
     "eventDateFormatted": "Dec 8"
 }

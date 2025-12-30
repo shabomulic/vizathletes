@@ -1,17 +1,17 @@
 {
     "Player Name": "Hugh McFarland",
+    "MIN": "31",
     "FGM-A": "5-13",
     "3PM-A": "0-1",
     "FTM-A": "1-2",
     "OREB": "4",
     "DREB": "2",
     "REB": "6",
+    "AST": "10",
+    "STL": "0",
+    "BLK": "0",
+    "TO": "3",
     "PF": "3",
     "TP": "11",
-    "AST": "10",
-    "TO": "3",
-    "BLK": "0",
-    "STL": "0",
-    "MIN": "31",
     "eventDateFormatted": "Dec 13"
 }

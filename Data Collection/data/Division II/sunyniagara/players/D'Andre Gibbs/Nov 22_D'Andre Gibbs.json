@@ -1,17 +1,17 @@
 {
     "Player Name": "D'Andre Gibbs",
+    "MIN": "23",
     "FGM-A": "5-11",
     "3PM-A": "5-7",
     "FTM-A": "6-6",
     "OREB": "2",
     "DREB": "2",
     "REB": "4",
+    "AST": "2",
+    "STL": "1",
+    "BLK": "0",
+    "TO": "1",
     "PF": "0",
     "TP": "21",
-    "AST": "2",
-    "TO": "1",
-    "BLK": "0",
-    "STL": "1",
-    "MIN": "23",
     "eventDateFormatted": "Nov 22"
 }

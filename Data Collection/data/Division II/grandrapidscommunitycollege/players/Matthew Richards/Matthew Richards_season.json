@@ -175,10 +175,10 @@
     "uniform": "33",
     "year": "So",
     "playerStatus": {
-        "enumCode": 0,
-        "abbr": "I",
-        "statusName": "Inactive",
-        "active": false,
+        "enumCode": 1,
+        "abbr": "A",
+        "statusName": "Active",
+        "active": true,
         "interceptFieldCallback": null,
         "nullableType": {
             "comparator": {},
@@ -196,7 +196,7 @@
         },
         "mutable": false
     },
-    "active": false,
+    "active": true,
     "fullName": "Matthew Richards",
     "minCalcStats": {
         "fgppm": true,

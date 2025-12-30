@@ -1,17 +1,17 @@
 {
     "Player Name": "Ryan Neal",
+    "MIN": "11",
     "FGM-A": "1-3",
     "3PM-A": "1-3",
     "FTM-A": "0-0",
     "OREB": "0",
     "DREB": "0",
     "REB": "0",
+    "AST": "1",
+    "STL": "1",
+    "BLK": "1",
+    "TO": "1",
     "PF": "1",
     "TP": "3",
-    "AST": "1",
-    "TO": "1",
-    "BLK": "1",
-    "STL": "1",
-    "MIN": "11",
     "eventDateFormatted": "Nov 22"
 }

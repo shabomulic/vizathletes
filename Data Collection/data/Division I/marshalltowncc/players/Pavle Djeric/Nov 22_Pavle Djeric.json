@@ -1,17 +1,17 @@
 {
     "Player Name": "Pavle Djeric",
+    "MIN": "1",
     "FGM-A": "0-5",
     "3PM-A": "0-4",
     "FTM-A": "1-2",
     "OREB": "1",
     "DREB": "4",
     "REB": "5",
+    "AST": "2",
+    "STL": "1",
+    "BLK": "0",
+    "TO": "1",
     "PF": "1",
     "TP": "1",
-    "AST": "2",
-    "TO": "1",
-    "BLK": "0",
-    "STL": "1",
-    "MIN": "1",
     "eventDateFormatted": "Nov 22"
 }

@@ -1,17 +1,17 @@
 {
     "Player Name": "Dejavius Johnson",
+    "MIN": "32",
     "FGM-A": "5-10",
     "3PM-A": "2-4",
     "FTM-A": "0-0",
     "OREB": "3",
     "DREB": "7",
     "REB": "10",
+    "AST": "0",
+    "STL": "1",
+    "BLK": "1",
+    "TO": "1",
     "PF": "2",
     "TP": "12",
-    "AST": "0",
-    "TO": "1",
-    "BLK": "1",
-    "STL": "1",
-    "MIN": "32",
     "eventDateFormatted": "Nov 18"
 }

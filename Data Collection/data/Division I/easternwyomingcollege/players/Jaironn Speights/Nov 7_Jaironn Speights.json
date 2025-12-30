@@ -1,17 +1,17 @@
 {
     "Player Name": "Jaironn Speights",
+    "MIN": "28",
     "FGM-A": "3-6",
     "3PM-A": "1-1",
     "FTM-A": "1-2",
     "OREB": "1",
     "DREB": "2",
     "REB": "3",
+    "AST": "4",
+    "STL": "1",
+    "BLK": "0",
+    "TO": "2",
     "PF": "3",
     "TP": "8",
-    "AST": "4",
-    "TO": "2",
-    "BLK": "0",
-    "STL": "1",
-    "MIN": "28",
     "eventDateFormatted": "Nov 7"
 }

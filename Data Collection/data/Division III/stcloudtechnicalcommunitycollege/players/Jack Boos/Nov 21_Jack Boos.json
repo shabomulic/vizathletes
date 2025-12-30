@@ -1,17 +1,17 @@
 {
     "Player Name": "Jack Boos",
+    "MIN": "31",
     "FGM-A": "9-21",
     "3PM-A": "2-10",
     "FTM-A": "7-7",
     "OREB": "0",
     "DREB": "5",
     "REB": "5",
+    "AST": "0",
+    "STL": "3",
+    "BLK": "0",
+    "TO": "7",
     "PF": "2",
     "TP": "27",
-    "AST": "0",
-    "TO": "7",
-    "BLK": "0",
-    "STL": "3",
-    "MIN": "31",
     "eventDateFormatted": "Nov 21"
 }

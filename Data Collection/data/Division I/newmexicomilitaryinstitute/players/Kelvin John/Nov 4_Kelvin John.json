@@ -1,17 +1,17 @@
 {
     "Player Name": "Kelvin John",
+    "MIN": "23",
     "FGM-A": "3-5",
     "3PM-A": "0-0",
     "FTM-A": "3-3",
     "OREB": "3",
     "DREB": "4",
     "REB": "7",
+    "AST": "0",
+    "STL": "0",
+    "BLK": "1",
+    "TO": "0",
     "PF": "2",
     "TP": "9",
-    "AST": "0",
-    "TO": "0",
-    "BLK": "1",
-    "STL": "0",
-    "MIN": "23",
     "eventDateFormatted": "Nov 4"
 }

@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Oct 4",
+    "boxScoreLink": "20251004_aub4.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Intersqaud",
+                "result": "",
+                "teamId": "bftynge4pm1h3wmu",
+                "winner": false,
+                "cleanName": "intersqaud"
+            },
+            {
+                "name": "Central Wyoming College",
+                "result": "",
+                "teamId": "989l91xmxr6nzcb9",
+                "winner": false,
+                "cleanName": "central wyoming col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "Scrimmage",
+        "date": 1759611600000,
+        "localTimeZone": "America/Denver",
+        "tba": false,
+        "home": true,
+        "overall": true,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "aub4e2a1lzvc14gw",
+        "fastdate": 1759611600000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Intersqaud",
+            "result": "",
+            "teamId": "bftynge4pm1h3wmu",
+            "winner": false,
+            "cleanName": "intersqaud"
+        },
+        "us": {
+            "name": "Central Wyoming College",
+            "result": "",
+            "teamId": "989l91xmxr6nzcb9",
+            "winner": false,
+            "cleanName": "central wyoming col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "October 4 05:00 PM:"
+}

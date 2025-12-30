@@ -1,17 +1,17 @@
 {
     "Player Name": "Cardez Norman",
+    "MIN": "22",
     "FGM-A": "5-8",
     "3PM-A": "1-2",
     "FTM-A": "2-6",
     "OREB": "3",
     "DREB": "2",
     "REB": "5",
+    "AST": "0",
+    "STL": "0",
+    "BLK": "0",
+    "TO": "2",
     "PF": "1",
     "TP": "13",
-    "AST": "0",
-    "TO": "2",
-    "BLK": "0",
-    "STL": "0",
-    "MIN": "22",
     "eventDateFormatted": "Nov 24"
 }

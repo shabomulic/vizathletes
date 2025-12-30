@@ -1,17 +1,17 @@
 {
     "Player Name": "Ngundeng Ruey",
+    "MIN": "1",
     "FGM-A": "6-8",
     "3PM-A": "0-1",
     "FTM-A": "5-6",
     "OREB": "5",
     "DREB": "1",
     "REB": "6",
+    "AST": "1",
+    "STL": "1",
+    "BLK": "1",
+    "TO": "2",
     "PF": "0",
     "TP": "17",
-    "AST": "1",
-    "TO": "2",
-    "BLK": "1",
-    "STL": "1",
-    "MIN": "1",
     "eventDateFormatted": "Dec 13"
 }

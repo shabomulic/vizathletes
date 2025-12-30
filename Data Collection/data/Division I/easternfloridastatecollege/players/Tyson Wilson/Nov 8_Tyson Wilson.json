@@ -1,17 +1,17 @@
 {
     "Player Name": "Tyson Wilson",
+    "MIN": "33",
     "FGM-A": "7-13",
     "3PM-A": "0-3",
     "FTM-A": "2-2",
     "OREB": "1",
     "DREB": "4",
     "REB": "5",
+    "AST": "5",
+    "STL": "3",
+    "BLK": "0",
+    "TO": "8",
     "PF": "3",
     "TP": "16",
-    "AST": "5",
-    "TO": "8",
-    "BLK": "0",
-    "STL": "3",
-    "MIN": "33",
     "eventDateFormatted": "Nov 8"
 }

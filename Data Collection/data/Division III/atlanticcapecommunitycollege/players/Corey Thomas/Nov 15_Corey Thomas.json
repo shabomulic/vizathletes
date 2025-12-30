@@ -1,17 +1,17 @@
 {
     "Player Name": "Corey Thomas",
+    "MIN": "28",
     "FGM-A": "5-10",
     "3PM-A": "1-1",
     "FTM-A": "2-2",
     "OREB": "1",
     "DREB": "3",
     "REB": "4",
+    "AST": "1",
+    "STL": "3",
+    "BLK": "0",
+    "TO": "5",
     "PF": "4",
     "TP": "13",
-    "AST": "1",
-    "TO": "5",
-    "BLK": "0",
-    "STL": "3",
-    "MIN": "28",
     "eventDateFormatted": "Nov 15"
 }

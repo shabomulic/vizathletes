@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Sep 28",
+    "boxScoreLink": "20250928_irrb.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Angelina College",
+                "result": "",
+                "teamId": "l188ndcldc2ykw8u",
+                "winner": false,
+                "cleanName": "angelina col"
+            },
+            {
+                "name": "Angelina College",
+                "result": "",
+                "teamId": "l188ndcldc2ykw8u",
+                "winner": false,
+                "cleanName": "angelina col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "Region XIV Practice Showcase",
+        "date": 1759032000000,
+        "localTimeZone": "America/Chicago",
+        "tba": true,
+        "home": true,
+        "overall": false,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "1400 E. 5th Street, Tyler, TX",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "irrbzelgh2dx1phm",
+        "fastdate": 1759032000000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "1400 E. 5th Street",
+        "city": "Tyler",
+        "stateCountry": "TX",
+        "zipCode": "",
+        "venue": "Tyler Junior College/Wagstaff Gymnasium",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "exhibition",
+            "description": "Exhibition",
+            "statsCount": false
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Angelina College",
+            "result": "",
+            "teamId": "l188ndcldc2ykw8u",
+            "winner": false,
+            "cleanName": "angelina col"
+        },
+        "us": {
+            "name": "Angelina College",
+            "result": "",
+            "teamId": "l188ndcldc2ykw8u",
+            "winner": false,
+            "cleanName": "angelina col"
+        },
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "September 28 12:00 AM:"
+}

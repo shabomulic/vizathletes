@@ -1,17 +1,17 @@
 {
     "Player Name": "Jamison Turner",
+    "MIN": "36",
     "FGM-A": "4-13",
     "3PM-A": "3-12",
     "FTM-A": "0-1",
     "OREB": "2",
     "DREB": "3",
     "REB": "5",
+    "AST": "0",
+    "STL": "0",
+    "BLK": "0",
+    "TO": "1",
     "PF": "4",
     "TP": "11",
-    "AST": "0",
-    "TO": "1",
-    "BLK": "0",
-    "STL": "0",
-    "MIN": "36",
     "eventDateFormatted": "Dec 6"
 }

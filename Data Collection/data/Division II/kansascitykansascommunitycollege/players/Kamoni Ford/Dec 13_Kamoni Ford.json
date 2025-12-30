@@ -1,17 +1,17 @@
 {
     "Player Name": "Kamoni Ford",
+    "MIN": "35",
     "FGM-A": "7-11",
     "3PM-A": "5-9",
     "FTM-A": "1-2",
     "OREB": "0",
     "DREB": "3",
     "REB": "3",
+    "AST": "0",
+    "STL": "3",
+    "BLK": "1",
+    "TO": "0",
     "PF": "2",
     "TP": "20",
-    "AST": "0",
-    "TO": "0",
-    "BLK": "1",
-    "STL": "3",
-    "MIN": "35",
     "eventDateFormatted": "Dec 13"
 }

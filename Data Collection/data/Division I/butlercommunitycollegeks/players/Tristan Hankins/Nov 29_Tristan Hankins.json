@@ -1,17 +1,17 @@
 {
     "Player Name": "Tristan Hankins",
+    "MIN": "20",
     "FGM-A": "6-10",
     "3PM-A": "2-4",
     "FTM-A": "2-2",
     "OREB": "3",
     "DREB": "5",
     "REB": "8",
+    "AST": "7",
+    "STL": "1",
+    "BLK": "3",
+    "TO": "1",
     "PF": "4",
     "TP": "16",
-    "AST": "7",
-    "TO": "1",
-    "BLK": "3",
-    "STL": "1",
-    "MIN": "20",
     "eventDateFormatted": "Nov 29"
 }

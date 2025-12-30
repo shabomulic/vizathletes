@@ -1,17 +1,17 @@
 {
     "Player Name": "Nick Williams",
+    "MIN": "35",
     "FGM-A": "5-16",
     "3PM-A": "0-4",
     "FTM-A": "1-3",
     "OREB": "3",
     "DREB": "6",
     "REB": "9",
+    "AST": "3",
+    "STL": "2",
+    "BLK": "1",
+    "TO": "2",
     "PF": "2",
     "TP": "11",
-    "AST": "3",
-    "TO": "2",
-    "BLK": "1",
-    "STL": "2",
-    "MIN": "35",
     "eventDateFormatted": "Dec 12"
 }

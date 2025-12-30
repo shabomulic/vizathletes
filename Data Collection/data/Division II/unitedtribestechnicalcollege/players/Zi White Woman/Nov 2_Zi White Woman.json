@@ -1,17 +1,17 @@
 {
     "Player Name": "Zi White Woman",
+    "MIN": "30",
     "FGM-A": "10-15",
     "3PM-A": "1-1",
     "FTM-A": "5-7",
     "OREB": "4",
     "DREB": "4",
     "REB": "8",
+    "AST": "0",
+    "STL": "1",
+    "BLK": "0",
+    "TO": "2",
     "PF": "3",
     "TP": "26",
-    "AST": "0",
-    "TO": "2",
-    "BLK": "0",
-    "STL": "1",
-    "MIN": "30",
     "eventDateFormatted": "Nov 2"
 }

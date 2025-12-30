@@ -1,17 +1,17 @@
 {
     "Player Name": "Myron Hubbard",
+    "MIN": "27",
     "FGM-A": "3-7",
     "3PM-A": "2-4",
     "FTM-A": "2-2",
     "OREB": "1",
     "DREB": "6",
     "REB": "7",
+    "AST": "3",
+    "STL": "1",
+    "BLK": "0",
+    "TO": "1",
     "PF": "3",
     "TP": "10",
-    "AST": "3",
-    "TO": "1",
-    "BLK": "0",
-    "STL": "1",
-    "MIN": "27",
     "eventDateFormatted": "Nov 22"
 }

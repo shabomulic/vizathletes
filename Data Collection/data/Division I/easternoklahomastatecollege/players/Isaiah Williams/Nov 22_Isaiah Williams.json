@@ -1,17 +1,17 @@
 {
     "Player Name": "Isaiah Williams",
+    "MIN": "1",
     "FGM-A": "0-3",
     "3PM-A": "0-1",
     "FTM-A": "2-2",
     "OREB": "5",
     "DREB": "4",
     "REB": "9",
+    "AST": "4",
+    "STL": "1",
+    "BLK": "1",
+    "TO": "2",
     "PF": "2",
     "TP": "2",
-    "AST": "4",
-    "TO": "2",
-    "BLK": "1",
-    "STL": "1",
-    "MIN": "1",
     "eventDateFormatted": "Nov 22"
 }

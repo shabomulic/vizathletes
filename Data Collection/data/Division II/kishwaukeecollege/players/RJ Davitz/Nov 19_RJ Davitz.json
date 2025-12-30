@@ -1,17 +1,17 @@
 {
     "Player Name": "RJ Davitz",
+    "MIN": "29",
     "FGM-A": "4-8",
     "3PM-A": "0-1",
     "FTM-A": "2-2",
     "OREB": "2",
     "DREB": "7",
     "REB": "9",
+    "AST": "2",
+    "STL": "1",
+    "BLK": "7",
+    "TO": "1",
     "PF": "1",
     "TP": "10",
-    "AST": "2",
-    "TO": "1",
-    "BLK": "7",
-    "STL": "1",
-    "MIN": "29",
     "eventDateFormatted": "Nov 19"
 }

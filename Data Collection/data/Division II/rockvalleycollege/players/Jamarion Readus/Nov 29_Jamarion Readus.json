@@ -1,17 +1,17 @@
 {
     "Player Name": "Jamarion Readus",
+    "MIN": "36",
     "FGM-A": "8-17",
     "3PM-A": "5-10",
     "FTM-A": "6-7",
     "OREB": "0",
     "DREB": "5",
     "REB": "5",
+    "AST": "3",
+    "STL": "2",
+    "BLK": "0",
+    "TO": "2",
     "PF": "4",
     "TP": "27",
-    "AST": "3",
-    "TO": "2",
-    "BLK": "0",
-    "STL": "2",
-    "MIN": "36",
     "eventDateFormatted": "Nov 29"
 }

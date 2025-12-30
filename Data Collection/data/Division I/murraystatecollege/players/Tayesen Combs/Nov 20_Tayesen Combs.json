@@ -1,17 +1,17 @@
 {
     "Player Name": "Tayesen Combs",
+    "MIN": "25",
     "FGM-A": "3-9",
     "3PM-A": "2-7",
     "FTM-A": "2-2",
     "OREB": "1",
     "DREB": "2",
     "REB": "3",
+    "AST": "5",
+    "STL": "1",
+    "BLK": "1",
+    "TO": "2",
     "PF": "3",
     "TP": "10",
-    "AST": "5",
-    "TO": "2",
-    "BLK": "1",
-    "STL": "1",
-    "MIN": "25",
     "eventDateFormatted": "Nov 20"
 }

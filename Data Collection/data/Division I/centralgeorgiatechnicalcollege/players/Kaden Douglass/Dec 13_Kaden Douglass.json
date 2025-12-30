@@ -1,17 +1,17 @@
 {
     "Player Name": "Kaden Douglass",
+    "MIN": "34",
     "FGM-A": "5-13",
     "3PM-A": "3-9",
     "FTM-A": "0-0",
     "OREB": "1",
     "DREB": "4",
     "REB": "5",
+    "AST": "3",
+    "STL": "4",
+    "BLK": "0",
+    "TO": "4",
     "PF": "0",
     "TP": "13",
-    "AST": "3",
-    "TO": "4",
-    "BLK": "0",
-    "STL": "4",
-    "MIN": "34",
     "eventDateFormatted": "Dec 13"
 }

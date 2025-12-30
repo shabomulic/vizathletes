@@ -1,17 +1,17 @@
 {
     "Player Name": "David Maker",
+    "MIN": "21",
     "FGM-A": "1-4",
     "3PM-A": "0-1",
     "FTM-A": "2-2",
     "OREB": "1",
     "DREB": "5",
     "REB": "6",
+    "AST": "4",
+    "STL": "1",
+    "BLK": "1",
+    "TO": "3",
     "PF": "2",
     "TP": "4",
-    "AST": "4",
-    "TO": "3",
-    "BLK": "1",
-    "STL": "1",
-    "MIN": "21",
     "eventDateFormatted": "Dec 20"
 }

@@ -1,17 +1,17 @@
 {
     "Player Name": "Alan Griffin",
+    "MIN": "1",
     "FGM-A": "2-7",
     "3PM-A": "0-0",
     "FTM-A": "5-8",
     "OREB": "5",
     "DREB": "5",
     "REB": "10",
+    "AST": "1",
+    "STL": "4",
+    "BLK": "1",
+    "TO": "4",
     "PF": "3",
     "TP": "9",
-    "AST": "1",
-    "TO": "4",
-    "BLK": "1",
-    "STL": "4",
-    "MIN": "1",
     "eventDateFormatted": "Nov 1"
 }

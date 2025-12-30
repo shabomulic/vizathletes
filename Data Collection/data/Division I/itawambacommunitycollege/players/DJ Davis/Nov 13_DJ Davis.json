@@ -1,17 +1,17 @@
 {
     "Player Name": "DJ Davis",
+    "MIN": "34",
     "FGM-A": "5-14",
     "3PM-A": "3-5",
     "FTM-A": "4-4",
     "OREB": "1",
     "DREB": "6",
     "REB": "7",
+    "AST": "5",
+    "STL": "3",
+    "BLK": "1",
+    "TO": "1",
     "PF": "0",
     "TP": "17",
-    "AST": "5",
-    "TO": "1",
-    "BLK": "1",
-    "STL": "3",
-    "MIN": "34",
     "eventDateFormatted": "Nov 13"
 }

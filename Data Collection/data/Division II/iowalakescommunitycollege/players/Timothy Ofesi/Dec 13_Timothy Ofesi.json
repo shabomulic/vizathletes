@@ -1,17 +1,17 @@
 {
     "Player Name": "Timothy Ofesi",
+    "MIN": "1",
     "FGM-A": "3-6",
     "3PM-A": "0-0",
     "FTM-A": "3-4",
     "OREB": "1",
     "DREB": "1",
     "REB": "2",
+    "AST": "0",
+    "STL": "0",
+    "BLK": "1",
+    "TO": "4",
     "PF": "3",
     "TP": "9",
-    "AST": "0",
-    "TO": "4",
-    "BLK": "1",
-    "STL": "0",
-    "MIN": "1",
     "eventDateFormatted": "Dec 13"
 }

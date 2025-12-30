@@ -1,17 +1,17 @@
 {
     "Player Name": "Zion Mitchell",
+    "MIN": "22",
     "FGM-A": "5-7",
     "3PM-A": "3-4",
     "FTM-A": "0-1",
     "OREB": "0",
     "DREB": "2",
     "REB": "2",
+    "AST": "3",
+    "STL": "0",
+    "BLK": "0",
+    "TO": "1",
     "PF": "0",
     "TP": "13",
-    "AST": "3",
-    "TO": "1",
-    "BLK": "0",
-    "STL": "0",
-    "MIN": "22",
     "eventDateFormatted": "Nov 9"
 }

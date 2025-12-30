@@ -1,17 +1,17 @@
 {
     "Player Name": "Elijah Edosa",
+    "MIN": "13",
     "FGM-A": "3-4",
     "3PM-A": "0-0",
     "FTM-A": "3-7",
     "OREB": "2",
     "DREB": "6",
     "REB": "8",
+    "AST": "0",
+    "STL": "0",
+    "BLK": "0",
+    "TO": "2",
     "PF": "0",
     "TP": "9",
-    "AST": "0",
-    "TO": "2",
-    "BLK": "0",
-    "STL": "0",
-    "MIN": "13",
     "eventDateFormatted": "Nov 14"
 }

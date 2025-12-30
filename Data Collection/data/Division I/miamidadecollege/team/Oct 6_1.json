@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Oct 6",
+    "boxScoreLink": "20251006_45s2.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "St. Thomas University",
+                "result": "",
+                "teamId": "25hzhwv5m186r6bd",
+                "winner": false,
+                "cleanName": "st thomas univ"
+            },
+            {
+                "name": "Miami Dade College",
+                "result": "",
+                "teamId": "tfp49e494ycex2gz",
+                "winner": false,
+                "cleanName": "miami dade col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1759788000000,
+        "localTimeZone": "America/New_York",
+        "tba": false,
+        "home": true,
+        "overall": true,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "45s21soxbzu4szdi",
+        "fastdate": 1759788000000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": "prestosports"
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": true,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "scrimmage",
+            "description": "Scrimmage",
+            "statsCount": false
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "St. Thomas University",
+            "result": "",
+            "teamId": "25hzhwv5m186r6bd",
+            "winner": false,
+            "cleanName": "st thomas univ"
+        },
+        "us": {
+            "name": "Miami Dade College",
+            "result": "",
+            "teamId": "tfp49e494ycex2gz",
+            "winner": false,
+            "cleanName": "miami dade col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "October 6 06:00 PM:"
+}

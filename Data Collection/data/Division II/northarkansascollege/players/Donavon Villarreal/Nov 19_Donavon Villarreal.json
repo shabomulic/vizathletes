@@ -1,17 +1,17 @@
 {
     "Player Name": "Donavon Villarreal",
+    "MIN": "26",
     "FGM-A": "4-6",
     "3PM-A": "1-3",
     "FTM-A": "4-4",
     "OREB": "2",
     "DREB": "4",
     "REB": "6",
+    "AST": "9",
+    "STL": "2",
+    "BLK": "1",
+    "TO": "2",
     "PF": "1",
     "TP": "13",
-    "AST": "9",
-    "TO": "2",
-    "BLK": "1",
-    "STL": "2",
-    "MIN": "26",
     "eventDateFormatted": "Nov 19"
 }

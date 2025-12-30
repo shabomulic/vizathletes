@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Jan 22",
+    "boxScoreLink": "20260122_mwyz.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "UCNJ",
+                "result": "",
+                "teamId": "ws7omr5o5bjxw34d",
+                "winner": false,
+                "cleanName": "ucnj"
+            },
+            {
+                "name": "Rockland Community College",
+                "result": "",
+                "teamId": "8hcu1xt5mthxil00",
+                "winner": false,
+                "cleanName": "rockland community col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1769122800000,
+        "localTimeZone": "America/New_York",
+        "tba": false,
+        "home": false,
+        "overall": true,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": true,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "mwyzt7227p6rlxd3",
+        "fastdate": 1769122800000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Rockland Community College",
+            "result": "",
+            "teamId": "8hcu1xt5mthxil00",
+            "winner": false,
+            "cleanName": "rockland community col"
+        },
+        "us": {
+            "name": "UCNJ",
+            "result": "",
+            "teamId": "ws7omr5o5bjxw34d",
+            "winner": false,
+            "cleanName": "ucnj"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "January 22 06:00 PM:"
+}

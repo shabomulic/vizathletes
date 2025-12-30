@@ -1,17 +1,17 @@
 {
     "Player Name": "Joshua Bryant",
+    "MIN": "28",
     "FGM-A": "4-10",
     "3PM-A": "0-3",
     "FTM-A": "3-7",
     "OREB": "3",
     "DREB": "5",
     "REB": "8",
+    "AST": "0",
+    "STL": "0",
+    "BLK": "0",
+    "TO": "6",
     "PF": "2",
     "TP": "11",
-    "AST": "0",
-    "TO": "6",
-    "BLK": "0",
-    "STL": "0",
-    "MIN": "28",
     "eventDateFormatted": "Nov 5"
 }

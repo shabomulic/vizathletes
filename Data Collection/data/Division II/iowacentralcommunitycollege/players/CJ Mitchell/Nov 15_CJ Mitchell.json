@@ -1,17 +1,17 @@
 {
     "Player Name": "CJ Mitchell",
+    "MIN": "18",
     "FGM-A": "5-8",
     "3PM-A": "1-4",
     "FTM-A": "0-0",
     "OREB": "0",
     "DREB": "6",
     "REB": "6",
+    "AST": "6",
+    "STL": "2",
+    "BLK": "0",
+    "TO": "3",
     "PF": "3",
     "TP": "11",
-    "AST": "6",
-    "TO": "3",
-    "BLK": "0",
-    "STL": "2",
-    "MIN": "18",
     "eventDateFormatted": "Nov 15"
 }

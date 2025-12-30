@@ -1,17 +1,17 @@
 {
     "Player Name": "Nas'Zaire Simmons",
+    "MIN": "22",
     "FGM-A": "5-7",
     "3PM-A": "2-3",
     "FTM-A": "0-0",
     "OREB": "2",
     "DREB": "4",
     "REB": "6",
+    "AST": "7",
+    "STL": "1",
+    "BLK": "0",
+    "TO": "3",
     "PF": "0",
     "TP": "12",
-    "AST": "7",
-    "TO": "3",
-    "BLK": "0",
-    "STL": "1",
-    "MIN": "22",
     "eventDateFormatted": "Nov 19"
 }

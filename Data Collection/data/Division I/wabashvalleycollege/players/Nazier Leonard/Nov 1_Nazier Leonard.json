@@ -1,17 +1,17 @@
 {
     "Player Name": "Nazier Leonard",
+    "MIN": "1",
     "FGM-A": "6-9",
     "3PM-A": "0-0",
     "FTM-A": "2-2",
     "OREB": "0",
     "DREB": "4",
     "REB": "4",
+    "AST": "1",
+    "STL": "1",
+    "BLK": "1",
+    "TO": "2",
     "PF": "0",
     "TP": "14",
-    "AST": "1",
-    "TO": "2",
-    "BLK": "1",
-    "STL": "1",
-    "MIN": "1",
     "eventDateFormatted": "Nov 1"
 }

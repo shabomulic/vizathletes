@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Oct 18",
+    "boxScoreLink": "20251018_0grp.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Paris Junior College",
+                "result": "",
+                "teamId": "jezuy39uhqi3jtgi",
+                "winner": false,
+                "cleanName": "paris junior col"
+            },
+            {
+                "name": "Southern Arkansas University Tech",
+                "result": "",
+                "teamId": "k0vnm3334bk18nby",
+                "winner": false,
+                "cleanName": "s arkansas univ tech"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "GASO Jamboree ",
+        "date": 1760800500000,
+        "localTimeZone": "America/Chicago",
+        "tba": false,
+        "home": true,
+        "overall": false,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": true,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "0grpoemfrropim8l",
+        "fastdate": 1760800500000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "1700 S Main St",
+        "city": "Duncanville",
+        "stateCountry": "TX",
+        "zipCode": "75137",
+        "venue": "Duncanville Fieldhouse",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "scrimmage",
+            "description": "Scrimmage",
+            "statsCount": false
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Paris Junior College",
+            "result": "",
+            "teamId": "jezuy39uhqi3jtgi",
+            "winner": false,
+            "cleanName": "paris junior col"
+        },
+        "us": {
+            "name": "Southern Arkansas University Tech",
+            "result": "",
+            "teamId": "k0vnm3334bk18nby",
+            "winner": false,
+            "cleanName": "s arkansas univ tech"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "October 18 11:15 AM:"
+}

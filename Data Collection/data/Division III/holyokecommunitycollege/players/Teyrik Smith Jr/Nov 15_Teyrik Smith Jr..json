@@ -1,17 +1,17 @@
 {
-    "Player Name": "Teyrik Smith Jr",
+    "Player Name": "Teyrik Smith Jr.",
+    "MIN": "1",
     "FGM-A": "2-9",
     "3PM-A": "0-2",
     "FTM-A": "2-2",
     "OREB": "0",
     "DREB": "3",
     "REB": "3",
+    "AST": "1",
+    "STL": "1",
+    "BLK": "1",
+    "TO": "5",
     "PF": "1",
     "TP": "6",
-    "AST": "1",
-    "TO": "5",
-    "BLK": "1",
-    "STL": "1",
-    "MIN": "1",
     "eventDateFormatted": "Nov 15"
 }

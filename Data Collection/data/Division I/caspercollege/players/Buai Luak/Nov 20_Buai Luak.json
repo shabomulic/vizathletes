@@ -1,17 +1,17 @@
 {
     "Player Name": "Buai Luak",
+    "MIN": "29",
     "FGM-A": "3-6",
     "3PM-A": "0-0",
     "FTM-A": "0-2",
     "OREB": "2",
     "DREB": "5",
     "REB": "7",
+    "AST": "0",
+    "STL": "1",
+    "BLK": "0",
+    "TO": "0",
     "PF": "2",
     "TP": "6",
-    "AST": "0",
-    "TO": "0",
-    "BLK": "0",
-    "STL": "1",
-    "MIN": "29",
     "eventDateFormatted": "Nov 20"
 }

@@ -1,17 +1,17 @@
 {
     "Player Name": "Braylen Smith",
+    "MIN": "1",
     "FGM-A": "3-7",
     "3PM-A": "1-1",
     "FTM-A": "1-2",
     "OREB": "2",
     "DREB": "8",
     "REB": "10",
+    "AST": "7",
+    "STL": "4",
+    "BLK": "0",
+    "TO": "2",
     "PF": "0",
     "TP": "8",
-    "AST": "7",
-    "TO": "2",
-    "BLK": "0",
-    "STL": "4",
-    "MIN": "1",
     "eventDateFormatted": "Nov 26"
 }

@@ -1,17 +1,17 @@
 {
     "Player Name": "Julian Thompson",
+    "MIN": "40",
     "FGM-A": "7-12",
     "3PM-A": "0-2",
     "FTM-A": "1-4",
     "OREB": "7",
     "DREB": "12",
     "REB": "19",
+    "AST": "2",
+    "STL": "2",
+    "BLK": "1",
+    "TO": "0",
     "PF": "0",
     "TP": "15",
-    "AST": "2",
-    "TO": "0",
-    "BLK": "1",
-    "STL": "2",
-    "MIN": "40",
     "eventDateFormatted": "Nov 15"
 }

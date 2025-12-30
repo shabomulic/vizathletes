@@ -1,17 +1,17 @@
 {
     "Player Name": "Isaiah Smith",
+    "MIN": "1",
     "FGM-A": "11-20",
     "3PM-A": "0-4",
     "FTM-A": "5-8",
     "OREB": "3",
     "DREB": "2",
     "REB": "5",
+    "AST": "0",
+    "STL": "2",
+    "BLK": "0",
+    "TO": "2",
     "PF": "1",
     "TP": "27",
-    "AST": "0",
-    "TO": "2",
-    "BLK": "0",
-    "STL": "2",
-    "MIN": "1",
     "eventDateFormatted": "Dec 6"
 }

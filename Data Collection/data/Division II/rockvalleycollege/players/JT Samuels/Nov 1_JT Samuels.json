@@ -1,17 +1,17 @@
 {
     "Player Name": "JT Samuels",
+    "MIN": "29",
     "FGM-A": "4-9",
     "3PM-A": "3-6",
     "FTM-A": "1-2",
     "OREB": "2",
     "DREB": "3",
     "REB": "5",
+    "AST": "2",
+    "STL": "2",
+    "BLK": "0",
+    "TO": "3",
     "PF": "2",
     "TP": "12",
-    "AST": "2",
-    "TO": "3",
-    "BLK": "0",
-    "STL": "2",
-    "MIN": "29",
     "eventDateFormatted": "Nov 1"
 }

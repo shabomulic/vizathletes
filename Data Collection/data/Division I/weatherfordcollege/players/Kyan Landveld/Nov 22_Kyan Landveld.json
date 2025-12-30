@@ -1,17 +1,17 @@
 {
     "Player Name": "Kyan Landveld",
+    "MIN": "1",
     "FGM-A": "4-11",
     "3PM-A": "1-5",
     "FTM-A": "0-1",
     "OREB": "2",
     "DREB": "6",
     "REB": "8",
+    "AST": "2",
+    "STL": "2",
+    "BLK": "3",
+    "TO": "2",
     "PF": "3",
     "TP": "9",
-    "AST": "2",
-    "TO": "2",
-    "BLK": "3",
-    "STL": "2",
-    "MIN": "1",
     "eventDateFormatted": "Nov 22"
 }

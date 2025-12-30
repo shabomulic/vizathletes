@@ -1,17 +1,17 @@
 {
     "Player Name": "Aiden Culpepper",
+    "MIN": "1",
     "FGM-A": "6-9",
     "3PM-A": "2-4",
     "FTM-A": "4-4",
     "OREB": "0",
     "DREB": "5",
     "REB": "5",
+    "AST": "4",
+    "STL": "1",
+    "BLK": "0",
+    "TO": "4",
     "PF": "0",
     "TP": "18",
-    "AST": "4",
-    "TO": "4",
-    "BLK": "0",
-    "STL": "1",
-    "MIN": "1",
     "eventDateFormatted": "Nov 20"
 }

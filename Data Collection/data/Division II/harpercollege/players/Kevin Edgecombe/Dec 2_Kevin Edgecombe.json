@@ -1,17 +1,17 @@
 {
     "Player Name": "Kevin Edgecombe",
+    "MIN": "30",
     "FGM-A": "2-3",
     "3PM-A": "0-0",
     "FTM-A": "3-7",
     "OREB": "5",
     "DREB": "6",
     "REB": "11",
+    "AST": "1",
+    "STL": "0",
+    "BLK": "1",
+    "TO": "4",
     "PF": "4",
     "TP": "7",
-    "AST": "1",
-    "TO": "4",
-    "BLK": "1",
-    "STL": "0",
-    "MIN": "30",
     "eventDateFormatted": "Dec 2"
 }

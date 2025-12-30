@@ -1,17 +1,17 @@
 {
     "Player Name": "Davee Flowers",
+    "MIN": "35",
     "FGM-A": "8-16",
     "3PM-A": "1-4",
     "FTM-A": "6-6",
     "OREB": "1",
     "DREB": "9",
     "REB": "10",
+    "AST": "3",
+    "STL": "9",
+    "BLK": "1",
+    "TO": "4",
     "PF": "4",
     "TP": "23",
-    "AST": "3",
-    "TO": "4",
-    "BLK": "1",
-    "STL": "9",
-    "MIN": "35",
     "eventDateFormatted": "Nov 7"
 }

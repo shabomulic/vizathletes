@@ -1,17 +1,17 @@
 {
     "Player Name": "Chris Moliere",
+    "MIN": "32",
     "FGM-A": "4-16",
     "3PM-A": "0-0",
     "FTM-A": "0-1",
     "OREB": "3",
     "DREB": "6",
     "REB": "9",
+    "AST": "2",
+    "STL": "2",
+    "BLK": "1",
+    "TO": "4",
     "PF": "0",
     "TP": "8",
-    "AST": "2",
-    "TO": "4",
-    "BLK": "1",
-    "STL": "2",
-    "MIN": "32",
     "eventDateFormatted": "Dec 8"
 }

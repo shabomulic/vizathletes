@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Jan 14",
+    "boxScoreLink": "20260114_fu9w.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Monroe University JV",
+                "result": "",
+                "teamId": "igy3owxnp843zxf4",
+                "winner": false,
+                "cleanName": "monroe univ jv"
+            },
+            {
+                "name": "Middlesex College",
+                "result": "",
+                "teamId": "fpsgkhbrx58lm4ls",
+                "winner": false,
+                "cleanName": "middlesex col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1768431600000,
+        "localTimeZone": "America/New_York",
+        "tba": false,
+        "home": true,
+        "overall": true,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "fu9wwwjbjkrvdt5u",
+        "fastdate": 1768431600000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Monroe University JV",
+            "result": "",
+            "teamId": "igy3owxnp843zxf4",
+            "winner": false,
+            "cleanName": "monroe univ jv"
+        },
+        "us": {
+            "name": "Middlesex College",
+            "result": "",
+            "teamId": "fpsgkhbrx58lm4ls",
+            "winner": false,
+            "cleanName": "middlesex col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "January 14 06:00 PM:"
+}

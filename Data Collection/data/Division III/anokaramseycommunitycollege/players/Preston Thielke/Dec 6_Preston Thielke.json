@@ -1,17 +1,17 @@
 {
     "Player Name": "Preston Thielke",
+    "MIN": "17:04",
     "FGM-A": "6-10",
     "3PM-A": "0-0",
     "FTM-A": "4-5",
     "OREB": "2",
     "DREB": "4",
     "REB": "6",
+    "AST": "4",
+    "STL": "1",
+    "BLK": "3",
+    "TO": "4",
     "PF": "5",
     "TP": "16",
-    "AST": "4",
-    "TO": "4",
-    "BLK": "3",
-    "STL": "1",
-    "MIN": "17:04",
     "eventDateFormatted": "Dec 6"
 }

@@ -1,17 +1,17 @@
 {
     "Player Name": "Trayvon McGraw",
+    "MIN": "17",
     "FGM-A": "1-5",
     "3PM-A": "0-2",
     "FTM-A": "0-0",
     "OREB": "1",
     "DREB": "2",
     "REB": "3",
+    "AST": "0",
+    "STL": "0",
+    "BLK": "0",
+    "TO": "0",
     "PF": "5",
     "TP": "2",
-    "AST": "0",
-    "TO": "0",
-    "BLK": "0",
-    "STL": "0",
-    "MIN": "17",
     "eventDateFormatted": "Dec 6"
 }

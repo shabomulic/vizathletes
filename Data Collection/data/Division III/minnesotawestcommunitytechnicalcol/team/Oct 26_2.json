@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Oct 26",
+    "boxScoreLink": "20251026_5nbj.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Dakota State University",
+                "result": "",
+                "teamId": "qbvjwp3moyaytmsc",
+                "winner": false,
+                "cleanName": "dakota st univ"
+            },
+            {
+                "name": "Minnesota West Community & Technical College",
+                "result": "",
+                "teamId": "egkdybbwraj12kpl",
+                "winner": false,
+                "cleanName": "minn w community technical col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "Scrimmage",
+        "date": 1761501600000,
+        "localTimeZone": "America/Chicago",
+        "tba": false,
+        "home": true,
+        "overall": false,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "5nbjwsdxbhbb76o6",
+        "fastdate": 1761501600000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "scrimmage",
+            "description": "Scrimmage",
+            "statsCount": false
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Dakota State University",
+            "result": "",
+            "teamId": "qbvjwp3moyaytmsc",
+            "winner": false,
+            "cleanName": "dakota st univ"
+        },
+        "us": {
+            "name": "Minnesota West Community & Technical College",
+            "result": "",
+            "teamId": "egkdybbwraj12kpl",
+            "winner": false,
+            "cleanName": "minn w community technical col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "October 26 02:00 PM:"
+}

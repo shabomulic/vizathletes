@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Feb 5",
+    "boxScoreLink": "20260205_g5hi.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Chattahoochee Valley Community College",
+                "result": "",
+                "teamId": "rf52qvpv2nbr0xse",
+                "winner": false,
+                "cleanName": "chattahoochee valley community col"
+            },
+            {
+                "name": "Marion Military Institute",
+                "result": "",
+                "teamId": "vkeq3q6q1mgf1d2z",
+                "winner": false,
+                "cleanName": "marion military institute"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1770339600000,
+        "localTimeZone": "America/New_York",
+        "tba": false,
+        "home": true,
+        "overall": true,
+        "conference": true,
+        "division": true,
+        "regional": true,
+        "national": true,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "g5hivvkussbh9g7h",
+        "fastdate": 1770339600000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Chattahoochee Valley Community College",
+            "result": "",
+            "teamId": "rf52qvpv2nbr0xse",
+            "winner": false,
+            "cleanName": "chattahoochee valley community col"
+        },
+        "us": {
+            "name": "Marion Military Institute",
+            "result": "",
+            "teamId": "vkeq3q6q1mgf1d2z",
+            "winner": false,
+            "cleanName": "marion military institute"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "February 5 08:00 PM:"
+}

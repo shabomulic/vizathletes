@@ -1,17 +1,17 @@
 {
     "Player Name": "Kenyon Giles",
+    "MIN": "29",
     "FGM-A": "6-10",
     "3PM-A": "3-5",
     "FTM-A": "3-4",
     "OREB": "2",
     "DREB": "2",
     "REB": "4",
+    "AST": "13",
+    "STL": "2",
+    "BLK": "0",
+    "TO": "1",
     "PF": "4",
     "TP": "18",
-    "AST": "13",
-    "TO": "1",
-    "BLK": "0",
-    "STL": "2",
-    "MIN": "29",
     "eventDateFormatted": "Nov 21"
 }

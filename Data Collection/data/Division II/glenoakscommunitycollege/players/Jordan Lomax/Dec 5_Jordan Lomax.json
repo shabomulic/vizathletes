@@ -1,17 +1,17 @@
 {
     "Player Name": "Jordan Lomax",
+    "MIN": "31",
     "FGM-A": "5-11",
     "3PM-A": "2-4",
     "FTM-A": "5-8",
     "OREB": "1",
     "DREB": "4",
     "REB": "5",
+    "AST": "1",
+    "STL": "3",
+    "BLK": "1",
+    "TO": "4",
     "PF": "0",
     "TP": "17",
-    "AST": "1",
-    "TO": "4",
-    "BLK": "1",
-    "STL": "3",
-    "MIN": "31",
     "eventDateFormatted": "Dec 5"
 }

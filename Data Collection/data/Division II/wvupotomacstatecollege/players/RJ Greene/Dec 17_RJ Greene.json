@@ -1,17 +1,17 @@
 {
     "Player Name": "RJ Greene",
+    "MIN": "20",
     "FGM-A": "4-10",
     "3PM-A": "1-4",
     "FTM-A": "2-4",
     "OREB": "0",
     "DREB": "0",
     "REB": "0",
+    "AST": "4",
+    "STL": "2",
+    "BLK": "0",
+    "TO": "1",
     "PF": "1",
     "TP": "11",
-    "AST": "4",
-    "TO": "1",
-    "BLK": "0",
-    "STL": "2",
-    "MIN": "20",
     "eventDateFormatted": "Dec 17"
 }

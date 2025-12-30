@@ -1,17 +1,17 @@
 {
     "Player Name": "Caleb Johnson",
+    "MIN": "1",
     "FGM-A": "7-11",
     "3PM-A": "0-3",
     "FTM-A": "7-7",
     "OREB": "0",
     "DREB": "2",
     "REB": "2",
+    "AST": "5",
+    "STL": "2",
+    "BLK": "0",
+    "TO": "5",
     "PF": "0",
     "TP": "21",
-    "AST": "5",
-    "TO": "5",
-    "BLK": "0",
-    "STL": "2",
-    "MIN": "1",
     "eventDateFormatted": "Nov 7"
 }

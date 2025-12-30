@@ -1,17 +1,17 @@
 {
     "Player Name": "Kelton Williams",
+    "MIN": "1",
     "FGM-A": "6-11",
     "3PM-A": "4-7",
     "FTM-A": "4-5",
     "OREB": "1",
     "DREB": "2",
     "REB": "3",
+    "AST": "6",
+    "STL": "1",
+    "BLK": "1",
+    "TO": "5",
     "PF": "4",
     "TP": "20",
-    "AST": "6",
-    "TO": "5",
-    "BLK": "1",
-    "STL": "1",
-    "MIN": "1",
     "eventDateFormatted": "Dec 2"
 }

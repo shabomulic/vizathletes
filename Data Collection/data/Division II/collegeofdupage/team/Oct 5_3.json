@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Oct 5",
+    "boxScoreLink": "20251005_ua68.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Kellogg Community College",
+                "result": "",
+                "teamId": "ehrjr4erev3ngvcq",
+                "winner": false,
+                "cleanName": "kellogg community col"
+            },
+            {
+                "name": "College of DuPage",
+                "result": "",
+                "teamId": "7p9wu4ab2mzjq40d",
+                "winner": false,
+                "cleanName": "col dupage"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "Scrimmage | Glen Ellyn, IL",
+        "date": 1759665600000,
+        "localTimeZone": "America/Chicago",
+        "tba": false,
+        "home": true,
+        "overall": false,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "ua68ysawj5cl305f",
+        "fastdate": 1759665600000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "scrimmage",
+            "description": "Scrimmage",
+            "statsCount": false
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Kellogg Community College",
+            "result": "",
+            "teamId": "ehrjr4erev3ngvcq",
+            "winner": false,
+            "cleanName": "kellogg community col"
+        },
+        "us": {
+            "name": "College of DuPage",
+            "result": "",
+            "teamId": "7p9wu4ab2mzjq40d",
+            "winner": false,
+            "cleanName": "col dupage"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "October 5 08:00 AM:"
+}

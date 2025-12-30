@@ -1,17 +1,17 @@
 {
     "Player Name": "Andre McCullough",
+    "MIN": "26",
     "FGM-A": "7-12",
     "3PM-A": "2-4",
     "FTM-A": "0-0",
     "OREB": "4",
     "DREB": "2",
     "REB": "6",
+    "AST": "7",
+    "STL": "4",
+    "BLK": "0",
+    "TO": "0",
     "PF": "0",
     "TP": "16",
-    "AST": "7",
-    "TO": "0",
-    "BLK": "0",
-    "STL": "4",
-    "MIN": "26",
     "eventDateFormatted": "Dec 15"
 }

@@ -1,17 +1,17 @@
 {
     "Player Name": "Peyton Hess",
+    "MIN": "1",
     "FGM-A": "5-7",
     "3PM-A": "0-0",
     "FTM-A": "1-1",
     "OREB": "1",
     "DREB": "4",
     "REB": "5",
+    "AST": "0",
+    "STL": "1",
+    "BLK": "0",
+    "TO": "1",
     "PF": "0",
     "TP": "11",
-    "AST": "0",
-    "TO": "1",
-    "BLK": "0",
-    "STL": "1",
-    "MIN": "1",
     "eventDateFormatted": "Dec 10"
 }

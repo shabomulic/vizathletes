@@ -1,17 +1,17 @@
 {
     "Player Name": "Jahseir Sayles",
+    "MIN": "12",
     "FGM-A": "1-3",
     "3PM-A": "0-1",
     "FTM-A": "0-0",
     "OREB": "0",
     "DREB": "0",
     "REB": "0",
+    "AST": "0",
+    "STL": "1",
+    "BLK": "0",
+    "TO": "0",
     "PF": "1",
     "TP": "2",
-    "AST": "0",
-    "TO": "0",
-    "BLK": "0",
-    "STL": "1",
-    "MIN": "12",
     "eventDateFormatted": "Nov 20"
 }

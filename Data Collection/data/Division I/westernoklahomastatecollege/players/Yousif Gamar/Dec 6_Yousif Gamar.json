@@ -1,17 +1,17 @@
 {
     "Player Name": "Yousif Gamar",
+    "MIN": "1",
     "FGM-A": "2-3",
     "3PM-A": "0-0",
     "FTM-A": "3-3",
     "OREB": "5",
     "DREB": "4",
     "REB": "9",
+    "AST": "3",
+    "STL": "4",
+    "BLK": "2",
+    "TO": "1",
     "PF": "2",
     "TP": "7",
-    "AST": "3",
-    "TO": "1",
-    "BLK": "2",
-    "STL": "4",
-    "MIN": "1",
     "eventDateFormatted": "Dec 6"
 }

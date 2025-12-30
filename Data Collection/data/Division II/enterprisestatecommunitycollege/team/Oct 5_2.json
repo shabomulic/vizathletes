@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Oct 5",
+    "boxScoreLink": "20251005_j9c4.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Enterprise State Community College",
+                "result": "",
+                "teamId": "clf86jhkvm4x7egx",
+                "winner": false,
+                "cleanName": "enterprise st community col"
+            },
+            {
+                "name": "South Georgia State College",
+                "result": "",
+                "teamId": "zdhzkxtajzh68wyx",
+                "winner": false,
+                "cleanName": "s georgia st col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "COREY BLACK JAMBOREE",
+        "date": 1759689000000,
+        "localTimeZone": "America/Montreal",
+        "tba": false,
+        "home": false,
+        "overall": true,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "Lakepoint,GA",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "j9c48je2btny1cac",
+        "fastdate": 1759689000000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "South Georgia State College",
+            "result": "",
+            "teamId": "zdhzkxtajzh68wyx",
+            "winner": false,
+            "cleanName": "s georgia st col"
+        },
+        "us": {
+            "name": "Enterprise State Community College",
+            "result": "",
+            "teamId": "clf86jhkvm4x7egx",
+            "winner": false,
+            "cleanName": "enterprise st community col"
+        },
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "October 5 02:30 PM:"
+}

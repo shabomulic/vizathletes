@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Oct 16",
+    "boxScoreLink": "20251016_u7l3.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Laramie County Community College",
+                "result": "",
+                "teamId": "lnbmvmh1dn6p335h",
+                "winner": false,
+                "cleanName": "laramie county community col"
+            },
+            {
+                "name": "Rocky Mountain Jamboree",
+                "result": "",
+                "teamId": "kaxiy7yuvwj4cpbl",
+                "winner": false,
+                "cleanName": "rocky mountain jamboree"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "Rocky Mountain Showcase",
+        "date": 1760587200000,
+        "localTimeZone": "America/Denver",
+        "tba": true,
+        "home": false,
+        "overall": false,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "u7l3webh8i6tukm5",
+        "fastdate": 1760587200000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "Greeley",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "preSeason",
+            "description": "Pre-Season",
+            "statsCount": true
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Rocky Mountain Jamboree",
+            "result": "",
+            "teamId": "kaxiy7yuvwj4cpbl",
+            "winner": false,
+            "cleanName": "rocky mountain jamboree"
+        },
+        "us": {
+            "name": "Laramie County Community College",
+            "result": "",
+            "teamId": "lnbmvmh1dn6p335h",
+            "winner": false,
+            "cleanName": "laramie county community col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "October 16 12:00 AM:"
+}

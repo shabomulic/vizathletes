@@ -1,17 +1,17 @@
 {
-    "Player Name": "Chris Uwayo Jr",
+    "Player Name": "Chris Uwayo Jr.",
+    "MIN": "1",
     "FGM-A": "4-11",
     "3PM-A": "0-7",
     "FTM-A": "0-0",
     "OREB": "0",
     "DREB": "0",
     "REB": "0",
+    "AST": "2",
+    "STL": "0",
+    "BLK": "0",
+    "TO": "3",
     "PF": "1",
     "TP": "8",
-    "AST": "2",
-    "TO": "3",
-    "BLK": "0",
-    "STL": "0",
-    "MIN": "1",
     "eventDateFormatted": "Nov 8"
 }

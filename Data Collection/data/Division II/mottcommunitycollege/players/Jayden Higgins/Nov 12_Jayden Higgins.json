@@ -1,17 +1,17 @@
 {
     "Player Name": "Jayden Higgins",
+    "MIN": "30",
     "FGM-A": "2-3",
     "3PM-A": "0-0",
     "FTM-A": "2-2",
     "OREB": "1",
     "DREB": "4",
     "REB": "5",
+    "AST": "2",
+    "STL": "1",
+    "BLK": "1",
+    "TO": "2",
     "PF": "1",
     "TP": "6",
-    "AST": "2",
-    "TO": "2",
-    "BLK": "1",
-    "STL": "1",
-    "MIN": "30",
     "eventDateFormatted": "Nov 12"
 }

@@ -1,17 +1,17 @@
 {
     "Player Name": "Xavier Burkes",
+    "MIN": "15",
     "FGM-A": "7-11",
     "3PM-A": "2-2",
     "FTM-A": "2-5",
     "OREB": "3",
     "DREB": "0",
     "REB": "3",
+    "AST": "3",
+    "STL": "3",
+    "BLK": "0",
+    "TO": "3",
     "PF": "2",
     "TP": "18",
-    "AST": "3",
-    "TO": "3",
-    "BLK": "0",
-    "STL": "3",
-    "MIN": "15",
     "eventDateFormatted": "Nov 12"
 }

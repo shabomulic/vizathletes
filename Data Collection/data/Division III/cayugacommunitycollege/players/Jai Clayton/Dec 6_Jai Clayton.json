@@ -1,17 +1,17 @@
 {
     "Player Name": "Jai Clayton",
+    "MIN": "1",
     "FGM-A": "11-21",
     "3PM-A": "2-7",
     "FTM-A": "6-7",
     "OREB": "0",
     "DREB": "3",
     "REB": "3",
+    "AST": "3",
+    "STL": "3",
+    "BLK": "0",
+    "TO": "0",
     "PF": "2",
     "TP": "30",
-    "AST": "3",
-    "TO": "0",
-    "BLK": "0",
-    "STL": "3",
-    "MIN": "1",
     "eventDateFormatted": "Dec 6"
 }

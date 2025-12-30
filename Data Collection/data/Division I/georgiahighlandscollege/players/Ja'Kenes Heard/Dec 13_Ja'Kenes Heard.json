@@ -1,17 +1,17 @@
 {
     "Player Name": "Ja'Kenes Heard",
+    "MIN": "1",
     "FGM-A": "6-6",
     "3PM-A": "0-0",
     "FTM-A": "3-3",
     "OREB": "3",
     "DREB": "4",
     "REB": "7",
+    "AST": "0",
+    "STL": "1",
+    "BLK": "2",
+    "TO": "1",
     "PF": "4",
     "TP": "15",
-    "AST": "0",
-    "TO": "1",
-    "BLK": "2",
-    "STL": "1",
-    "MIN": "1",
     "eventDateFormatted": "Dec 13"
 }

@@ -1,17 +1,17 @@
 {
     "Player Name": "Jaylen Carthan",
+    "MIN": "36",
     "FGM-A": "6-14",
     "3PM-A": "0-4",
     "FTM-A": "3-4",
     "OREB": "1",
     "DREB": "3",
     "REB": "4",
+    "AST": "5",
+    "STL": "2",
+    "BLK": "0",
+    "TO": "2",
     "PF": "4",
     "TP": "15",
-    "AST": "5",
-    "TO": "2",
-    "BLK": "0",
-    "STL": "2",
-    "MIN": "36",
     "eventDateFormatted": "Nov 10"
 }

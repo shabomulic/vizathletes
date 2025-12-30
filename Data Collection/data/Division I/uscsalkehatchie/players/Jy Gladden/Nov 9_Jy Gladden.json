@@ -1,17 +1,17 @@
 {
     "Player Name": "Jy Gladden",
+    "MIN": "1",
     "FGM-A": "3-6",
     "3PM-A": "1-1",
     "FTM-A": "4-6",
     "OREB": "3",
     "DREB": "4",
     "REB": "7",
+    "AST": "2",
+    "STL": "5",
+    "BLK": "0",
+    "TO": "2",
     "PF": "2",
     "TP": "11",
-    "AST": "2",
-    "TO": "2",
-    "BLK": "0",
-    "STL": "5",
-    "MIN": "1",
     "eventDateFormatted": "Nov 9"
 }

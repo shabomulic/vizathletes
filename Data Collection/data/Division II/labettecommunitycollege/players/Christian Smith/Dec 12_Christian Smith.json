@@ -1,17 +1,17 @@
 {
     "Player Name": "Christian Smith",
+    "MIN": "16",
     "FGM-A": "8-15",
     "3PM-A": "2-6",
     "FTM-A": "0-0",
     "OREB": "1",
     "DREB": "4",
     "REB": "5",
+    "AST": "2",
+    "STL": "5",
+    "BLK": "0",
+    "TO": "0",
     "PF": "1",
     "TP": "18",
-    "AST": "2",
-    "TO": "0",
-    "BLK": "0",
-    "STL": "5",
-    "MIN": "16",
     "eventDateFormatted": "Dec 12"
 }

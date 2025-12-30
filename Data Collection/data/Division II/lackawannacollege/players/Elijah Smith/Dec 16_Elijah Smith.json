@@ -1,17 +1,17 @@
 {
     "Player Name": "Elijah Smith",
+    "MIN": "16:07",
     "FGM-A": "2-3",
     "3PM-A": "0-0",
     "FTM-A": "4-5",
     "OREB": "1",
     "DREB": "0",
     "REB": "1",
+    "AST": "1",
+    "STL": "1",
+    "BLK": "0",
+    "TO": "1",
     "PF": "4",
     "TP": "8",
-    "AST": "1",
-    "TO": "1",
-    "BLK": "0",
-    "STL": "1",
-    "MIN": "16:07",
     "eventDateFormatted": "Dec 16"
 }

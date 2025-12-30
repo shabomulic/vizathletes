@@ -1,17 +1,17 @@
 {
     "Player Name": "JJ Hernandez",
+    "MIN": "25",
     "FGM-A": "2-7",
     "3PM-A": "0-4",
     "FTM-A": "1-3",
     "OREB": "2",
     "DREB": "3",
     "REB": "5",
+    "AST": "4",
+    "STL": "0",
+    "BLK": "1",
+    "TO": "1",
     "PF": "0",
     "TP": "5",
-    "AST": "4",
-    "TO": "1",
-    "BLK": "1",
-    "STL": "0",
-    "MIN": "25",
     "eventDateFormatted": "Dec 11"
 }

@@ -1,17 +1,17 @@
 {
     "Player Name": "Navontae Nesbit",
+    "MIN": "15",
     "FGM-A": "1-3",
     "3PM-A": "0-0",
     "FTM-A": "4-6",
     "OREB": "2",
     "DREB": "2",
     "REB": "4",
+    "AST": "3",
+    "STL": "1",
+    "BLK": "1",
+    "TO": "0",
     "PF": "1",
     "TP": "6",
-    "AST": "3",
-    "TO": "0",
-    "BLK": "1",
-    "STL": "1",
-    "MIN": "15",
     "eventDateFormatted": "Nov 17"
 }

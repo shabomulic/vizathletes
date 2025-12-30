@@ -1,17 +1,17 @@
 {
     "Player Name": "Moses Horne",
+    "MIN": "1",
     "FGM-A": "5-12",
     "3PM-A": "1-5",
     "FTM-A": "0-0",
     "OREB": "6",
     "DREB": "4",
     "REB": "10",
+    "AST": "2",
+    "STL": "3",
+    "BLK": "1",
+    "TO": "1",
     "PF": "1",
     "TP": "11",
-    "AST": "2",
-    "TO": "1",
-    "BLK": "1",
-    "STL": "3",
-    "MIN": "1",
     "eventDateFormatted": "Nov 15"
 }

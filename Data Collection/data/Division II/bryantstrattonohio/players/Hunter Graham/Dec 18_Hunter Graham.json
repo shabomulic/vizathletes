@@ -1,17 +1,17 @@
 {
     "Player Name": "Hunter Graham",
+    "MIN": "27",
     "FGM-A": "8-17",
     "3PM-A": "0-0",
     "FTM-A": "0-0",
     "OREB": "2",
     "DREB": "9",
     "REB": "11",
+    "AST": "2",
+    "STL": "1",
+    "BLK": "0",
+    "TO": "3",
     "PF": "0",
     "TP": "16",
-    "AST": "2",
-    "TO": "3",
-    "BLK": "0",
-    "STL": "1",
-    "MIN": "27",
     "eventDateFormatted": "Dec 18"
 }

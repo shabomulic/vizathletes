@@ -1,17 +1,17 @@
 {
     "Player Name": "Rudolfs Svitins",
+    "MIN": "20",
     "FGM-A": "2-5",
     "3PM-A": "1-3",
     "FTM-A": "2-2",
     "OREB": "0",
     "DREB": "2",
     "REB": "2",
+    "AST": "2",
+    "STL": "0",
+    "BLK": "0",
+    "TO": "2",
     "PF": "0",
     "TP": "7",
-    "AST": "2",
-    "TO": "2",
-    "BLK": "0",
-    "STL": "0",
-    "MIN": "20",
     "eventDateFormatted": "Nov 11"
 }

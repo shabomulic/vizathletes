@@ -1,17 +1,17 @@
 {
     "Player Name": "Anthony Leonard",
+    "MIN": "30",
     "FGM-A": "7-20",
     "3PM-A": "2-7",
     "FTM-A": "6-8",
     "OREB": "0",
     "DREB": "6",
     "REB": "6",
+    "AST": "1",
+    "STL": "1",
+    "BLK": "0",
+    "TO": "1",
     "PF": "1",
     "TP": "22",
-    "AST": "1",
-    "TO": "1",
-    "BLK": "0",
-    "STL": "1",
-    "MIN": "30",
     "eventDateFormatted": "Nov 6"
 }

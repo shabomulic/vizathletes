@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Jan 2",
+    "boxScoreLink": "20260102_mobj.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Roane State Community College",
+                "result": "",
+                "teamId": "z3c15p2qvoal7rgp",
+                "winner": false,
+                "cleanName": "roane st community col"
+            },
+            {
+                "name": "Vincennes University",
+                "result": "",
+                "teamId": "xtwgw64evojqa3cy",
+                "winner": false,
+                "cleanName": "vincennes univ"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "Columbia State Classic",
+        "date": 1767391200000,
+        "localTimeZone": "America/New_York",
+        "tba": false,
+        "home": true,
+        "overall": true,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": true,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "Columbia State CC (Columbia, TN)",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "mobjr9f4gzsmq2gi",
+        "fastdate": 1767391200000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "Columbia, TN",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Roane State Community College",
+            "result": "",
+            "teamId": "z3c15p2qvoal7rgp",
+            "winner": false,
+            "cleanName": "roane st community col"
+        },
+        "us": {
+            "name": "Vincennes University",
+            "result": "",
+            "teamId": "xtwgw64evojqa3cy",
+            "winner": false,
+            "cleanName": "vincennes univ"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "January 2 05:00 PM:"
+}

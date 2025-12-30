@@ -1,17 +1,17 @@
 {
-    "Player Name": "Al Brooks Jr",
+    "Player Name": "Al Brooks Jr.",
+    "MIN": "16",
     "FGM-A": "7-13",
     "3PM-A": "0-1",
     "FTM-A": "2-4",
     "OREB": "5",
     "DREB": "5",
     "REB": "10",
+    "AST": "2",
+    "STL": "2",
+    "BLK": "3",
+    "TO": "6",
     "PF": "3",
     "TP": "16",
-    "AST": "2",
-    "TO": "6",
-    "BLK": "3",
-    "STL": "2",
-    "MIN": "16",
     "eventDateFormatted": "Oct 31"
 }

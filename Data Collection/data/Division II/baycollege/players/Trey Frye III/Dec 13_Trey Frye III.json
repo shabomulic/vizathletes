@@ -1,17 +1,17 @@
 {
     "Player Name": "Trey Frye III",
+    "MIN": "36",
     "FGM-A": "5-19",
     "3PM-A": "0-1",
     "FTM-A": "2-2",
     "OREB": "5",
     "DREB": "3",
     "REB": "8",
+    "AST": "7",
+    "STL": "2",
+    "BLK": "0",
+    "TO": "4",
     "PF": "1",
     "TP": "12",
-    "AST": "7",
-    "TO": "4",
-    "BLK": "0",
-    "STL": "2",
-    "MIN": "36",
     "eventDateFormatted": "Dec 13"
 }

@@ -1,17 +1,17 @@
 {
     "Player Name": "Dionte Alexander",
+    "MIN": "1",
     "FGM-A": "5-7",
     "3PM-A": "2-2",
     "FTM-A": "3-3",
     "OREB": "1",
     "DREB": "7",
     "REB": "8",
+    "AST": "3",
+    "STL": "5",
+    "BLK": "0",
+    "TO": "2",
     "PF": "3",
     "TP": "15",
-    "AST": "3",
-    "TO": "2",
-    "BLK": "0",
-    "STL": "5",
-    "MIN": "1",
     "eventDateFormatted": "Nov 25"
 }

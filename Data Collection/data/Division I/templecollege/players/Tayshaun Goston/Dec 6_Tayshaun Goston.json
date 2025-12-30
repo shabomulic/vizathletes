@@ -1,17 +1,17 @@
 {
     "Player Name": "Tayshaun Goston",
+    "MIN": "19",
     "FGM-A": "1-5",
     "3PM-A": "0-1",
     "FTM-A": "0-0",
     "OREB": "0",
     "DREB": "1",
     "REB": "1",
+    "AST": "1",
+    "STL": "3",
+    "BLK": "0",
+    "TO": "3",
     "PF": "3",
     "TP": "2",
-    "AST": "1",
-    "TO": "3",
-    "BLK": "0",
-    "STL": "3",
-    "MIN": "19",
     "eventDateFormatted": "Dec 6"
 }

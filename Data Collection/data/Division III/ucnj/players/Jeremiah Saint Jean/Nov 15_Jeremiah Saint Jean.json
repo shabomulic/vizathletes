@@ -1,17 +1,17 @@
 {
     "Player Name": "Jeremiah Saint Jean",
+    "MIN": "24",
     "FGM-A": "2-3",
     "3PM-A": "0-0",
     "FTM-A": "0-0",
     "OREB": "5",
     "DREB": "6",
     "REB": "11",
+    "AST": "0",
+    "STL": "1",
+    "BLK": "3",
+    "TO": "2",
     "PF": "4",
     "TP": "4",
-    "AST": "0",
-    "TO": "2",
-    "BLK": "3",
-    "STL": "1",
-    "MIN": "24",
     "eventDateFormatted": "Nov 15"
 }

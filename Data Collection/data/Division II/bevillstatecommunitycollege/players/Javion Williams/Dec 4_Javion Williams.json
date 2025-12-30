@@ -1,17 +1,17 @@
 {
     "Player Name": "Javion Williams",
+    "MIN": "1",
     "FGM-A": "6-13",
     "3PM-A": "2-5",
     "FTM-A": "2-4",
     "OREB": "1",
     "DREB": "1",
     "REB": "2",
+    "AST": "5",
+    "STL": "1",
+    "BLK": "0",
+    "TO": "4",
     "PF": "4",
     "TP": "16",
-    "AST": "5",
-    "TO": "4",
-    "BLK": "0",
-    "STL": "1",
-    "MIN": "1",
     "eventDateFormatted": "Dec 4"
 }

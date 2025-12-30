@@ -1,17 +1,17 @@
 {
     "Player Name": "Gavin Ward",
+    "MIN": "1",
     "FGM-A": "7-16",
     "3PM-A": "2-9",
     "FTM-A": "2-2",
     "OREB": "3",
     "DREB": "4",
     "REB": "7",
+    "AST": "2",
+    "STL": "1",
+    "BLK": "0",
+    "TO": "0",
     "PF": "2",
     "TP": "18",
-    "AST": "2",
-    "TO": "0",
-    "BLK": "0",
-    "STL": "1",
-    "MIN": "1",
     "eventDateFormatted": "Nov 14"
 }

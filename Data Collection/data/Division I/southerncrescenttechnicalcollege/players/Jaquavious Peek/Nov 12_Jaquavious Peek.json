@@ -1,17 +1,17 @@
 {
     "Player Name": "Jaquavious Peek",
+    "MIN": "35",
     "FGM-A": "6-10",
     "3PM-A": "0-0",
     "FTM-A": "1-8",
     "OREB": "2",
     "DREB": "3",
     "REB": "5",
+    "AST": "2",
+    "STL": "2",
+    "BLK": "0",
+    "TO": "5",
     "PF": "4",
     "TP": "13",
-    "AST": "2",
-    "TO": "5",
-    "BLK": "0",
-    "STL": "2",
-    "MIN": "35",
     "eventDateFormatted": "Nov 12"
 }

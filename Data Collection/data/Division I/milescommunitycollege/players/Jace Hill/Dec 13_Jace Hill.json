@@ -1,17 +1,17 @@
 {
     "Player Name": "Jace Hill",
+    "MIN": "30",
     "FGM-A": "2-7",
     "3PM-A": "2-6",
     "FTM-A": "0-0",
     "OREB": "1",
     "DREB": "0",
     "REB": "1",
+    "AST": "0",
+    "STL": "0",
+    "BLK": "0",
+    "TO": "3",
     "PF": "2",
     "TP": "6",
-    "AST": "0",
-    "TO": "3",
-    "BLK": "0",
-    "STL": "0",
-    "MIN": "30",
     "eventDateFormatted": "Dec 13"
 }

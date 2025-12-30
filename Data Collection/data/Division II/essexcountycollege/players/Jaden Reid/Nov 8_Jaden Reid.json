@@ -1,17 +1,17 @@
 {
     "Player Name": "Jaden Reid",
+    "MIN": "1",
     "FGM-A": "6-8",
     "3PM-A": "0-0",
     "FTM-A": "3-4",
     "OREB": "2",
     "DREB": "3",
     "REB": "5",
+    "AST": "1",
+    "STL": "1",
+    "BLK": "0",
+    "TO": "1",
     "PF": "5",
     "TP": "15",
-    "AST": "1",
-    "TO": "1",
-    "BLK": "0",
-    "STL": "1",
-    "MIN": "1",
     "eventDateFormatted": "Nov 8"
 }

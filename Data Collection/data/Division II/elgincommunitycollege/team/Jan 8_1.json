@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Jan 8",
+    "boxScoreLink": "20260108_hc7x.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "College of Lake County",
+                "result": "",
+                "teamId": "dx5zwp7kwxe4kez4",
+                "winner": false,
+                "cleanName": "col lake county"
+            },
+            {
+                "name": "Elgin Community College",
+                "result": "",
+                "teamId": "f1r4uao8u4ind43q",
+                "winner": false,
+                "cleanName": "elgin community col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1767917700000,
+        "localTimeZone": "America/Chicago",
+        "tba": false,
+        "home": true,
+        "overall": true,
+        "conference": true,
+        "division": false,
+        "regional": true,
+        "national": true,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "hc7xpn0cwf35vu96",
+        "fastdate": 1767917700000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "College of Lake County",
+            "result": "",
+            "teamId": "dx5zwp7kwxe4kez4",
+            "winner": false,
+            "cleanName": "col lake county"
+        },
+        "us": {
+            "name": "Elgin Community College",
+            "result": "",
+            "teamId": "f1r4uao8u4ind43q",
+            "winner": false,
+            "cleanName": "elgin community col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "January 8 07:15 PM:"
+}

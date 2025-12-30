@@ -1,17 +1,17 @@
 {
     "Player Name": "Said Martin",
+    "MIN": "23",
     "FGM-A": "4-9",
     "3PM-A": "0-1",
     "FTM-A": "3-7",
     "OREB": "5",
     "DREB": "3",
     "REB": "8",
+    "AST": "0",
+    "STL": "0",
+    "BLK": "1",
+    "TO": "2",
     "PF": "0",
     "TP": "11",
-    "AST": "0",
-    "TO": "2",
-    "BLK": "1",
-    "STL": "0",
-    "MIN": "23",
     "eventDateFormatted": "Nov 25"
 }

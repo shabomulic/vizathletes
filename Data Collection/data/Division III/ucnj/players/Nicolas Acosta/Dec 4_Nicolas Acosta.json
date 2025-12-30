@@ -1,17 +1,17 @@
 {
     "Player Name": "Nicolas Acosta",
+    "MIN": "40",
     "FGM-A": "10-18",
     "3PM-A": "0-0",
     "FTM-A": "4-8",
     "OREB": "7",
     "DREB": "16",
     "REB": "23",
+    "AST": "3",
+    "STL": "8",
+    "BLK": "5",
+    "TO": "2",
     "PF": "3",
     "TP": "24",
-    "AST": "3",
-    "TO": "2",
-    "BLK": "5",
-    "STL": "8",
-    "MIN": "40",
     "eventDateFormatted": "Dec 4"
 }

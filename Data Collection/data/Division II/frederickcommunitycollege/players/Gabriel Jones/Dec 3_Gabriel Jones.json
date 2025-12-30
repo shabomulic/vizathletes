@@ -1,17 +1,17 @@
 {
     "Player Name": "Gabriel Jones",
+    "MIN": "38",
     "FGM-A": "9-15",
     "3PM-A": "1-6",
     "FTM-A": "1-2",
     "OREB": "2",
     "DREB": "3",
     "REB": "5",
+    "AST": "0",
+    "STL": "0",
+    "BLK": "0",
+    "TO": "2",
     "PF": "1",
     "TP": "20",
-    "AST": "0",
-    "TO": "2",
-    "BLK": "0",
-    "STL": "0",
-    "MIN": "38",
     "eventDateFormatted": "Dec 3"
 }

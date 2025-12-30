@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Feb 12",
+    "boxScoreLink": "20260212_nkpd.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Spring Hill JV",
+                "result": "",
+                "teamId": "mqdggxectqw7l56a",
+                "winner": false,
+                "cleanName": "spring hill jv"
+            },
+            {
+                "name": "Coastal Alabama - North",
+                "result": "",
+                "teamId": "utvz0zdiug0wgnet",
+                "winner": false,
+                "cleanName": "coastal alabama n"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1770937200000,
+        "localTimeZone": "America/Chicago",
+        "tba": false,
+        "home": true,
+        "overall": true,
+        "conference": false,
+        "division": false,
+        "regional": true,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "nkpdzr0m3u7cqpcn",
+        "fastdate": 1770937200000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "2800 South Alabama Ave, Monroeville, AL 36460",
+        "city": "Monroeville",
+        "stateCountry": "AL",
+        "zipCode": "36460",
+        "venue": "The Cooper Center",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Spring Hill JV",
+            "result": "",
+            "teamId": "mqdggxectqw7l56a",
+            "winner": false,
+            "cleanName": "spring hill jv"
+        },
+        "us": {
+            "name": "Coastal Alabama - North",
+            "result": "",
+            "teamId": "utvz0zdiug0wgnet",
+            "winner": false,
+            "cleanName": "coastal alabama n"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "February 12 06:00 PM:"
+}

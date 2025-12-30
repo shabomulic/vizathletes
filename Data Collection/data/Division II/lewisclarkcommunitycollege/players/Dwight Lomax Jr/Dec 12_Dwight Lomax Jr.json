@@ -1,17 +1,17 @@
 {
     "Player Name": "Dwight Lomax Jr",
+    "MIN": "1",
     "FGM-A": "5-10",
     "3PM-A": "1-4",
     "FTM-A": "1-2",
     "OREB": "1",
     "DREB": "0",
     "REB": "1",
+    "AST": "2",
+    "STL": "2",
+    "BLK": "0",
+    "TO": "1",
     "PF": "2",
     "TP": "12",
-    "AST": "2",
-    "TO": "1",
-    "BLK": "0",
-    "STL": "2",
-    "MIN": "1",
     "eventDateFormatted": "Dec 12"
 }

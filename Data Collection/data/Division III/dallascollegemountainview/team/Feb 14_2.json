@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Feb 14",
+    "boxScoreLink": "20260214_atl1.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Dallas College Richland",
+                "result": "",
+                "teamId": "yce5m9met8t16ta7",
+                "winner": false,
+                "cleanName": "dallas col richland"
+            },
+            {
+                "name": "Dallas College Mountain View",
+                "result": "",
+                "teamId": "3fjptjvq6tcriwu5",
+                "winner": false,
+                "cleanName": "dallas col mountain view"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1771092000000,
+        "localTimeZone": "America/Chicago",
+        "tba": false,
+        "home": true,
+        "overall": true,
+        "conference": true,
+        "division": false,
+        "regional": true,
+        "national": true,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "atl15b5disa6ulzf",
+        "fastdate": 1771092000000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Dallas College Richland",
+            "result": "",
+            "teamId": "yce5m9met8t16ta7",
+            "winner": false,
+            "cleanName": "dallas col richland"
+        },
+        "us": {
+            "name": "Dallas College Mountain View",
+            "result": "",
+            "teamId": "3fjptjvq6tcriwu5",
+            "winner": false,
+            "cleanName": "dallas col mountain view"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "February 14 01:00 PM:"
+}

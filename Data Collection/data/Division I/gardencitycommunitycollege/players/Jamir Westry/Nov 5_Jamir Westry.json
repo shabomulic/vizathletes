@@ -1,17 +1,17 @@
 {
     "Player Name": "Jamir Westry",
+    "MIN": "28",
     "FGM-A": "3-8",
     "3PM-A": "0-2",
     "FTM-A": "2-3",
     "OREB": "4",
     "DREB": "1",
     "REB": "5",
+    "AST": "7",
+    "STL": "2",
+    "BLK": "1",
+    "TO": "5",
     "PF": "3",
     "TP": "8",
-    "AST": "7",
-    "TO": "5",
-    "BLK": "1",
-    "STL": "2",
-    "MIN": "28",
     "eventDateFormatted": "Nov 5"
 }

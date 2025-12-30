@@ -1,17 +1,17 @@
 {
     "Player Name": "Ryder Bush",
+    "MIN": "31",
     "FGM-A": "7-14",
     "3PM-A": "0-1",
     "FTM-A": "2-3",
     "OREB": "0",
     "DREB": "4",
     "REB": "4",
+    "AST": "6",
+    "STL": "1",
+    "BLK": "1",
+    "TO": "4",
     "PF": "2",
     "TP": "16",
-    "AST": "6",
-    "TO": "4",
-    "BLK": "1",
-    "STL": "1",
-    "MIN": "31",
     "eventDateFormatted": "Nov 20"
 }

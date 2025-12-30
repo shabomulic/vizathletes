@@ -1,17 +1,17 @@
 {
     "Player Name": "Mo Diao",
+    "MIN": "31",
     "FGM-A": "4-8",
     "3PM-A": "0-0",
     "FTM-A": "0-2",
     "OREB": "2",
     "DREB": "11",
     "REB": "13",
+    "AST": "1",
+    "STL": "1",
+    "BLK": "7",
+    "TO": "5",
     "PF": "2",
     "TP": "8",
-    "AST": "1",
-    "TO": "5",
-    "BLK": "7",
-    "STL": "1",
-    "MIN": "31",
     "eventDateFormatted": "Dec 5"
 }

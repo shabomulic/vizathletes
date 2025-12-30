@@ -1,17 +1,17 @@
 {
     "Player Name": "Jay Tyler",
+    "MIN": "36",
     "FGM-A": "7-11",
     "3PM-A": "3-6",
     "FTM-A": "7-10",
     "OREB": "0",
     "DREB": "6",
     "REB": "6",
+    "AST": "8",
+    "STL": "0",
+    "BLK": "0",
+    "TO": "7",
     "PF": "4",
     "TP": "24",
-    "AST": "8",
-    "TO": "7",
-    "BLK": "0",
-    "STL": "0",
-    "MIN": "36",
     "eventDateFormatted": "Oct 31"
 }

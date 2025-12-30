@@ -1,17 +1,17 @@
 {
     "Player Name": "Nate Keil",
+    "MIN": "31",
     "FGM-A": "7-15",
     "3PM-A": "0-3",
     "FTM-A": "3-5",
     "OREB": "5",
     "DREB": "3",
     "REB": "8",
+    "AST": "3",
+    "STL": "3",
+    "BLK": "0",
+    "TO": "4",
     "PF": "4",
     "TP": "17",
-    "AST": "3",
-    "TO": "4",
-    "BLK": "0",
-    "STL": "3",
-    "MIN": "31",
     "eventDateFormatted": "Nov 24"
 }

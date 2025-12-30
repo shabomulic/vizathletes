@@ -1,17 +1,17 @@
 {
     "Player Name": "Cameron James",
+    "MIN": "1",
     "FGM-A": "5-8",
     "3PM-A": "2-3",
     "FTM-A": "0-2",
     "OREB": "1",
     "DREB": "3",
     "REB": "4",
+    "AST": "0",
+    "STL": "0",
+    "BLK": "1",
+    "TO": "5",
     "PF": "2",
     "TP": "12",
-    "AST": "0",
-    "TO": "5",
-    "BLK": "1",
-    "STL": "0",
-    "MIN": "1",
     "eventDateFormatted": "Dec 5"
 }

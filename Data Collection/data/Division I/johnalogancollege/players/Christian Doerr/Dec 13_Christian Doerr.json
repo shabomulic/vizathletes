@@ -1,17 +1,17 @@
 {
     "Player Name": "Christian Doerr",
+    "MIN": "1",
     "FGM-A": "4-6",
     "3PM-A": "1-1",
     "FTM-A": "7-9",
     "OREB": "0",
     "DREB": "1",
     "REB": "1",
+    "AST": "10",
+    "STL": "2",
+    "BLK": "0",
+    "TO": "3",
     "PF": "0",
     "TP": "16",
-    "AST": "10",
-    "TO": "3",
-    "BLK": "0",
-    "STL": "2",
-    "MIN": "1",
     "eventDateFormatted": "Dec 13"
 }

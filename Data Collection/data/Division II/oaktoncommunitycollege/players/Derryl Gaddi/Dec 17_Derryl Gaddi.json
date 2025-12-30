@@ -1,17 +1,17 @@
 {
     "Player Name": "Derryl Gaddi",
+    "MIN": "35",
     "FGM-A": "2-8",
     "3PM-A": "0-6",
     "FTM-A": "2-2",
     "OREB": "0",
     "DREB": "0",
     "REB": "0",
+    "AST": "5",
+    "STL": "1",
+    "BLK": "0",
+    "TO": "2",
     "PF": "3",
     "TP": "6",
-    "AST": "5",
-    "TO": "2",
-    "BLK": "0",
-    "STL": "1",
-    "MIN": "35",
     "eventDateFormatted": "Dec 17"
 }

@@ -1,17 +1,17 @@
 {
     "Player Name": "Scotty Telfair",
+    "MIN": "31",
     "FGM-A": "8-13",
     "3PM-A": "1-1",
     "FTM-A": "0-1",
     "OREB": "8",
     "DREB": "10",
     "REB": "18",
+    "AST": "1",
+    "STL": "0",
+    "BLK": "0",
+    "TO": "3",
     "PF": "4",
     "TP": "17",
-    "AST": "1",
-    "TO": "3",
-    "BLK": "0",
-    "STL": "0",
-    "MIN": "31",
     "eventDateFormatted": "Nov 24"
 }

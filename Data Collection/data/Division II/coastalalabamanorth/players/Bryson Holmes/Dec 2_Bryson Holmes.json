@@ -1,17 +1,17 @@
 {
     "Player Name": "Bryson Holmes",
+    "MIN": "1",
     "FGM-A": "3-4",
     "3PM-A": "2-3",
     "FTM-A": "0-0",
     "OREB": "2",
     "DREB": "3",
     "REB": "5",
+    "AST": "0",
+    "STL": "1",
+    "BLK": "1",
+    "TO": "3",
     "PF": "0",
     "TP": "8",
-    "AST": "0",
-    "TO": "3",
-    "BLK": "1",
-    "STL": "1",
-    "MIN": "1",
     "eventDateFormatted": "Dec 2"
 }

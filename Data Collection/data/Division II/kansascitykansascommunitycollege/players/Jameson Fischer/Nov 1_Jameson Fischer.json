@@ -1,17 +1,17 @@
 {
     "Player Name": "Jameson Fischer",
+    "MIN": "36",
     "FGM-A": "1-10",
     "3PM-A": "1-5",
     "FTM-A": "1-2",
     "OREB": "0",
     "DREB": "1",
     "REB": "1",
+    "AST": "2",
+    "STL": "0",
+    "BLK": "0",
+    "TO": "8",
     "PF": "3",
     "TP": "4",
-    "AST": "2",
-    "TO": "8",
-    "BLK": "0",
-    "STL": "0",
-    "MIN": "36",
     "eventDateFormatted": "Nov 1"
 }

@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Jan 8",
+    "boxScoreLink": "20260108_vmtd.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Pearl River Community College",
+                "result": "",
+                "teamId": "2ncesnrkjqgaw0u1",
+                "winner": false,
+                "cleanName": "pearl river community col"
+            },
+            {
+                "name": "Coastal Alabama - South",
+                "result": "",
+                "teamId": "jpfpqsaw9nvsj3jq",
+                "winner": false,
+                "cleanName": "coastal alabama s"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1767913200000,
+        "localTimeZone": "America/Chicago",
+        "tba": false,
+        "home": true,
+        "overall": true,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": true,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "vmtdhovcpkbt6z1x",
+        "fastdate": 1767913200000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Pearl River Community College",
+            "result": "",
+            "teamId": "2ncesnrkjqgaw0u1",
+            "winner": false,
+            "cleanName": "pearl river community col"
+        },
+        "us": {
+            "name": "Coastal Alabama - South",
+            "result": "",
+            "teamId": "jpfpqsaw9nvsj3jq",
+            "winner": false,
+            "cleanName": "coastal alabama s"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "conferenceResult": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "January 8 06:00 PM:"
+}

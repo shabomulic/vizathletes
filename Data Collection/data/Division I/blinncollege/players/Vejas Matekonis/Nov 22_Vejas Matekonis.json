@@ -1,17 +1,17 @@
 {
     "Player Name": "Vejas Matekonis",
+    "MIN": "37",
     "FGM-A": "1-4",
     "3PM-A": "0-0",
     "FTM-A": "0-0",
     "OREB": "0",
     "DREB": "5",
     "REB": "5",
+    "AST": "0",
+    "STL": "0",
+    "BLK": "1",
+    "TO": "7",
     "PF": "4",
     "TP": "2",
-    "AST": "0",
-    "TO": "7",
-    "BLK": "1",
-    "STL": "0",
-    "MIN": "37",
     "eventDateFormatted": "Nov 22"
 }

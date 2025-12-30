@@ -1,17 +1,17 @@
 {
     "Player Name": "Santana Spivey",
+    "MIN": "1",
     "FGM-A": "3-9",
     "3PM-A": "3-8",
     "FTM-A": "2-3",
     "OREB": "0",
     "DREB": "1",
     "REB": "1",
+    "AST": "0",
+    "STL": "0",
+    "BLK": "0",
+    "TO": "2",
     "PF": "5",
     "TP": "11",
-    "AST": "0",
-    "TO": "2",
-    "BLK": "0",
-    "STL": "0",
-    "MIN": "1",
     "eventDateFormatted": "Nov 15"
 }

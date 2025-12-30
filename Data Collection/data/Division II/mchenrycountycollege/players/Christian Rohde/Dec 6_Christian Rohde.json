@@ -1,17 +1,17 @@
 {
     "Player Name": "Christian Rohde",
+    "MIN": "23",
     "FGM-A": "4-4",
     "3PM-A": "0-0",
     "FTM-A": "1-1",
     "OREB": "3",
     "DREB": "3",
     "REB": "6",
+    "AST": "0",
+    "STL": "0",
+    "BLK": "3",
+    "TO": "2",
     "PF": "5",
     "TP": "9",
-    "AST": "0",
-    "TO": "2",
-    "BLK": "3",
-    "STL": "0",
-    "MIN": "23",
     "eventDateFormatted": "Dec 6"
 }

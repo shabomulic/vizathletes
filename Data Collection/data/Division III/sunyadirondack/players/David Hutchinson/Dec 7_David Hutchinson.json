@@ -1,17 +1,17 @@
 {
     "Player Name": "David Hutchinson",
+    "MIN": "1",
     "FGM-A": "4-6",
     "3PM-A": "0-0",
     "FTM-A": "1-2",
     "OREB": "7",
     "DREB": "16",
     "REB": "23",
+    "AST": "0",
+    "STL": "0",
+    "BLK": "0",
+    "TO": "4",
     "PF": "0",
     "TP": "9",
-    "AST": "0",
-    "TO": "4",
-    "BLK": "0",
-    "STL": "0",
-    "MIN": "1",
     "eventDateFormatted": "Dec 7"
 }

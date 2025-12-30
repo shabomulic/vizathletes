@@ -1,17 +1,17 @@
 {
     "Player Name": "Cinque Lemon",
+    "MIN": "1",
     "FGM-A": "3-7",
     "3PM-A": "0-0",
     "FTM-A": "1-4",
     "OREB": "4",
     "DREB": "13",
     "REB": "17",
+    "AST": "1",
+    "STL": "0",
+    "BLK": "1",
+    "TO": "4",
     "PF": "0",
     "TP": "7",
-    "AST": "1",
-    "TO": "4",
-    "BLK": "1",
-    "STL": "0",
-    "MIN": "1",
     "eventDateFormatted": "Dec 13"
 }

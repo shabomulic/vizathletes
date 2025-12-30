@@ -1,17 +1,17 @@
 {
     "Player Name": "Ace Reiser",
+    "MIN": "35",
     "FGM-A": "5-7",
     "3PM-A": "1-2",
     "FTM-A": "0-0",
     "OREB": "1",
     "DREB": "4",
     "REB": "5",
+    "AST": "5",
+    "STL": "1",
+    "BLK": "1",
+    "TO": "2",
     "PF": "1",
     "TP": "11",
-    "AST": "5",
-    "TO": "2",
-    "BLK": "1",
-    "STL": "1",
-    "MIN": "35",
     "eventDateFormatted": "Dec 13"
 }

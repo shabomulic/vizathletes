@@ -1,17 +1,17 @@
 {
     "Player Name": "Jean Paul Martinez",
+    "MIN": "1",
     "FGM-A": "7-12",
     "3PM-A": "4-4",
     "FTM-A": "2-2",
     "OREB": "0",
     "DREB": "3",
     "REB": "3",
+    "AST": "10",
+    "STL": "1",
+    "BLK": "0",
+    "TO": "6",
     "PF": "2",
     "TP": "20",
-    "AST": "10",
-    "TO": "6",
-    "BLK": "0",
-    "STL": "1",
-    "MIN": "1",
     "eventDateFormatted": "Nov 25"
 }

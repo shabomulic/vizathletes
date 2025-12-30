@@ -1,17 +1,17 @@
 {
     "Player Name": "Taj Petteway",
+    "MIN": "26",
     "FGM-A": "5-9",
     "3PM-A": "2-3",
     "FTM-A": "0-1",
     "OREB": "1",
     "DREB": "3",
     "REB": "4",
+    "AST": "0",
+    "STL": "3",
+    "BLK": "0",
+    "TO": "4",
     "PF": "1",
     "TP": "12",
-    "AST": "0",
-    "TO": "4",
-    "BLK": "0",
-    "STL": "3",
-    "MIN": "26",
     "eventDateFormatted": "Dec 6"
 }

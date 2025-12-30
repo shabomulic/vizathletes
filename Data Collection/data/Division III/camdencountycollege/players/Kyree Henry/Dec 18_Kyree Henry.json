@@ -1,17 +1,17 @@
 {
     "Player Name": "Kyree Henry",
+    "MIN": "15",
     "FGM-A": "1-3",
     "3PM-A": "0-1",
     "FTM-A": "0-0",
     "OREB": "1",
     "DREB": "3",
     "REB": "4",
+    "AST": "1",
+    "STL": "2",
+    "BLK": "0",
+    "TO": "0",
     "PF": "3",
     "TP": "2",
-    "AST": "1",
-    "TO": "0",
-    "BLK": "0",
-    "STL": "2",
-    "MIN": "15",
     "eventDateFormatted": "Dec 18"
 }

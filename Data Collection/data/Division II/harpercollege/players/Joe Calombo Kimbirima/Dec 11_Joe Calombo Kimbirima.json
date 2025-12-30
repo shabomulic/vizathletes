@@ -1,17 +1,17 @@
 {
     "Player Name": "Joe Calombo Kimbirima",
+    "MIN": "38",
     "FGM-A": "5-13",
     "3PM-A": "0-1",
     "FTM-A": "1-2",
     "OREB": "1",
     "DREB": "7",
     "REB": "8",
+    "AST": "4",
+    "STL": "1",
+    "BLK": "0",
+    "TO": "6",
     "PF": "1",
     "TP": "11",
-    "AST": "4",
-    "TO": "6",
-    "BLK": "0",
-    "STL": "1",
-    "MIN": "38",
     "eventDateFormatted": "Dec 11"
 }

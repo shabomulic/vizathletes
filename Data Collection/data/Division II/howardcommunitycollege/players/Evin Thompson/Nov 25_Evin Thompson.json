@@ -1,17 +1,17 @@
 {
     "Player Name": "Evin Thompson",
+    "MIN": "25",
     "FGM-A": "5-6",
     "3PM-A": "1-2",
     "FTM-A": "1-2",
     "OREB": "0",
     "DREB": "2",
     "REB": "2",
+    "AST": "3",
+    "STL": "0",
+    "BLK": "0",
+    "TO": "1",
     "PF": "1",
     "TP": "12",
-    "AST": "3",
-    "TO": "1",
-    "BLK": "0",
-    "STL": "0",
-    "MIN": "25",
     "eventDateFormatted": "Nov 25"
 }

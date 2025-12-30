@@ -1,17 +1,17 @@
 {
     "Player Name": "Nayel Girard",
+    "MIN": "37",
     "FGM-A": "3-6",
     "3PM-A": "0-2",
     "FTM-A": "3-6",
     "OREB": "0",
     "DREB": "5",
     "REB": "5",
+    "AST": "4",
+    "STL": "0",
+    "BLK": "1",
+    "TO": "2",
     "PF": "4",
     "TP": "9",
-    "AST": "4",
-    "TO": "2",
-    "BLK": "1",
-    "STL": "0",
-    "MIN": "37",
     "eventDateFormatted": "Dec 17"
 }

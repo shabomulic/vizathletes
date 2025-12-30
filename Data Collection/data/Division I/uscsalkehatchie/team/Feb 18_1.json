@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Feb 18",
+    "boxScoreLink": "20260218_8d2e.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "USC Salkehatchie",
+                "result": "",
+                "teamId": "5ggr9ja725u11ojv",
+                "winner": false,
+                "cleanName": "usc salkehatchie"
+            },
+            {
+                "name": "Cape Fear Community College",
+                "result": "",
+                "teamId": "d1j0w5o46qkcv1nh",
+                "winner": false,
+                "cleanName": "cape fear community col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "Wilmington, NC",
+        "date": 1771459200000,
+        "localTimeZone": "America/New_York",
+        "tba": false,
+        "home": false,
+        "overall": true,
+        "conference": true,
+        "division": false,
+        "regional": false,
+        "national": true,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "8d2elkvhjv63qd8x",
+        "fastdate": 1771459200000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "us": {
+            "name": "USC Salkehatchie",
+            "result": "",
+            "teamId": "5ggr9ja725u11ojv",
+            "winner": false,
+            "cleanName": "usc salkehatchie"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Cape Fear Community College",
+            "result": "",
+            "teamId": "d1j0w5o46qkcv1nh",
+            "winner": false,
+            "cleanName": "cape fear community col"
+        },
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "February 18 07:00 PM:"
+}

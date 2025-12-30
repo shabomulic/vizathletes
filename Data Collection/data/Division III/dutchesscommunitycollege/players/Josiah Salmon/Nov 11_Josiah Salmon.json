@@ -1,17 +1,17 @@
 {
     "Player Name": "Josiah Salmon",
+    "MIN": "1",
     "FGM-A": "6-14",
     "3PM-A": "0-0",
     "FTM-A": "5-7",
     "OREB": "5",
     "DREB": "5",
     "REB": "10",
+    "AST": "1",
+    "STL": "1",
+    "BLK": "5",
+    "TO": "0",
     "PF": "0",
     "TP": "17",
-    "AST": "1",
-    "TO": "0",
-    "BLK": "5",
-    "STL": "1",
-    "MIN": "1",
     "eventDateFormatted": "Nov 11"
 }

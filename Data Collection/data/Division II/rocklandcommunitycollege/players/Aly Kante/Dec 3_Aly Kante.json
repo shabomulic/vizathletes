@@ -1,17 +1,17 @@
 {
     "Player Name": "Aly Kante",
+    "MIN": "1",
     "FGM-A": "2-2",
     "3PM-A": "0-0",
     "FTM-A": "0-1",
     "OREB": "3",
     "DREB": "2",
     "REB": "5",
+    "AST": "0",
+    "STL": "1",
+    "BLK": "0",
+    "TO": "1",
     "PF": "0",
     "TP": "4",
-    "AST": "0",
-    "TO": "1",
-    "BLK": "0",
-    "STL": "1",
-    "MIN": "1",
     "eventDateFormatted": "Dec 3"
 }

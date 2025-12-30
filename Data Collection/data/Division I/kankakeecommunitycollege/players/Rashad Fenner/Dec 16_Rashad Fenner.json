@@ -1,17 +1,17 @@
 {
     "Player Name": "Rashad Fenner",
+    "MIN": "1",
     "FGM-A": "2-6",
     "3PM-A": "0-0",
     "FTM-A": "0-1",
     "OREB": "0",
     "DREB": "4",
     "REB": "4",
+    "AST": "2",
+    "STL": "1",
+    "BLK": "0",
+    "TO": "2",
     "PF": "1",
     "TP": "4",
-    "AST": "2",
-    "TO": "2",
-    "BLK": "0",
-    "STL": "1",
-    "MIN": "1",
     "eventDateFormatted": "Dec 16"
 }

@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Jan 10",
+    "boxScoreLink": "20260110_l61a.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Cape Fear Community College",
+                "result": "",
+                "teamId": "d1j0w5o46qkcv1nh",
+                "winner": false,
+                "cleanName": "cape fear community col"
+            },
+            {
+                "name": "Richard Bland College",
+                "result": "",
+                "teamId": "wwjd9rxorfx5txz6",
+                "winner": false,
+                "cleanName": "richard bland col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "Petersburg, VA",
+        "date": 1768075200000,
+        "localTimeZone": "America/New_York",
+        "tba": false,
+        "home": false,
+        "overall": true,
+        "conference": true,
+        "division": false,
+        "regional": false,
+        "national": true,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "l61ayfbb4lzntb3j",
+        "fastdate": 1768075200000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Richard Bland College",
+            "result": "",
+            "teamId": "wwjd9rxorfx5txz6",
+            "winner": false,
+            "cleanName": "richard bland col"
+        },
+        "us": {
+            "name": "Cape Fear Community College",
+            "result": "",
+            "teamId": "d1j0w5o46qkcv1nh",
+            "winner": false,
+            "cleanName": "cape fear community col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "conferenceResult": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "January 10 03:00 PM:"
+}

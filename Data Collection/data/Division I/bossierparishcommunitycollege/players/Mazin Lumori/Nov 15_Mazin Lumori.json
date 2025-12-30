@@ -1,17 +1,17 @@
 {
     "Player Name": "Mazin Lumori",
+    "MIN": "22",
     "FGM-A": "3-6",
     "3PM-A": "0-2",
     "FTM-A": "0-0",
     "OREB": "2",
     "DREB": "3",
     "REB": "5",
+    "AST": "0",
+    "STL": "1",
+    "BLK": "1",
+    "TO": "0",
     "PF": "4",
     "TP": "6",
-    "AST": "0",
-    "TO": "0",
-    "BLK": "1",
-    "STL": "1",
-    "MIN": "22",
     "eventDateFormatted": "Nov 15"
 }

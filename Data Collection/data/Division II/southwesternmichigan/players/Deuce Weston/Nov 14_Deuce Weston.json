@@ -1,17 +1,17 @@
 {
     "Player Name": "Deuce Weston",
+    "MIN": "28",
     "FGM-A": "3-12",
     "3PM-A": "0-1",
     "FTM-A": "3-5",
     "OREB": "4",
     "DREB": "3",
     "REB": "7",
+    "AST": "4",
+    "STL": "1",
+    "BLK": "0",
+    "TO": "3",
     "PF": "0",
     "TP": "9",
-    "AST": "4",
-    "TO": "3",
-    "BLK": "0",
-    "STL": "1",
-    "MIN": "28",
     "eventDateFormatted": "Nov 14"
 }

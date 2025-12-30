@@ -1,17 +1,17 @@
 {
     "Player Name": "Aaron Bliss",
+    "MIN": "19",
     "FGM-A": "4-6",
     "3PM-A": "0-0",
     "FTM-A": "0-0",
     "OREB": "3",
     "DREB": "3",
     "REB": "6",
+    "AST": "1",
+    "STL": "1",
+    "BLK": "0",
+    "TO": "1",
     "PF": "0",
     "TP": "8",
-    "AST": "1",
-    "TO": "1",
-    "BLK": "0",
-    "STL": "1",
-    "MIN": "19",
     "eventDateFormatted": "Dec 13"
 }

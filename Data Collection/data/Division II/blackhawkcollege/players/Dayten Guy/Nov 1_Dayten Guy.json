@@ -1,17 +1,17 @@
 {
     "Player Name": "Dayten Guy",
+    "MIN": "1",
     "FGM-A": "2-4",
     "3PM-A": "1-3",
     "FTM-A": "1-2",
     "OREB": "1",
     "DREB": "0",
     "REB": "1",
+    "AST": "0",
+    "STL": "3",
+    "BLK": "0",
+    "TO": "4",
     "PF": "1",
     "TP": "6",
-    "AST": "0",
-    "TO": "4",
-    "BLK": "0",
-    "STL": "3",
-    "MIN": "1",
     "eventDateFormatted": "Nov 1"
 }

@@ -1,17 +1,17 @@
 {
     "Player Name": "Taesyn Slating",
+    "MIN": "29",
     "FGM-A": "10-22",
     "3PM-A": "9-17",
     "FTM-A": "2-4",
     "OREB": "2",
     "DREB": "2",
     "REB": "4",
+    "AST": "2",
+    "STL": "1",
+    "BLK": "0",
+    "TO": "0",
     "PF": "1",
     "TP": "31",
-    "AST": "2",
-    "TO": "0",
-    "BLK": "0",
-    "STL": "1",
-    "MIN": "29",
     "eventDateFormatted": "Nov 22"
 }

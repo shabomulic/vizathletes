@@ -1,17 +1,17 @@
 {
     "Player Name": "Jaden Harper",
+    "MIN": "27",
     "FGM-A": "2-5",
     "3PM-A": "1-4",
     "FTM-A": "4-4",
     "OREB": "0",
     "DREB": "7",
     "REB": "7",
+    "AST": "2",
+    "STL": "2",
+    "BLK": "2",
+    "TO": "0",
     "PF": "2",
     "TP": "9",
-    "AST": "2",
-    "TO": "0",
-    "BLK": "2",
-    "STL": "2",
-    "MIN": "27",
     "eventDateFormatted": "Dec 4"
 }

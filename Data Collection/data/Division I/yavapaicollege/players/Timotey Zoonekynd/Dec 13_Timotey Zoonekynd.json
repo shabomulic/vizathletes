@@ -1,17 +1,17 @@
 {
     "Player Name": "Timotey Zoonekynd",
+    "MIN": "38",
     "FGM-A": "5-13",
     "3PM-A": "4-12",
     "FTM-A": "3-4",
     "OREB": "0",
     "DREB": "4",
     "REB": "4",
+    "AST": "2",
+    "STL": "3",
+    "BLK": "0",
+    "TO": "1",
     "PF": "2",
     "TP": "17",
-    "AST": "2",
-    "TO": "1",
-    "BLK": "0",
-    "STL": "3",
-    "MIN": "38",
     "eventDateFormatted": "Dec 13"
 }

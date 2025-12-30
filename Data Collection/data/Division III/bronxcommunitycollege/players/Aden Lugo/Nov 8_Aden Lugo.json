@@ -1,17 +1,17 @@
 {
     "Player Name": "Aden Lugo",
+    "MIN": "22",
     "FGM-A": "3-6",
     "3PM-A": "0-0",
     "FTM-A": "1-2",
     "OREB": "3",
     "DREB": "2",
     "REB": "5",
+    "AST": "1",
+    "STL": "2",
+    "BLK": "1",
+    "TO": "6",
     "PF": "2",
     "TP": "7",
-    "AST": "1",
-    "TO": "6",
-    "BLK": "1",
-    "STL": "2",
-    "MIN": "22",
     "eventDateFormatted": "Nov 8"
 }

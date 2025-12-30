@@ -1,17 +1,17 @@
 {
     "Player Name": "Taveon Vann",
+    "MIN": "34:32",
     "FGM-A": "7-13",
     "3PM-A": "0-0",
     "FTM-A": "2-2",
     "OREB": "2",
     "DREB": "10",
     "REB": "12",
+    "AST": "3",
+    "STL": "3",
+    "BLK": "1",
+    "TO": "0",
     "PF": "3",
     "TP": "16",
-    "AST": "3",
-    "TO": "0",
-    "BLK": "1",
-    "STL": "3",
-    "MIN": "34:32",
     "eventDateFormatted": "Dec 20"
 }

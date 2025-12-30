@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Oct 31",
+    "boxScoreLink": "20251031_zb7v.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Carlow",
+                "result": "",
+                "teamId": "af8fxnhnsvh7k9es",
+                "winner": false,
+                "cleanName": "carlow"
+            },
+            {
+                "name": "Community College of Beaver County",
+                "result": "",
+                "teamId": "zf51sbfi3mychos5",
+                "winner": false,
+                "cleanName": "community col beaver county"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "Scrimmage",
+        "date": 1761948000000,
+        "localTimeZone": "America/New_York",
+        "tba": false,
+        "home": true,
+        "overall": false,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "zb7vrwdm29ud4svg",
+        "fastdate": 1761948000000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "scrimmage",
+            "description": "Scrimmage",
+            "statsCount": false
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Carlow",
+            "result": "",
+            "teamId": "af8fxnhnsvh7k9es",
+            "winner": false,
+            "cleanName": "carlow"
+        },
+        "us": {
+            "name": "Community College of Beaver County",
+            "result": "",
+            "teamId": "zf51sbfi3mychos5",
+            "winner": false,
+            "cleanName": "community col beaver county"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "October 31 06:00 PM:"
+}

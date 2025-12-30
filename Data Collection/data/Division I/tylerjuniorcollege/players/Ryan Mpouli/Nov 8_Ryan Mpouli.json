@@ -1,17 +1,17 @@
 {
     "Player Name": "Ryan Mpouli",
+    "MIN": "1",
     "FGM-A": "3-6",
     "3PM-A": "2-5",
     "FTM-A": "2-3",
     "OREB": "3",
     "DREB": "3",
     "REB": "6",
+    "AST": "0",
+    "STL": "1",
+    "BLK": "0",
+    "TO": "2",
     "PF": "2",
     "TP": "10",
-    "AST": "0",
-    "TO": "2",
-    "BLK": "0",
-    "STL": "1",
-    "MIN": "1",
     "eventDateFormatted": "Nov 8"
 }

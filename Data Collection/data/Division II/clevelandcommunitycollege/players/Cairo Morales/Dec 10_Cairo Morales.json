@@ -1,17 +1,17 @@
 {
     "Player Name": "Cairo Morales",
+    "MIN": "1",
     "FGM-A": "7-14",
     "3PM-A": "0-0",
     "FTM-A": "3-6",
     "OREB": "10",
     "DREB": "3",
     "REB": "13",
+    "AST": "1",
+    "STL": "0",
+    "BLK": "1",
+    "TO": "4",
     "PF": "0",
     "TP": "17",
-    "AST": "1",
-    "TO": "4",
-    "BLK": "1",
-    "STL": "0",
-    "MIN": "1",
     "eventDateFormatted": "Dec 10"
 }

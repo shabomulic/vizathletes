@@ -1,17 +1,17 @@
 {
     "Player Name": "Koie Williams",
+    "MIN": "33",
     "FGM-A": "7-10",
     "3PM-A": "2-4",
     "FTM-A": "3-3",
     "OREB": "1",
     "DREB": "5",
     "REB": "6",
+    "AST": "3",
+    "STL": "1",
+    "BLK": "0",
+    "TO": "3",
     "PF": "5",
     "TP": "19",
-    "AST": "3",
-    "TO": "3",
-    "BLK": "0",
-    "STL": "1",
-    "MIN": "33",
     "eventDateFormatted": "Nov 10"
 }

@@ -1,17 +1,17 @@
 {
     "Player Name": "Jalen James",
+    "MIN": "20",
     "FGM-A": "3-4",
     "3PM-A": "1-1",
     "FTM-A": "4-4",
     "OREB": "0",
     "DREB": "4",
     "REB": "4",
+    "AST": "5",
+    "STL": "0",
+    "BLK": "1",
+    "TO": "2",
     "PF": "1",
     "TP": "11",
-    "AST": "5",
-    "TO": "2",
-    "BLK": "1",
-    "STL": "0",
-    "MIN": "20",
     "eventDateFormatted": "Nov 8"
 }

@@ -1,0 +1,119 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Dec 18",
+    "boxScoreLink": "20251218_pupn.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "UCNJ",
+                "result": "6",
+                "teamId": "ws7omr5o5bjxw34d",
+                "winner": false,
+                "cleanName": "ucnj"
+            },
+            {
+                "name": "Atlantic Cape Community College",
+                "result": "2",
+                "teamId": "3ky7k3et9po89yso",
+                "winner": false,
+                "cleanName": "atlantic cape community col"
+            }
+        ],
+        "status": "13:05 first half",
+        "notes": "",
+        "notesShared": "",
+        "date": 1766095200000,
+        "localTimeZone": "America/New_York",
+        "tba": false,
+        "home": true,
+        "overall": true,
+        "conference": true,
+        "division": true,
+        "regional": false,
+        "national": true,
+        "inProgress": true,
+        "statusCode": -1,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "pupnyt2f27fw3jl0",
+        "fastdate": 1766095200000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "results": [
+                6,
+                2
+            ],
+            "resolved": false,
+            "hasScores": true,
+            "description": "",
+            "score": "2-6",
+            "numericResults": [
+                2,
+                6
+            ],
+            "winnerLoser": "2-6",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "UCNJ",
+            "result": "6",
+            "teamId": "ws7omr5o5bjxw34d",
+            "winner": false,
+            "cleanName": "ucnj"
+        },
+        "us": {
+            "name": "Atlantic Cape Community College",
+            "result": "2",
+            "teamId": "3ky7k3et9po89yso",
+            "winner": false,
+            "cleanName": "atlantic cape community col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "results": [
+                6,
+                2
+            ],
+            "resolved": false,
+            "hasScores": true,
+            "description": "",
+            "score": "2-6",
+            "numericResults": [
+                2,
+                6
+            ],
+            "winnerLoser": "2-6",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "December 18 05:00 PM:"
+}

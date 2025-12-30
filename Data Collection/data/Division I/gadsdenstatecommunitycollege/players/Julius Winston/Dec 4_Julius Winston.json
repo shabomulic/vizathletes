@@ -1,17 +1,17 @@
 {
     "Player Name": "Julius Winston",
+    "MIN": "1",
     "FGM-A": "1-2",
     "3PM-A": "0-0",
     "FTM-A": "2-2",
     "OREB": "2",
     "DREB": "4",
     "REB": "6",
+    "AST": "3",
+    "STL": "0",
+    "BLK": "3",
+    "TO": "0",
     "PF": "6",
     "TP": "4",
-    "AST": "3",
-    "TO": "0",
-    "BLK": "3",
-    "STL": "0",
-    "MIN": "1",
     "eventDateFormatted": "Dec 4"
 }

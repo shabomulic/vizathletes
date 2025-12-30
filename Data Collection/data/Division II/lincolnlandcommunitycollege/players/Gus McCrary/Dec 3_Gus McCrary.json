@@ -1,17 +1,17 @@
 {
     "Player Name": "Gus McCrary",
+    "MIN": "1",
     "FGM-A": "3-9",
     "3PM-A": "2-6",
     "FTM-A": "0-0",
     "OREB": "0",
     "DREB": "6",
     "REB": "6",
+    "AST": "1",
+    "STL": "0",
+    "BLK": "0",
+    "TO": "0",
     "PF": "2",
     "TP": "8",
-    "AST": "1",
-    "TO": "0",
-    "BLK": "0",
-    "STL": "0",
-    "MIN": "1",
     "eventDateFormatted": "Dec 3"
 }

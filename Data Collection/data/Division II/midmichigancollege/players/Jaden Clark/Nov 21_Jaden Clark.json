@@ -1,17 +1,17 @@
 {
     "Player Name": "Jaden Clark",
+    "MIN": "20",
     "FGM-A": "2-8",
     "3PM-A": "1-6",
     "FTM-A": "5-7",
     "OREB": "3",
     "DREB": "2",
     "REB": "5",
+    "AST": "1",
+    "STL": "1",
+    "BLK": "1",
+    "TO": "2",
     "PF": "2",
     "TP": "10",
-    "AST": "1",
-    "TO": "2",
-    "BLK": "1",
-    "STL": "1",
-    "MIN": "20",
     "eventDateFormatted": "Nov 21"
 }

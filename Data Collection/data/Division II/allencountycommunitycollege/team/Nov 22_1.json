@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Nov 22",
+    "boxScoreLink": "20251122_6cvj.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Northern Oklahoma College-Enid",
+                "result": "",
+                "teamId": "653x2ob5h2o49uod",
+                "winner": false,
+                "cleanName": "n oklahoma col enid"
+            },
+            {
+                "name": "Allen County Community College",
+                "result": "",
+                "teamId": "sibpaogalee0klmu",
+                "winner": false,
+                "cleanName": "allen county community col"
+            }
+        ],
+        "status": "Cancelled",
+        "notes": "",
+        "notesShared": "",
+        "date": 1763852400000,
+        "localTimeZone": "America/Chicago",
+        "tba": false,
+        "home": true,
+        "overall": true,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": true,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "6cvji6g2sk5gvca1",
+        "fastdate": 1763852400000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Northern Oklahoma College-Enid",
+            "result": "",
+            "teamId": "653x2ob5h2o49uod",
+            "winner": false,
+            "cleanName": "n oklahoma col enid"
+        },
+        "us": {
+            "name": "Allen County Community College",
+            "result": "",
+            "teamId": "sibpaogalee0klmu",
+            "winner": false,
+            "cleanName": "allen county community col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "November 22 06:00 PM:"
+}

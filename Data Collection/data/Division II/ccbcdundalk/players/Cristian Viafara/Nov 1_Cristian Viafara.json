@@ -1,17 +1,17 @@
 {
     "Player Name": "Cristian Viafara",
+    "MIN": "17",
     "FGM-A": "6-10",
     "3PM-A": "0-0",
     "FTM-A": "5-6",
     "OREB": "1",
     "DREB": "4",
     "REB": "5",
+    "AST": "1",
+    "STL": "2",
+    "BLK": "0",
+    "TO": "3",
     "PF": "2",
     "TP": "17",
-    "AST": "1",
-    "TO": "3",
-    "BLK": "0",
-    "STL": "2",
-    "MIN": "17",
     "eventDateFormatted": "Nov 1"
 }

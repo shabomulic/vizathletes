@@ -1,17 +1,17 @@
 {
     "Player Name": "Nate Coley",
+    "MIN": "39",
     "FGM-A": "7-18",
     "3PM-A": "0-4",
     "FTM-A": "12-19",
     "OREB": "0",
     "DREB": "3",
     "REB": "3",
+    "AST": "5",
+    "STL": "4",
+    "BLK": "0",
+    "TO": "5",
     "PF": "3",
     "TP": "26",
-    "AST": "5",
-    "TO": "5",
-    "BLK": "0",
-    "STL": "4",
-    "MIN": "39",
     "eventDateFormatted": "Nov 6"
 }

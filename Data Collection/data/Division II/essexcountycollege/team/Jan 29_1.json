@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Jan 29",
+    "boxScoreLink": "20260129_owty.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Essex County College",
+                "result": "",
+                "teamId": "53knpgmizc4kjdxc",
+                "winner": false,
+                "cleanName": "essex county col"
+            },
+            {
+                "name": "Bucks County Community College",
+                "result": "",
+                "teamId": "fzmuh30rig6gioo6",
+                "winner": false,
+                "cleanName": "bucks county community col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1769731200000,
+        "localTimeZone": "America/New_York",
+        "tba": false,
+        "home": false,
+        "overall": true,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": true,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "owty0u0o7tmjr6dh",
+        "fastdate": 1769731200000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Bucks County Community College",
+            "result": "",
+            "teamId": "fzmuh30rig6gioo6",
+            "winner": false,
+            "cleanName": "bucks county community col"
+        },
+        "us": {
+            "name": "Essex County College",
+            "result": "",
+            "teamId": "53knpgmizc4kjdxc",
+            "winner": false,
+            "cleanName": "essex county col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "January 29 07:00 PM:"
+}

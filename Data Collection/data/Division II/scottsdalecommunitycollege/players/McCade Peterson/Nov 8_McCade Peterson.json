@@ -1,17 +1,17 @@
 {
     "Player Name": "McCade Peterson",
+    "MIN": "25",
     "FGM-A": "1-6",
     "3PM-A": "0-1",
     "FTM-A": "3-3",
     "OREB": "2",
     "DREB": "4",
     "REB": "6",
+    "AST": "1",
+    "STL": "1",
+    "BLK": "1",
+    "TO": "2",
     "PF": "1",
     "TP": "5",
-    "AST": "1",
-    "TO": "2",
-    "BLK": "1",
-    "STL": "1",
-    "MIN": "25",
     "eventDateFormatted": "Nov 8"
 }

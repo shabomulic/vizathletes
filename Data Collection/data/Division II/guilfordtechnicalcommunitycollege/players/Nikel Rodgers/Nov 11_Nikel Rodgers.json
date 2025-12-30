@@ -1,17 +1,17 @@
 {
     "Player Name": "Nikel Rodgers",
+    "MIN": "1",
     "FGM-A": "5-8",
     "3PM-A": "3-6",
     "FTM-A": "3-3",
     "OREB": "0",
     "DREB": "3",
     "REB": "3",
+    "AST": "0",
+    "STL": "2",
+    "BLK": "0",
+    "TO": "0",
     "PF": "2",
     "TP": "16",
-    "AST": "0",
-    "TO": "0",
-    "BLK": "0",
-    "STL": "2",
-    "MIN": "1",
     "eventDateFormatted": "Nov 11"
 }

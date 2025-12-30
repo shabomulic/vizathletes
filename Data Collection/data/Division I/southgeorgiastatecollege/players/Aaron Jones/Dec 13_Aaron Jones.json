@@ -1,17 +1,17 @@
 {
     "Player Name": "Aaron Jones",
+    "MIN": "24",
     "FGM-A": "0-3",
     "3PM-A": "0-0",
     "FTM-A": "1-2",
     "OREB": "4",
     "DREB": "3",
     "REB": "7",
+    "AST": "0",
+    "STL": "0",
+    "BLK": "1",
+    "TO": "1",
     "PF": "5",
     "TP": "1",
-    "AST": "0",
-    "TO": "1",
-    "BLK": "1",
-    "STL": "0",
-    "MIN": "24",
     "eventDateFormatted": "Dec 13"
 }

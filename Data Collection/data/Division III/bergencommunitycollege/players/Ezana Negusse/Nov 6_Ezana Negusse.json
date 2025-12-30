@@ -1,17 +1,17 @@
 {
     "Player Name": "Ezana Negusse",
+    "MIN": "21",
     "FGM-A": "2-5",
     "3PM-A": "0-0",
     "FTM-A": "1-1",
     "OREB": "2",
     "DREB": "5",
     "REB": "7",
+    "AST": "2",
+    "STL": "0",
+    "BLK": "0",
+    "TO": "0",
     "PF": "3",
     "TP": "5",
-    "AST": "2",
-    "TO": "0",
-    "BLK": "0",
-    "STL": "0",
-    "MIN": "21",
     "eventDateFormatted": "Nov 6"
 }

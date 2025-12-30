@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Jan 14",
+    "boxScoreLink": "20260114_o1em.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Reinhardt University JV",
+                "result": "",
+                "teamId": "okn9lxy5on049i42",
+                "winner": false,
+                "cleanName": "reinhardt univ jv"
+            },
+            {
+                "name": "Oxford College of Emory University",
+                "result": "",
+                "teamId": "tsjau2er592nza5k",
+                "winner": false,
+                "cleanName": "oxford col emory univ"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1768435200000,
+        "localTimeZone": "America/New_York",
+        "tba": false,
+        "home": true,
+        "overall": true,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "o1emkmo1bhx0m4dy",
+        "fastdate": 1768435200000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Reinhardt University JV",
+            "result": "",
+            "teamId": "okn9lxy5on049i42",
+            "winner": false,
+            "cleanName": "reinhardt univ jv"
+        },
+        "us": {
+            "name": "Oxford College of Emory University",
+            "result": "",
+            "teamId": "tsjau2er592nza5k",
+            "winner": false,
+            "cleanName": "oxford col emory univ"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "January 14 07:00 PM:"
+}

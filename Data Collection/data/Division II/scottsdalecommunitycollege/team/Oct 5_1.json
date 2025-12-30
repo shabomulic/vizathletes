@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Oct 5",
+    "boxScoreLink": "20251005_zfvx.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Scottsdale Community College",
+                "result": "",
+                "teamId": "7cf6kb3kvb9k0btx",
+                "winner": false,
+                "cleanName": "scottsdale community col"
+            },
+            {
+                "name": "Jamboree",
+                "result": "",
+                "teamId": "rc3dzjzujzcs07w1",
+                "winner": false,
+                "cleanName": "jamboree"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1759683600000,
+        "localTimeZone": "America/Phoenix",
+        "tba": false,
+        "home": false,
+        "overall": false,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "South Mountain",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "zfvx7i9tzyel7fbc",
+        "fastdate": 1759683600000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "scrimmage",
+            "description": "Scrimmage",
+            "statsCount": false
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Jamboree",
+            "result": "",
+            "teamId": "rc3dzjzujzcs07w1",
+            "winner": false,
+            "cleanName": "jamboree"
+        },
+        "us": {
+            "name": "Scottsdale Community College",
+            "result": "",
+            "teamId": "7cf6kb3kvb9k0btx",
+            "winner": false,
+            "cleanName": "scottsdale community col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "October 5 01:00 PM:"
+}

@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Oct 31",
+    "boxScoreLink": "20251031_5jdr.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Essex County College",
+                "result": "",
+                "teamId": "53knpgmizc4kjdxc",
+                "winner": false,
+                "cleanName": "essex county col"
+            },
+            {
+                "name": "Bloomfield College",
+                "result": "",
+                "teamId": "ot7qu4yl2p09zi99",
+                "winner": false,
+                "cleanName": "bloomfield col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1761946200000,
+        "localTimeZone": "America/New_York",
+        "tba": false,
+        "home": false,
+        "overall": false,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "5jdr8n9z899vi40o",
+        "fastdate": 1761946200000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "exhibition",
+            "description": "Exhibition",
+            "statsCount": false
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Bloomfield College",
+            "result": "",
+            "teamId": "ot7qu4yl2p09zi99",
+            "winner": false,
+            "cleanName": "bloomfield col"
+        },
+        "us": {
+            "name": "Essex County College",
+            "result": "",
+            "teamId": "53knpgmizc4kjdxc",
+            "winner": false,
+            "cleanName": "essex county col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "October 31 05:30 PM:"
+}

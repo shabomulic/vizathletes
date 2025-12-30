@@ -1,17 +1,17 @@
 {
     "Player Name": "Jeremy Polanco",
+    "MIN": "31",
     "FGM-A": "3-10",
     "3PM-A": "2-3",
     "FTM-A": "2-2",
     "OREB": "0",
     "DREB": "2",
     "REB": "2",
+    "AST": "5",
+    "STL": "0",
+    "BLK": "1",
+    "TO": "4",
     "PF": "1",
     "TP": "10",
-    "AST": "5",
-    "TO": "4",
-    "BLK": "1",
-    "STL": "0",
-    "MIN": "31",
     "eventDateFormatted": "Dec 2"
 }

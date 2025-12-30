@@ -1,17 +1,17 @@
 {
     "Player Name": "Ethan Carter",
+    "MIN": "26",
     "FGM-A": "8-16",
     "3PM-A": "0-0",
     "FTM-A": "2-2",
     "OREB": "2",
     "DREB": "9",
     "REB": "11",
+    "AST": "0",
+    "STL": "1",
+    "BLK": "0",
+    "TO": "2",
     "PF": "3",
     "TP": "18",
-    "AST": "0",
-    "TO": "2",
-    "BLK": "0",
-    "STL": "1",
-    "MIN": "26",
     "eventDateFormatted": "Nov 29"
 }

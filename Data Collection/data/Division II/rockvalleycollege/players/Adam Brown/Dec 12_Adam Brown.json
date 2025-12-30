@@ -1,17 +1,17 @@
 {
     "Player Name": "Adam Brown",
+    "MIN": "32",
     "FGM-A": "0-7",
     "3PM-A": "0-6",
     "FTM-A": "1-1",
     "OREB": "0",
     "DREB": "6",
     "REB": "6",
+    "AST": "1",
+    "STL": "1",
+    "BLK": "3",
+    "TO": "0",
     "PF": "0",
     "TP": "1",
-    "AST": "1",
-    "TO": "0",
-    "BLK": "3",
-    "STL": "1",
-    "MIN": "32",
     "eventDateFormatted": "Dec 12"
 }

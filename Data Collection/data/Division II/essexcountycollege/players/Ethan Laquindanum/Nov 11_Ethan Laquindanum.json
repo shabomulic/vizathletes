@@ -1,17 +1,17 @@
 {
     "Player Name": "Ethan Laquindanum",
+    "MIN": "1",
     "FGM-A": "6-15",
     "3PM-A": "1-2",
     "FTM-A": "0-0",
     "OREB": "2",
     "DREB": "0",
     "REB": "2",
+    "AST": "7",
+    "STL": "4",
+    "BLK": "0",
+    "TO": "2",
     "PF": "2",
     "TP": "13",
-    "AST": "7",
-    "TO": "2",
-    "BLK": "0",
-    "STL": "4",
-    "MIN": "1",
     "eventDateFormatted": "Nov 11"
 }

@@ -1,17 +1,17 @@
 {
     "Player Name": "Evan Meberg",
+    "MIN": "34",
     "FGM-A": "4-8",
     "3PM-A": "2-2",
     "FTM-A": "3-3",
     "OREB": "0",
     "DREB": "4",
     "REB": "4",
+    "AST": "0",
+    "STL": "1",
+    "BLK": "0",
+    "TO": "2",
     "PF": "5",
     "TP": "13",
-    "AST": "0",
-    "TO": "2",
-    "BLK": "0",
-    "STL": "1",
-    "MIN": "34",
     "eventDateFormatted": "Dec 4"
 }

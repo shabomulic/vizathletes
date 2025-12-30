@@ -1,17 +1,17 @@
 {
     "Player Name": "Ozzie Johnson",
+    "MIN": "16:45",
     "FGM-A": "4-7",
     "3PM-A": "0-0",
     "FTM-A": "2-2",
     "OREB": "6",
     "DREB": "9",
     "REB": "15",
+    "AST": "0",
+    "STL": "1",
+    "BLK": "2",
+    "TO": "3",
     "PF": "1",
     "TP": "10",
-    "AST": "0",
-    "TO": "3",
-    "BLK": "2",
-    "STL": "1",
-    "MIN": "16:45",
     "eventDateFormatted": "Dec 18"
 }

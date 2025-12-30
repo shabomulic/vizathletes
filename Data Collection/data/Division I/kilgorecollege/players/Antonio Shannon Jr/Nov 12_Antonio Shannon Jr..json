@@ -1,17 +1,17 @@
 {
-    "Player Name": "Antonio Shannon Jr",
+    "Player Name": "Antonio Shannon Jr.",
+    "MIN": "1",
     "FGM-A": "2-9",
     "3PM-A": "1-6",
     "FTM-A": "2-2",
     "OREB": "1",
     "DREB": "2",
     "REB": "3",
+    "AST": "2",
+    "STL": "3",
+    "BLK": "0",
+    "TO": "2",
     "PF": "2",
     "TP": "7",
-    "AST": "2",
-    "TO": "2",
-    "BLK": "0",
-    "STL": "3",
-    "MIN": "1",
     "eventDateFormatted": "Nov 12"
 }

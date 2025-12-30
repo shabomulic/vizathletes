@@ -1,17 +1,17 @@
 {
     "Player Name": "Maxwell Coles",
+    "MIN": "1",
     "FGM-A": "5-10",
     "3PM-A": "0-0",
     "FTM-A": "5-10",
     "OREB": "4",
     "DREB": "4",
     "REB": "8",
+    "AST": "7",
+    "STL": "2",
+    "BLK": "0",
+    "TO": "5",
     "PF": "5",
     "TP": "15",
-    "AST": "7",
-    "TO": "5",
-    "BLK": "0",
-    "STL": "2",
-    "MIN": "1",
     "eventDateFormatted": "Dec 20"
 }

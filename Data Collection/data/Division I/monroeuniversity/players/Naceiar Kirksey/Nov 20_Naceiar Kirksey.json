@@ -1,17 +1,17 @@
 {
     "Player Name": "Naceiar Kirksey",
+    "MIN": "37",
     "FGM-A": "8-14",
     "3PM-A": "3-7",
     "FTM-A": "7-7",
     "OREB": "1",
     "DREB": "4",
     "REB": "5",
+    "AST": "4",
+    "STL": "2",
+    "BLK": "0",
+    "TO": "3",
     "PF": "1",
     "TP": "26",
-    "AST": "4",
-    "TO": "3",
-    "BLK": "0",
-    "STL": "2",
-    "MIN": "37",
     "eventDateFormatted": "Nov 20"
 }

@@ -1,17 +1,17 @@
 {
     "Player Name": "Kouki Tateyama",
+    "MIN": "1",
     "FGM-A": "6-9",
     "3PM-A": "0-0",
     "FTM-A": "8-9",
     "OREB": "0",
     "DREB": "2",
     "REB": "2",
+    "AST": "12",
+    "STL": "2",
+    "BLK": "0",
+    "TO": "3",
     "PF": "2",
     "TP": "20",
-    "AST": "12",
-    "TO": "3",
-    "BLK": "0",
-    "STL": "2",
-    "MIN": "1",
     "eventDateFormatted": "Nov 4"
 }

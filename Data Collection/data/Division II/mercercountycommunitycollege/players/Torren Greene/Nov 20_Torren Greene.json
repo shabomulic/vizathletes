@@ -1,17 +1,17 @@
 {
     "Player Name": "Torren Greene",
+    "MIN": "1",
     "FGM-A": "9-12",
     "3PM-A": "2-4",
     "FTM-A": "3-3",
     "OREB": "0",
     "DREB": "2",
     "REB": "2",
+    "AST": "1",
+    "STL": "0",
+    "BLK": "0",
+    "TO": "4",
     "PF": "3",
     "TP": "23",
-    "AST": "1",
-    "TO": "4",
-    "BLK": "0",
-    "STL": "0",
-    "MIN": "1",
     "eventDateFormatted": "Nov 20"
 }

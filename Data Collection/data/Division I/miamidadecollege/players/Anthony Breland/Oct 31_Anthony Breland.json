@@ -1,17 +1,17 @@
 {
     "Player Name": "Anthony Breland",
+    "MIN": "14",
     "FGM-A": "6-7",
     "3PM-A": "2-3",
     "FTM-A": "4-4",
     "OREB": "0",
     "DREB": "3",
     "REB": "3",
+    "AST": "2",
+    "STL": "1",
+    "BLK": "1",
+    "TO": "1",
     "PF": "2",
     "TP": "18",
-    "AST": "2",
-    "TO": "1",
-    "BLK": "1",
-    "STL": "1",
-    "MIN": "14",
     "eventDateFormatted": "Oct 31"
 }

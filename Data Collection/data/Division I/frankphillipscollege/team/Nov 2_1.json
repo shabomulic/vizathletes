@@ -1,0 +1,161 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Nov 2",
+    "boxScoreLink": "20251102_idgu.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Wayland Baptist",
+                "result": "58",
+                "teamId": "sep1b4ptl36eeqm7",
+                "winner": false,
+                "cleanName": "wayland baptist"
+            },
+            {
+                "name": "Frank Phillips College",
+                "result": "120",
+                "teamId": "9gqawlmv1jav40in",
+                "winner": false,
+                "cleanName": "frank phillips col"
+            }
+        ],
+        "status": "Final",
+        "notes": "",
+        "notesShared": "",
+        "date": 1762113600000,
+        "localTimeZone": "America/Chicago",
+        "tba": false,
+        "home": true,
+        "overall": true,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": 0,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "idguh4pi0nbq4jae",
+        "fastdate": 1762113600000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "conferenceResult": "120-58",
+        "resultAsObject": {
+            "results": [
+                58,
+                120
+            ],
+            "winner": {
+                "name": "Frank Phillips College",
+                "result": "120",
+                "teamId": "9gqawlmv1jav40in",
+                "winner": false,
+                "cleanName": "frank phillips col"
+            },
+            "loser": {
+                "name": "Wayland Baptist",
+                "result": "58",
+                "teamId": "sep1b4ptl36eeqm7",
+                "winner": false,
+                "cleanName": "wayland baptist"
+            },
+            "resolved": true,
+            "hasScores": true,
+            "description": "Win",
+            "numericResults": [
+                120,
+                58
+            ],
+            "score": "120-58",
+            "winnerLoser": "120-58",
+            "descriptionShortWithOT": "W"
+        },
+        "opponent": {
+            "name": "Wayland Baptist",
+            "result": "58",
+            "teamId": "sep1b4ptl36eeqm7",
+            "winner": false,
+            "cleanName": "wayland baptist"
+        },
+        "us": {
+            "name": "Frank Phillips College",
+            "result": "120",
+            "teamId": "9gqawlmv1jav40in",
+            "winner": false,
+            "cleanName": "frank phillips col"
+        },
+        "winner": {
+            "name": "Frank Phillips College",
+            "result": "120",
+            "teamId": "9gqawlmv1jav40in",
+            "winner": false,
+            "cleanName": "frank phillips col"
+        },
+        "loser": {
+            "name": "Wayland Baptist",
+            "result": "58",
+            "teamId": "sep1b4ptl36eeqm7",
+            "winner": false,
+            "cleanName": "wayland baptist"
+        },
+        "apresult": "W, 120-58",
+        "ap2Result": "W, 120-58",
+        "result": {
+            "results": [
+                58,
+                120
+            ],
+            "winner": {
+                "name": "Frank Phillips College",
+                "result": "120",
+                "teamId": "9gqawlmv1jav40in",
+                "winner": false,
+                "cleanName": "frank phillips col"
+            },
+            "loser": {
+                "name": "Wayland Baptist",
+                "result": "58",
+                "teamId": "sep1b4ptl36eeqm7",
+                "winner": false,
+                "cleanName": "wayland baptist"
+            },
+            "resolved": true,
+            "hasScores": true,
+            "description": "Win",
+            "numericResults": [
+                120,
+                58
+            ],
+            "score": "120-58",
+            "winnerLoser": "120-58",
+            "descriptionShortWithOT": "W"
+        }
+    },
+    "eventDateFormattedAriaLabel": "November 2 03:00 PM:"
+}

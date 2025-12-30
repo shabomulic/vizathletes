@@ -1,17 +1,17 @@
 {
     "Player Name": "David Marshall Jr",
+    "MIN": "1",
     "FGM-A": "3-4",
     "3PM-A": "2-3",
     "FTM-A": "4-4",
     "OREB": "1",
     "DREB": "4",
     "REB": "5",
+    "AST": "1",
+    "STL": "2",
+    "BLK": "0",
+    "TO": "2",
     "PF": "2",
     "TP": "12",
-    "AST": "1",
-    "TO": "2",
-    "BLK": "0",
-    "STL": "2",
-    "MIN": "1",
     "eventDateFormatted": "Nov 4"
 }

@@ -1,17 +1,17 @@
 {
     "Player Name": "Rickey Loftin II",
+    "MIN": "23",
     "FGM-A": "5-9",
     "3PM-A": "0-1",
     "FTM-A": "0-0",
     "OREB": "0",
     "DREB": "1",
     "REB": "1",
+    "AST": "1",
+    "STL": "1",
+    "BLK": "0",
+    "TO": "4",
     "PF": "0",
     "TP": "10",
-    "AST": "1",
-    "TO": "4",
-    "BLK": "0",
-    "STL": "1",
-    "MIN": "23",
     "eventDateFormatted": "Nov 1"
 }

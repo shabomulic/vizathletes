@@ -1,17 +1,17 @@
 {
     "Player Name": "Myles Liddell",
+    "MIN": "1",
     "FGM-A": "9-14",
     "3PM-A": "0-2",
     "FTM-A": "0-0",
     "OREB": "1",
     "DREB": "6",
     "REB": "7",
+    "AST": "1",
+    "STL": "1",
+    "BLK": "1",
+    "TO": "4",
     "PF": "4",
     "TP": "18",
-    "AST": "1",
-    "TO": "4",
-    "BLK": "1",
-    "STL": "1",
-    "MIN": "1",
     "eventDateFormatted": "Dec 7"
 }

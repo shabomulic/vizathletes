@@ -1,17 +1,17 @@
 {
     "Player Name": "Ro'Ziah Scott-Bates",
+    "MIN": "29",
     "FGM-A": "3-8",
     "3PM-A": "1-4",
     "FTM-A": "6-6",
     "OREB": "0",
     "DREB": "6",
     "REB": "6",
+    "AST": "4",
+    "STL": "1",
+    "BLK": "1",
+    "TO": "2",
     "PF": "1",
     "TP": "13",
-    "AST": "4",
-    "TO": "2",
-    "BLK": "1",
-    "STL": "1",
-    "MIN": "29",
     "eventDateFormatted": "Dec 11"
 }

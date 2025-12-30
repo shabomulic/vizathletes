@@ -1,17 +1,17 @@
 {
     "Player Name": "Victor Ezeh",
+    "MIN": "30",
     "FGM-A": "7-14",
     "3PM-A": "2-7",
     "FTM-A": "3-3",
     "OREB": "0",
     "DREB": "5",
     "REB": "5",
+    "AST": "2",
+    "STL": "3",
+    "BLK": "1",
+    "TO": "2",
     "PF": "2",
     "TP": "19",
-    "AST": "2",
-    "TO": "2",
-    "BLK": "1",
-    "STL": "3",
-    "MIN": "30",
     "eventDateFormatted": "Dec 10"
 }

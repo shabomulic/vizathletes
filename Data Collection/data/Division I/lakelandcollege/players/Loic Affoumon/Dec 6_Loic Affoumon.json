@@ -1,17 +1,17 @@
 {
     "Player Name": "Loic Affoumon",
+    "MIN": "27",
     "FGM-A": "8-16",
     "3PM-A": "1-4",
     "FTM-A": "0-0",
     "OREB": "7",
     "DREB": "7",
     "REB": "14",
+    "AST": "1",
+    "STL": "0",
+    "BLK": "0",
+    "TO": "2",
     "PF": "3",
     "TP": "17",
-    "AST": "1",
-    "TO": "2",
-    "BLK": "0",
-    "STL": "0",
-    "MIN": "27",
     "eventDateFormatted": "Dec 6"
 }

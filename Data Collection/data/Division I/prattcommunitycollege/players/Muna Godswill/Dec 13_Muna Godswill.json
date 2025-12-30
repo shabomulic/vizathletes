@@ -1,17 +1,17 @@
 {
     "Player Name": "Muna Godswill",
+    "MIN": "15",
     "FGM-A": "3-5",
     "3PM-A": "0-0",
     "FTM-A": "0-0",
     "OREB": "3",
     "DREB": "0",
     "REB": "3",
+    "AST": "1",
+    "STL": "0",
+    "BLK": "0",
+    "TO": "1",
     "PF": "4",
     "TP": "6",
-    "AST": "1",
-    "TO": "1",
-    "BLK": "0",
-    "STL": "0",
-    "MIN": "15",
     "eventDateFormatted": "Dec 13"
 }

@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Oct 15",
+    "boxScoreLink": "20251015_4ab0.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Morton College",
+                "result": "",
+                "teamId": "mm0e4c15frgl8igj",
+                "winner": false,
+                "cleanName": "morton col"
+            },
+            {
+                "name": "Oakton Community College",
+                "result": "",
+                "teamId": "n97aq1j5byhqkj4g",
+                "winner": false,
+                "cleanName": "oakton community col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1760567400000,
+        "localTimeZone": "America/Chicago",
+        "tba": false,
+        "home": false,
+        "overall": false,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "4ab0av1qy9wxj1o1",
+        "fastdate": 1760567400000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "scrimmage",
+            "description": "Scrimmage",
+            "statsCount": false
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Oakton Community College",
+            "result": "",
+            "teamId": "n97aq1j5byhqkj4g",
+            "winner": false,
+            "cleanName": "oakton community col"
+        },
+        "us": {
+            "name": "Morton College",
+            "result": "",
+            "teamId": "mm0e4c15frgl8igj",
+            "winner": false,
+            "cleanName": "morton col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "October 15 06:30 PM:"
+}

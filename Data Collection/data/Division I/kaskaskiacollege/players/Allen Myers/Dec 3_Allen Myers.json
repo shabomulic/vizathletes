@@ -1,17 +1,17 @@
 {
     "Player Name": "Allen Myers",
+    "MIN": "1",
     "FGM-A": "9-12",
     "3PM-A": "1-2",
     "FTM-A": "4-5",
     "OREB": "3",
     "DREB": "8",
     "REB": "11",
+    "AST": "3",
+    "STL": "1",
+    "BLK": "0",
+    "TO": "2",
     "PF": "0",
     "TP": "23",
-    "AST": "3",
-    "TO": "2",
-    "BLK": "0",
-    "STL": "1",
-    "MIN": "1",
     "eventDateFormatted": "Dec 3"
 }

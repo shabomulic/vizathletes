@@ -1,17 +1,17 @@
 {
     "Player Name": "Shamir Taylor",
+    "MIN": "22",
     "FGM-A": "9-12",
     "3PM-A": "4-6",
     "FTM-A": "4-6",
     "OREB": "3",
     "DREB": "7",
     "REB": "10",
+    "AST": "1",
+    "STL": "6",
+    "BLK": "1",
+    "TO": "6",
     "PF": "3",
     "TP": "26",
-    "AST": "1",
-    "TO": "6",
-    "BLK": "1",
-    "STL": "6",
-    "MIN": "22",
     "eventDateFormatted": "Nov 4"
 }

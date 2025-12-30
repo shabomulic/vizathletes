@@ -1,17 +1,17 @@
 {
     "Player Name": "KeShawn Watkins",
+    "MIN": "1",
     "FGM-A": "6-9",
     "3PM-A": "0-0",
     "FTM-A": "1-1",
     "OREB": "3",
     "DREB": "5",
     "REB": "8",
+    "AST": "1",
+    "STL": "1",
+    "BLK": "0",
+    "TO": "6",
     "PF": "0",
     "TP": "13",
-    "AST": "1",
-    "TO": "6",
-    "BLK": "0",
-    "STL": "1",
-    "MIN": "1",
     "eventDateFormatted": "Dec 15"
 }

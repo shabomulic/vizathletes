@@ -1,17 +1,17 @@
 {
     "Player Name": "Nathaniel Moore",
+    "MIN": "22",
     "FGM-A": "1-10",
     "3PM-A": "0-5",
     "FTM-A": "3-6",
     "OREB": "1",
     "DREB": "2",
     "REB": "3",
+    "AST": "3",
+    "STL": "1",
+    "BLK": "0",
+    "TO": "2",
     "PF": "0",
     "TP": "5",
-    "AST": "3",
-    "TO": "2",
-    "BLK": "0",
-    "STL": "1",
-    "MIN": "22",
     "eventDateFormatted": "Dec 13"
 }

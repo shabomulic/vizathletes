@@ -32,7 +32,7 @@ def sanitize_filename(name):
     return safe.strip()
 
 
-def scrape_box_score(url, target_team_name):
+def scrape_box_score(url, target_team_name, target_team_slug):
     print(f"    Fetching box score: {url}")
     try:
         headers = {
@@ -45,53 +45,83 @@ def scrape_box_score(url, target_team_name):
             
         soup = BeautifulSoup(res.text, 'html.parser')
         
-        captions = soup.find_all("div", class_="caption")
+        # New parsing logic for standard box score pages
+        tables = soup.find_all("table", class_="table")
         target_table = None
         
-        norm_target = target_team_name.lower().replace(" ", "")
+        norm_target_name = target_team_name.lower().replace(" ", "")
+        norm_target_slug = target_team_slug.lower().replace("-", "").replace("_", "")
         
-        for cap in captions:
-            cap_text = cap.get_text().lower().replace(" ", "")
-            if norm_target in cap_text:
-                parent = cap.parent
-                fullbox = parent.find("div", class_="monostats-fullbox")
-                if fullbox:
-                    target_table = fullbox.find("table")
-                break
+        for table in tables:
+            caption = table.find("caption")
+            if not caption:
+                continue
+                
+            cap_text = caption.get_text().lower().replace(" ", "").replace("-", "").replace("_", "").strip()
+            
+            # Match by name or slug
+            if norm_target_name in cap_text or norm_target_slug in cap_text or cap_text in norm_target_slug:
+                target_table = table
+                # Make sure it's a player stats table by checking for MIN header
+                headers_found = [th.get_text().strip().upper() for th in table.find_all("th")]
+                if "MIN" in headers_found:
+                    break
+                else:
+                    target_table = None
         
         if not target_table:
-            print(f"    Could not find table for {target_team_name}")
+            print(f"    Could not find table for {target_team_name} (slug: {target_team_slug})")
             return []
 
         player_stats = []
-        rows = target_table.find_all("tr")
-        
+        tbody = target_table.find("tbody")
+        if not tbody:
+            print(f"    No tbody found in table for {target_team_name}")
+            return []
+
+        rows = tbody.find_all("tr")
         for row in rows:
-            cells = row.find_all("td")
-            if len(cells) < 16:
+            if "group-head" in row.get("class", []):
+                continue
+                
+            # Both th and td are used for cells (th for player name/jersey)
+            cells = row.find_all(["td", "th"])
+            if len(cells) < 14:
                 continue
             
-            raw_name = cells[1].get_text().strip()
-            name = raw_name.rstrip(".").strip()
+            # Name is usually in cells[0], often with a player-name class inside a link
+            name_cell = cells[0]
+            name_link = name_cell.find("a", class_="player-name")
+            if name_link:
+                name = name_link.get_text().strip()
+            else:
+                # Fallback: clean up jersey number if present
+                raw_name = name_cell.get_text().strip()
+                # If it starts with a number (jersey), try to strip it
+                name = re.sub(r'^\d+\s+', '', raw_name)
             
             if name.lower() in ["team", "totals"]:
                 continue
                 
+            # Mapping based on user input (1-indexed mapping provided by user, 
+            # where name is effectively index 0):
+            # MIN: 1, FGM-A: 2, 3PM-A: 3, FTM-A: 4, OREB: 5, DREB: 6, REB: 7, 
+            # AST: 8, STL: 9, BLK: 10, TO: 11, PF: 12, TP: 13
             stats = {
                 "Player Name": name,
-                "FGM-A": cells[3].get_text().strip(),
-                "3PM-A": cells[4].get_text().strip(),
-                "FTM-A": cells[5].get_text().strip(),
-                "OREB": cells[6].get_text().strip(),
-                "DREB": cells[7].get_text().strip(),
-                "REB": cells[8].get_text().strip(),
-                "PF": cells[9].get_text().strip(),
-                "TP": cells[10].get_text().strip(),
-                "AST": cells[11].get_text().strip(),
-                "TO": cells[12].get_text().strip(),
-                "BLK": cells[13].get_text().strip(),
-                "STL": cells[14].get_text().strip(),
-                "MIN": cells[15].get_text().strip()
+                "MIN": cells[1].get_text().strip(),
+                "FGM-A": cells[2].get_text().strip(),
+                "3PM-A": cells[3].get_text().strip(),
+                "FTM-A": cells[4].get_text().strip(),
+                "OREB": cells[5].get_text().strip(),
+                "DREB": cells[6].get_text().strip(),
+                "REB": cells[7].get_text().strip(),
+                "AST": cells[8].get_text().strip(),
+                "STL": cells[9].get_text().strip(),
+                "BLK": cells[10].get_text().strip(),
+                "TO": cells[11].get_text().strip(),
+                "PF": cells[12].get_text().strip(),
+                "TP": cells[13].get_text().strip()
             }
             player_stats.append(stats)
             
@@ -102,7 +132,8 @@ def scrape_box_score(url, target_team_name):
         return []
 
 
-def scrape_stats(target_division=None):
+
+def scrape_stats(target_division=None, target_team_slug=None):
     # Paths - script is now in scripts/ folder
     base_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
     teams_path = os.path.join(base_dir, 'teams.json')
@@ -120,6 +151,12 @@ def scrape_stats(target_division=None):
     if target_division:
         teams = [t for t in teams if t.get('division') == target_division]
         print(f"Filtered to {len(teams)} teams in {target_division}")
+
+    # Filter by team slug if specified
+    if target_team_slug:
+        teams = [t for t in teams if t.get('slug') == target_team_slug]
+        print(f"Filtered to {len(teams)} team(s) with slug: {target_team_slug}")
+
     
     headers = {
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
@@ -316,11 +353,11 @@ def scrape_stats(target_division=None):
                 if not box_link or not isinstance(box_link, str):
                     continue
                     
-                # Division-specific box score URL
-                box_url = f"https://njcaastats.prestosports.com/sports/mbkb/2025-26/{div_path}/boxscores/{box_link}?tmpl=bbxml-monospace-template"
+                # Division-specific box score URL - standard format
+                box_url = f"https://njcaastats.prestosports.com/sports/mbkb/2025-26/{div_path}/boxscores/{box_link}"
                 
                 try:
-                    stats_list = scrape_box_score(box_url, name)
+                    stats_list = scrape_box_score(box_url, name, slug)
                     if not stats_list:
                         continue
                         
@@ -368,6 +405,9 @@ if __name__ == "__main__":
     parser = argparse.ArgumentParser()
     parser.add_argument('--division', type=str, choices=['DI', 'DII', 'DIII'],
                         help='Only scrape teams from this division')
+    parser.add_argument('--team', type=str,
+                        help='Only scrape a specific team by slug')
     args = parser.parse_args()
     
-    scrape_stats(args.division)
+    scrape_stats(args.division, args.team)
+

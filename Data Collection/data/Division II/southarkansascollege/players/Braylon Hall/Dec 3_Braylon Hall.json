@@ -1,17 +1,17 @@
 {
     "Player Name": "Braylon Hall",
+    "MIN": "31",
     "FGM-A": "0-5",
     "3PM-A": "0-3",
     "FTM-A": "2-2",
     "OREB": "0",
     "DREB": "3",
     "REB": "3",
+    "AST": "6",
+    "STL": "3",
+    "BLK": "0",
+    "TO": "7",
     "PF": "2",
     "TP": "2",
-    "AST": "6",
-    "TO": "7",
-    "BLK": "0",
-    "STL": "3",
-    "MIN": "31",
     "eventDateFormatted": "Dec 3"
 }

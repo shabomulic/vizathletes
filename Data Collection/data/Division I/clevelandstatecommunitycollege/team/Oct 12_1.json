@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Oct 12",
+    "boxScoreLink": "20251012_bqrm.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Cleveland State Community College",
+                "result": "",
+                "teamId": "rjzdw0iyfrnev6w3",
+                "winner": false,
+                "cleanName": "cleveland st community col"
+            },
+            {
+                "name": "Lewis & Clark Community College",
+                "result": "",
+                "teamId": "zulxsmdd5drv096f",
+                "winner": false,
+                "cleanName": "lewis clark community col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1760302800000,
+        "localTimeZone": "America/Chicago",
+        "tba": false,
+        "home": false,
+        "overall": false,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "Yes",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "bqrmb5et12m0glxg",
+        "fastdate": 1760302800000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "scrimmage",
+            "description": "Scrimmage",
+            "statsCount": false
+        },
+        "opponent": {
+            "name": "Lewis & Clark Community College",
+            "result": "",
+            "teamId": "zulxsmdd5drv096f",
+            "winner": false,
+            "cleanName": "lewis clark community col"
+        },
+        "us": {
+            "name": "Cleveland State Community College",
+            "result": "",
+            "teamId": "rjzdw0iyfrnev6w3",
+            "winner": false,
+            "cleanName": "cleveland st community col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "October 12 05:00 PM:"
+}

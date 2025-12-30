@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Oct 5",
+    "boxScoreLink": "20251005_6lho.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Pellissippi State Community College",
+                "result": "",
+                "teamId": "mku7lxd5cqaf0rq2",
+                "winner": false,
+                "cleanName": "pellissippi st community col"
+            },
+            {
+                "name": "Corry Black Jamboree",
+                "result": "",
+                "teamId": "1i0seplpxxf7qwuh",
+                "winner": false,
+                "cleanName": "corry black jamboree"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1759636800000,
+        "localTimeZone": "America/New_York",
+        "tba": true,
+        "home": false,
+        "overall": false,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "6lho6zbb5xfn1ved",
+        "fastdate": 1759636800000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "scrimmage",
+            "description": "Scrimmage",
+            "statsCount": false
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Corry Black Jamboree",
+            "result": "",
+            "teamId": "1i0seplpxxf7qwuh",
+            "winner": false,
+            "cleanName": "corry black jamboree"
+        },
+        "us": {
+            "name": "Pellissippi State Community College",
+            "result": "",
+            "teamId": "mku7lxd5cqaf0rq2",
+            "winner": false,
+            "cleanName": "pellissippi st community col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "October 5 12:00 AM:"
+}

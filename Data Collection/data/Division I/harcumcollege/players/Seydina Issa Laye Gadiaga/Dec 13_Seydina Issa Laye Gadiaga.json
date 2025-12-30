@@ -1,17 +1,17 @@
 {
     "Player Name": "Seydina Issa Laye Gadiaga",
+    "MIN": "1",
     "FGM-A": "6-15",
     "3PM-A": "1-4",
     "FTM-A": "7-9",
     "OREB": "1",
     "DREB": "4",
     "REB": "5",
+    "AST": "1",
+    "STL": "4",
+    "BLK": "3",
+    "TO": "4",
     "PF": "1",
     "TP": "20",
-    "AST": "1",
-    "TO": "4",
-    "BLK": "3",
-    "STL": "4",
-    "MIN": "1",
     "eventDateFormatted": "Dec 13"
 }

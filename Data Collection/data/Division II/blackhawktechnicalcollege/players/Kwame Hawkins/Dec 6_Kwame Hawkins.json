@@ -1,17 +1,17 @@
 {
     "Player Name": "Kwame Hawkins",
+    "MIN": "1",
     "FGM-A": "5-8",
     "3PM-A": "2-5",
     "FTM-A": "2-2",
     "OREB": "0",
     "DREB": "0",
     "REB": "0",
+    "AST": "2",
+    "STL": "2",
+    "BLK": "1",
+    "TO": "1",
     "PF": "1",
     "TP": "14",
-    "AST": "2",
-    "TO": "1",
-    "BLK": "1",
-    "STL": "2",
-    "MIN": "1",
     "eventDateFormatted": "Dec 6"
 }

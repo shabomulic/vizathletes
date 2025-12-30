@@ -1,17 +1,17 @@
 {
     "Player Name": "Julius Crosby",
+    "MIN": "21",
     "FGM-A": "2-9",
     "3PM-A": "0-1",
     "FTM-A": "2-4",
     "OREB": "3",
     "DREB": "2",
     "REB": "5",
+    "AST": "3",
+    "STL": "2",
+    "BLK": "0",
+    "TO": "2",
     "PF": "0",
     "TP": "6",
-    "AST": "3",
-    "TO": "2",
-    "BLK": "0",
-    "STL": "2",
-    "MIN": "21",
     "eventDateFormatted": "Dec 6"
 }

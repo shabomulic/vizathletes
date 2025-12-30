@@ -1,17 +1,17 @@
 {
     "Player Name": "Khaven Coachran",
+    "MIN": "33",
     "FGM-A": "7-13",
     "3PM-A": "1-5",
     "FTM-A": "2-3",
     "OREB": "1",
     "DREB": "3",
     "REB": "4",
+    "AST": "1",
+    "STL": "1",
+    "BLK": "1",
+    "TO": "1",
     "PF": "3",
     "TP": "17",
-    "AST": "1",
-    "TO": "1",
-    "BLK": "1",
-    "STL": "1",
-    "MIN": "33",
     "eventDateFormatted": "Dec 12"
 }

@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Dec 1",
+    "boxScoreLink": "20251201_u3vc.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Terra State",
+                "result": "",
+                "teamId": "bs3ynnadegncigkn",
+                "winner": false,
+                "cleanName": "terra st"
+            },
+            {
+                "name": "Defiance College",
+                "result": "",
+                "teamId": "qd116auqgwgra98w",
+                "winner": false,
+                "cleanName": "defiance col"
+            }
+        ],
+        "status": "Postponed",
+        "notes": "",
+        "notesShared": "",
+        "date": 1764630000000,
+        "localTimeZone": "America/New_York",
+        "tba": false,
+        "home": false,
+        "overall": true,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": true,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "u3vcd2jdamx3mxio",
+        "fastdate": 1764630000000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "Defiance",
+        "stateCountry": "OH",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Defiance College",
+            "result": "",
+            "teamId": "qd116auqgwgra98w",
+            "winner": false,
+            "cleanName": "defiance col"
+        },
+        "us": {
+            "name": "Terra State",
+            "result": "",
+            "teamId": "bs3ynnadegncigkn",
+            "winner": false,
+            "cleanName": "terra st"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "December 1 06:00 PM:"
+}

@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Mar 22",
+    "boxScoreLink": "20260322_9xq8.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Dawson Community College",
+                "result": "",
+                "teamId": "3pim3egp5wrsvj8e",
+                "winner": false,
+                "cleanName": "dawson community col"
+            },
+            {
+                "name": "NJCAA National Tournament",
+                "result": "",
+                "teamId": "b2454cscjxvu8df2",
+                "winner": false,
+                "cleanName": "njcaa national tournament"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "Hutchinson, KS",
+        "date": 1774152000000,
+        "localTimeZone": "America/Denver",
+        "tba": true,
+        "home": false,
+        "overall": true,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": true,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "9xq85bcjnkevcbz0",
+        "fastdate": 1774152000000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "Hutchinson, KS",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "postSeason",
+            "description": "Post-Season/Play-Offs",
+            "statsCount": true
+        },
+        "us": {
+            "name": "Dawson Community College",
+            "result": "",
+            "teamId": "3pim3egp5wrsvj8e",
+            "winner": false,
+            "cleanName": "dawson community col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "NJCAA National Tournament",
+            "result": "",
+            "teamId": "b2454cscjxvu8df2",
+            "winner": false,
+            "cleanName": "njcaa national tournament"
+        },
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "March 22 12:00 AM:"
+}

@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Jan 11",
+    "boxScoreLink": "20260111_vfqg.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "North Country Community College",
+                "result": "",
+                "teamId": "ivh50wtaphmihyzl",
+                "winner": false,
+                "cleanName": "n country community col"
+            },
+            {
+                "name": "SUNY ESF",
+                "result": "",
+                "teamId": "0ueheyy5up13rsxr",
+                "winner": false,
+                "cleanName": "suny esf"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1768161600000,
+        "localTimeZone": "America/New_York",
+        "tba": false,
+        "home": false,
+        "overall": true,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "vfqgw3vcgwk8r09z",
+        "fastdate": 1768161600000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "SUNY ESF",
+            "result": "",
+            "teamId": "0ueheyy5up13rsxr",
+            "winner": false,
+            "cleanName": "suny esf"
+        },
+        "us": {
+            "name": "North Country Community College",
+            "result": "",
+            "teamId": "ivh50wtaphmihyzl",
+            "winner": false,
+            "cleanName": "n country community col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "January 11 03:00 PM:"
+}

@@ -1,17 +1,17 @@
 {
     "Player Name": "Christian Payawal",
+    "MIN": "39",
     "FGM-A": "3-9",
     "3PM-A": "0-2",
     "FTM-A": "2-2",
     "OREB": "1",
     "DREB": "0",
     "REB": "1",
+    "AST": "10",
+    "STL": "2",
+    "BLK": "0",
+    "TO": "2",
     "PF": "1",
     "TP": "8",
-    "AST": "10",
-    "TO": "2",
-    "BLK": "0",
-    "STL": "2",
-    "MIN": "39",
     "eventDateFormatted": "Nov 7"
 }

@@ -1,17 +1,17 @@
 {
     "Player Name": "Jordon Nevill",
+    "MIN": "19",
     "FGM-A": "4-9",
     "3PM-A": "2-6",
     "FTM-A": "0-2",
     "OREB": "1",
     "DREB": "2",
     "REB": "3",
+    "AST": "1",
+    "STL": "3",
+    "BLK": "0",
+    "TO": "2",
     "PF": "4",
     "TP": "10",
-    "AST": "1",
-    "TO": "2",
-    "BLK": "0",
-    "STL": "3",
-    "MIN": "19",
     "eventDateFormatted": "Dec 6"
 }

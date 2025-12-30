@@ -1,17 +1,17 @@
 {
     "Player Name": "Jaden Arzola",
+    "MIN": "16",
     "FGM-A": "3-8",
     "3PM-A": "2-5",
     "FTM-A": "2-2",
     "OREB": "0",
     "DREB": "3",
     "REB": "3",
+    "AST": "3",
+    "STL": "2",
+    "BLK": "0",
+    "TO": "2",
     "PF": "3",
     "TP": "10",
-    "AST": "3",
-    "TO": "2",
-    "BLK": "0",
-    "STL": "2",
-    "MIN": "16",
     "eventDateFormatted": "Nov 21"
 }

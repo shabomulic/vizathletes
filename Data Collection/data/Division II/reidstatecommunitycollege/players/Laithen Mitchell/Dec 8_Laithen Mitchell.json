@@ -1,17 +1,17 @@
 {
     "Player Name": "Laithen Mitchell",
+    "MIN": "1",
     "FGM-A": "5-17",
     "3PM-A": "2-8",
     "FTM-A": "6-8",
     "OREB": "3",
     "DREB": "2",
     "REB": "5",
+    "AST": "5",
+    "STL": "2",
+    "BLK": "0",
+    "TO": "4",
     "PF": "0",
     "TP": "18",
-    "AST": "5",
-    "TO": "4",
-    "BLK": "0",
-    "STL": "2",
-    "MIN": "1",
     "eventDateFormatted": "Dec 8"
 }

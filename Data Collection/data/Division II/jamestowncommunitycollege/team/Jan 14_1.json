@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Jan 14",
+    "boxScoreLink": "20260114_2kl2.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Garrett College",
+                "result": "",
+                "teamId": "jwl6myvcjat4a1qx",
+                "winner": false,
+                "cleanName": "garrett col"
+            },
+            {
+                "name": "Jamestown Community College",
+                "result": "",
+                "teamId": "7ank172l042mkm04",
+                "winner": false,
+                "cleanName": "jamestown community col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1768437000000,
+        "localTimeZone": "America/New_York",
+        "tba": false,
+        "home": true,
+        "overall": true,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": true,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "2kl2wainj5m73niy",
+        "fastdate": 1768437000000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": true,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Garrett College",
+            "result": "",
+            "teamId": "jwl6myvcjat4a1qx",
+            "winner": false,
+            "cleanName": "garrett col"
+        },
+        "us": {
+            "name": "Jamestown Community College",
+            "result": "",
+            "teamId": "7ank172l042mkm04",
+            "winner": false,
+            "cleanName": "jamestown community col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "January 14 07:30 PM:"
+}

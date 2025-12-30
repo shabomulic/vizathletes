@@ -1,17 +1,17 @@
 {
     "Player Name": "Gavin Grothaus",
+    "MIN": "1",
     "FGM-A": "2-5",
     "3PM-A": "2-4",
     "FTM-A": "1-2",
     "OREB": "3",
     "DREB": "3",
     "REB": "6",
+    "AST": "4",
+    "STL": "0",
+    "BLK": "0",
+    "TO": "2",
     "PF": "3",
     "TP": "7",
-    "AST": "4",
-    "TO": "2",
-    "BLK": "0",
-    "STL": "0",
-    "MIN": "1",
     "eventDateFormatted": "Dec 16"
 }

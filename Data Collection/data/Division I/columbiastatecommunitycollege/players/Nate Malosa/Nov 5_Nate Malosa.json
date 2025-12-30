@@ -1,17 +1,17 @@
 {
     "Player Name": "Nate Malosa",
+    "MIN": "18",
     "FGM-A": "4-10",
     "3PM-A": "0-0",
     "FTM-A": "0-0",
     "OREB": "6",
     "DREB": "4",
     "REB": "10",
+    "AST": "1",
+    "STL": "1",
+    "BLK": "0",
+    "TO": "0",
     "PF": "2",
     "TP": "8",
-    "AST": "1",
-    "TO": "0",
-    "BLK": "0",
-    "STL": "1",
-    "MIN": "18",
     "eventDateFormatted": "Nov 5"
 }

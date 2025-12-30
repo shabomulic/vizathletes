@@ -1,17 +1,17 @@
 {
     "Player Name": "Jesus Rice",
+    "MIN": "18",
     "FGM-A": "6-11",
     "3PM-A": "1-4",
     "FTM-A": "2-2",
     "OREB": "4",
     "DREB": "7",
     "REB": "11",
+    "AST": "1",
+    "STL": "3",
+    "BLK": "0",
+    "TO": "2",
     "PF": "0",
     "TP": "15",
-    "AST": "1",
-    "TO": "2",
-    "BLK": "0",
-    "STL": "3",
-    "MIN": "18",
     "eventDateFormatted": "Nov 12"
 }

@@ -1,17 +1,17 @@
 {
     "Player Name": "Ethan Johnson",
+    "MIN": "26",
     "FGM-A": "4-12",
     "3PM-A": "2-9",
     "FTM-A": "3-4",
     "OREB": "2",
     "DREB": "1",
     "REB": "3",
+    "AST": "2",
+    "STL": "0",
+    "BLK": "0",
+    "TO": "2",
     "PF": "2",
     "TP": "13",
-    "AST": "2",
-    "TO": "2",
-    "BLK": "0",
-    "STL": "0",
-    "MIN": "26",
     "eventDateFormatted": "Nov 20"
 }

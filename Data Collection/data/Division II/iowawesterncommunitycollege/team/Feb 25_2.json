@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Feb 25",
+    "boxScoreLink": "20260225_vm3e.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Northeast Community College",
+                "result": "",
+                "teamId": "3e4v215ujn4av65r",
+                "winner": false,
+                "cleanName": "northeast community col"
+            },
+            {
+                "name": "Iowa Western Community College",
+                "result": "",
+                "teamId": "5umjdjqcbbqcsq8o",
+                "winner": false,
+                "cleanName": "iowa w community col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "Reiver Arena | Council Bluffs, Iowa",
+        "date": 1772065800000,
+        "localTimeZone": "America/Chicago",
+        "tba": false,
+        "home": true,
+        "overall": true,
+        "conference": true,
+        "division": false,
+        "regional": false,
+        "national": true,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "vm3ex8cpurmkgjo9",
+        "fastdate": 1772065800000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": true,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Northeast Community College",
+            "result": "",
+            "teamId": "3e4v215ujn4av65r",
+            "winner": false,
+            "cleanName": "northeast community col"
+        },
+        "us": {
+            "name": "Iowa Western Community College",
+            "result": "",
+            "teamId": "5umjdjqcbbqcsq8o",
+            "winner": false,
+            "cleanName": "iowa w community col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "February 25 07:30 PM:"
+}

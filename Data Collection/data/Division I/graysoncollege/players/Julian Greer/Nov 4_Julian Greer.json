@@ -1,17 +1,17 @@
 {
     "Player Name": "Julian Greer",
+    "MIN": "36:22",
     "FGM-A": "6-12",
     "3PM-A": "4-6",
     "FTM-A": "3-4",
     "OREB": "2",
     "DREB": "6",
     "REB": "8",
+    "AST": "0",
+    "STL": "1",
+    "BLK": "3",
+    "TO": "1",
     "PF": "1",
     "TP": "19",
-    "AST": "0",
-    "TO": "1",
-    "BLK": "3",
-    "STL": "1",
-    "MIN": "36:22",
     "eventDateFormatted": "Nov 4"
 }

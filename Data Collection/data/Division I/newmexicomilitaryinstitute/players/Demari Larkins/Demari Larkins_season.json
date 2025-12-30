@@ -196,10 +196,10 @@
             "mutable": false,
             "componentType": false,
             "collectionType": false,
-            "anyType": false,
             "entityType": false,
             "associationType": false,
-            "xmlelement": false
+            "xmlelement": false,
+            "anyType": false
         },
         "mutable": false
     },

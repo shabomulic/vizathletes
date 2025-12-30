@@ -1,17 +1,17 @@
 {
     "Player Name": "Isaiah Sanders",
+    "MIN": "1",
     "FGM-A": "3-11",
     "3PM-A": "1-7",
     "FTM-A": "2-2",
     "OREB": "0",
     "DREB": "5",
     "REB": "5",
+    "AST": "3",
+    "STL": "1",
+    "BLK": "0",
+    "TO": "2",
     "PF": "1",
     "TP": "9",
-    "AST": "3",
-    "TO": "2",
-    "BLK": "0",
-    "STL": "1",
-    "MIN": "1",
     "eventDateFormatted": "Nov 1"
 }

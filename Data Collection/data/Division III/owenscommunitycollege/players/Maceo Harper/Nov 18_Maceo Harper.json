@@ -1,17 +1,17 @@
 {
     "Player Name": "Maceo Harper",
+    "MIN": "37",
     "FGM-A": "7-11",
     "3PM-A": "0-2",
     "FTM-A": "7-8",
     "OREB": "0",
     "DREB": "6",
     "REB": "6",
+    "AST": "4",
+    "STL": "0",
+    "BLK": "0",
+    "TO": "2",
     "PF": "4",
     "TP": "21",
-    "AST": "4",
-    "TO": "2",
-    "BLK": "0",
-    "STL": "0",
-    "MIN": "37",
     "eventDateFormatted": "Nov 18"
 }

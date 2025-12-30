@@ -1,17 +1,17 @@
 {
     "Player Name": "Kyden Thompson",
+    "MIN": "32",
     "FGM-A": "3-6",
     "3PM-A": "0-1",
     "FTM-A": "3-4",
     "OREB": "1",
     "DREB": "3",
     "REB": "4",
+    "AST": "3",
+    "STL": "3",
+    "BLK": "1",
+    "TO": "2",
     "PF": "1",
     "TP": "9",
-    "AST": "3",
-    "TO": "2",
-    "BLK": "1",
-    "STL": "3",
-    "MIN": "32",
     "eventDateFormatted": "Nov 8"
 }

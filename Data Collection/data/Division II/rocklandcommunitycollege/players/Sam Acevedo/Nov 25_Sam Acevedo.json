@@ -1,17 +1,17 @@
 {
     "Player Name": "Sam Acevedo",
+    "MIN": "1",
     "FGM-A": "5-11",
     "3PM-A": "0-2",
     "FTM-A": "7-13",
     "OREB": "5",
     "DREB": "4",
     "REB": "9",
+    "AST": "5",
+    "STL": "4",
+    "BLK": "0",
+    "TO": "5",
     "PF": "1",
     "TP": "17",
-    "AST": "5",
-    "TO": "5",
-    "BLK": "0",
-    "STL": "4",
-    "MIN": "1",
     "eventDateFormatted": "Nov 25"
 }

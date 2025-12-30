@@ -1,17 +1,17 @@
 {
     "Player Name": "Jodan Wright",
+    "MIN": "35",
     "FGM-A": "8-14",
     "3PM-A": "2-6",
     "FTM-A": "8-8",
     "OREB": "2",
     "DREB": "8",
     "REB": "10",
+    "AST": "6",
+    "STL": "1",
+    "BLK": "1",
+    "TO": "5",
     "PF": "1",
     "TP": "26",
-    "AST": "6",
-    "TO": "5",
-    "BLK": "1",
-    "STL": "1",
-    "MIN": "35",
     "eventDateFormatted": "Nov 8"
 }

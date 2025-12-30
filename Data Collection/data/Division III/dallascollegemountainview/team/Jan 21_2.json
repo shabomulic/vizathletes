@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Jan 21",
+    "boxScoreLink": "20260121_uzd4.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Dallas College Eastfield",
+                "result": "",
+                "teamId": "nfft4m3t7ubbrdvx",
+                "winner": false,
+                "cleanName": "dallas col eastfield"
+            },
+            {
+                "name": "Dallas College Mountain View",
+                "result": "",
+                "teamId": "3fjptjvq6tcriwu5",
+                "winner": false,
+                "cleanName": "dallas col mountain view"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1769036400000,
+        "localTimeZone": "America/Chicago",
+        "tba": false,
+        "home": true,
+        "overall": true,
+        "conference": true,
+        "division": false,
+        "regional": false,
+        "national": true,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "uzd4wetmmm29vgqc",
+        "fastdate": 1769036400000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Dallas College Eastfield",
+            "result": "",
+            "teamId": "nfft4m3t7ubbrdvx",
+            "winner": false,
+            "cleanName": "dallas col eastfield"
+        },
+        "us": {
+            "name": "Dallas College Mountain View",
+            "result": "",
+            "teamId": "3fjptjvq6tcriwu5",
+            "winner": false,
+            "cleanName": "dallas col mountain view"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "January 21 06:00 PM:"
+}

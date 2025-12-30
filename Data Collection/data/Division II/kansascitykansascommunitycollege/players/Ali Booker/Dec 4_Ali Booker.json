@@ -1,17 +1,17 @@
 {
     "Player Name": "Ali Booker",
+    "MIN": "30:15",
     "FGM-A": "4-10",
     "3PM-A": "1-2",
     "FTM-A": "2-3",
     "OREB": "1",
     "DREB": "4",
     "REB": "5",
+    "AST": "2",
+    "STL": "2",
+    "BLK": "0",
+    "TO": "1",
     "PF": "1",
     "TP": "11",
-    "AST": "2",
-    "TO": "1",
-    "BLK": "0",
-    "STL": "2",
-    "MIN": "30:15",
     "eventDateFormatted": "Dec 4"
 }

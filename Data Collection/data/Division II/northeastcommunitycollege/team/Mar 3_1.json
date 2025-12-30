@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Mar 3",
+    "boxScoreLink": "20260303_8l8s.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Region 11 Championship",
+                "result": "",
+                "teamId": "q3zk0fc2deqfd64h",
+                "winner": false,
+                "cleanName": "region championship"
+            },
+            {
+                "name": "Northeast Community College",
+                "result": "",
+                "teamId": "3e4v215ujn4av65r",
+                "winner": false,
+                "cleanName": "northeast community col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1772514000000,
+        "localTimeZone": "America/Chicago",
+        "tba": true,
+        "home": true,
+        "overall": true,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "8l8s2brjd9a48aay",
+        "fastdate": 1772514000000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Region 11 Championship",
+            "result": "",
+            "teamId": "q3zk0fc2deqfd64h",
+            "winner": false,
+            "cleanName": "region championship"
+        },
+        "us": {
+            "name": "Northeast Community College",
+            "result": "",
+            "teamId": "3e4v215ujn4av65r",
+            "winner": false,
+            "cleanName": "northeast community col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "March 3 12:00 AM:"
+}

@@ -1,17 +1,17 @@
 {
     "Player Name": "Jason Foster",
+    "MIN": "19",
     "FGM-A": "2-3",
     "3PM-A": "0-0",
     "FTM-A": "0-0",
     "OREB": "1",
     "DREB": "3",
     "REB": "4",
+    "AST": "0",
+    "STL": "0",
+    "BLK": "0",
+    "TO": "0",
     "PF": "4",
     "TP": "4",
-    "AST": "0",
-    "TO": "0",
-    "BLK": "0",
-    "STL": "0",
-    "MIN": "19",
     "eventDateFormatted": "Dec 8"
 }

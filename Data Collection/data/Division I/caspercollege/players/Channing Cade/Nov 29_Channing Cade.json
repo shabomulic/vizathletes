@@ -1,17 +1,17 @@
 {
     "Player Name": "Channing Cade",
+    "MIN": "36",
     "FGM-A": "6-10",
     "3PM-A": "0-0",
     "FTM-A": "3-4",
     "OREB": "1",
     "DREB": "4",
     "REB": "5",
+    "AST": "4",
+    "STL": "3",
+    "BLK": "3",
+    "TO": "2",
     "PF": "1",
     "TP": "15",
-    "AST": "4",
-    "TO": "2",
-    "BLK": "3",
-    "STL": "3",
-    "MIN": "36",
     "eventDateFormatted": "Nov 29"
 }

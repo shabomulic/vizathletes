@@ -1,17 +1,17 @@
 {
     "Player Name": "Keylson Turner",
+    "MIN": "1",
     "FGM-A": "4-6",
     "3PM-A": "3-5",
     "FTM-A": "1-2",
     "OREB": "1",
     "DREB": "6",
     "REB": "7",
+    "AST": "4",
+    "STL": "0",
+    "BLK": "4",
+    "TO": "2",
     "PF": "4",
     "TP": "12",
-    "AST": "4",
-    "TO": "2",
-    "BLK": "4",
-    "STL": "0",
-    "MIN": "1",
     "eventDateFormatted": "Nov 13"
 }

@@ -1,17 +1,17 @@
 {
     "Player Name": "Tre'Von Coney",
+    "MIN": "38",
     "FGM-A": "4-10",
     "3PM-A": "3-6",
     "FTM-A": "4-6",
     "OREB": "2",
     "DREB": "6",
     "REB": "8",
+    "AST": "6",
+    "STL": "1",
+    "BLK": "0",
+    "TO": "5",
     "PF": "1",
     "TP": "15",
-    "AST": "6",
-    "TO": "5",
-    "BLK": "0",
-    "STL": "1",
-    "MIN": "38",
     "eventDateFormatted": "Nov 7"
 }

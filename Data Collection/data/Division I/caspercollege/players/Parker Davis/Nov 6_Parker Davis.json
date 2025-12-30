@@ -1,17 +1,17 @@
 {
     "Player Name": "Parker Davis",
+    "MIN": "27",
     "FGM-A": "9-12",
     "3PM-A": "4-5",
     "FTM-A": "3-6",
     "OREB": "0",
     "DREB": "10",
     "REB": "10",
+    "AST": "0",
+    "STL": "0",
+    "BLK": "0",
+    "TO": "2",
     "PF": "5",
     "TP": "25",
-    "AST": "0",
-    "TO": "2",
-    "BLK": "0",
-    "STL": "0",
-    "MIN": "27",
     "eventDateFormatted": "Nov 6"
 }

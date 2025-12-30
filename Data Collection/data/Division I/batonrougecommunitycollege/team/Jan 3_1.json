@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Jan 3",
+    "boxScoreLink": "20260103_wt6u.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "john melvin university",
+                "result": "",
+                "teamId": "7qfqjxvuexud40gw",
+                "winner": false,
+                "cleanName": "john melvin univ"
+            },
+            {
+                "name": "Baton Rouge Community College",
+                "result": "",
+                "teamId": "4wi9zzkqc2pgz6w7",
+                "winner": false,
+                "cleanName": "baton rouge community col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1767466800000,
+        "localTimeZone": "America/Chicago",
+        "tba": false,
+        "home": true,
+        "overall": true,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "wt6urft39fh7r8p1",
+        "fastdate": 1767466800000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "john melvin university",
+            "result": "",
+            "teamId": "7qfqjxvuexud40gw",
+            "winner": false,
+            "cleanName": "john melvin univ"
+        },
+        "us": {
+            "name": "Baton Rouge Community College",
+            "result": "",
+            "teamId": "4wi9zzkqc2pgz6w7",
+            "winner": false,
+            "cleanName": "baton rouge community col"
+        },
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "January 3 02:00 PM:"
+}

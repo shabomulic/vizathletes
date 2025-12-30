@@ -1,17 +1,17 @@
 {
     "Player Name": "Cortez Johnson",
+    "MIN": "1",
     "FGM-A": "1-6",
     "3PM-A": "0-2",
     "FTM-A": "4-5",
     "OREB": "2",
     "DREB": "1",
     "REB": "3",
+    "AST": "2",
+    "STL": "3",
+    "BLK": "0",
+    "TO": "4",
     "PF": "1",
     "TP": "6",
-    "AST": "2",
-    "TO": "4",
-    "BLK": "0",
-    "STL": "3",
-    "MIN": "1",
     "eventDateFormatted": "Dec 8"
 }

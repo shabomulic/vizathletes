@@ -1,17 +1,17 @@
 {
     "Player Name": "Jase Tarver",
+    "MIN": "1",
     "FGM-A": "7-10",
     "3PM-A": "1-1",
     "FTM-A": "5-8",
     "OREB": "5",
     "DREB": "9",
     "REB": "14",
+    "AST": "7",
+    "STL": "1",
+    "BLK": "2",
+    "TO": "1",
     "PF": "2",
     "TP": "20",
-    "AST": "7",
-    "TO": "1",
-    "BLK": "2",
-    "STL": "1",
-    "MIN": "1",
     "eventDateFormatted": "Nov 15"
 }

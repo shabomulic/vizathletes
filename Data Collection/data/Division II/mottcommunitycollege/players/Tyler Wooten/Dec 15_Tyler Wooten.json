@@ -1,17 +1,17 @@
 {
     "Player Name": "Tyler Wooten",
+    "MIN": "29",
     "FGM-A": "10-18",
     "3PM-A": "2-6",
     "FTM-A": "4-4",
     "OREB": "1",
     "DREB": "4",
     "REB": "5",
+    "AST": "3",
+    "STL": "2",
+    "BLK": "0",
+    "TO": "0",
     "PF": "1",
     "TP": "26",
-    "AST": "3",
-    "TO": "0",
-    "BLK": "0",
-    "STL": "2",
-    "MIN": "29",
     "eventDateFormatted": "Dec 15"
 }

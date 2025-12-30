@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Feb 4",
+    "boxScoreLink": "20260204_m14f.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Central Carolina Community College",
+                "result": "",
+                "teamId": "rakqu3gx9mt7r7od",
+                "winner": false,
+                "cleanName": "central carolina community col"
+            },
+            {
+                "name": "Sandhills Community College",
+                "result": "",
+                "teamId": "mdp6nv62a0zpsbxn",
+                "winner": false,
+                "cleanName": "sandhills community col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1770249600000,
+        "localTimeZone": "America/New_York",
+        "tba": false,
+        "home": false,
+        "overall": true,
+        "conference": false,
+        "division": false,
+        "regional": true,
+        "national": true,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "m14f2z1i37kma6ok",
+        "fastdate": 1770249600000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "us": {
+            "name": "Central Carolina Community College",
+            "result": "",
+            "teamId": "rakqu3gx9mt7r7od",
+            "winner": false,
+            "cleanName": "central carolina community col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Sandhills Community College",
+            "result": "",
+            "teamId": "mdp6nv62a0zpsbxn",
+            "winner": false,
+            "cleanName": "sandhills community col"
+        },
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "February 4 07:00 PM:"
+}

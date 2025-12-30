@@ -1,17 +1,17 @@
 {
     "Player Name": "Jayden Forrest",
+    "MIN": "22",
     "FGM-A": "2-3",
     "3PM-A": "1-1",
     "FTM-A": "3-3",
     "OREB": "0",
     "DREB": "1",
     "REB": "1",
+    "AST": "3",
+    "STL": "1",
+    "BLK": "1",
+    "TO": "4",
     "PF": "0",
     "TP": "8",
-    "AST": "3",
-    "TO": "4",
-    "BLK": "1",
-    "STL": "1",
-    "MIN": "22",
     "eventDateFormatted": "Dec 1"
 }

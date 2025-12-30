@@ -1,17 +1,17 @@
 {
     "Player Name": "Sawyer Mayhugh",
+    "MIN": "26",
     "FGM-A": "10-13",
     "3PM-A": "2-4",
     "FTM-A": "6-10",
     "OREB": "0",
     "DREB": "8",
     "REB": "8",
+    "AST": "1",
+    "STL": "1",
+    "BLK": "0",
+    "TO": "2",
     "PF": "1",
     "TP": "28",
-    "AST": "1",
-    "TO": "2",
-    "BLK": "0",
-    "STL": "1",
-    "MIN": "26",
     "eventDateFormatted": "Dec 6"
 }

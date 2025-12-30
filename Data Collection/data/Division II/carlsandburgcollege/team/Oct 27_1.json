@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Oct 27",
+    "boxScoreLink": "20251027_ct3x.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Monmouth College",
+                "result": "",
+                "teamId": "73gan5r3h1cbjhgu",
+                "winner": false,
+                "cleanName": "monmouth col"
+            },
+            {
+                "name": "Carl Sandburg College",
+                "result": "",
+                "teamId": "m799041bww3nsx0e",
+                "winner": false,
+                "cleanName": "carl sandburg col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1761602400000,
+        "localTimeZone": "America/Chicago",
+        "tba": false,
+        "home": true,
+        "overall": false,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "ct3xq5t4epirwfdf",
+        "fastdate": 1761602400000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "scrimmage",
+            "description": "Scrimmage",
+            "statsCount": false
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Monmouth College",
+            "result": "",
+            "teamId": "73gan5r3h1cbjhgu",
+            "winner": false,
+            "cleanName": "monmouth col"
+        },
+        "us": {
+            "name": "Carl Sandburg College",
+            "result": "",
+            "teamId": "m799041bww3nsx0e",
+            "winner": false,
+            "cleanName": "carl sandburg col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "October 27 06:00 PM:"
+}

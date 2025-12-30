@@ -1,17 +1,17 @@
 {
     "Player Name": "Amareon Parker",
+    "MIN": "35",
     "FGM-A": "2-6",
     "3PM-A": "1-2",
     "FTM-A": "11-11",
     "OREB": "0",
     "DREB": "3",
     "REB": "3",
+    "AST": "2",
+    "STL": "1",
+    "BLK": "0",
+    "TO": "1",
     "PF": "2",
     "TP": "16",
-    "AST": "2",
-    "TO": "1",
-    "BLK": "0",
-    "STL": "1",
-    "MIN": "35",
     "eventDateFormatted": "Dec 13"
 }

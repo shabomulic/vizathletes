@@ -1,17 +1,17 @@
 {
     "Player Name": "NIcholas Anthony",
+    "MIN": "19",
     "FGM-A": "1-4",
     "3PM-A": "1-2",
     "FTM-A": "0-0",
     "OREB": "1",
     "DREB": "2",
     "REB": "3",
+    "AST": "1",
+    "STL": "2",
+    "BLK": "0",
+    "TO": "2",
     "PF": "2",
     "TP": "3",
-    "AST": "1",
-    "TO": "2",
-    "BLK": "0",
-    "STL": "2",
-    "MIN": "19",
     "eventDateFormatted": "Dec 4"
 }

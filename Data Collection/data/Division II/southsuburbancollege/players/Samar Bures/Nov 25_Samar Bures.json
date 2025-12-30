@@ -1,17 +1,17 @@
 {
     "Player Name": "Samar Bures",
+    "MIN": "33",
     "FGM-A": "7-15",
     "3PM-A": "1-4",
     "FTM-A": "0-0",
     "OREB": "1",
     "DREB": "5",
     "REB": "6",
+    "AST": "5",
+    "STL": "5",
+    "BLK": "1",
+    "TO": "1",
     "PF": "1",
     "TP": "15",
-    "AST": "5",
-    "TO": "1",
-    "BLK": "1",
-    "STL": "5",
-    "MIN": "33",
     "eventDateFormatted": "Nov 25"
 }

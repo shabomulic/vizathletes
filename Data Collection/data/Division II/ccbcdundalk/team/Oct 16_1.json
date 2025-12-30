@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Oct 16",
+    "boxScoreLink": "20251016_txji.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Alumni",
+                "result": "",
+                "teamId": "lts1l9m5hig7lj44",
+                "winner": false,
+                "cleanName": "alumni"
+            },
+            {
+                "name": "CCBC Dundalk",
+                "result": "",
+                "teamId": "jhfzyd61v4l276h6",
+                "winner": false,
+                "cleanName": "ccbc dundalk"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "CCBC Dundalk Wellness &amp; Athletics Center",
+        "date": 1760655600000,
+        "localTimeZone": "America/New_York",
+        "tba": false,
+        "home": true,
+        "overall": false,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "txji4ui4fj1rjmi0",
+        "fastdate": 1760655600000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": true,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "preSeason",
+            "description": "Pre-Season",
+            "statsCount": true
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Alumni",
+            "result": "",
+            "teamId": "lts1l9m5hig7lj44",
+            "winner": false,
+            "cleanName": "alumni"
+        },
+        "us": {
+            "name": "CCBC Dundalk",
+            "result": "",
+            "teamId": "jhfzyd61v4l276h6",
+            "winner": false,
+            "cleanName": "ccbc dundalk"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "October 16 07:00 PM:"
+}

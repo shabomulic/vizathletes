@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Jan 24",
+    "boxScoreLink": "20260124_z3z2.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Mercer County Community College",
+                "result": "",
+                "teamId": "cw9gmssyiqysv6yc",
+                "winner": false,
+                "cleanName": "mercer county community col"
+            },
+            {
+                "name": "Orange County Community College",
+                "result": "",
+                "teamId": "hasq8dsbramga7si",
+                "winner": false,
+                "cleanName": "orange county community col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1769281200000,
+        "localTimeZone": "America/New_York",
+        "tba": false,
+        "home": true,
+        "overall": true,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": true,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "z3z2ityz4kr2zw39",
+        "fastdate": 1769281200000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "Middletown",
+        "stateCountry": "NY",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Mercer County Community College",
+            "result": "",
+            "teamId": "cw9gmssyiqysv6yc",
+            "winner": false,
+            "cleanName": "mercer county community col"
+        },
+        "us": {
+            "name": "Orange County Community College",
+            "result": "",
+            "teamId": "hasq8dsbramga7si",
+            "winner": false,
+            "cleanName": "orange county community col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "January 24 02:00 PM:"
+}

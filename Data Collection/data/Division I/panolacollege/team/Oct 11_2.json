@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Oct 11",
+    "boxScoreLink": "20251011_beny.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Mullen's Jamboree",
+                "result": "",
+                "teamId": "5zov2coqtsab9pxi",
+                "winner": false,
+                "cleanName": "mullen s jamboree"
+            },
+            {
+                "name": "Panola College",
+                "result": "",
+                "teamId": "25bky354cz5857m8",
+                "winner": false,
+                "cleanName": "panola col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1760155200000,
+        "localTimeZone": "America/Chicago",
+        "tba": true,
+        "home": true,
+        "overall": false,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "benygd7kxmpn2jsq",
+        "fastdate": 1760155200000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "Fort Worth",
+        "stateCountry": "Texas",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "scrimmage",
+            "description": "Scrimmage",
+            "statsCount": false
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Mullen's Jamboree",
+            "result": "",
+            "teamId": "5zov2coqtsab9pxi",
+            "winner": false,
+            "cleanName": "mullen s jamboree"
+        },
+        "us": {
+            "name": "Panola College",
+            "result": "",
+            "teamId": "25bky354cz5857m8",
+            "winner": false,
+            "cleanName": "panola col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "October 11 12:00 AM:"
+}

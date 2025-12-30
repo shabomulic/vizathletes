@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Feb 28",
+    "boxScoreLink": "20260228_1l9n.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Kilgore College",
+                "result": "",
+                "teamId": "e1hfw3ohlljgbq6q",
+                "winner": false,
+                "cleanName": "kilgore col"
+            },
+            {
+                "name": "Angelina College",
+                "result": "",
+                "teamId": "l188ndcldc2ykw8u",
+                "winner": false,
+                "cleanName": "angelina col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1772312400000,
+        "localTimeZone": "America/Chicago",
+        "tba": false,
+        "home": true,
+        "overall": true,
+        "conference": true,
+        "division": false,
+        "regional": true,
+        "national": true,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "1l9n30mqnqqpu8ls",
+        "fastdate": 1772312400000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "3500 South First Stree",
+        "city": "Lufkin",
+        "stateCountry": "Texas",
+        "zipCode": "75904",
+        "venue": "Shands Gymnasium",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Kilgore College",
+            "result": "",
+            "teamId": "e1hfw3ohlljgbq6q",
+            "winner": false,
+            "cleanName": "kilgore col"
+        },
+        "us": {
+            "name": "Angelina College",
+            "result": "",
+            "teamId": "l188ndcldc2ykw8u",
+            "winner": false,
+            "cleanName": "angelina col"
+        },
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "February 28 04:00 PM:"
+}

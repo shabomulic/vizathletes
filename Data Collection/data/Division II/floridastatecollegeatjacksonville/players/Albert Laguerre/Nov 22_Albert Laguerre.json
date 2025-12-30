@@ -1,17 +1,17 @@
 {
     "Player Name": "Albert Laguerre",
+    "MIN": "29",
     "FGM-A": "8-10",
     "3PM-A": "2-2",
     "FTM-A": "1-1",
     "OREB": "1",
     "DREB": "0",
     "REB": "1",
+    "AST": "0",
+    "STL": "0",
+    "BLK": "0",
+    "TO": "1",
     "PF": "3",
     "TP": "19",
-    "AST": "0",
-    "TO": "1",
-    "BLK": "0",
-    "STL": "0",
-    "MIN": "29",
     "eventDateFormatted": "Nov 22"
 }

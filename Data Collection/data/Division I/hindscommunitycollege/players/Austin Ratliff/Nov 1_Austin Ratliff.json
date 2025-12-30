@@ -1,17 +1,17 @@
 {
     "Player Name": "Austin Ratliff",
+    "MIN": "33",
     "FGM-A": "5-11",
     "3PM-A": "0-2",
     "FTM-A": "4-6",
     "OREB": "2",
     "DREB": "8",
     "REB": "10",
+    "AST": "0",
+    "STL": "0",
+    "BLK": "4",
+    "TO": "5",
     "PF": "0",
     "TP": "14",
-    "AST": "0",
-    "TO": "5",
-    "BLK": "4",
-    "STL": "0",
-    "MIN": "33",
     "eventDateFormatted": "Nov 1"
 }

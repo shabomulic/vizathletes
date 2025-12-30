@@ -1,17 +1,17 @@
 {
     "Player Name": "Dylan Rowe",
+    "MIN": "47",
     "FGM-A": "8-19",
     "3PM-A": "1-2",
     "FTM-A": "12-15",
     "OREB": "0",
     "DREB": "4",
     "REB": "4",
+    "AST": "6",
+    "STL": "4",
+    "BLK": "0",
+    "TO": "5",
     "PF": "4",
     "TP": "29",
-    "AST": "6",
-    "TO": "5",
-    "BLK": "0",
-    "STL": "4",
-    "MIN": "47",
     "eventDateFormatted": "Dec 8"
 }

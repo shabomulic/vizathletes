@@ -1,17 +1,17 @@
 {
     "Player Name": "Kaden Tate",
+    "MIN": "31",
     "FGM-A": "5-6",
     "3PM-A": "0-1",
     "FTM-A": "1-1",
     "OREB": "3",
     "DREB": "10",
     "REB": "13",
+    "AST": "4",
+    "STL": "3",
+    "BLK": "0",
+    "TO": "2",
     "PF": "1",
     "TP": "11",
-    "AST": "4",
-    "TO": "2",
-    "BLK": "0",
-    "STL": "3",
-    "MIN": "31",
     "eventDateFormatted": "Dec 15"
 }

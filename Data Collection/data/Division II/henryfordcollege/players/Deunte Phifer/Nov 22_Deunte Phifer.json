@@ -1,17 +1,17 @@
 {
     "Player Name": "Deunte Phifer",
+    "MIN": "26",
     "FGM-A": "7-15",
     "3PM-A": "3-7",
     "FTM-A": "3-5",
     "OREB": "3",
     "DREB": "8",
     "REB": "11",
+    "AST": "6",
+    "STL": "3",
+    "BLK": "0",
+    "TO": "2",
     "PF": "3",
     "TP": "20",
-    "AST": "6",
-    "TO": "2",
-    "BLK": "0",
-    "STL": "3",
-    "MIN": "26",
     "eventDateFormatted": "Nov 22"
 }

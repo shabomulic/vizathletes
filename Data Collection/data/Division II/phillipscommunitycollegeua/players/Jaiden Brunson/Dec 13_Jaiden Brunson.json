@@ -1,17 +1,17 @@
 {
     "Player Name": "Jaiden Brunson",
+    "MIN": "20",
     "FGM-A": "4-9",
     "3PM-A": "3-6",
     "FTM-A": "1-2",
     "OREB": "0",
     "DREB": "4",
     "REB": "4",
+    "AST": "0",
+    "STL": "0",
+    "BLK": "0",
+    "TO": "2",
     "PF": "5",
     "TP": "12",
-    "AST": "0",
-    "TO": "2",
-    "BLK": "0",
-    "STL": "0",
-    "MIN": "20",
     "eventDateFormatted": "Dec 13"
 }

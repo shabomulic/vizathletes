@@ -1,17 +1,17 @@
 {
     "Player Name": "Jhace Johnson",
+    "MIN": "1",
     "FGM-A": "5-10",
     "3PM-A": "0-1",
     "FTM-A": "2-2",
     "OREB": "1",
     "DREB": "4",
     "REB": "5",
+    "AST": "6",
+    "STL": "5",
+    "BLK": "1",
+    "TO": "5",
     "PF": "1",
     "TP": "12",
-    "AST": "6",
-    "TO": "5",
-    "BLK": "1",
-    "STL": "5",
-    "MIN": "1",
     "eventDateFormatted": "Dec 11"
 }

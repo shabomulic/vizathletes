@@ -1,17 +1,17 @@
 {
     "Player Name": "Moudou Diakhate",
+    "MIN": "1",
     "FGM-A": "9-14",
     "3PM-A": "0-0",
     "FTM-A": "0-0",
     "OREB": "3",
     "DREB": "10",
     "REB": "13",
+    "AST": "5",
+    "STL": "3",
+    "BLK": "0",
+    "TO": "2",
     "PF": "0",
     "TP": "18",
-    "AST": "5",
-    "TO": "2",
-    "BLK": "0",
-    "STL": "3",
-    "MIN": "1",
     "eventDateFormatted": "Dec 13"
 }

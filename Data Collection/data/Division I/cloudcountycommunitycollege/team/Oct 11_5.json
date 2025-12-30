@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Oct 11",
+    "boxScoreLink": "20251011_1ckr.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Hinds Community College",
+                "result": "",
+                "teamId": "0be5p1t3neusd0x1",
+                "winner": false,
+                "cleanName": "hinds community col"
+            },
+            {
+                "name": "Cloud County Community College",
+                "result": "",
+                "teamId": "w3cgw61s9okfyuje",
+                "winner": false,
+                "cleanName": "cloud county community col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "Mullen/Mitchell Dallas Blowout JUCO Jamboree",
+        "date": 1760196600000,
+        "localTimeZone": "America/Chicago",
+        "tba": false,
+        "home": true,
+        "overall": false,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "1ckr6ajqm2p498rz",
+        "fastdate": 1760196600000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "Fort Worth",
+        "stateCountry": "Texas",
+        "zipCode": "",
+        "venue": "GAME ON Sports Complex",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "exhibition",
+            "description": "Exhibition",
+            "statsCount": false
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Hinds Community College",
+            "result": "",
+            "teamId": "0be5p1t3neusd0x1",
+            "winner": false,
+            "cleanName": "hinds community col"
+        },
+        "us": {
+            "name": "Cloud County Community College",
+            "result": "",
+            "teamId": "w3cgw61s9okfyuje",
+            "winner": false,
+            "cleanName": "cloud county community col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "October 11 11:30 AM:"
+}

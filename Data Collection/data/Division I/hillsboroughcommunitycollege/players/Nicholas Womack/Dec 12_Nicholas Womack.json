@@ -1,17 +1,17 @@
 {
     "Player Name": "Nicholas Womack",
+    "MIN": "1",
     "FGM-A": "5-13",
     "3PM-A": "3-7",
     "FTM-A": "4-6",
     "OREB": "0",
     "DREB": "2",
     "REB": "2",
+    "AST": "8",
+    "STL": "1",
+    "BLK": "0",
+    "TO": "2",
     "PF": "3",
     "TP": "17",
-    "AST": "8",
-    "TO": "2",
-    "BLK": "0",
-    "STL": "1",
-    "MIN": "1",
     "eventDateFormatted": "Dec 12"
 }

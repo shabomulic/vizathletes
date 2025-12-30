@@ -1,17 +1,17 @@
 {
     "Player Name": "Ra'Kai Crawford",
+    "MIN": "38",
     "FGM-A": "11-17",
     "3PM-A": "4-8",
     "FTM-A": "4-5",
     "OREB": "0",
     "DREB": "1",
     "REB": "1",
+    "AST": "3",
+    "STL": "1",
+    "BLK": "0",
+    "TO": "5",
     "PF": "3",
     "TP": "30",
-    "AST": "3",
-    "TO": "5",
-    "BLK": "0",
-    "STL": "1",
-    "MIN": "38",
     "eventDateFormatted": "Nov 8"
 }

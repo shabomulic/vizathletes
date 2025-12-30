@@ -1,17 +1,17 @@
 {
     "Player Name": "NICHOLAS LONG",
+    "MIN": "1",
     "FGM-A": "1-5",
     "3PM-A": "0-0",
     "FTM-A": "10-10",
     "OREB": "1",
     "DREB": "3",
     "REB": "4",
+    "AST": "1",
+    "STL": "0",
+    "BLK": "1",
+    "TO": "3",
     "PF": "0",
     "TP": "12",
-    "AST": "1",
-    "TO": "3",
-    "BLK": "1",
-    "STL": "0",
-    "MIN": "1",
     "eventDateFormatted": "Nov 12"
 }

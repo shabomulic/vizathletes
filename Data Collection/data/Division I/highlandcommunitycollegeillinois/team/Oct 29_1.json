@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Oct 29",
+    "boxScoreLink": "20251029_u5cf.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Highland Community College - Illinois",
+                "result": "",
+                "teamId": "rnhsly6ukwev2sq7",
+                "winner": false,
+                "cleanName": "highland community col illinois"
+            },
+            {
+                "name": "Elgin Community College",
+                "result": "",
+                "teamId": "f1r4uao8u4ind43q",
+                "winner": false,
+                "cleanName": "elgin community col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1761777000000,
+        "localTimeZone": "America/Chicago",
+        "tba": false,
+        "home": false,
+        "overall": false,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "u5cf3kap3cc8t5vz",
+        "fastdate": 1761777000000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "exhibition",
+            "description": "Exhibition",
+            "statsCount": false
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Elgin Community College",
+            "result": "",
+            "teamId": "f1r4uao8u4ind43q",
+            "winner": false,
+            "cleanName": "elgin community col"
+        },
+        "us": {
+            "name": "Highland Community College - Illinois",
+            "result": "",
+            "teamId": "rnhsly6ukwev2sq7",
+            "winner": false,
+            "cleanName": "highland community col illinois"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "October 29 06:30 PM:"
+}

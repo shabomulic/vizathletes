@@ -231,7 +231,7 @@
     "careerId": null,
     "rank": null,
     "eventCount": 3,
-    "lastUpdated": 1765905018000,
+    "lastUpdated": 1767011170000,
     "position": "F",
     "positionAbbreviation": null,
     "positionCode": "F0SO",
@@ -257,10 +257,10 @@
             "defaultValue": 0,
             "mutable": false,
             "componentType": false,
-            "collectionType": false,
             "entityType": false,
             "associationType": false,
             "xmlelement": false,
+            "collectionType": false,
             "anyType": false
         },
         "mutable": false

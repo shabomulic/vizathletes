@@ -1,17 +1,17 @@
 {
     "Player Name": "Ryan Clemons",
+    "MIN": "28",
     "FGM-A": "2-6",
     "3PM-A": "1-4",
     "FTM-A": "0-0",
     "OREB": "0",
     "DREB": "6",
     "REB": "6",
+    "AST": "2",
+    "STL": "1",
+    "BLK": "0",
+    "TO": "1",
     "PF": "2",
     "TP": "5",
-    "AST": "2",
-    "TO": "1",
-    "BLK": "0",
-    "STL": "1",
-    "MIN": "28",
     "eventDateFormatted": "Dec 2"
 }

@@ -1,17 +1,17 @@
 {
     "Player Name": "Caleb Alcineus",
+    "MIN": "1",
     "FGM-A": "6-9",
     "3PM-A": "3-4",
     "FTM-A": "2-2",
     "OREB": "1",
     "DREB": "3",
     "REB": "4",
+    "AST": "1",
+    "STL": "1",
+    "BLK": "0",
+    "TO": "1",
     "PF": "2",
     "TP": "17",
-    "AST": "1",
-    "TO": "1",
-    "BLK": "0",
-    "STL": "1",
-    "MIN": "1",
     "eventDateFormatted": "Dec 11"
 }

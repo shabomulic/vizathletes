@@ -1,17 +1,17 @@
 {
     "Player Name": "Caeden Terrell",
+    "MIN": "1",
     "FGM-A": "7-9",
     "3PM-A": "4-4",
     "FTM-A": "2-4",
     "OREB": "1",
     "DREB": "0",
     "REB": "1",
+    "AST": "3",
+    "STL": "3",
+    "BLK": "1",
+    "TO": "2",
     "PF": "0",
     "TP": "20",
-    "AST": "3",
-    "TO": "2",
-    "BLK": "1",
-    "STL": "3",
-    "MIN": "1",
     "eventDateFormatted": "Nov 24"
 }

@@ -1,17 +1,17 @@
 {
     "Player Name": "Josiah Kirkwood",
+    "MIN": "12",
     "FGM-A": "3-7",
     "3PM-A": "0-1",
     "FTM-A": "0-0",
     "OREB": "3",
     "DREB": "2",
     "REB": "5",
+    "AST": "1",
+    "STL": "3",
+    "BLK": "0",
+    "TO": "2",
     "PF": "5",
     "TP": "6",
-    "AST": "1",
-    "TO": "2",
-    "BLK": "0",
-    "STL": "3",
-    "MIN": "12",
     "eventDateFormatted": "Dec 3"
 }

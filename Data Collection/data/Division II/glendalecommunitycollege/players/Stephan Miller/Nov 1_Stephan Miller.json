@@ -1,17 +1,17 @@
 {
     "Player Name": "Stephan Miller",
+    "MIN": "20",
     "FGM-A": "7-10",
     "3PM-A": "1-2",
     "FTM-A": "2-4",
     "OREB": "3",
     "DREB": "5",
     "REB": "8",
+    "AST": "2",
+    "STL": "3",
+    "BLK": "0",
+    "TO": "3",
     "PF": "3",
     "TP": "17",
-    "AST": "2",
-    "TO": "3",
-    "BLK": "0",
-    "STL": "3",
-    "MIN": "20",
     "eventDateFormatted": "Nov 1"
 }

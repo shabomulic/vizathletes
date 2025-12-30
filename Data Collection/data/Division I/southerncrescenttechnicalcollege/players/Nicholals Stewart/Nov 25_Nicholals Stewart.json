@@ -1,17 +1,17 @@
 {
     "Player Name": "Nicholals Stewart",
+    "MIN": "26",
     "FGM-A": "3-11",
     "3PM-A": "0-1",
     "FTM-A": "1-2",
     "OREB": "1",
     "DREB": "1",
     "REB": "2",
+    "AST": "1",
+    "STL": "1",
+    "BLK": "1",
+    "TO": "3",
     "PF": "4",
     "TP": "7",
-    "AST": "1",
-    "TO": "3",
-    "BLK": "1",
-    "STL": "1",
-    "MIN": "26",
     "eventDateFormatted": "Nov 25"
 }

@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Oct 19",
+    "boxScoreLink": "20251019_05qm.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Southwestern Michigan",
+                "result": "",
+                "teamId": "ncifb9cqkodtcalk",
+                "winner": false,
+                "cleanName": "southwestern michigan"
+            },
+            {
+                "name": "Harper College",
+                "result": "",
+                "teamId": "9gzukgaswsmcqa9a",
+                "winner": false,
+                "cleanName": "harper col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1760896800000,
+        "localTimeZone": "America/Chicago",
+        "tba": false,
+        "home": true,
+        "overall": false,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": true,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "Danville HS Fieldhouse - Court 2",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "05qm8gay6sf7irta",
+        "fastdate": 1760896800000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "Danville",
+        "stateCountry": "IL",
+        "zipCode": "",
+        "venue": "Danville HS Fieldhouse - Court 2",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "scrimmage",
+            "description": "Scrimmage",
+            "statsCount": false
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Southwestern Michigan",
+            "result": "",
+            "teamId": "ncifb9cqkodtcalk",
+            "winner": false,
+            "cleanName": "southwestern michigan"
+        },
+        "us": {
+            "name": "Harper College",
+            "result": "",
+            "teamId": "9gzukgaswsmcqa9a",
+            "winner": false,
+            "cleanName": "harper col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "October 19 02:00 PM:"
+}

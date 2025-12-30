@@ -1,17 +1,17 @@
 {
     "Player Name": "Nehemiah McDonald",
+    "MIN": "29:01",
     "FGM-A": "3-9",
     "3PM-A": "1-5",
     "FTM-A": "2-4",
     "OREB": "2",
     "DREB": "4",
     "REB": "6",
+    "AST": "0",
+    "STL": "2",
+    "BLK": "0",
+    "TO": "1",
     "PF": "3",
     "TP": "9",
-    "AST": "0",
-    "TO": "1",
-    "BLK": "0",
-    "STL": "2",
-    "MIN": "29:01",
     "eventDateFormatted": "Dec 13"
 }

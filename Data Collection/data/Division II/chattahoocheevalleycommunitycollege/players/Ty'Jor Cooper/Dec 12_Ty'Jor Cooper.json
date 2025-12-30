@@ -1,17 +1,17 @@
 {
     "Player Name": "Ty'Jor Cooper",
+    "MIN": "1",
     "FGM-A": "3-7",
     "3PM-A": "0-1",
     "FTM-A": "0-0",
     "OREB": "5",
     "DREB": "3",
     "REB": "8",
+    "AST": "1",
+    "STL": "1",
+    "BLK": "1",
+    "TO": "0",
     "PF": "0",
     "TP": "6",
-    "AST": "1",
-    "TO": "0",
-    "BLK": "1",
-    "STL": "1",
-    "MIN": "1",
     "eventDateFormatted": "Dec 12"
 }

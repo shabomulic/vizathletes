@@ -1,17 +1,17 @@
 {
     "Player Name": "Kirk McFarlane",
+    "MIN": "1",
     "FGM-A": "0-6",
     "3PM-A": "0-0",
     "FTM-A": "0-4",
     "OREB": "2",
     "DREB": "5",
     "REB": "7",
+    "AST": "1",
+    "STL": "0",
+    "BLK": "1",
+    "TO": "4",
     "PF": "1",
     "TP": "0",
-    "AST": "1",
-    "TO": "4",
-    "BLK": "1",
-    "STL": "0",
-    "MIN": "1",
     "eventDateFormatted": "Nov 2"
 }

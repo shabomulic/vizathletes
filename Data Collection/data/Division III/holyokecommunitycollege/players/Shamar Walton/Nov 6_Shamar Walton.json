@@ -1,17 +1,17 @@
 {
     "Player Name": "Shamar Walton",
+    "MIN": "1",
     "FGM-A": "3-12",
     "3PM-A": "0-3",
     "FTM-A": "1-2",
     "OREB": "0",
     "DREB": "5",
     "REB": "5",
+    "AST": "5",
+    "STL": "0",
+    "BLK": "0",
+    "TO": "4",
     "PF": "2",
     "TP": "7",
-    "AST": "5",
-    "TO": "4",
-    "BLK": "0",
-    "STL": "0",
-    "MIN": "1",
     "eventDateFormatted": "Nov 6"
 }

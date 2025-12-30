@@ -1,17 +1,17 @@
 {
     "Player Name": "Ponce Williams",
+    "MIN": "21",
     "FGM-A": "1-5",
     "3PM-A": "0-3",
     "FTM-A": "5-6",
     "OREB": "2",
     "DREB": "4",
     "REB": "6",
+    "AST": "6",
+    "STL": "2",
+    "BLK": "0",
+    "TO": "7",
     "PF": "0",
     "TP": "7",
-    "AST": "6",
-    "TO": "7",
-    "BLK": "0",
-    "STL": "2",
-    "MIN": "21",
     "eventDateFormatted": "Nov 16"
 }

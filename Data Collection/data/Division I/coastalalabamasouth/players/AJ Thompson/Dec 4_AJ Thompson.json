@@ -1,17 +1,17 @@
 {
     "Player Name": "AJ Thompson",
+    "MIN": "29",
     "FGM-A": "4-9",
     "3PM-A": "3-7",
     "FTM-A": "0-0",
     "OREB": "1",
     "DREB": "7",
     "REB": "8",
+    "AST": "5",
+    "STL": "1",
+    "BLK": "0",
+    "TO": "1",
     "PF": "2",
     "TP": "11",
-    "AST": "5",
-    "TO": "1",
-    "BLK": "0",
-    "STL": "1",
-    "MIN": "29",
     "eventDateFormatted": "Dec 4"
 }

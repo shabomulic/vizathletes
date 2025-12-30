@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Jan 10",
+    "boxScoreLink": "20260110_zdrv.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Iowa Central Community College",
+                "result": "",
+                "teamId": "gz4mhb2yly8vcjs4",
+                "winner": false,
+                "cleanName": "iowa central community col"
+            },
+            {
+                "name": "Johnson County Community College",
+                "result": "",
+                "teamId": "e4cr0jwhahc6zkyw",
+                "winner": false,
+                "cleanName": "johnson county community col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "JCCC Gymnasium | Overland Park, KS",
+        "date": 1768078800000,
+        "localTimeZone": "America/Chicago",
+        "tba": false,
+        "home": false,
+        "overall": true,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": true,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "zdrvr7lz9lqd5up0",
+        "fastdate": 1768078800000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Johnson County Community College",
+            "result": "",
+            "teamId": "e4cr0jwhahc6zkyw",
+            "winner": false,
+            "cleanName": "johnson county community col"
+        },
+        "us": {
+            "name": "Iowa Central Community College",
+            "result": "",
+            "teamId": "gz4mhb2yly8vcjs4",
+            "winner": false,
+            "cleanName": "iowa central community col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "January 10 04:00 PM:"
+}

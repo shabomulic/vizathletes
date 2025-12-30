@@ -1,17 +1,17 @@
 {
     "Player Name": "Aaron Wilson",
+    "MIN": "29",
     "FGM-A": "4-11",
     "3PM-A": "0-4",
     "FTM-A": "4-4",
     "OREB": "1",
     "DREB": "4",
     "REB": "5",
+    "AST": "4",
+    "STL": "2",
+    "BLK": "0",
+    "TO": "5",
     "PF": "2",
     "TP": "12",
-    "AST": "4",
-    "TO": "5",
-    "BLK": "0",
-    "STL": "2",
-    "MIN": "29",
     "eventDateFormatted": "Dec 1"
 }

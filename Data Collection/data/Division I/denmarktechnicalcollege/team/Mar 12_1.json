@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Mar 12",
+    "boxScoreLink": "20260312_5ryu.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Chosen Academy",
+                "result": "",
+                "teamId": "g7tuqhkbqp83d0po",
+                "winner": false,
+                "cleanName": "chosen academy"
+            },
+            {
+                "name": "Denmark Technical College",
+                "result": "",
+                "teamId": "biofihz0z4oc37yr",
+                "winner": false,
+                "cleanName": "denmark technical col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1773356400000,
+        "localTimeZone": "America/New_York",
+        "tba": false,
+        "home": true,
+        "overall": true,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "5ryu8xiox3w4f0cp",
+        "fastdate": 1773356400000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Chosen Academy",
+            "result": "",
+            "teamId": "g7tuqhkbqp83d0po",
+            "winner": false,
+            "cleanName": "chosen academy"
+        },
+        "us": {
+            "name": "Denmark Technical College",
+            "result": "",
+            "teamId": "biofihz0z4oc37yr",
+            "winner": false,
+            "cleanName": "denmark technical col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "March 12 07:00 PM:"
+}

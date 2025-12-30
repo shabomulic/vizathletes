@@ -1,17 +1,17 @@
 {
     "Player Name": "Robert Day",
+    "MIN": "1",
     "FGM-A": "0-2",
     "3PM-A": "0-0",
     "FTM-A": "1-2",
     "OREB": "3",
     "DREB": "4",
     "REB": "7",
+    "AST": "2",
+    "STL": "1",
+    "BLK": "4",
+    "TO": "2",
     "PF": "5",
     "TP": "1",
-    "AST": "2",
-    "TO": "2",
-    "BLK": "4",
-    "STL": "1",
-    "MIN": "1",
     "eventDateFormatted": "Nov 8"
 }

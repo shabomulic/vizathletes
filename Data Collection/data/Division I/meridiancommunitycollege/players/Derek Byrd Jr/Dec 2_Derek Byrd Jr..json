@@ -1,17 +1,17 @@
 {
-    "Player Name": "Derek Byrd Jr",
+    "Player Name": "Derek Byrd Jr.",
+    "MIN": "1",
     "FGM-A": "1-3",
     "3PM-A": "0-0",
     "FTM-A": "3-4",
     "OREB": "4",
     "DREB": "8",
     "REB": "12",
+    "AST": "2",
+    "STL": "1",
+    "BLK": "3",
+    "TO": "2",
     "PF": "0",
     "TP": "5",
-    "AST": "2",
-    "TO": "2",
-    "BLK": "3",
-    "STL": "1",
-    "MIN": "1",
     "eventDateFormatted": "Dec 2"
 }

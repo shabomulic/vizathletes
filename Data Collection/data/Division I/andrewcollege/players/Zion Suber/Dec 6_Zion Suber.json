@@ -1,17 +1,17 @@
 {
     "Player Name": "Zion Suber",
+    "MIN": "14",
     "FGM-A": "0-6",
     "3PM-A": "0-1",
     "FTM-A": "0-0",
     "OREB": "0",
     "DREB": "3",
     "REB": "3",
+    "AST": "2",
+    "STL": "0",
+    "BLK": "0",
+    "TO": "1",
     "PF": "1",
     "TP": "0",
-    "AST": "2",
-    "TO": "1",
-    "BLK": "0",
-    "STL": "0",
-    "MIN": "14",
     "eventDateFormatted": "Dec 6"
 }

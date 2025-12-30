@@ -1,17 +1,17 @@
 {
     "Player Name": "Damari Holder",
+    "MIN": "21",
     "FGM-A": "5-9",
     "3PM-A": "0-4",
     "FTM-A": "3-4",
     "OREB": "1",
     "DREB": "1",
     "REB": "2",
+    "AST": "3",
+    "STL": "1",
+    "BLK": "0",
+    "TO": "1",
     "PF": "2",
     "TP": "13",
-    "AST": "3",
-    "TO": "1",
-    "BLK": "0",
-    "STL": "1",
-    "MIN": "21",
     "eventDateFormatted": "Nov 12"
 }

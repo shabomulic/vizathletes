@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Oct 11",
+    "boxScoreLink": "20251011_i02v.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Montgomery College (MD)",
+                "result": "",
+                "teamId": "7kq1j0zzy7ftf769",
+                "winner": false,
+                "cleanName": "montgomery col md"
+            },
+            {
+                "name": "Pitt Community College",
+                "result": "",
+                "teamId": "avv6sdoji7liwtnx",
+                "winner": false,
+                "cleanName": "pitt community col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "Scrimmage",
+        "date": 1760199600000,
+        "localTimeZone": "America/New_York",
+        "tba": false,
+        "home": false,
+        "overall": false,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "Henrico Sports & Event Center",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "i02vq5z6tsddg8yv",
+        "fastdate": 1760199600000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "scrimmage",
+            "description": "Scrimmage",
+            "statsCount": false
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Pitt Community College",
+            "result": "",
+            "teamId": "avv6sdoji7liwtnx",
+            "winner": false,
+            "cleanName": "pitt community col"
+        },
+        "us": {
+            "name": "Montgomery College (MD)",
+            "result": "",
+            "teamId": "7kq1j0zzy7ftf769",
+            "winner": false,
+            "cleanName": "montgomery col md"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "October 11 12:20 PM:"
+}

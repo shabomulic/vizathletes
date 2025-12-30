@@ -1,17 +1,17 @@
 {
     "Player Name": "Carson Haerer",
+    "MIN": "36",
     "FGM-A": "4-12",
     "3PM-A": "1-6",
     "FTM-A": "4-6",
     "OREB": "1",
     "DREB": "6",
     "REB": "7",
+    "AST": "8",
+    "STL": "3",
+    "BLK": "0",
+    "TO": "7",
     "PF": "4",
     "TP": "13",
-    "AST": "8",
-    "TO": "7",
-    "BLK": "0",
-    "STL": "3",
-    "MIN": "36",
     "eventDateFormatted": "Nov 29"
 }

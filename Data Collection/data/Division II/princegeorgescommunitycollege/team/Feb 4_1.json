@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Feb 4",
+    "boxScoreLink": "20260204_i81u.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Montgomery College (MD)",
+                "result": "",
+                "teamId": "7kq1j0zzy7ftf769",
+                "winner": false,
+                "cleanName": "montgomery col md"
+            },
+            {
+                "name": "Prince George's Community College",
+                "result": "",
+                "teamId": "scxcyv3pyuq0wbgu",
+                "winner": false,
+                "cleanName": "prince george s community col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1770249600000,
+        "localTimeZone": "America/New_York",
+        "tba": false,
+        "home": true,
+        "overall": true,
+        "conference": true,
+        "division": true,
+        "regional": true,
+        "national": true,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "i81ugz50zzeyvkmm",
+        "fastdate": 1770249600000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": true,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Montgomery College (MD)",
+            "result": "",
+            "teamId": "7kq1j0zzy7ftf769",
+            "winner": false,
+            "cleanName": "montgomery col md"
+        },
+        "us": {
+            "name": "Prince George's Community College",
+            "result": "",
+            "teamId": "scxcyv3pyuq0wbgu",
+            "winner": false,
+            "cleanName": "prince george s community col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "February 4 07:00 PM:"
+}

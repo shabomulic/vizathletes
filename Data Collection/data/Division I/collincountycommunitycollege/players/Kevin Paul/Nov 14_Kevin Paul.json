@@ -1,17 +1,17 @@
 {
     "Player Name": "Kevin Paul",
+    "MIN": "1",
     "FGM-A": "3-11",
     "3PM-A": "0-0",
     "FTM-A": "2-4",
     "OREB": "2",
     "DREB": "2",
     "REB": "4",
+    "AST": "3",
+    "STL": "2",
+    "BLK": "1",
+    "TO": "2",
     "PF": "3",
     "TP": "8",
-    "AST": "3",
-    "TO": "2",
-    "BLK": "1",
-    "STL": "2",
-    "MIN": "1",
     "eventDateFormatted": "Nov 14"
 }

@@ -1,17 +1,17 @@
 {
     "Player Name": "Adrien Armstrong",
+    "MIN": "1",
     "FGM-A": "6-12",
     "3PM-A": "0-1",
     "FTM-A": "3-5",
     "OREB": "1",
     "DREB": "2",
     "REB": "3",
+    "AST": "0",
+    "STL": "2",
+    "BLK": "0",
+    "TO": "2",
     "PF": "1",
     "TP": "15",
-    "AST": "0",
-    "TO": "2",
-    "BLK": "0",
-    "STL": "2",
-    "MIN": "1",
     "eventDateFormatted": "Nov 25"
 }

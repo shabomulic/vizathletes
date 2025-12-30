@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Oct 25",
+    "boxScoreLink": "20251025_adw7.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Howard Community College",
+                "result": "",
+                "teamId": "zhqwpfmqecysf01e",
+                "winner": false,
+                "cleanName": "howard community col"
+            },
+            {
+                "name": "CCBC Catonsville Preseason Jamboree",
+                "result": "",
+                "teamId": "3qnubiwgbsiftnsw",
+                "winner": false,
+                "cleanName": "ccbc catonsville preseason jamboree"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1761364800000,
+        "localTimeZone": "America/New_York",
+        "tba": true,
+        "home": false,
+        "overall": false,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "adw7xyy3rdgip5x0",
+        "fastdate": 1761364800000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "exhibition",
+            "description": "Exhibition",
+            "statsCount": false
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "CCBC Catonsville Preseason Jamboree",
+            "result": "",
+            "teamId": "3qnubiwgbsiftnsw",
+            "winner": false,
+            "cleanName": "ccbc catonsville preseason jamboree"
+        },
+        "us": {
+            "name": "Howard Community College",
+            "result": "",
+            "teamId": "zhqwpfmqecysf01e",
+            "winner": false,
+            "cleanName": "howard community col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "October 25 12:00 AM:"
+}

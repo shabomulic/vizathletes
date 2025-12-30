@@ -1,17 +1,17 @@
 {
     "Player Name": "Caron Williams",
+    "MIN": "32",
     "FGM-A": "7-16",
     "3PM-A": "2-7",
     "FTM-A": "5-5",
     "OREB": "0",
     "DREB": "3",
     "REB": "3",
+    "AST": "1",
+    "STL": "1",
+    "BLK": "0",
+    "TO": "2",
     "PF": "1",
     "TP": "21",
-    "AST": "1",
-    "TO": "2",
-    "BLK": "0",
-    "STL": "1",
-    "MIN": "32",
     "eventDateFormatted": "Nov 4"
 }

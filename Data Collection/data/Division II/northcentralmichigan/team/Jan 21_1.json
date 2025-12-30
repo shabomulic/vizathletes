@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Jan 21",
+    "boxScoreLink": "20260121_lis5.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Kirtland Community College",
+                "result": "",
+                "teamId": "h2aruovin9p2sulu",
+                "winner": false,
+                "cleanName": "kirtland community col"
+            },
+            {
+                "name": "North Central Michigan",
+                "result": "",
+                "teamId": "irpxmzrldbj09y2v",
+                "winner": false,
+                "cleanName": "n central michigan"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1769041800000,
+        "localTimeZone": "America/New_York",
+        "tba": false,
+        "home": true,
+        "overall": true,
+        "conference": true,
+        "division": false,
+        "regional": true,
+        "national": true,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "lis56ouf5i0v1fd2",
+        "fastdate": 1769041800000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": true,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Kirtland Community College",
+            "result": "",
+            "teamId": "h2aruovin9p2sulu",
+            "winner": false,
+            "cleanName": "kirtland community col"
+        },
+        "us": {
+            "name": "North Central Michigan",
+            "result": "",
+            "teamId": "irpxmzrldbj09y2v",
+            "winner": false,
+            "cleanName": "n central michigan"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "January 21 07:30 PM:"
+}

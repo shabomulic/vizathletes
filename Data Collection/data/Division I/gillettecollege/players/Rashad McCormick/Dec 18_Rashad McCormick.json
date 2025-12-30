@@ -1,17 +1,17 @@
 {
     "Player Name": "Rashad McCormick",
+    "MIN": "29",
     "FGM-A": "8-20",
     "3PM-A": "4-9",
     "FTM-A": "2-3",
     "OREB": "3",
     "DREB": "2",
     "REB": "5",
+    "AST": "0",
+    "STL": "1",
+    "BLK": "0",
+    "TO": "4",
     "PF": "2",
     "TP": "22",
-    "AST": "0",
-    "TO": "4",
-    "BLK": "0",
-    "STL": "1",
-    "MIN": "29",
     "eventDateFormatted": "Dec 18"
 }

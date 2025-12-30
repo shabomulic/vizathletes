@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Feb 9",
+    "boxScoreLink": "20260209_otdu.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Mohawk Valley Community College",
+                "result": "",
+                "teamId": "e0wdwueipq5hwrdz",
+                "winner": false,
+                "cleanName": "mohawk valley community col"
+            },
+            {
+                "name": "Monroe University - Bronx",
+                "result": "",
+                "teamId": "nsnti2mp198u9hry",
+                "winner": false,
+                "cleanName": "monroe univ bronx"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1770613200000,
+        "localTimeZone": "America/New_York",
+        "tba": true,
+        "home": false,
+        "overall": true,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "otdu15j2jy2c3c10",
+        "fastdate": 1770613200000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "ap2Result": "",
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Monroe University - Bronx",
+            "result": "",
+            "teamId": "nsnti2mp198u9hry",
+            "winner": false,
+            "cleanName": "monroe univ bronx"
+        },
+        "us": {
+            "name": "Mohawk Valley Community College",
+            "result": "",
+            "teamId": "e0wdwueipq5hwrdz",
+            "winner": false,
+            "cleanName": "mohawk valley community col"
+        },
+        "apresult": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "February 9 12:00 AM:"
+}

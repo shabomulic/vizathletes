@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Oct 10",
+    "boxScoreLink": "20251010_j1ux.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "TBA",
+                "result": "",
+                "teamId": "nc7x4nembqped3kz",
+                "winner": false,
+                "cleanName": "tba"
+            },
+            {
+                "name": "John Wood Community College",
+                "result": "",
+                "teamId": "fvrebpo1jyaaey9o",
+                "winner": false,
+                "cleanName": "john wood community col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "2025 Juco Jamboree",
+        "date": 1760112000000,
+        "localTimeZone": "America/Chicago",
+        "tba": false,
+        "home": true,
+        "overall": false,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "Juco Jamboree",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "j1uxnehni7grlrn3",
+        "fastdate": 1760112000000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "Ames, IA",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "preSeason",
+            "description": "Pre-Season",
+            "statsCount": true
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "TBA",
+            "result": "",
+            "teamId": "nc7x4nembqped3kz",
+            "winner": false,
+            "cleanName": "tba"
+        },
+        "us": {
+            "name": "John Wood Community College",
+            "result": "",
+            "teamId": "fvrebpo1jyaaey9o",
+            "winner": false,
+            "cleanName": "john wood community col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "October 10 12:00 PM:"
+}

@@ -1,17 +1,17 @@
 {
     "Player Name": "Jordan Alexander",
+    "MIN": "1",
     "FGM-A": "10-18",
     "3PM-A": "8-13",
     "FTM-A": "5-5",
     "OREB": "2",
     "DREB": "3",
     "REB": "5",
+    "AST": "0",
+    "STL": "1",
+    "BLK": "0",
+    "TO": "1",
     "PF": "1",
     "TP": "33",
-    "AST": "0",
-    "TO": "1",
-    "BLK": "0",
-    "STL": "1",
-    "MIN": "1",
     "eventDateFormatted": "Nov 10"
 }

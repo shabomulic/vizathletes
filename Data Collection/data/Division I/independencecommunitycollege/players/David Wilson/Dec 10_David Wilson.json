@@ -1,17 +1,17 @@
 {
     "Player Name": "David Wilson",
+    "MIN": "29",
     "FGM-A": "6-9",
     "3PM-A": "1-3",
     "FTM-A": "14-16",
     "OREB": "0",
     "DREB": "0",
     "REB": "0",
+    "AST": "1",
+    "STL": "1",
+    "BLK": "2",
+    "TO": "1",
     "PF": "2",
     "TP": "27",
-    "AST": "1",
-    "TO": "1",
-    "BLK": "2",
-    "STL": "1",
-    "MIN": "29",
     "eventDateFormatted": "Dec 10"
 }

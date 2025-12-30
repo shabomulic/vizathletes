@@ -1,17 +1,17 @@
 {
     "Player Name": "Tre Dubois",
+    "MIN": "32",
     "FGM-A": "3-7",
     "3PM-A": "1-4",
     "FTM-A": "7-8",
     "OREB": "0",
     "DREB": "4",
     "REB": "4",
+    "AST": "0",
+    "STL": "1",
+    "BLK": "0",
+    "TO": "2",
     "PF": "3",
     "TP": "14",
-    "AST": "0",
-    "TO": "2",
-    "BLK": "0",
-    "STL": "1",
-    "MIN": "32",
     "eventDateFormatted": "Nov 22"
 }

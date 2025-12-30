@@ -1,17 +1,17 @@
 {
     "Player Name": "Tyler Anthony",
+    "MIN": "29",
     "FGM-A": "5-10",
     "3PM-A": "4-9",
     "FTM-A": "2-2",
     "OREB": "0",
     "DREB": "3",
     "REB": "3",
+    "AST": "0",
+    "STL": "2",
+    "BLK": "0",
+    "TO": "2",
     "PF": "1",
     "TP": "16",
-    "AST": "0",
-    "TO": "2",
-    "BLK": "0",
-    "STL": "2",
-    "MIN": "29",
     "eventDateFormatted": "Dec 6"
 }

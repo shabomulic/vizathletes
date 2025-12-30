@@ -1,17 +1,17 @@
 {
     "Player Name": "Alier Alier",
+    "MIN": "28",
     "FGM-A": "5-9",
     "3PM-A": "0-1",
     "FTM-A": "2-4",
     "OREB": "2",
     "DREB": "9",
     "REB": "11",
+    "AST": "0",
+    "STL": "1",
+    "BLK": "3",
+    "TO": "2",
     "PF": "2",
     "TP": "12",
-    "AST": "0",
-    "TO": "2",
-    "BLK": "3",
-    "STL": "1",
-    "MIN": "28",
     "eventDateFormatted": "Nov 7"
 }

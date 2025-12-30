@@ -1,17 +1,17 @@
 {
-    "Player Name": "Ashanta Hampton Jr",
+    "Player Name": "Ashanta Hampton Jr.",
+    "MIN": "1",
     "FGM-A": "3-5",
     "3PM-A": "0-0",
     "FTM-A": "3-3",
     "OREB": "2",
     "DREB": "2",
     "REB": "4",
+    "AST": "0",
+    "STL": "0",
+    "BLK": "0",
+    "TO": "1",
     "PF": "5",
     "TP": "9",
-    "AST": "0",
-    "TO": "1",
-    "BLK": "0",
-    "STL": "0",
-    "MIN": "1",
     "eventDateFormatted": "Nov 2"
 }

@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Oct 18",
+    "boxScoreLink": "20251018_gqg1.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Jefferson Community College",
+                "result": "",
+                "teamId": "s6idbpi0svuol1fq",
+                "winner": false,
+                "cleanName": "jefferson community col"
+            },
+            {
+                "name": "SUNY Potsdam",
+                "result": "",
+                "teamId": "cgnms25fol4yto1z",
+                "winner": false,
+                "cleanName": "suny potsdam"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "Scrimmage",
+        "date": 1760803200000,
+        "localTimeZone": "America/New_York",
+        "tba": false,
+        "home": false,
+        "overall": false,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "gqg1r4d1357b1t4h",
+        "fastdate": 1760803200000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "scrimmage",
+            "description": "Scrimmage",
+            "statsCount": false
+        },
+        "ap2Result": "",
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "SUNY Potsdam",
+            "result": "",
+            "teamId": "cgnms25fol4yto1z",
+            "winner": false,
+            "cleanName": "suny potsdam"
+        },
+        "us": {
+            "name": "Jefferson Community College",
+            "result": "",
+            "teamId": "s6idbpi0svuol1fq",
+            "winner": false,
+            "cleanName": "jefferson community col"
+        },
+        "apresult": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "October 18 12:00 PM:"
+}

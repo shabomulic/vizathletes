@@ -1,17 +1,17 @@
 {
     "Player Name": "Jamorie Wysinger",
+    "MIN": "1",
     "FGM-A": "3-9",
     "3PM-A": "2-5",
     "FTM-A": "0-0",
     "OREB": "1",
     "DREB": "0",
     "REB": "1",
+    "AST": "1",
+    "STL": "1",
+    "BLK": "0",
+    "TO": "2",
     "PF": "2",
     "TP": "8",
-    "AST": "1",
-    "TO": "2",
-    "BLK": "0",
-    "STL": "1",
-    "MIN": "1",
     "eventDateFormatted": "Nov 19"
 }

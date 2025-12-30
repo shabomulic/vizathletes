@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Oct 24",
+    "boxScoreLink": "20251024_yubp.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Seminole State College",
+                "result": "",
+                "teamId": "21yctr3i114afpx4",
+                "winner": false,
+                "cleanName": "seminole st col"
+            },
+            {
+                "name": "Hutchinson Community College",
+                "result": "",
+                "teamId": "pc72uz7fojm87pro",
+                "winner": false,
+                "cleanName": "hutchinson community col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "Hutchinson, KS",
+        "date": 1761341400000,
+        "localTimeZone": "America/Chicago",
+        "tba": false,
+        "home": false,
+        "overall": false,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "yubpi5cxyjdiss0l",
+        "fastdate": 1761341400000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "scrimmage",
+            "description": "Scrimmage",
+            "statsCount": false
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "numericResults": [],
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Hutchinson Community College",
+            "result": "",
+            "teamId": "pc72uz7fojm87pro",
+            "winner": false,
+            "cleanName": "hutchinson community col"
+        },
+        "us": {
+            "name": "Seminole State College",
+            "result": "",
+            "teamId": "21yctr3i114afpx4",
+            "winner": false,
+            "cleanName": "seminole st col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "numericResults": [],
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "October 24 05:30 PM:"
+}

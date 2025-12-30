@@ -1,17 +1,17 @@
 {
     "Player Name": "Ja'Merl Brockington",
+    "MIN": "23",
     "FGM-A": "5-9",
     "3PM-A": "1-2",
     "FTM-A": "0-5",
     "OREB": "0",
     "DREB": "1",
     "REB": "1",
+    "AST": "0",
+    "STL": "0",
+    "BLK": "0",
+    "TO": "2",
     "PF": "1",
     "TP": "11",
-    "AST": "0",
-    "TO": "2",
-    "BLK": "0",
-    "STL": "0",
-    "MIN": "23",
     "eventDateFormatted": "Nov 19"
 }

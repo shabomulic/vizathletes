@@ -1,17 +1,17 @@
 {
     "Player Name": "Tariq Johnson",
+    "MIN": "44",
     "FGM-A": "8-16",
     "3PM-A": "2-6",
     "FTM-A": "13-16",
     "OREB": "1",
     "DREB": "6",
     "REB": "7",
+    "AST": "2",
+    "STL": "2",
+    "BLK": "0",
+    "TO": "4",
     "PF": "2",
     "TP": "31",
-    "AST": "2",
-    "TO": "4",
-    "BLK": "0",
-    "STL": "2",
-    "MIN": "44",
     "eventDateFormatted": "Dec 3"
 }
