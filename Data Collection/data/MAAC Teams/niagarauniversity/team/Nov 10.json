@@ -1,0 +1,42 @@
+{
+    "stats": {
+        "fgm": "25",
+        "fga": "47",
+        "fgm3": "9",
+        "fga3": "18",
+        "ftm": "9",
+        "fta": "14",
+        "pts": "68",
+        "oreb": "3",
+        "dreb": "27",
+        "treb": "30",
+        "ast": "24",
+        "stl": "2",
+        "blk": "3",
+        "to": "9",
+        "pf": "14",
+        "min": "200",
+        "fgpt": "53.2",
+        "fgpt3": "50.0",
+        "ftpt": "64.3",
+        "fgppg": "53.2",
+        "fgmpg": "25.0",
+        "fgapg": "47.0",
+        "ptspg": "68.0",
+        "tposs": "0.000",
+        "qp": "0.0"
+    },
+    "eventDateFormatted": "Nov 10",
+    "boxScoreLink": "15274.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Niagara University",
+                "result": "68",
+                "winner": false
+            }
+        ],
+        "status": "Final",
+        "sport": "Basketball"
+    }
+}

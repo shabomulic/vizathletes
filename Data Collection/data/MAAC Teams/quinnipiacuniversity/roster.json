@@ -1,0 +1,122 @@
+[
+    {
+        "number": "1",
+        "name": "Jayden Reid",
+        "position": "Forward",
+        "class_year": "FY",
+        "height": "6' 10''",
+        "weight": "210"
+    },
+    {
+        "number": "2",
+        "name": "Amarri Monroe",
+        "position": "Forward",
+        "class_year": "Sr.",
+        "height": "6' 7''",
+        "weight": "230"
+    },
+    {
+        "number": "3",
+        "name": "Asim Jones",
+        "position": "Guard",
+        "class_year": "Sr.",
+        "height": "6' 2''",
+        "weight": "170"
+    },
+    {
+        "number": "4",
+        "name": "Tai Turnage",
+        "position": "Guard",
+        "class_year": "FY",
+        "height": "6' 0''",
+        "weight": "165"
+    },
+    {
+        "number": "5",
+        "name": "Christopher Skenderi",
+        "position": "Forward",
+        "class_year": "FY",
+        "height": "6' 7''",
+        "weight": "205"
+    },
+    {
+        "number": "8",
+        "name": "Grant Randall",
+        "position": "Forward",
+        "class_year": "So.",
+        "height": "6' 9''",
+        "weight": "195"
+    },
+    {
+        "number": "9",
+        "name": "Nate Guerengomba",
+        "position": "Guard",
+        "class_year": "So.",
+        "height": "6' 4''",
+        "weight": "215"
+    },
+    {
+        "number": "10",
+        "name": "Ronell Giles Jr.",
+        "position": "Guard",
+        "class_year": "Sr.",
+        "height": "6' 4''",
+        "weight": "200"
+    },
+    {
+        "number": "11",
+        "name": "Samson Reilly",
+        "position": "Guard",
+        "class_year": "R-FY",
+        "height": "6' 2''",
+        "weight": "165"
+    },
+    {
+        "number": "12",
+        "name": "Spence Wewe",
+        "position": "Forward",
+        "class_year": "So.",
+        "height": "7' 0''",
+        "weight": "230"
+    },
+    {
+        "number": "13",
+        "name": "Braylan Ritvo",
+        "position": "Forward",
+        "class_year": "R-FY",
+        "height": "6' 8''",
+        "weight": "215"
+    },
+    {
+        "number": "21",
+        "name": "Keith McKnight",
+        "position": "Forward",
+        "class_year": "FY",
+        "height": "6' 7''",
+        "weight": "205"
+    },
+    {
+        "number": "24",
+        "name": "Jaden Zimmerman",
+        "position": "Guard",
+        "class_year": "So.",
+        "height": "6' 5''",
+        "weight": "205"
+    },
+    {
+        "number": "32",
+        "name": "Sam Nosakhare",
+        "position": "Forward",
+        "class_year": "FY",
+        "height": "6' 9''",
+        "weight": "215"
+    },
+    {
+        "number": "34",
+        "name": "Akintola Akinniyi",
+        "position": "Forward",
+        "class_year": "Jr.",
+        "height": "6' 7''",
+        "weight": "230"
+    }
+]

@@ -1,0 +1,42 @@
+{
+    "stats": {
+        "fgm": "24",
+        "fga": "61",
+        "fgm3": "3",
+        "fga3": "16",
+        "ftm": "7",
+        "fta": "9",
+        "pts": "58",
+        "oreb": "12",
+        "dreb": "25",
+        "treb": "37",
+        "ast": "11",
+        "stl": "9",
+        "blk": "3",
+        "to": "15",
+        "pf": "13",
+        "min": "200",
+        "fgpt": "39.3",
+        "fgpt3": "18.8",
+        "ftpt": "77.8",
+        "fgppg": "39.3",
+        "fgmpg": "24.0",
+        "fgapg": "61.0",
+        "ptspg": "58.0",
+        "tposs": "0.000",
+        "qp": "0.0"
+    },
+    "eventDateFormatted": "Unknown",
+    "boxScoreLink": "15102.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Marist University",
+                "result": "58",
+                "winner": false
+            }
+        ],
+        "status": "Final",
+        "sport": "Basketball"
+    }
+}

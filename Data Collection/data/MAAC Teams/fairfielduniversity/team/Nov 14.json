@@ -1,0 +1,42 @@
+{
+    "stats": {
+        "fgm": "23",
+        "fga": "67",
+        "fgm3": "9",
+        "fga3": "28",
+        "ftm": "18",
+        "fta": "24",
+        "pts": "73",
+        "oreb": "8",
+        "dreb": "35",
+        "treb": "43",
+        "ast": "9",
+        "stl": "7",
+        "blk": "9",
+        "to": "6",
+        "pf": "13",
+        "min": "225",
+        "fgpt": "34.3",
+        "fgpt3": "32.1",
+        "ftpt": "75.0",
+        "fgppg": "34.3",
+        "fgmpg": "23.0",
+        "fgapg": "67.0",
+        "ptspg": "73.0",
+        "tposs": "0.000",
+        "qp": "0.0"
+    },
+    "eventDateFormatted": "Nov 14",
+    "boxScoreLink": "15085.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Fairfield University",
+                "result": "73",
+                "winner": false
+            }
+        ],
+        "status": "Final",
+        "sport": "Basketball"
+    }
+}

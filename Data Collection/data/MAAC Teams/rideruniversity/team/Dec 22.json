@@ -1,0 +1,42 @@
+{
+    "stats": {
+        "fgm": "29",
+        "fga": "64",
+        "fgm3": "3",
+        "fga3": "12",
+        "ftm": "18",
+        "fta": "25",
+        "pts": "79",
+        "oreb": "14",
+        "dreb": "19",
+        "treb": "33",
+        "ast": "14",
+        "stl": "5",
+        "blk": "3",
+        "to": "11",
+        "pf": "18",
+        "min": "200",
+        "fgpt": "45.3",
+        "fgpt3": "25.0",
+        "ftpt": "72.0",
+        "fgppg": "45.3",
+        "fgmpg": "29.0",
+        "fgapg": "64.0",
+        "ptspg": "79.0",
+        "tposs": "0.000",
+        "qp": "0.0"
+    },
+    "eventDateFormatted": "Dec 22",
+    "boxScoreLink": "13151.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Rider University",
+                "result": "79",
+                "winner": false
+            }
+        ],
+        "status": "Final",
+        "sport": "Basketball"
+    }
+}

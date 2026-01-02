@@ -1,0 +1,42 @@
+{
+    "stats": {
+        "fgm": "31",
+        "fga": "72",
+        "fgm3": "17",
+        "fga3": "45",
+        "ftm": "6",
+        "fta": "16",
+        "pts": "85",
+        "oreb": "23",
+        "dreb": "24",
+        "treb": "47",
+        "ast": "23",
+        "stl": "9",
+        "blk": "3",
+        "to": "8",
+        "pf": "17",
+        "min": "200",
+        "fgpt": "43.1",
+        "fgpt3": "37.8",
+        "ftpt": "37.5",
+        "fgppg": "43.1",
+        "fgmpg": "31.0",
+        "fgapg": "72.0",
+        "ptspg": "85.0",
+        "tposs": "0.000",
+        "qp": "0.0"
+    },
+    "eventDateFormatted": "Oct 29",
+    "boxScoreLink": "9576.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Mount St. Mary's University",
+                "result": "85",
+                "winner": false
+            }
+        ],
+        "status": "Final",
+        "sport": "Basketball"
+    }
+}

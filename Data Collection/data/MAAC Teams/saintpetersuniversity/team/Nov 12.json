@@ -1,0 +1,42 @@
+{
+    "stats": {
+        "fgm": "19",
+        "fga": "61",
+        "fgm3": "6",
+        "fga3": "24",
+        "ftm": "17",
+        "fta": "19",
+        "pts": "61",
+        "oreb": "17",
+        "dreb": "20",
+        "treb": "37",
+        "ast": "8",
+        "stl": "11",
+        "blk": "3",
+        "to": "14",
+        "pf": "24",
+        "min": "200",
+        "fgpt": "31.1",
+        "fgpt3": "25.0",
+        "ftpt": "89.5",
+        "fgppg": "31.1",
+        "fgmpg": "19.0",
+        "fgapg": "61.0",
+        "ptspg": "61.0",
+        "tposs": "0.000",
+        "qp": "0.0"
+    },
+    "eventDateFormatted": "Nov 12",
+    "boxScoreLink": "10007.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Saint Peter's University",
+                "result": "61",
+                "winner": false
+            }
+        ],
+        "status": "Final",
+        "sport": "Basketball"
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "stats": {
+        "fgm": "32",
+        "fga": "55",
+        "fgm3": "2",
+        "fga3": "11",
+        "ftm": "7",
+        "fta": "9",
+        "pts": "73",
+        "oreb": "4",
+        "dreb": "21",
+        "treb": "25",
+        "ast": "14",
+        "stl": "9",
+        "blk": "1",
+        "to": "9",
+        "pf": "8",
+        "min": "200",
+        "fgpt": "58.2",
+        "fgpt3": "18.2",
+        "ftpt": "77.8",
+        "fgppg": "58.2",
+        "fgmpg": "32.0",
+        "fgapg": "55.0",
+        "ptspg": "73.0",
+        "tposs": "0.000",
+        "qp": "0.0"
+    },
+    "eventDateFormatted": "Nov 24",
+    "boxScoreLink": "18503.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Siena College",
+                "result": "73",
+                "winner": false
+            }
+        ],
+        "status": "Final",
+        "sport": "Basketball"
+    }
+}

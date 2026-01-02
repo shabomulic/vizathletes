@@ -1,0 +1,42 @@
+{
+    "stats": {
+        "fgm": "25",
+        "fga": "51",
+        "fgm3": "8",
+        "fga3": "19",
+        "ftm": "12",
+        "fta": "17",
+        "pts": "70",
+        "oreb": "7",
+        "dreb": "15",
+        "treb": "22",
+        "ast": "11",
+        "stl": "1",
+        "blk": "3",
+        "to": "11",
+        "pf": "18",
+        "min": "200",
+        "fgpt": "49.0",
+        "fgpt3": "42.1",
+        "ftpt": "70.6",
+        "fgppg": "49.0",
+        "fgmpg": "25.0",
+        "fgapg": "51.0",
+        "ptspg": "70.0",
+        "tposs": "0.000",
+        "qp": "0.0"
+    },
+    "eventDateFormatted": "Nov 8",
+    "boxScoreLink": "11196.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Canisius University",
+                "result": "70",
+                "winner": false
+            }
+        ],
+        "status": "Final",
+        "sport": "Basketball"
+    }
+}

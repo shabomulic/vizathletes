@@ -1,0 +1,42 @@
+{
+    "stats": {
+        "fgm": "10",
+        "fga": "47",
+        "fgm3": "4",
+        "fga3": "14",
+        "ftm": "23",
+        "fta": "32",
+        "pts": "47",
+        "oreb": "8",
+        "dreb": "14",
+        "treb": "22",
+        "ast": "4",
+        "stl": "4",
+        "blk": "1",
+        "to": "21",
+        "pf": "18",
+        "min": "200",
+        "fgpt": "21.3",
+        "fgpt3": "28.6",
+        "ftpt": "71.9",
+        "fgppg": "21.3",
+        "fgmpg": "10.0",
+        "fgapg": "47.0",
+        "ptspg": "47.0",
+        "tposs": "0.000",
+        "qp": "0.0"
+    },
+    "eventDateFormatted": "Nov 7",
+    "boxScoreLink": "9406.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "UMass Lowell",
+                "result": "47",
+                "winner": false
+            }
+        ],
+        "status": "Final",
+        "sport": "Basketball"
+    }
+}

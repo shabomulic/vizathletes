@@ -1,0 +1,130 @@
+[
+    {
+        "name": "Justice Shoats",
+        "position": "G",
+        "number": "0",
+        "height": "5'11\"",
+        "weight": "180 lbs",
+        "class_year": "Sr."
+    },
+    {
+        "name": "Isaiah Henderson",
+        "position": "F",
+        "number": "1",
+        "height": "6'6\"",
+        "weight": "220 lbs",
+        "class_year": "Fr."
+    },
+    {
+        "name": "Antonio Chandler",
+        "position": "F",
+        "number": "2",
+        "height": "6'6\"",
+        "weight": "215 lbs",
+        "class_year": "Gr."
+    },
+    {
+        "name": "Christian Jones",
+        "position": "G",
+        "number": "3",
+        "height": "5'11\"",
+        "weight": "160 lbs",
+        "class_year": "Fr."
+    },
+    {
+        "name": "Gavin Doty",
+        "position": "G",
+        "number": "4",
+        "height": "6'5\"",
+        "weight": "190 lbs",
+        "class_year": "So."
+    },
+    {
+        "name": "Tasman Goodrick",
+        "position": "F",
+        "number": "5",
+        "height": "6'10\"",
+        "weight": "230 lbs",
+        "class_year": "Jr."
+    },
+    {
+        "name": "Tajae Jones",
+        "position": "F",
+        "number": "7",
+        "height": "6'8\"",
+        "weight": "210 lbs",
+        "class_year": "So."
+    },
+    {
+        "name": "Mosi Clayton",
+        "position": "G",
+        "number": "8",
+        "height": "6'1\"",
+        "weight": "190 lbs",
+        "class_year": "Jr."
+    },
+    {
+        "name": "Owen Schlager",
+        "position": "G",
+        "number": "9",
+        "height": "6'3\"",
+        "weight": "190 lbs",
+        "class_year": "Fr."
+    },
+    {
+        "name": "Francis Folefac",
+        "position": "F",
+        "number": "11",
+        "height": "6'7\"",
+        "weight": "245 lbs",
+        "class_year": "Fr."
+    },
+    {
+        "name": "Reid Ducharme",
+        "position": "G",
+        "number": "12",
+        "height": "6'7\"",
+        "weight": "200 lbs",
+        "class_year": "R-So."
+    },
+    {
+        "name": "Danny Murray",
+        "position": "G",
+        "number": "15",
+        "height": "6'4\"",
+        "weight": "200 lbs",
+        "class_year": "Fr."
+    },
+    {
+        "name": "Brendan Coyle",
+        "position": "F",
+        "number": "21",
+        "height": "6'7\"",
+        "weight": "200 lbs",
+        "class_year": "Sr."
+    },
+    {
+        "name": "Chris Torres",
+        "position": "G",
+        "number": "33",
+        "height": "6'2\"",
+        "weight": "170 lbs",
+        "class_year": "So."
+    },
+    {
+        "name": "Marcus Jackson",
+        "position": "G",
+        "number": "44",
+        "height": "6'2\"",
+        "weight": "185 lbs",
+        "class_year": "Sr."
+    },
+    {
+        "name": "Riley Mulvey",
+        "position": "C",
+        "number": "55",
+        "height": "7'0\"",
+        "weight": "240 lbs",
+        "class_year": "Gr."
+    }
+]

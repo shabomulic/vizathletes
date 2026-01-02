@@ -1,0 +1,122 @@
+[
+    {
+        "name": "Okechukwu Okeke",
+        "position": "Forward",
+        "number": "00",
+        "height": "6'10\"",
+        "weight": "245 lbs",
+        "class_year": "R-Sr."
+    },
+    {
+        "name": "Amir Lindsey",
+        "position": "Guard",
+        "number": "2",
+        "height": "5'11\"",
+        "weight": "165 lbs",
+        "class_year": "So."
+    },
+    {
+        "name": "Wilkin Paulino",
+        "position": "Guard",
+        "number": "3",
+        "height": "6'2\"",
+        "weight": "185 lbs",
+        "class_year": "Fr."
+    },
+    {
+        "name": "Miles Rose",
+        "position": "Guard",
+        "number": "4",
+        "height": "6'4\"",
+        "weight": "205 lbs",
+        "class_year": "R-So."
+    },
+    {
+        "name": "Isaac Abidde",
+        "position": "Forward",
+        "number": "5",
+        "height": "6'9\"",
+        "weight": "215 lbs",
+        "class_year": "R-Sr."
+    },
+    {
+        "name": "Ife West-Ingram",
+        "position": "Forward",
+        "number": "7",
+        "height": "6'7\"",
+        "weight": "200 lbs",
+        "class_year": "Jr."
+    },
+    {
+        "name": "Nas Muhammad",
+        "position": "Guard",
+        "number": "8",
+        "height": "6'1\"",
+        "weight": "195 lbs",
+        "class_year": "Jr."
+    },
+    {
+        "name": "Bautista Giralt",
+        "position": "Center",
+        "number": "10",
+        "height": "7'0\"",
+        "weight": "235 lbs",
+        "class_year": "R-So."
+    },
+    {
+        "name": "Jaden Kempson",
+        "position": "Guard",
+        "number": "11",
+        "height": "6'3\"",
+        "weight": "182 lbs",
+        "class_year": "Jr."
+    },
+    {
+        "name": "Ma'Kye Taylor",
+        "position": "Forward",
+        "number": "13",
+        "height": "6'7\"",
+        "weight": "210 lbs",
+        "class_year": "So."
+    },
+    {
+        "name": "Zacharie Matulu",
+        "position": "Guard",
+        "number": "14",
+        "height": "6'5\"",
+        "weight": "205 lbs",
+        "class_year": "R-So."
+    },
+    {
+        "name": "Abdoulaye Fall",
+        "position": "Guard",
+        "number": "22",
+        "height": "6'7\"",
+        "weight": "205 lbs",
+        "class_year": "Jr."
+    },
+    {
+        "name": "Tarique Foster",
+        "position": "Forward",
+        "number": "24",
+        "height": "6'8\"",
+        "weight": "180 lbs",
+        "class_year": "Jr."
+    },
+    {
+        "name": "Yaya Keita",
+        "position": "Center",
+        "number": "25",
+        "height": "6'9\"",
+        "weight": "230 lbs",
+        "class_year": "R-Jr."
+    },
+    {
+        "name": "Sully Adewale",
+        "position": "Forward",
+        "number": "33",
+        "height": "6'8\"",
+        "weight": "220 lbs",
+        "class_year": "R-So."
+    }
+]

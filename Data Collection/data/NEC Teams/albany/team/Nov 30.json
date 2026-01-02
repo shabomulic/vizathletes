@@ -1,0 +1,42 @@
+{
+    "stats": {
+        "fgm": "34",
+        "fga": "70",
+        "fgm3": "8",
+        "fga3": "22",
+        "ftm": "14",
+        "fta": "21",
+        "pts": "90",
+        "oreb": "20",
+        "dreb": "37",
+        "treb": "57",
+        "ast": "17",
+        "stl": "3",
+        "blk": "5",
+        "to": "12",
+        "pf": "16",
+        "min": "200",
+        "fgpt": "48.6",
+        "fgpt3": "36.4",
+        "ftpt": "66.7",
+        "fgppg": "48.6",
+        "fgmpg": "34.0",
+        "fgapg": "70.0",
+        "ptspg": "90.0",
+        "tposs": "0.000",
+        "qp": "0.0"
+    },
+    "eventDateFormatted": "Nov 30",
+    "boxScoreLink": "9824.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Albany",
+                "result": "90",
+                "winner": false
+            }
+        ],
+        "status": "Final",
+        "sport": "Basketball"
+    }
+}

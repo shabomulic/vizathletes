@@ -1,0 +1,42 @@
+{
+    "stats": {
+        "fgm": "22",
+        "fga": "56",
+        "fgm3": "6",
+        "fga3": "21",
+        "ftm": "14",
+        "fta": "21",
+        "pts": "64",
+        "oreb": "9",
+        "dreb": "23",
+        "treb": "32",
+        "ast": "16",
+        "stl": "9",
+        "blk": "8",
+        "to": "11",
+        "pf": "26",
+        "min": "200",
+        "fgpt": "39.3",
+        "fgpt3": "28.6",
+        "ftpt": "66.7",
+        "fgppg": "39.3",
+        "fgmpg": "22.0",
+        "fgapg": "56.0",
+        "ptspg": "64.0",
+        "tposs": "0.000",
+        "qp": "0.0"
+    },
+    "eventDateFormatted": "Nov 16",
+    "boxScoreLink": "16195.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Maine",
+                "result": "64",
+                "winner": false
+            }
+        ],
+        "status": "Final",
+        "sport": "Basketball"
+    }
+}

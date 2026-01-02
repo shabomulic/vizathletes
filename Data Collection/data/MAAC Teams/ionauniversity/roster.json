@@ -1,0 +1,130 @@
+[
+    {
+        "name": "Keshawn Williams",
+        "position": "Guard",
+        "number": "0",
+        "height": "6'4\"",
+        "weight": "175 lbs",
+        "class_year": "Gr."
+    },
+    {
+        "name": "Matt Reed",
+        "position": "Forward",
+        "number": "1",
+        "height": "6'10\"",
+        "weight": "230 lbs",
+        "class_year": "Jr."
+    },
+    {
+        "name": "Denver Anglin",
+        "position": "Guard",
+        "number": "2",
+        "height": "6'1\"",
+        "weight": "185 lbs",
+        "class_year": "Jr."
+    },
+    {
+        "name": "Chase Cormier",
+        "position": "Guard",
+        "number": "3",
+        "height": "6'2\"",
+        "weight": "183 lbs",
+        "class_year": "Jr."
+    },
+    {
+        "name": "Khalil Badru",
+        "position": "Guard",
+        "number": "4",
+        "height": "6'5\"",
+        "weight": "192 lbs",
+        "class_year": "So."
+    },
+    {
+        "name": "Deondrea Lindsey",
+        "position": "Forward",
+        "number": "5",
+        "height": "6'8\"",
+        "weight": "212 lbs",
+        "class_year": "Fr."
+    },
+    {
+        "name": "Luke Jungers",
+        "position": "Forward",
+        "number": "7",
+        "height": "6'9\"",
+        "weight": "220 lbs",
+        "class_year": "Gr."
+    },
+    {
+        "name": "Lamin Sabally",
+        "position": "Forward",
+        "number": "9",
+        "height": "6'8\"",
+        "weight": "215 lbs",
+        "class_year": "Gr."
+    },
+    {
+        "name": "CJ Anthony",
+        "position": "Guard",
+        "number": "11",
+        "height": "6'0\"",
+        "weight": "195 lbs",
+        "class_year": "Gr."
+    },
+    {
+        "name": "Oscar Hourruitiner Jr.",
+        "position": "Guard",
+        "number": "12",
+        "height": "6'0\"",
+        "weight": "165 lbs",
+        "class_year": "Fr."
+    },
+    {
+        "name": "Kosy Akametu",
+        "position": "Guard",
+        "number": "13",
+        "height": "6'5\"",
+        "weight": "215 lbs",
+        "class_year": "Jr."
+    },
+    {
+        "name": "Marko Pandiloski",
+        "position": "Guard",
+        "number": "16",
+        "height": "6'6\"",
+        "weight": "200 lbs",
+        "class_year": "Fr."
+    },
+    {
+        "name": "Ore Odutayo",
+        "position": "Forward",
+        "number": "21",
+        "height": "6'8\"",
+        "weight": "210 lbs",
+        "class_year": "Fr."
+    },
+    {
+        "name": "Toby Harris",
+        "position": "Forward",
+        "number": "30",
+        "height": "6'8\"",
+        "weight": "225 lbs",
+        "class_year": "Gr."
+    },
+    {
+        "name": "Connor Horan",
+        "position": "Forward",
+        "number": "31",
+        "height": "6'8\"",
+        "weight": "230 lbs",
+        "class_year": "R-Fr."
+    },
+    {
+        "name": "Alliou Fall",
+        "position": "Forward",
+        "number": "44",
+        "height": "6'10\"",
+        "weight": "230 lbs",
+        "class_year": "Fr."
+    }
+]

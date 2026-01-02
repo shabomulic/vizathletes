@@ -1,0 +1,114 @@
+[
+    {
+        "name": "Eric Morgan Jr.",
+        "position": "Guard",
+        "number": "0",
+        "height": "6'4\"",
+        "weight": "190 lbs",
+        "class_year": "Sr."
+    },
+    {
+        "name": "Brent Bland",
+        "position": "Guard",
+        "number": "1",
+        "height": "6'3\"",
+        "weight": "205 lbs",
+        "class_year": "R-Sr."
+    },
+    {
+        "name": "TJ Robinson",
+        "position": "Guard",
+        "number": "2",
+        "height": "6'4\"",
+        "weight": "185 lbs",
+        "class_year": "Fr."
+    },
+    {
+        "name": "Adetokunbo Bakare",
+        "position": "Guard",
+        "number": "4",
+        "height": "6'3\"",
+        "weight": "185 lbs",
+        "class_year": "Gr."
+    },
+    {
+        "name": "Jahki Gupton",
+        "position": "Guard/Forward",
+        "number": "5",
+        "height": "6'7\"",
+        "weight": "195 lbs",
+        "class_year": "Jr."
+    },
+    {
+        "name": "Elijah Perkins",
+        "position": "Guard",
+        "number": "7",
+        "height": "6'4\"",
+        "weight": "200 lbs",
+        "class_year": "Sr."
+    },
+    {
+        "name": "Bryce Eaton",
+        "position": "Guard",
+        "number": "8",
+        "height": "6'0\"",
+        "weight": "185 lbs",
+        "class_year": "R-So."
+    },
+    {
+        "name": "Lucas Scroggins",
+        "position": "Forward",
+        "number": "10",
+        "height": "6'9\"",
+        "weight": "215 lbs",
+        "class_year": "R-So."
+    },
+    {
+        "name": "Zaakir Williamson",
+        "position": "Forward",
+        "number": "11",
+        "height": "6'7\"",
+        "weight": "230 lbs",
+        "class_year": "Sr."
+    },
+    {
+        "name": "Shaedon Simpson",
+        "position": "Guard/Forward",
+        "number": "12",
+        "height": "6'6\"",
+        "weight": "185 lbs",
+        "class_year": "R-So."
+    },
+    {
+        "name": "Bol Agu",
+        "position": "Forward",
+        "number": "14",
+        "height": "6'8\"",
+        "weight": "235 lbs",
+        "class_year": "Jr."
+    },
+    {
+        "name": "J'Quan Ewing",
+        "position": "Forward/Center",
+        "number": "15",
+        "height": "6'9\"",
+        "weight": "205 lbs",
+        "class_year": "R-Sr."
+    },
+    {
+        "name": "Akil Watson",
+        "position": "Forward",
+        "number": "23",
+        "height": "6'9\"",
+        "weight": "190 lbs",
+        "class_year": "Jr."
+    },
+    {
+        "name": "Rob Wilmote",
+        "position": "Guard/Forward",
+        "number": "24",
+        "height": "6'4\"",
+        "weight": "205 lbs",
+        "class_year": "So."
+    }
+]

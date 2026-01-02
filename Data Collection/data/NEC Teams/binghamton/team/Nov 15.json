@@ -1,0 +1,42 @@
+{
+    "stats": {
+        "fgm": "29",
+        "fga": "58",
+        "fgm3": "6",
+        "fga3": "24",
+        "ftm": "18",
+        "fta": "23",
+        "pts": "82",
+        "oreb": "15",
+        "dreb": "24",
+        "treb": "39",
+        "ast": "14",
+        "stl": "4",
+        "blk": "1",
+        "to": "21",
+        "pf": "23",
+        "min": "200",
+        "fgpt": "50.0",
+        "fgpt3": "25.0",
+        "ftpt": "78.3",
+        "fgppg": "50.0",
+        "fgmpg": "29.0",
+        "fgapg": "58.0",
+        "ptspg": "82.0",
+        "tposs": "0.000",
+        "qp": "0.0"
+    },
+    "eventDateFormatted": "Nov 15",
+    "boxScoreLink": "15352.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Binghamton",
+                "result": "82",
+                "winner": false
+            }
+        ],
+        "status": "Final",
+        "sport": "Basketball"
+    }
+}

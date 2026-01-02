@@ -1,0 +1,153 @@
+[
+    {
+        "name": "Ashley Sims II",
+        "position": "Big",
+        "number": "0",
+        "height": "6'8\"",
+        "weight": "230 lbs",
+        "class_year": "Fr."
+    },
+    {
+        "name": "Ty Tabales",
+        "position": "Combo",
+        "number": "1",
+        "height": "6'2\"",
+        "weight": "170 lbs",
+        "class_year": "Fr."
+    },
+    {
+        "name": "Khalil Williams",
+        "position": "Wing",
+        "number": "2",
+        "height": "6'5\"",
+        "weight": "190 lbs",
+        "class_year": "R-Fr."
+    },
+    {
+        "name": "Aaron Davis III",
+        "position": "Wing",
+        "number": "3",
+        "height": "6'7\"",
+        "weight": "215 lbs",
+        "class_year": "Jr."
+    },
+    {
+        "name": "Quincy Allen",
+        "position": "Combo",
+        "number": "4",
+        "height": "6'8\"",
+        "weight": "205 lbs",
+        "class_year": "5th"
+    },
+    {
+        "name": "Jaheim Nyam",
+        "position": "Combo",
+        "number": "5",
+        "height": "6'3\"",
+        "weight": "190 lbs",
+        "class_year": "Jr."
+    },
+    {
+        "name": "Langston Bailey",
+        "position": "Point",
+        "number": "6",
+        "height": "5'9\"",
+        "weight": "142 lbs",
+        "class_year": "R-Fr."
+    },
+    {
+        "name": "Joe Green",
+        "position": "Point",
+        "number": "7",
+        "height": "6'3\"",
+        "weight": "185 lbs",
+        "class_year": "Fr."
+    },
+    {
+        "name": "Lennart Weber",
+        "position": "Big",
+        "number": "8",
+        "height": "6'8\"",
+        "weight": "220 lbs",
+        "class_year": "Gr."
+    },
+    {
+        "name": "Gio Sanford",
+        "position": "Wing",
+        "number": "9",
+        "height": "6'4\"",
+        "weight": "185 lbs",
+        "class_year": "Fr."
+    },
+    {
+        "name": "Daniel Akoue",
+        "position": "Big",
+        "number": "10",
+        "height": "6'11\"",
+        "class_year": "Fr."
+    },
+    {
+        "name": "Ethane Bourgade",
+        "position": "Wing",
+        "number": "11",
+        "height": "6'9\"",
+        "weight": "220 lbs",
+        "class_year": "Fr."
+    },
+    {
+        "name": "Jakai Robinson",
+        "position": "Point",
+        "number": "13",
+        "height": "6'5\"",
+        "weight": "208 lbs",
+        "class_year": "Sr."
+    },
+    {
+        "name": "Keegan Harvey",
+        "position": "Big",
+        "number": "14",
+        "height": "6'11\"",
+        "weight": "230 lbs",
+        "class_year": "5th"
+    },
+    {
+        "name": "Frankie Vassalluzzo",
+        "position": "Combo",
+        "number": "21",
+        "height": "6'0\"",
+        "weight": "175 lbs",
+        "class_year": "So."
+    },
+    {
+        "name": "Jason Sepe",
+        "position": "Wing",
+        "number": "22",
+        "height": "6'3\"",
+        "weight": "170 lbs",
+        "class_year": "So."
+    },
+    {
+        "name": "Reed Woerner",
+        "position": "Combo",
+        "number": "25",
+        "height": "6'3\"",
+        "weight": "190 lbs",
+        "class_year": "Fr."
+    },
+    {
+        "name": "Michael DeOrsey",
+        "position": "Point",
+        "number": "30",
+        "height": "5'11\"",
+        "weight": "170 lbs",
+        "class_year": "Fr."
+    },
+    {
+        "name": "Timofei Rudovskii",
+        "position": "Big",
+        "number": "99",
+        "height": "6'9\"",
+        "weight": "215 lbs",
+        "class_year": "Fr."
+    }
+]

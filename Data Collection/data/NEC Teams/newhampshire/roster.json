@@ -1,0 +1,107 @@
+[
+    {
+        "number": "0",
+        "name": "Tyler Bike",
+        "position": "G",
+        "height": "5' 10''",
+        "weight": "170"
+    },
+    {
+        "number": "1",
+        "name": "Jack Graham",
+        "position": "G",
+        "height": "6' 3''",
+        "weight": "185"
+    },
+    {
+        "number": "3",
+        "name": "Dylan Saunders",
+        "position": "F",
+        "height": "6' 8''",
+        "weight": "202"
+    },
+    {
+        "number": "4",
+        "name": "Myles Blackley",
+        "position": "G",
+        "height": "6' 4''",
+        "weight": "170"
+    },
+    {
+        "number": "5",
+        "name": "R.J. Kennedy",
+        "position": "G",
+        "height": "6' 1''",
+        "weight": "180"
+    },
+    {
+        "number": "6",
+        "name": "Giannos Xanthopoulos",
+        "position": "F/C",
+        "height": "6' 10''",
+        "weight": "220"
+    },
+    {
+        "number": "7",
+        "name": "John Squire",
+        "position": "F",
+        "height": "6' 8''",
+        "weight": "220"
+    },
+    {
+        "number": "8",
+        "name": "KiJan Robinson",
+        "position": "G",
+        "height": "6' 3''",
+        "weight": "175"
+    },
+    {
+        "number": "10",
+        "name": "Comeh Emuobor",
+        "position": "G",
+        "height": "6' 5''",
+        "weight": "205"
+    },
+    {
+        "number": "11",
+        "name": "Nick Sanford",
+        "position": "G",
+        "height": "6' 1''",
+        "weight": "178"
+    },
+    {
+        "number": "14",
+        "name": "Antoni Siewruk",
+        "position": "G",
+        "height": "6' 9''",
+        "weight": "193"
+    },
+    {
+        "number": "15",
+        "name": "Davide Poser",
+        "position": "F",
+        "height": "6' 4''",
+        "weight": "206"
+    },
+    {
+        "number": "23",
+        "name": "Belal El Shakery",
+        "position": "F",
+        "height": "6' 8''",
+        "weight": "230"
+    },
+    {
+        "number": "24",
+        "name": "Jon O'Neill",
+        "position": "F",
+        "height": "6' 9''",
+        "weight": "216"
+    },
+    {
+        "number": "",
+        "name": "Will Gustafson",
+        "position": "N/A",
+        "height": "5' 0''",
+        "weight": "null"
+    }
+]

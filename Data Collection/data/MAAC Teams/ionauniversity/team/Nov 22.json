@@ -1,0 +1,42 @@
+{
+    "stats": {
+        "fgm": "30",
+        "fga": "78",
+        "fgm3": "13",
+        "fga3": "37",
+        "ftm": "18",
+        "fta": "22",
+        "pts": "91",
+        "oreb": "16",
+        "dreb": "33",
+        "treb": "49",
+        "ast": "12",
+        "stl": "12",
+        "blk": "3",
+        "to": "13",
+        "pf": "27",
+        "min": "250",
+        "fgpt": "38.5",
+        "fgpt3": "35.1",
+        "ftpt": "81.8",
+        "fgppg": "38.5",
+        "fgmpg": "30.0",
+        "fgapg": "78.0",
+        "ptspg": "91.0",
+        "tposs": "0.000",
+        "qp": "0.0"
+    },
+    "eventDateFormatted": "Nov 22",
+    "boxScoreLink": "16919.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Iona University",
+                "result": "91",
+                "winner": false
+            }
+        ],
+        "status": "Final",
+        "sport": "Basketball"
+    }
+}

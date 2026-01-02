@@ -1,0 +1,121 @@
+[
+    {
+        "name": "Regimantas Ciunys",
+        "position": "Forward",
+        "number": "0",
+        "height": "6'6\"",
+        "weight": "200 lbs",
+        "class_year": "Sr."
+    },
+    {
+        "name": "Ace Valentine",
+        "position": "Guard",
+        "number": "1",
+        "height": "6'3\"",
+        "weight": "195 lbs",
+        "class_year": "Jr."
+    },
+    {
+        "name": "Josh Odunowo",
+        "position": "Forward",
+        "number": "2",
+        "height": "6'6\"",
+        "weight": "215 lbs",
+        "class_year": "Gr."
+    },
+    {
+        "name": "DJ Armstrong Jr.",
+        "position": "G/F",
+        "number": "3",
+        "height": "6'4\"",
+        "weight": "190 lbs",
+        "class_year": "Gr."
+    },
+    {
+        "name": "Jah'Likai King",
+        "position": "G",
+        "number": "4",
+        "height": "6'2\"",
+        "weight": "160 lbs",
+        "class_year": "Jr."
+    },
+    {
+        "name": "Daylon Dickerson",
+        "position": "Forward",
+        "number": "5",
+        "height": "6'6\"",
+        "weight": "205 lbs",
+        "class_year": "Jr."
+    },
+    {
+        "name": "Tim Eze",
+        "position": "Forward",
+        "number": "7",
+        "height": "6'7\"",
+        "weight": "210 lbs",
+        "class_year": "So."
+    },
+    {
+        "name": "Paul Greene",
+        "position": "F",
+        "number": "10",
+        "height": "6'6\"",
+        "weight": "195 lbs",
+        "class_year": "Gr."
+    },
+    {
+        "name": "Caden Diggs",
+        "position": "F",
+        "number": "11",
+        "height": "6'8\"",
+        "weight": "195 lbs",
+        "class_year": "So."
+    },
+    {
+        "name": "Jake Stout",
+        "position": "Guard/Forward",
+        "number": "12",
+        "height": "6'7\"",
+        "weight": "200 lbs",
+        "class_year": "So."
+    },
+    {
+        "name": "Devin Ceaser",
+        "position": "G",
+        "number": "13",
+        "height": "6'1\"",
+        "weight": "175 lbs",
+        "class_year": "Sr."
+    },
+    {
+        "name": "Jose Roberto Tanchyn",
+        "position": "F",
+        "number": "14",
+        "height": "6'10\"",
+        "weight": "235 lbs",
+        "class_year": "Jr."
+    },
+    {
+        "name": "Cougar Downing",
+        "position": "G",
+        "number": "21",
+        "height": "6'2\"",
+        "weight": "180 lbs",
+        "class_year": "5th"
+    },
+    {
+        "name": "Riley Jacobs",
+        "position": "F",
+        "number": "23",
+        "height": "6'9\"",
+        "weight": "205 lbs",
+        "class_year": "Fr."
+    },
+    {
+        "name": "Saahil Thakkar",
+        "position": "G",
+        "number": "30",
+        "height": "6'1\"",
+        "class_year": "Fr."
+    }
+]

@@ -1,0 +1,130 @@
+[
+    {
+        "name": "Anastasios Rozakeas",
+        "position": "G",
+        "number": "1",
+        "height": "6'7\"",
+        "weight": "225 lbs",
+        "class_year": "So."
+    },
+    {
+        "name": "Arlandus Keyes",
+        "position": "G",
+        "number": "2",
+        "height": "6'2\"",
+        "weight": "173 lbs",
+        "class_year": "Sr."
+    },
+    {
+        "name": "John Miller IV",
+        "position": "G",
+        "number": "3",
+        "height": "6'1\"",
+        "weight": "195 lbs",
+        "class_year": "Gr."
+    },
+    {
+        "name": "Mason So",
+        "position": "G",
+        "number": "4",
+        "height": "6'2\"",
+        "weight": "180 lbs",
+        "class_year": "Jr."
+    },
+    {
+        "name": "Trey Deveaux",
+        "position": "F",
+        "number": "5",
+        "height": "6'5\"",
+        "weight": "205 lbs",
+        "class_year": "Gr."
+    },
+    {
+        "name": "Jaxon Hartman",
+        "position": "G",
+        "number": "6",
+        "height": "6'3\"",
+        "weight": "195 lbs",
+        "class_year": "R-So."
+    },
+    {
+        "name": "Elijah Espinosa",
+        "position": "F",
+        "number": "7",
+        "height": "6'9\"",
+        "weight": "200 lbs",
+        "class_year": "R-Fr."
+    },
+    {
+        "name": "Justin May",
+        "position": "G",
+        "number": "8",
+        "height": "6'2\"",
+        "weight": "185 lbs",
+        "class_year": "Fr."
+    },
+    {
+        "name": "Abdou Khadre K\u00e9b\u00e9",
+        "position": "G",
+        "number": "9",
+        "height": "6'7\"",
+        "weight": "190 lbs",
+        "class_year": "So."
+    },
+    {
+        "name": "Patrick Haigh",
+        "position": "G",
+        "number": "10",
+        "height": "6'4\"",
+        "weight": "190 lbs",
+        "class_year": "Jr."
+    },
+    {
+        "name": "Justin Amadi",
+        "position": "F",
+        "number": "11",
+        "height": "6'7\"",
+        "weight": "225 lbs",
+        "class_year": "R-Sr."
+    },
+    {
+        "name": "Luke McEldon",
+        "position": "F",
+        "number": "21",
+        "height": "6'10\"",
+        "weight": "255 lbs",
+        "class_year": "R-So."
+    },
+    {
+        "name": "Noah Rogers",
+        "position": "G",
+        "number": "22",
+        "height": "6'1\"",
+        "weight": "175 lbs",
+        "class_year": "So."
+    },
+    {
+        "name": "Yakhya Diop",
+        "position": "F",
+        "number": "23",
+        "height": "7'0\"",
+        "weight": "220 lbs",
+        "class_year": "Fr."
+    },
+    {
+        "name": "Anthony Arrington",
+        "position": "G",
+        "number": "30",
+        "height": "6'2\"",
+        "weight": "190 lbs",
+        "class_year": "R-Jr."
+    },
+    {
+        "name": "Xavier Lipscomb",
+        "position": "G",
+        "number": "45",
+        "height": "6'2\"",
+        "weight": "195 lbs",
+        "class_year": "Gr."
+    }
+]

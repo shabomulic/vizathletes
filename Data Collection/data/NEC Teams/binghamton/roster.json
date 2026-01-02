@@ -1,0 +1,114 @@
+[
+    {
+        "name": "Jeremiah Quigley",
+        "position": "Guard",
+        "number": "0",
+        "height": "5'11\"",
+        "weight": "170 lbs",
+        "class_year": "Jr."
+    },
+    {
+        "name": "Jayden Lemond",
+        "position": "Guard",
+        "number": "1",
+        "height": "6'4\"",
+        "weight": "185 lbs",
+        "class_year": "Jr."
+    },
+    {
+        "name": "Jayden Kelsey",
+        "position": "Guard",
+        "number": "2",
+        "height": "6'7\"",
+        "weight": "210 lbs",
+        "class_year": "Fr."
+    },
+    {
+        "name": "Evan Ashe",
+        "position": "Guard",
+        "number": "3",
+        "height": "6'3\"",
+        "weight": "190 lbs",
+        "class_year": "Jr."
+    },
+    {
+        "name": "Ryan Richardson",
+        "position": "Guard",
+        "number": "4",
+        "height": "6'5\"",
+        "weight": "200 lbs",
+        "class_year": "Jr."
+    },
+    {
+        "name": "Wes Peterson, Jr.",
+        "position": "Guard",
+        "number": "5",
+        "height": "6'6\"",
+        "weight": "205 lbs",
+        "class_year": "Sr."
+    },
+    {
+        "name": "Zyier Beverly",
+        "position": "Forward",
+        "number": "10",
+        "height": "6'9\"",
+        "weight": "200 lbs",
+        "class_year": "Jr."
+    },
+    {
+        "name": "Nevin Ibroci",
+        "position": "Guard",
+        "number": "12",
+        "height": "6'2\"",
+        "weight": "170 lbs",
+        "class_year": "R-Fr."
+    },
+    {
+        "name": "Stephan Snagg",
+        "position": "Forward",
+        "number": "13",
+        "height": "6'8\"",
+        "weight": "220 lbs",
+        "class_year": "R-So."
+    },
+    {
+        "name": "Demetrius Lilley",
+        "position": "Center",
+        "number": "14",
+        "height": "6'9\"",
+        "weight": "220 lbs",
+        "class_year": "Sr."
+    },
+    {
+        "name": "Bryson Wilson",
+        "position": "Guard",
+        "number": "15",
+        "height": "6'5\"",
+        "weight": "200 lbs",
+        "class_year": "Jr."
+    },
+    {
+        "name": "Jackson Benigni",
+        "position": "Guard",
+        "number": "24",
+        "height": "6'1\"",
+        "weight": "180 lbs",
+        "class_year": "Gr."
+    },
+    {
+        "name": "Jake Blackburn",
+        "position": "Guard",
+        "number": "30",
+        "height": "6'5\"",
+        "weight": "200 lbs",
+        "class_year": "Fr."
+    },
+    {
+        "name": "Sayerr Senghore",
+        "position": "Forward",
+        "number": "33",
+        "height": "6'8\"",
+        "weight": "205 lbs",
+        "class_year": "Sr."
+    }
+]

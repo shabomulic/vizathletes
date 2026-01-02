@@ -1,0 +1,42 @@
+{
+    "stats": {
+        "fgm": "31",
+        "fga": "59",
+        "fgm3": "9",
+        "fga3": "26",
+        "ftm": "8",
+        "fta": "8",
+        "pts": "79",
+        "oreb": "7",
+        "dreb": "18",
+        "treb": "25",
+        "ast": "15",
+        "stl": "4",
+        "blk": "0",
+        "to": "11",
+        "pf": "15",
+        "min": "200",
+        "fgpt": "52.5",
+        "fgpt3": "34.6",
+        "ftpt": "100.0",
+        "fgppg": "52.5",
+        "fgmpg": "31.0",
+        "fgapg": "59.0",
+        "ptspg": "79.0",
+        "tposs": "0.000",
+        "qp": "0.0"
+    },
+    "eventDateFormatted": "Dec 9",
+    "boxScoreLink": "9313.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "UMBC",
+                "result": "79",
+                "winner": false
+            }
+        ],
+        "status": "Final",
+        "sport": "Basketball"
+    }
+}

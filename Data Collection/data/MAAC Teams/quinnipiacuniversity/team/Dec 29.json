@@ -1,0 +1,42 @@
+{
+    "stats": {
+        "fgm": "22",
+        "fga": "61",
+        "fgm3": "7",
+        "fga3": "21",
+        "ftm": "13",
+        "fta": "20",
+        "pts": "64",
+        "oreb": "17",
+        "dreb": "26",
+        "treb": "43",
+        "ast": "7",
+        "stl": "8",
+        "blk": "6",
+        "to": "15",
+        "pf": "11",
+        "min": "200",
+        "fgpt": "36.1",
+        "fgpt3": "33.3",
+        "ftpt": "65.0",
+        "fgppg": "36.1",
+        "fgmpg": "22.0",
+        "fgapg": "61.0",
+        "ptspg": "64.0",
+        "tposs": "0.000",
+        "qp": "0.0"
+    },
+    "eventDateFormatted": "Dec 29",
+    "boxScoreLink": "23096.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Quinnipiac University",
+                "result": "64",
+                "winner": false
+            }
+        ],
+        "status": "Final",
+        "sport": "Basketball"
+    }
+}

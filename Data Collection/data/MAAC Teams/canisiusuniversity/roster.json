@@ -1,0 +1,130 @@
+[
+    {
+        "name": "Chris Kumu",
+        "position": "Guard",
+        "number": "0",
+        "height": "6'4\"",
+        "weight": "190 lbs",
+        "class_year": "Fr."
+    },
+    {
+        "name": "Javante Edwards",
+        "position": "Guard",
+        "number": "1",
+        "height": "6'1\"",
+        "weight": "175 lbs",
+        "class_year": "Fr."
+    },
+    {
+        "name": "Marcus Niblack",
+        "position": "Guard",
+        "number": "2",
+        "height": "6'2\"",
+        "weight": "190 lbs",
+        "class_year": "Gr."
+    },
+    {
+        "name": "Anthony Benard",
+        "position": "Guard",
+        "number": "3",
+        "height": "6'0\"",
+        "weight": "170 lbs",
+        "class_year": "Jr."
+    },
+    {
+        "name": "Nicco DiGiulio",
+        "position": "Guard",
+        "number": "4",
+        "height": "5'11\"",
+        "weight": "170 lbs",
+        "class_year": "So."
+    },
+    {
+        "name": "Myles Wilmoth",
+        "position": "Forward",
+        "number": "5",
+        "height": "6'10\"",
+        "weight": "225 lbs",
+        "class_year": "Gr."
+    },
+    {
+        "name": "Zach Christian",
+        "position": "Guard",
+        "number": "6",
+        "height": "6'3\"",
+        "weight": "175 lbs",
+        "class_year": "Fr."
+    },
+    {
+        "name": "Evan van der Plas",
+        "position": "Forward",
+        "number": "9",
+        "height": "6'5\"",
+        "weight": "190 lbs",
+        "class_year": "So."
+    },
+    {
+        "name": "Kahlil Singleton",
+        "position": "Guard",
+        "number": "11",
+        "height": "6'3\"",
+        "weight": "195 lbs",
+        "class_year": "Jr."
+    },
+    {
+        "name": "Trevor Augustine",
+        "position": "Guard",
+        "number": "12",
+        "height": "6'2\"",
+        "weight": "180 lbs",
+        "class_year": "So."
+    },
+    {
+        "name": "Bryan Ndjonga",
+        "position": "Forward",
+        "number": "13",
+        "height": "6'9\"",
+        "weight": "210 lbs",
+        "class_year": "Jr."
+    },
+    {
+        "name": "Mike Evbagharu",
+        "position": "Guard",
+        "number": "15",
+        "height": "6'4\"",
+        "weight": "220 lbs",
+        "class_year": "Jr."
+    },
+    {
+        "name": "Max Jusianiec",
+        "position": "Guard/Forward",
+        "number": "21",
+        "height": "6'7\"",
+        "weight": "205 lbs",
+        "class_year": "Gr."
+    },
+    {
+        "name": "Brendan Oliver",
+        "position": "Forward",
+        "number": "22",
+        "height": "6'6\"",
+        "weight": "195 lbs",
+        "class_year": "Fr."
+    },
+    {
+        "name": "Andreo Ash",
+        "position": "Forward",
+        "number": "32",
+        "height": "6'8\"",
+        "weight": "225 lbs",
+        "class_year": "Fr."
+    },
+    {
+        "name": "King Ijeoma",
+        "position": "Forward",
+        "number": "34",
+        "height": "6'8\"",
+        "weight": "220 lbs",
+        "class_year": "Sr."
+    }
+]

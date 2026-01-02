@@ -1,0 +1,122 @@
+[
+    {
+        "name": "Dylan Veillette",
+        "position": "Forward",
+        "number": "0",
+        "height": "6'7\"",
+        "weight": "230 lbs",
+        "class_year": "Fr."
+    },
+    {
+        "name": "Jaylen Stinson",
+        "position": "Guard",
+        "number": "1",
+        "height": "6'2\"",
+        "weight": "170 lbs",
+        "class_year": "Gr."
+    },
+    {
+        "name": "Aliou Cisse",
+        "position": "Forward",
+        "number": "2",
+        "height": "6'7\"",
+        "weight": "190 lbs",
+        "class_year": "Sr."
+    },
+    {
+        "name": "Ernest Shelton",
+        "position": "Guard",
+        "number": "3",
+        "height": "6'5\"",
+        "weight": "180 lbs",
+        "class_year": "Jr."
+    },
+    {
+        "name": "Tye Dorset",
+        "position": "Guard",
+        "number": "4",
+        "height": "6'3\"",
+        "weight": "175 lbs",
+        "class_year": "So."
+    },
+    {
+        "name": "Kevair Kennedy",
+        "position": "Guard",
+        "number": "5",
+        "height": "6'2\"",
+        "weight": "165 lbs",
+        "class_year": "Fr."
+    },
+    {
+        "name": "Jacob Moore",
+        "position": "Forward",
+        "number": "7",
+        "height": "6'9\"",
+        "weight": "200 lbs",
+        "class_year": "Fr."
+    },
+    {
+        "name": "Malik Edmead",
+        "position": "Guard",
+        "number": "9",
+        "height": "5'10\"",
+        "weight": "165 lbs",
+        "class_year": "R-Sr."
+    },
+    {
+        "name": "Andr\u00e9s Marrero",
+        "position": "Guard",
+        "number": "10",
+        "height": "6'3\"",
+        "weight": "200 lbs",
+        "class_year": "Gr."
+    },
+    {
+        "name": "Quinn \"Turtle\" Kwasniak",
+        "position": "Guard",
+        "number": "11",
+        "height": "6'4\"",
+        "weight": "175 lbs",
+        "class_year": "Fr."
+    },
+    {
+        "name": "David Munro",
+        "position": "Forward",
+        "number": "12",
+        "height": "6'8\"",
+        "weight": "230 lbs",
+        "class_year": "Fr."
+    },
+    {
+        "name": "Brandon Legris",
+        "position": "Forward",
+        "number": "14",
+        "height": "6'7\"",
+        "weight": "210 lbs",
+        "class_year": "Sr."
+    },
+    {
+        "name": "Todd Brogna",
+        "position": "Forward",
+        "number": "20",
+        "height": "6'7\"",
+        "weight": "220 lbs",
+        "class_year": "Jr."
+    },
+    {
+        "name": "Brendan Johnson",
+        "position": "Guard",
+        "number": "21",
+        "height": "6'4\"",
+        "weight": "205 lbs",
+        "class_year": "R-Fr."
+    },
+    {
+        "name": "KC Ugwuakazi",
+        "position": "Forward",
+        "number": "23",
+        "height": "6'8\"",
+        "weight": "230 lbs",
+        "class_year": "Jr."
+    }
+]

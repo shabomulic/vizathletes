@@ -1,0 +1,42 @@
+{
+    "stats": {
+        "fgm": "17",
+        "fga": "42",
+        "fgm3": "3",
+        "fga3": "10",
+        "ftm": "24",
+        "fta": "31",
+        "pts": "61",
+        "oreb": "3",
+        "dreb": "26",
+        "treb": "29",
+        "ast": "6",
+        "stl": "6",
+        "blk": "3",
+        "to": "16",
+        "pf": "12",
+        "min": "200",
+        "fgpt": "40.5",
+        "fgpt3": "30.0",
+        "ftpt": "77.4",
+        "fgppg": "40.5",
+        "fgmpg": "17.0",
+        "fgapg": "42.0",
+        "ptspg": "61.0",
+        "tposs": "0.000",
+        "qp": "0.0"
+    },
+    "eventDateFormatted": "Dec 20",
+    "boxScoreLink": "15361.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Binghamton",
+                "result": "61",
+                "winner": false
+            }
+        ],
+        "status": "Final",
+        "sport": "Basketball"
+    }
+}

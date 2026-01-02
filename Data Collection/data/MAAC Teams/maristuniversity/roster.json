@@ -1,0 +1,114 @@
+[
+    {
+        "name": "Jadin Collins-Roberts",
+        "position": "Guard",
+        "number": "0",
+        "height": "6'1\"",
+        "weight": "175 lbs",
+        "class_year": "Jr."
+    },
+    {
+        "name": "Jason Schofield",
+        "position": "Center",
+        "number": "1",
+        "height": "6'10\"",
+        "weight": "240 lbs",
+        "class_year": "R-So."
+    },
+    {
+        "name": "Justin Menard",
+        "position": "Guard",
+        "number": "2",
+        "height": "6'3\"",
+        "weight": "185 lbs",
+        "class_year": "So."
+    },
+    {
+        "name": "Rhyjon Blackwell",
+        "position": "Guard",
+        "number": "4",
+        "height": "6'0\"",
+        "weight": "175 lbs",
+        "class_year": "Gr."
+    },
+    {
+        "name": "Myles Parker",
+        "position": "Forward",
+        "number": "5",
+        "height": "6'8\"",
+        "weight": "195 lbs",
+        "class_year": "Fr."
+    },
+    {
+        "name": "Martin Kawa",
+        "position": "Guard",
+        "number": "7",
+        "height": "6'4\"",
+        "weight": "195 lbs",
+        "class_year": "Sr."
+    },
+    {
+        "name": "Ricky McKenzie",
+        "position": "Guard",
+        "number": "8",
+        "height": "6'5\"",
+        "weight": "200 lbs",
+        "class_year": "R-Fr."
+    },
+    {
+        "name": "Trace Salton",
+        "position": "Forward",
+        "number": "10",
+        "height": "6'5\"",
+        "weight": "188 lbs",
+        "class_year": "Sr."
+    },
+    {
+        "name": "Jaden Daughtry",
+        "position": "Forward",
+        "number": "11",
+        "height": "6'7\"",
+        "weight": "205 lbs",
+        "class_year": "Sr."
+    },
+    {
+        "name": "Elijah Lewis",
+        "position": "Guard",
+        "number": "13",
+        "height": "6'5\"",
+        "weight": "180 lbs",
+        "class_year": "Sr."
+    },
+    {
+        "name": "Parby Kabamba",
+        "position": "Forward",
+        "number": "15",
+        "height": "6'6\"",
+        "weight": "225 lbs",
+        "class_year": "So."
+    },
+    {
+        "name": "Jordan Gabriel",
+        "position": "Center",
+        "number": "21",
+        "height": "6'9\"",
+        "weight": "225 lbs",
+        "class_year": "Fr."
+    },
+    {
+        "name": "Tarik Watson",
+        "position": "Center",
+        "number": "25",
+        "height": "6'8\"",
+        "weight": "225 lbs",
+        "class_year": "So."
+    },
+    {
+        "name": "Antoni Vlogianitis",
+        "position": "Guard",
+        "number": "31",
+        "height": "6'4\"",
+        "weight": "187 lbs",
+        "class_year": "So."
+    }
+]

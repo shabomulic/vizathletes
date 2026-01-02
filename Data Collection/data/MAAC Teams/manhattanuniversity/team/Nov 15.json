@@ -1,0 +1,42 @@
+{
+    "stats": {
+        "fgm": "22",
+        "fga": "48",
+        "fgm3": "10",
+        "fga3": "27",
+        "ftm": "26",
+        "fta": "32",
+        "pts": "80",
+        "oreb": "13",
+        "dreb": "15",
+        "treb": "28",
+        "ast": "16",
+        "stl": "9",
+        "blk": "0",
+        "to": "13",
+        "pf": "13",
+        "min": "200",
+        "fgpt": "45.8",
+        "fgpt3": "37.0",
+        "ftpt": "81.2",
+        "fgppg": "45.8",
+        "fgmpg": "22.0",
+        "fgapg": "48.0",
+        "ptspg": "80.0",
+        "tposs": "0.000",
+        "qp": "0.0"
+    },
+    "eventDateFormatted": "Nov 15",
+    "boxScoreLink": "11787.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Manhattan University",
+                "result": "80",
+                "winner": false
+            }
+        ],
+        "status": "Final",
+        "sport": "Basketball"
+    }
+}

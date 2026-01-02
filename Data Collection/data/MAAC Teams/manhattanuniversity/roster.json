@@ -1,0 +1,143 @@
+[
+    {
+        "name": "Devin Dinkins",
+        "position": "Guard",
+        "number": "0",
+        "height": "5'10\"",
+        "weight": "165 lbs",
+        "class_year": "R-Jr."
+    },
+    {
+        "name": "Anthony Isaac",
+        "position": "Forward",
+        "number": "1",
+        "height": "6'6\"",
+        "class_year": "Jr."
+    },
+    {
+        "name": "Jaden Winston",
+        "position": "Guard",
+        "number": "2",
+        "height": "6'0\"",
+        "weight": "160 lbs",
+        "class_year": "Jr."
+    },
+    {
+        "name": "Fraser Roxburgh",
+        "position": "Forward",
+        "number": "3",
+        "height": "6'7\"",
+        "weight": "215 lbs",
+        "class_year": "So."
+    },
+    {
+        "name": "Brett Rumpel",
+        "position": "Guard",
+        "number": "4",
+        "height": "6'4\"",
+        "weight": "190 lbs",
+        "class_year": "R-Sr."
+    },
+    {
+        "name": "Erik Oliver-Bush",
+        "position": "Guard",
+        "number": "5",
+        "height": "6'5\"",
+        "weight": "200 lbs",
+        "class_year": "So."
+    },
+    {
+        "name": "Jaeden Robley",
+        "position": "Guard",
+        "number": "6",
+        "height": "6'5\"",
+        "weight": "172 lbs",
+        "class_year": "Fr."
+    },
+    {
+        "name": "Aryan Arora",
+        "position": "Guard",
+        "number": "8",
+        "height": "6'1\"",
+        "weight": "190 lbs",
+        "class_year": "Gr."
+    },
+    {
+        "name": "Will Sydnor",
+        "position": "Forward",
+        "number": "9",
+        "height": "6'8\"",
+        "weight": "210 lbs",
+        "class_year": "So."
+    },
+    {
+        "name": "Quron Elliott",
+        "position": "Guard",
+        "number": "10",
+        "height": "6'2\"",
+        "class_year": "Fr."
+    },
+    {
+        "name": "Michael Lawlor",
+        "position": "Forward",
+        "number": "11",
+        "height": "6'8\"",
+        "weight": "210 lbs",
+        "class_year": "R-Jr."
+    },
+    {
+        "name": "Jameson Borodawka",
+        "position": "Guard",
+        "number": "12",
+        "height": "5'10\"",
+        "weight": "160 lbs",
+        "class_year": "Fr."
+    },
+    {
+        "name": "Omari Moore",
+        "position": "Guard",
+        "number": "13",
+        "height": "6'1\"",
+        "weight": "165 lbs",
+        "class_year": "Fr."
+    },
+    {
+        "name": "Marko Ljubicic",
+        "position": "Forward",
+        "number": "21",
+        "height": "6'10\"",
+        "weight": "224 lbs",
+        "class_year": "So."
+    },
+    {
+        "name": "Terrance Jones",
+        "position": "Guard",
+        "number": "22",
+        "height": "6'3\"",
+        "weight": "180 lbs",
+        "class_year": "Gr."
+    },
+    {
+        "name": "Jackson Delaney",
+        "position": "Guard",
+        "number": "23",
+        "height": "6'5\"",
+        "weight": "205 lbs",
+        "class_year": "Jr."
+    },
+    {
+        "name": "Nick Lukmann",
+        "position": "Guard/Forward",
+        "number": "24",
+        "height": "6'4\"",
+        "weight": "190 lbs",
+        "class_year": "Fr."
+    },
+    {
+        "name": "Asier Miguel",
+        "position": "Guard",
+        "number": "35",
+        "height": "6'4\"",
+        "class_year": "Fr."
+    }
+]

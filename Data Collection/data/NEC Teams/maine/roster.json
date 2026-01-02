@@ -1,0 +1,114 @@
+[
+    {
+        "name": "Logan Carey",
+        "position": "Guard",
+        "number": "0",
+        "height": "6'3\"",
+        "class_year": "Jr."
+    },
+    {
+        "name": "TJ Biel",
+        "position": "Forward",
+        "number": "1",
+        "height": "6'9\"",
+        "class_year": "Gr."
+    },
+    {
+        "name": "Ryan Mabrey",
+        "position": "Guard",
+        "number": "3",
+        "height": "6'5\"",
+        "class_year": "Sr."
+    },
+    {
+        "name": "Caleb Crawford",
+        "position": "Guard",
+        "number": "4",
+        "height": "6'0\"",
+        "class_year": "So."
+    },
+    {
+        "name": "Isaac Bonilla",
+        "position": "Guard",
+        "number": "5",
+        "height": "6'1\"",
+        "class_year": "Jr."
+    },
+    {
+        "name": "Yanis Bamba",
+        "position": "Forward",
+        "number": "6",
+        "height": "6'6\"",
+        "class_year": "Jr."
+    },
+    {
+        "name": "Darius Lopes",
+        "position": "Guard",
+        "number": "7",
+        "height": "6'4\"",
+        "class_year": "So."
+    },
+    {
+        "name": "Mekhi Gray",
+        "position": "Guard",
+        "number": "8",
+        "height": "6'4\"",
+        "class_year": "Sr."
+    },
+    {
+        "name": "Killian Gribben",
+        "position": "Forward",
+        "number": "10",
+        "height": "6'10\"",
+        "class_year": "Sr."
+    },
+    {
+        "name": "Ace Flagg",
+        "position": "Forward",
+        "number": "11",
+        "height": "6'7\"",
+        "class_year": "Fr."
+    },
+    {
+        "name": "Emmitt Byther",
+        "position": "Forward",
+        "number": "12",
+        "height": "6'6\"",
+        "class_year": "Fr."
+    },
+    {
+        "name": "Amare Allen",
+        "position": "Forward",
+        "number": "14",
+        "height": "6'7\"",
+        "class_year": "So."
+    },
+    {
+        "name": "John Shea",
+        "position": "Forward",
+        "number": "15",
+        "height": "6'6\"",
+        "class_year": "Sr."
+    },
+    {
+        "name": "Joshua Ojuri",
+        "position": "Forward",
+        "number": "21",
+        "height": "6'6\"",
+        "class_year": "Fr."
+    },
+    {
+        "name": "Keelan Steele",
+        "position": "Forward",
+        "number": "25",
+        "height": "6'10\"",
+        "class_year": "Sr."
+    },
+    {
+        "name": "Bashir N'Galang",
+        "position": "Guard",
+        "number": "64",
+        "height": "6'3\"",
+        "class_year": "Fr."
+    }
+]

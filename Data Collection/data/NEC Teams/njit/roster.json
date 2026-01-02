@@ -1,0 +1,122 @@
+[
+    {
+        "name": "Sebastian Robinson",
+        "position": "G",
+        "number": "0",
+        "height": "6'3\"",
+        "weight": "190 lbs",
+        "class_year": "Jr."
+    },
+    {
+        "name": "David Bolden",
+        "position": "G",
+        "number": "1",
+        "height": "6'0\"",
+        "weight": "185 lbs",
+        "class_year": "Fr."
+    },
+    {
+        "name": "Jeremy Clayville",
+        "position": "G",
+        "number": "2",
+        "height": "6'1\"",
+        "weight": "175 lbs",
+        "class_year": "So."
+    },
+    {
+        "name": "Jordan Rogers",
+        "position": "F",
+        "number": "3",
+        "height": "6'6\"",
+        "weight": "215 lbs",
+        "class_year": "So."
+    },
+    {
+        "name": "AJ Altobelli",
+        "position": "G",
+        "number": "5",
+        "height": "6'0\"",
+        "weight": "165 lbs",
+        "class_year": "Fr."
+    },
+    {
+        "name": "Cameron Piggee",
+        "position": "G",
+        "number": "7",
+        "height": "6'1\"",
+        "weight": "180 lbs",
+        "class_year": "Jr."
+    },
+    {
+        "name": "Jeffrey Akintolu",
+        "position": "F",
+        "number": "8",
+        "height": "6'7\"",
+        "weight": "210 lbs",
+        "class_year": "Jr."
+    },
+    {
+        "name": "Melvyn Ebonkoli",
+        "position": "F",
+        "number": "11",
+        "height": "6'8\"",
+        "weight": "237 lbs",
+        "class_year": "Gr."
+    },
+    {
+        "name": "Stefan Jimenez-Vojnic",
+        "position": "C",
+        "number": "13",
+        "height": "6'11\"",
+        "weight": "230 lbs",
+        "class_year": "So."
+    },
+    {
+        "name": "Quentin Duncan",
+        "position": "G",
+        "number": "14",
+        "height": "6'4\"",
+        "weight": "180 lbs",
+        "class_year": "So."
+    },
+    {
+        "name": "Ari Fulton",
+        "position": "G",
+        "number": "24",
+        "height": "6'7\"",
+        "weight": "205 lbs",
+        "class_year": "So."
+    },
+    {
+        "name": "John Kelly",
+        "position": "F",
+        "number": "25",
+        "height": "6'8\"",
+        "weight": "205 lbs",
+        "class_year": "So."
+    },
+    {
+        "name": "Malachi Arrington",
+        "position": "C",
+        "number": "32",
+        "height": "6'11\"",
+        "weight": "220 lbs",
+        "class_year": "So."
+    },
+    {
+        "name": "Zack Scherler",
+        "position": "F",
+        "number": "33",
+        "height": "6'11\"",
+        "weight": "245 lbs",
+        "class_year": "Fr."
+    },
+    {
+        "name": "Rocco Awad",
+        "position": "G",
+        "number": "44",
+        "height": "6'2\"",
+        "weight": "195 lbs",
+        "class_year": "Fr."
+    }
+]

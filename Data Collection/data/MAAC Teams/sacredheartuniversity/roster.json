@@ -1,0 +1,129 @@
+[
+    {
+        "name": "Mooda Gittens",
+        "position": "G",
+        "number": "0",
+        "height": "6'4\"",
+        "weight": "184 lbs",
+        "class_year": "Fy."
+    },
+    {
+        "name": "Griffin Barrouk",
+        "position": "G",
+        "number": "1",
+        "height": "6'5\"",
+        "weight": "200 lbs",
+        "class_year": "Sr."
+    },
+    {
+        "name": "Nyle Ralph-Beyer",
+        "position": "G",
+        "number": "2",
+        "height": "6'4\"",
+        "weight": "175 lbs",
+        "class_year": "So."
+    },
+    {
+        "name": "Mekhi Conner",
+        "position": "G",
+        "number": "3",
+        "height": "6'1\"",
+        "weight": "183 lbs",
+        "class_year": "So."
+    },
+    {
+        "name": "Jaden Slaughter",
+        "position": "G",
+        "number": "4",
+        "height": "6'5\"",
+        "weight": "205 lbs",
+        "class_year": "R-Jr."
+    },
+    {
+        "name": "Dashon Gittens",
+        "position": "G",
+        "number": "5",
+        "height": "6'3\"",
+        "weight": "180 lbs",
+        "class_year": "Sr."
+    },
+    {
+        "name": "Yann Farell",
+        "position": "F",
+        "number": "6",
+        "height": "6'7\"",
+        "weight": "220 lbs",
+        "class_year": "Jr."
+    },
+    {
+        "name": "Anquan Hill",
+        "position": "F",
+        "number": "7",
+        "height": "6'9\"",
+        "weight": "200 lbs",
+        "class_year": "R-Sr."
+    },
+    {
+        "name": "Jeremiah Jacobs",
+        "position": "G",
+        "number": "8",
+        "height": "6'8\"",
+        "weight": "245 lbs",
+        "class_year": "Fy."
+    },
+    {
+        "name": "Taj Bryant",
+        "position": "G",
+        "number": "10",
+        "height": "6'2\"",
+        "weight": "178 lbs",
+        "class_year": "So."
+    },
+    {
+        "name": "Abdou Yadd",
+        "position": "F",
+        "number": "11",
+        "height": "6'9\"",
+        "weight": "250 lbs",
+        "class_year": "Fy."
+    },
+    {
+        "name": "Fallou Gueye",
+        "position": "Guard",
+        "number": "13",
+        "height": "6'6\"",
+        "weight": "187 lbs",
+        "class_year": "So."
+    },
+    {
+        "name": "Kevin Pikiell",
+        "position": "G",
+        "number": "21",
+        "height": "6'3\"",
+        "weight": "175 lbs",
+        "class_year": "Fy."
+    },
+    {
+        "name": "Lucius Gibson-Savadel",
+        "position": "F",
+        "number": "23",
+        "height": "6'11\"",
+        "weight": "240 lbs",
+        "class_year": "R-So."
+    },
+    {
+        "name": "Alex Woodring",
+        "position": "F",
+        "number": "33",
+        "height": "6'8\"",
+        "class_year": "So."
+    },
+    {
+        "name": "Malik Sheppard",
+        "position": "G",
+        "number": "55",
+        "height": "5'10\"",
+        "weight": "155 lbs",
+        "class_year": "So."
+    }
+]

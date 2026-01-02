@@ -1,0 +1,3 @@
+[2026-01-01 17:34:59] [Canisius University] https://gogriffs.com/sports/mens-basketball/roster?view=2: No players found in roster.
+[2026-01-01 18:39:25] [Quinnipiac University] https://gobobcats.com/sports/mens-basketball/roster?view=2: Roster scrape failed: list index out of range
+[2026-01-01 18:39:39] [Quinnipiac University] https://gobobcats.com/sports/mens-basketball/roster?view=2: Roster scrape failed: list index out of range

@@ -1,0 +1,42 @@
+{
+    "stats": {
+        "fgm": "21",
+        "fga": "56",
+        "fgm3": "8",
+        "fga3": "31",
+        "ftm": "6",
+        "fta": "7",
+        "pts": "56",
+        "oreb": "6",
+        "dreb": "28",
+        "treb": "34",
+        "ast": "10",
+        "stl": "8",
+        "blk": "7",
+        "to": "14",
+        "pf": "17",
+        "min": "200",
+        "fgpt": "37.5",
+        "fgpt3": "25.8",
+        "ftpt": "85.7",
+        "fgppg": "37.5",
+        "fgmpg": "21.0",
+        "fgapg": "56.0",
+        "ptspg": "56.0",
+        "tposs": "0.000",
+        "qp": "0.0"
+    },
+    "eventDateFormatted": "Dec 5",
+    "boxScoreLink": "11858.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Bryant",
+                "result": "56",
+                "winner": false
+            }
+        ],
+        "status": "Final",
+        "sport": "Basketball"
+    }
+}

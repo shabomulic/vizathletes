@@ -1,0 +1,106 @@
+[
+    {
+        "name": "Kris Johnson",
+        "position": "Guard",
+        "number": "1",
+        "height": "6'5\"",
+        "weight": "190 lbs",
+        "class_year": "R-Fr."
+    },
+    {
+        "name": "Keenan Bey",
+        "position": "Forward",
+        "number": "2",
+        "height": "6'7\"",
+        "weight": "205 lbs",
+        "class_year": "R-Fr."
+    },
+    {
+        "name": "Darrel Yepdo",
+        "position": "Guard",
+        "number": "3",
+        "height": "6'0\"",
+        "weight": "185 lbs",
+        "class_year": "Jr."
+    },
+    {
+        "name": "Isaiah Walter",
+        "position": "Guard",
+        "number": "6",
+        "height": "6'7\"",
+        "weight": "200 lbs",
+        "class_year": "R-Fr."
+    },
+    {
+        "name": "Angel Montas Jr.",
+        "position": "Guard",
+        "number": "9",
+        "height": "6'6\"",
+        "weight": "225 lbs",
+        "class_year": "Jr."
+    },
+    {
+        "name": "Austin Green",
+        "position": "Forward",
+        "number": "10",
+        "height": "6'8\"",
+        "weight": "210 lbs",
+        "class_year": "Sr."
+    },
+    {
+        "name": "Xavier Spencer",
+        "position": "Guard",
+        "number": "11",
+        "height": "6'1\"",
+        "weight": "210 lbs",
+        "class_year": "Jr."
+    },
+    {
+        "name": "Shawn Simmons II",
+        "position": "Forward",
+        "number": "13",
+        "height": "6'6\"",
+        "weight": "215 lbs",
+        "class_year": "Jr."
+    },
+    {
+        "name": "Jared Frey",
+        "position": "Guard",
+        "number": "14",
+        "height": "6'6\"",
+        "weight": "196 lbs",
+        "class_year": "Jr."
+    },
+    {
+        "name": "Jerrell Roberson II",
+        "position": "Forward",
+        "number": "15",
+        "height": "6'9\"",
+        "weight": "225 lbs",
+        "class_year": "Jr."
+    },
+    {
+        "name": "Khalil Farmer",
+        "position": "Guard",
+        "number": "22",
+        "height": "6'3\"",
+        "weight": "190 lbs",
+        "class_year": "Jr."
+    },
+    {
+        "name": "Victor Okojie",
+        "position": "Forward",
+        "number": "23",
+        "height": "6'8\"",
+        "weight": "215 lbs",
+        "class_year": "Fr."
+    },
+    {
+        "name": "JJ Massaquoi",
+        "position": "Guard",
+        "number": "55",
+        "height": "6'6\"",
+        "weight": "235 lbs",
+        "class_year": "Fr."
+    }
+]

@@ -1,0 +1,42 @@
+{
+    "stats": {
+        "fgm": "20",
+        "fga": "54",
+        "fgm3": "9",
+        "fga3": "24",
+        "ftm": "10",
+        "fta": "11",
+        "pts": "59",
+        "oreb": "6",
+        "dreb": "17",
+        "treb": "23",
+        "ast": "13",
+        "stl": "12",
+        "blk": "3",
+        "to": "24",
+        "pf": "21",
+        "min": "200",
+        "fgpt": "37.0",
+        "fgpt3": "37.5",
+        "ftpt": "90.9",
+        "fgppg": "37.0",
+        "fgmpg": "20.0",
+        "fgapg": "54.0",
+        "ptspg": "59.0",
+        "tposs": "0.000",
+        "qp": "0.0"
+    },
+    "eventDateFormatted": "Nov 29",
+    "boxScoreLink": "16332.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Sacred Heart University",
+                "result": "59",
+                "winner": false
+            }
+        ],
+        "status": "Final",
+        "sport": "Basketball"
+    }
+}

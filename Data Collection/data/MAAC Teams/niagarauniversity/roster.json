@@ -1,0 +1,93 @@
+[
+    {
+        "name": "Justin Hawkins",
+        "position": "Forward",
+        "number": "0",
+        "height": "6'7\"",
+        "class_year": "Sr."
+    },
+    {
+        "name": "Reggie Prudhomme",
+        "position": "Guard",
+        "number": "1",
+        "height": "6'0\"",
+        "class_year": "Gr."
+    },
+    {
+        "name": "Trenton Walters",
+        "position": "Guard",
+        "number": "2",
+        "height": "5'9\"",
+        "class_year": "Jr."
+    },
+    {
+        "name": "Justin Page",
+        "position": "Guard",
+        "number": "5",
+        "height": "6'5\"",
+        "class_year": "Jr."
+    },
+    {
+        "name": "Kabeya Tshibangu",
+        "position": "Center",
+        "number": "8",
+        "height": "6'9\"",
+        "class_year": "R-Sr."
+    },
+    {
+        "name": "Gael Dalmau",
+        "position": "Guard",
+        "number": "9",
+        "height": "6'6\"",
+        "class_year": "Fr."
+    },
+    {
+        "name": "Landon Williams",
+        "position": "Guard",
+        "number": "10",
+        "height": "6'4\"",
+        "class_year": "So."
+    },
+    {
+        "name": "Vice Zanki",
+        "position": "Forward",
+        "number": "11",
+        "height": "6'8\"",
+        "class_year": "Jr."
+    },
+    {
+        "name": "Josiah Sabino",
+        "position": "Wing",
+        "number": "12",
+        "height": "6'4\"",
+        "class_year": "Jr."
+    },
+    {
+        "name": "Brian Griffith",
+        "position": "Guard",
+        "number": "15",
+        "height": "5'10\"",
+        "class_year": "Jr."
+    },
+    {
+        "name": "Drew Larson",
+        "position": "Forward",
+        "number": "22",
+        "height": "6'7\"",
+        "class_year": "Jr."
+    },
+    {
+        "name": "Will Shortt",
+        "position": "Forward",
+        "number": "32",
+        "height": "6'8\"",
+        "class_year": "So."
+    },
+    {
+        "name": "AJ McBride",
+        "position": "Wing",
+        "number": "35",
+        "height": "6'5\"",
+        "class_year": "So."
+    }
+]

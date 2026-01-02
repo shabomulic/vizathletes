@@ -1,0 +1,42 @@
+{
+    "stats": {
+        "fgm": "30",
+        "fga": "72",
+        "fgm3": "10",
+        "fga3": "32",
+        "ftm": "19",
+        "fta": "22",
+        "pts": "89",
+        "oreb": "11",
+        "dreb": "35",
+        "treb": "46",
+        "ast": "12",
+        "stl": "5",
+        "blk": "1",
+        "to": "10",
+        "pf": "19",
+        "min": "250",
+        "fgpt": "41.7",
+        "fgpt3": "31.2",
+        "ftpt": "86.4",
+        "fgppg": "41.7",
+        "fgmpg": "30.0",
+        "fgapg": "72.0",
+        "ptspg": "89.0",
+        "tposs": "0.000",
+        "qp": "0.0"
+    },
+    "eventDateFormatted": "Nov 9",
+    "boxScoreLink": "6607.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Vermont",
+                "result": "89",
+                "winner": false
+            }
+        ],
+        "status": "Final",
+        "sport": "Basketball"
+    }
+}

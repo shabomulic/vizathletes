@@ -1,0 +1,18 @@
+{
+    "Player Name": "Player",
+    "eventDateFormatted": "Nov 18",
+    "MIN": "MIN",
+    "FGM-A": "FG",
+    "3PM-A": "3PT",
+    "FTM-A": "FT",
+    "ORB-DRB": "ORB-DRB",
+    "REB": "REB",
+    "PF": "PF",
+    "AST": "A",
+    "TO": "TO",
+    "BLK": "BLK",
+    "STL": "STL",
+    "TP": "PTS",
+    "OREB": "ORB",
+    "DREB": "DRB"
+}

@@ -1,0 +1,122 @@
+[
+    {
+        "name": "David Simon",
+        "position": "Forward",
+        "number": "0",
+        "height": "6'11\"",
+        "class_year": "R-So."
+    },
+    {
+        "name": "Momo Nkugwa",
+        "position": "Guard",
+        "number": "1",
+        "height": "6'3\"",
+        "class_year": "Fr."
+    },
+    {
+        "name": "Ben Michaels",
+        "position": "Forward",
+        "number": "2",
+        "height": "6'8\"",
+        "weight": "220 lbs",
+        "class_year": "So."
+    },
+    {
+        "name": "TJ Hurley",
+        "position": "Guard",
+        "number": "3",
+        "height": "6'5\"",
+        "weight": "190 lbs",
+        "class_year": "Sr."
+    },
+    {
+        "name": "Jackson Skipper",
+        "position": "Forward",
+        "number": "4",
+        "height": "6'7\"",
+        "class_year": "R-Jr."
+    },
+    {
+        "name": "Sean Blake",
+        "position": "Guard",
+        "number": "5",
+        "height": "6'2\"",
+        "weight": "160 lbs",
+        "class_year": "So."
+    },
+    {
+        "name": "Ben Wesson",
+        "position": "Guard",
+        "number": "12",
+        "height": "6'4\"",
+        "weight": "170 lbs",
+        "class_year": "R-Fr."
+    },
+    {
+        "name": "Chris Kuzemka",
+        "position": "Guard",
+        "number": "13",
+        "height": "6'0\"",
+        "class_year": "Gr."
+    },
+    {
+        "name": "Drew Bessette",
+        "position": "Forward",
+        "number": "15",
+        "height": "6'8\"",
+        "weight": "225 lbs",
+        "class_year": "R-Fr."
+    },
+    {
+        "name": "Gus Yalden",
+        "position": "Forward",
+        "number": "19",
+        "height": "6'9\"",
+        "class_year": "R-So."
+    },
+    {
+        "name": "TJ Long",
+        "position": "Guard",
+        "number": "20",
+        "height": "6'4\"",
+        "weight": "195 lbs",
+        "class_year": "Gr."
+    },
+    {
+        "name": "Lucas Mari",
+        "position": "Guard",
+        "number": "21",
+        "height": "6'6\"",
+        "class_year": "Fr."
+    },
+    {
+        "name": "Ben Johnson",
+        "position": "Guard",
+        "number": "24",
+        "height": "6'3\"",
+        "class_year": "Gr."
+    },
+    {
+        "name": "Sincere Clemons",
+        "position": "Guard",
+        "number": "25",
+        "height": "6'2\"",
+        "weight": "170 lbs",
+        "class_year": "R-Fr."
+    },
+    {
+        "name": "Trey Woodyard",
+        "position": "Forward",
+        "number": "32",
+        "height": "6'6\"",
+        "class_year": "Gr."
+    },
+    {
+        "name": "Noah Barnett",
+        "position": "Forward",
+        "number": "34",
+        "height": "6'9\"",
+        "weight": "205 lbs",
+        "class_year": "R-So."
+    }
+]

@@ -1,0 +1,113 @@
+[
+    {
+        "name": "Zion Cruz",
+        "position": "Guard/Forward",
+        "number": "0",
+        "height": "6'5\"",
+        "weight": "195 lbs",
+        "class_year": "Sr."
+    },
+    {
+        "name": "Caleb Smith",
+        "position": "Guard",
+        "number": "2",
+        "height": "6'5\"",
+        "weight": "205 lbs",
+        "class_year": "Jr."
+    },
+    {
+        "name": "Shemani Fuller",
+        "position": "Forward",
+        "number": "3",
+        "height": "6'9\"",
+        "weight": "210 lbs",
+        "class_year": "R-Sr."
+    },
+    {
+        "name": "Jamir McNeil",
+        "position": "Guard",
+        "number": "5",
+        "height": "6'0\"",
+        "weight": "160 lbs",
+        "class_year": "Fr."
+    },
+    {
+        "name": "Mohamad Diallo",
+        "position": "Forward",
+        "number": "6",
+        "height": "7'0\"",
+        "weight": "230 lbs",
+        "class_year": "Sr."
+    },
+    {
+        "name": "Davis Bynum",
+        "position": "Forward",
+        "number": "7",
+        "height": "6'9\"",
+        "weight": "225 lbs",
+        "class_year": "So."
+    },
+    {
+        "name": "Devean Williams",
+        "position": "Guard",
+        "number": "8",
+        "height": "6'3\"",
+        "weight": "180 lbs",
+        "class_year": "Sr."
+    },
+    {
+        "name": "AB Coulibaly",
+        "position": "Guard/Forward",
+        "number": "10",
+        "height": "6'5\"",
+        "weight": "185 lbs",
+        "class_year": "Fr."
+    },
+    {
+        "name": "Flash Burton",
+        "position": "Guard",
+        "number": "11",
+        "height": "6'3\"",
+        "weight": "165 lbs",
+        "class_year": "So."
+    },
+    {
+        "name": "Daniel Helterhoff",
+        "position": "Forward",
+        "number": "13",
+        "height": "6'10\"",
+        "weight": "240 lbs",
+        "class_year": "Sr."
+    },
+    {
+        "name": "Antwan Wilson",
+        "position": "Guard",
+        "number": "14",
+        "height": "6'5\"",
+        "weight": "190 lbs",
+        "class_year": "Jr."
+    },
+    {
+        "name": "Cole McCabe",
+        "position": "Forward",
+        "number": "21",
+        "height": "6'8\"",
+        "weight": "220 lbs",
+        "class_year": "So."
+    },
+    {
+        "name": "Maurizio D'Alessandro",
+        "position": "Guard",
+        "number": "22",
+        "height": "6'1\"",
+        "weight": "185 lbs",
+        "class_year": "So."
+    },
+    {
+        "name": "Kristupas Kepe\u017einskas",
+        "position": "Guard",
+        "number": "30",
+        "height": "6'0\"",
+        "class_year": "Fr."
+    }
+]

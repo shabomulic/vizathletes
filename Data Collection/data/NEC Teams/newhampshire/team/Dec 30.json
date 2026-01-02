@@ -1,0 +1,42 @@
+{
+    "stats": {
+        "fgm": "18",
+        "fga": "56",
+        "fgm3": "8",
+        "fga3": "32",
+        "ftm": "11",
+        "fta": "17",
+        "pts": "55",
+        "oreb": "12",
+        "dreb": "21",
+        "treb": "33",
+        "ast": "9",
+        "stl": "8",
+        "blk": "1",
+        "to": "16",
+        "pf": "24",
+        "min": "200",
+        "fgpt": "32.1",
+        "fgpt3": "25.0",
+        "ftpt": "64.7",
+        "fgppg": "32.1",
+        "fgmpg": "18.0",
+        "fgapg": "56.0",
+        "ptspg": "55.0",
+        "tposs": "0.000",
+        "qp": "0.0"
+    },
+    "eventDateFormatted": "Dec 30",
+    "boxScoreLink": "9324.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "New Hampshire",
+                "result": "55",
+                "winner": false
+            }
+        ],
+        "status": "Final",
+        "sport": "Basketball"
+    }
+}

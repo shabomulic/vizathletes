@@ -1,0 +1,42 @@
+{
+    "stats": {
+        "fgm": "18",
+        "fga": "59",
+        "fgm3": "10",
+        "fga3": "33",
+        "ftm": "12",
+        "fta": "14",
+        "pts": "58",
+        "oreb": "9",
+        "dreb": "19",
+        "treb": "28",
+        "ast": "13",
+        "stl": "9",
+        "blk": "7",
+        "to": "9",
+        "pf": "16",
+        "min": "200",
+        "fgpt": "30.5",
+        "fgpt3": "30.3",
+        "ftpt": "85.7",
+        "fgppg": "30.5",
+        "fgmpg": "18.0",
+        "fgapg": "59.0",
+        "ptspg": "58.0",
+        "tposs": "0.000",
+        "qp": "0.0"
+    },
+    "eventDateFormatted": "Nov 29",
+    "boxScoreLink": "13356.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Merrimack College",
+                "result": "58",
+                "winner": false
+            }
+        ],
+        "status": "Final",
+        "sport": "Basketball"
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "stats": {
+        "fgm": "19",
+        "fga": "52",
+        "fgm3": "8",
+        "fga3": "23",
+        "ftm": "9",
+        "fta": "11",
+        "pts": "55",
+        "oreb": "10",
+        "dreb": "22",
+        "treb": "32",
+        "ast": "10",
+        "stl": "7",
+        "blk": "4",
+        "to": "19",
+        "pf": "12",
+        "min": "200",
+        "fgpt": "36.5",
+        "fgpt3": "34.8",
+        "ftpt": "81.8",
+        "fgppg": "36.5",
+        "fgmpg": "19.0",
+        "fgapg": "52.0",
+        "ptspg": "55.0",
+        "tposs": "0.000",
+        "qp": "0.0"
+    },
+    "eventDateFormatted": "Nov 28",
+    "boxScoreLink": "11036.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "NJIT",
+                "result": "55",
+                "winner": false
+            }
+        ],
+        "status": "Final",
+        "sport": "Basketball"
+    }
+}
