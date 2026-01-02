@@ -1,0 +1,42 @@
+{
+    "stats": {
+        "fgm": "26",
+        "fga": "61",
+        "fgm3": "10",
+        "fga3": "28",
+        "ftm": "18",
+        "fta": "28",
+        "pts": "80",
+        "oreb": "8",
+        "dreb": "20",
+        "treb": "28",
+        "ast": "19",
+        "stl": "10",
+        "blk": "5",
+        "to": "10",
+        "pf": "19",
+        "min": "200",
+        "fgpt": "42.6",
+        "fgpt3": "35.7",
+        "ftpt": "64.3",
+        "fgppg": "42.6",
+        "fgmpg": "26.0",
+        "fgapg": "61.0",
+        "ptspg": "80.0",
+        "tposs": "0.000",
+        "qp": "0.0"
+    },
+    "eventDateFormatted": "Nov 13",
+    "boxScoreLink": "15263.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Le Moyne",
+                "result": "80",
+                "winner": false
+            }
+        ],
+        "status": "Final",
+        "sport": "Basketball"
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "stats": {
+        "fgm": "23",
+        "fga": "57",
+        "fgm3": "9",
+        "fga3": "23",
+        "ftm": "9",
+        "fta": "15",
+        "pts": "64",
+        "oreb": "6",
+        "dreb": "32",
+        "treb": "38",
+        "ast": "16",
+        "stl": "4",
+        "blk": "5",
+        "to": "16",
+        "pf": "26",
+        "min": "200",
+        "fgpt": "40.4",
+        "fgpt3": "39.1",
+        "ftpt": "60.0",
+        "fgppg": "40.4",
+        "fgmpg": "23.0",
+        "fgapg": "57.0",
+        "ptspg": "64.0",
+        "tposs": "0.000",
+        "qp": "0.0"
+    },
+    "eventDateFormatted": "Nov 7",
+    "boxScoreLink": "9136.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Stonehill",
+                "result": "64",
+                "winner": false
+            }
+        ],
+        "status": "Final",
+        "sport": "Basketball"
+    }
+}

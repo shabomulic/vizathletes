@@ -1,0 +1,42 @@
+{
+    "stats": {
+        "fgm": "24",
+        "fga": "59",
+        "fgm3": "5",
+        "fga3": "16",
+        "ftm": "9",
+        "fta": "13",
+        "pts": "62",
+        "oreb": "10",
+        "dreb": "23",
+        "treb": "33",
+        "ast": "8",
+        "stl": "12",
+        "blk": "4",
+        "to": "18",
+        "pf": "23",
+        "min": "200",
+        "fgpt": "40.7",
+        "fgpt3": "31.2",
+        "ftpt": "69.2",
+        "fgppg": "40.7",
+        "fgmpg": "24.0",
+        "fgapg": "59.0",
+        "ptspg": "62.0",
+        "tposs": "0.000",
+        "qp": "0.0"
+    },
+    "eventDateFormatted": "Nov 18",
+    "boxScoreLink": "13339.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Saint Francis",
+                "result": "62",
+                "winner": false
+            }
+        ],
+        "status": "Final",
+        "sport": "Basketball"
+    }
+}

@@ -1,0 +1,122 @@
+[
+    {
+        "name": "Joey Niesman",
+        "position": "Guard",
+        "number": "0",
+        "height": "6'2\"",
+        "weight": "185 lbs",
+        "class_year": "Gr."
+    },
+    {
+        "name": "Kody Frey",
+        "position": "Guard",
+        "number": "1",
+        "height": "6'6\"",
+        "weight": "177 lbs",
+        "class_year": "Fr."
+    },
+    {
+        "name": "Taeshaud Jackson",
+        "position": "Forward",
+        "number": "2",
+        "height": "6'6\"",
+        "weight": "221 lbs",
+        "class_year": "Sr."
+    },
+    {
+        "name": "Raysean Johnson",
+        "position": "Guard",
+        "number": "3",
+        "height": "6'1\"",
+        "weight": "180 lbs",
+        "class_year": "So."
+    },
+    {
+        "name": "Eric Parnell",
+        "position": "Guard",
+        "number": "7",
+        "height": "6'3\"",
+        "weight": "178 lbs",
+        "class_year": "Sr."
+    },
+    {
+        "name": "Noah Melson",
+        "position": "Guard",
+        "number": "8",
+        "height": "6'6\"",
+        "weight": "185 lbs",
+        "class_year": "Jr."
+    },
+    {
+        "name": "Sebastian Haubro",
+        "position": "Forward/Center",
+        "number": "9",
+        "height": "6'10\"",
+        "weight": "208 lbs",
+        "class_year": "Fr."
+    },
+    {
+        "name": "Tyler McQuaid",
+        "position": "Guard",
+        "number": "11",
+        "height": "6'0\"",
+        "weight": "181 lbs",
+        "class_year": "Fr."
+    },
+    {
+        "name": "Josiah Francis",
+        "position": "Guard",
+        "number": "15",
+        "height": "6'8\"",
+        "weight": "200 lbs",
+        "class_year": "So."
+    },
+    {
+        "name": "Cole Alexander",
+        "position": "Forward",
+        "number": "21",
+        "height": "6'7\"",
+        "weight": "215 lbs",
+        "class_year": "Gr."
+    },
+    {
+        "name": "Cyril Martynov",
+        "position": "Center",
+        "number": "22",
+        "height": "7'0\"",
+        "weight": "223 lbs",
+        "class_year": "Sr."
+    },
+    {
+        "name": "Ras Elijah Godbolt",
+        "position": "Guard",
+        "number": "24",
+        "height": "6'0\"",
+        "weight": "177 lbs",
+        "class_year": "Fr."
+    },
+    {
+        "name": "Andrew Canda",
+        "position": "Guard",
+        "number": "30",
+        "height": "6'0\"",
+        "weight": "164 lbs",
+        "class_year": "So."
+    },
+    {
+        "name": "David Jevtic",
+        "position": "Guard",
+        "number": "35",
+        "height": "6'8\"",
+        "weight": "197 lbs",
+        "class_year": "Fr."
+    },
+    {
+        "name": "Arthur Cox",
+        "position": "Forward/Center",
+        "number": "55",
+        "height": "6'8\"",
+        "weight": "215 lbs",
+        "class_year": "Gr."
+    }
+]

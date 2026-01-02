@@ -1,0 +1,42 @@
+{
+    "stats": {
+        "fgm": "37",
+        "fga": "64",
+        "fgm3": "9",
+        "fga3": "16",
+        "ftm": "20",
+        "fta": "27",
+        "pts": "103",
+        "oreb": "15",
+        "dreb": "27",
+        "treb": "42",
+        "ast": "17",
+        "stl": "5",
+        "blk": "8",
+        "to": "14",
+        "pf": "21",
+        "min": "225",
+        "fgpt": "57.8",
+        "fgpt3": "56.2",
+        "ftpt": "74.1",
+        "fgppg": "57.8",
+        "fgmpg": "37.0",
+        "fgapg": "64.0",
+        "ptspg": "103.0",
+        "tposs": "0.000",
+        "qp": "0.0"
+    },
+    "eventDateFormatted": "Nov 26",
+    "boxScoreLink": "14116.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Wagner",
+                "result": "103",
+                "winner": false
+            }
+        ],
+        "status": "Final",
+        "sport": "Basketball"
+    }
+}

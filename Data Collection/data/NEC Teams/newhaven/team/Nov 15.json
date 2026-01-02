@@ -1,0 +1,42 @@
+{
+    "stats": {
+        "fgm": "22",
+        "fga": "47",
+        "fgm3": "6",
+        "fga3": "22",
+        "ftm": "15",
+        "fta": "20",
+        "pts": "65",
+        "oreb": "8",
+        "dreb": "33",
+        "treb": "41",
+        "ast": "11",
+        "stl": "8",
+        "blk": "1",
+        "to": "17",
+        "pf": "11",
+        "min": "200",
+        "fgpt": "46.8",
+        "fgpt3": "27.3",
+        "ftpt": "75.0",
+        "fgppg": "46.8",
+        "fgmpg": "22.0",
+        "fgapg": "47.0",
+        "ptspg": "65.0",
+        "tposs": "0.000",
+        "qp": "0.0"
+    },
+    "eventDateFormatted": "Nov 15",
+    "boxScoreLink": "14390.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "New Haven",
+                "result": "65",
+                "winner": false
+            }
+        ],
+        "status": "Final",
+        "sport": "Basketball"
+    }
+}

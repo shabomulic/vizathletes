@@ -1,0 +1,106 @@
+[
+    {
+        "name": "Nick Jones",
+        "position": "Guard",
+        "number": "0",
+        "height": "6'2\"",
+        "weight": "170 lbs",
+        "class_year": "Jr."
+    },
+    {
+        "name": "Zavier Fitch",
+        "position": "Forward",
+        "number": "1",
+        "height": "6'7\"",
+        "weight": "210 lbs",
+        "class_year": "So."
+    },
+    {
+        "name": "Travis Gray",
+        "position": "Guard",
+        "number": "2",
+        "height": "6'6\"",
+        "weight": "200 lbs",
+        "class_year": "Gr."
+    },
+    {
+        "name": "Elijah Brown",
+        "position": "Guard",
+        "number": "3",
+        "height": "6'4\"",
+        "weight": "200 lbs",
+        "class_year": "Fr."
+    },
+    {
+        "name": "John Awoke",
+        "position": "Guard",
+        "number": "4",
+        "height": "6'3\"",
+        "weight": "185 lbs",
+        "class_year": "Jr."
+    },
+    {
+        "name": "Michael Cooper",
+        "position": "Guard",
+        "number": "5",
+        "height": "6'6\"",
+        "weight": "215 lbs",
+        "class_year": "Jr."
+    },
+    {
+        "name": "Eddie Placer",
+        "position": "Guard",
+        "number": "7",
+        "height": "6'5\"",
+        "weight": "200 lbs",
+        "class_year": "Jr."
+    },
+    {
+        "name": "Jaden Baker",
+        "position": "Guard",
+        "number": "9",
+        "height": "6'2\"",
+        "weight": "190 lbs",
+        "class_year": "R-Sr."
+    },
+    {
+        "name": "Bryan Akanmu",
+        "position": "Forward",
+        "number": "10",
+        "height": "6'6\"",
+        "weight": "230 lbs",
+        "class_year": "Jr."
+    },
+    {
+        "name": "Huascar Cuevas",
+        "position": "Guard",
+        "number": "12",
+        "height": "5'11\"",
+        "weight": "180 lbs",
+        "class_year": "Jr."
+    },
+    {
+        "name": "Makhai Anderson",
+        "position": "Guard/Forward",
+        "number": "15",
+        "height": "6'6\"",
+        "weight": "195 lbs",
+        "class_year": "Rf."
+    },
+    {
+        "name": "Binael Basil",
+        "position": "Forward",
+        "number": "22",
+        "height": "6'7\"",
+        "weight": "240 lbs",
+        "class_year": "So."
+    },
+    {
+        "name": "Sam Smith",
+        "position": "Forward",
+        "number": "24",
+        "height": "6'6\"",
+        "weight": "235 lbs",
+        "class_year": "Gr."
+    }
+]

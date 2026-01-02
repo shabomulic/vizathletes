@@ -1,0 +1,130 @@
+[
+    {
+        "number": "0",
+        "name": "Elijah Parker",
+        "position": "Pos",
+        "class_year": "Cl.: Fr.",
+        "height": "Ht.: 6-3",
+        "weight": "Wt.: 175"
+    },
+    {
+        "number": "1",
+        "name": "Jay Rodgers",
+        "position": "Pos",
+        "class_year": "Cl.: Sr.",
+        "height": "Ht.: 6-3",
+        "weight": "Wt.: 185"
+    },
+    {
+        "number": "2",
+        "name": "Nico Ashley",
+        "position": "Pos",
+        "class_year": "Cl.: Gr.",
+        "height": "Ht.: 6-7",
+        "weight": "Wt.: 180"
+    },
+    {
+        "number": "3",
+        "name": "Roddy Jones",
+        "position": "Pos",
+        "class_year": "Cl.: R-Fr.",
+        "height": "Ht.: 6-1",
+        "weight": "Wt.: 195"
+    },
+    {
+        "number": "5",
+        "name": "Darin Smith, Jr.",
+        "position": "Pos",
+        "class_year": "Cl.: So.",
+        "height": "Ht.: 6-7",
+        "weight": "Wt.: 210"
+    },
+    {
+        "number": "6",
+        "name": "Melo Sanchez",
+        "position": "Pos",
+        "class_year": "Cl.: Sr.",
+        "height": "Ht.: 6-4",
+        "weight": "Wt.: 185"
+    },
+    {
+        "number": "10",
+        "name": "Ja'Kobe Williams",
+        "position": "Pos",
+        "class_year": "Cl.: Gr.",
+        "height": "Ht.: 6-3",
+        "weight": "Wt.: 190"
+    },
+    {
+        "number": "11",
+        "name": "Jayden Mott",
+        "position": "Pos",
+        "class_year": "Cl.: So.",
+        "height": "Ht.: 6-8",
+        "weight": "Wt.: 210"
+    },
+    {
+        "number": "12",
+        "name": "Gabe Spinelli",
+        "position": "Pos",
+        "class_year": "Cl.: Sr.",
+        "height": "Ht.: 6-3",
+        "weight": "Wt.: 195"
+    },
+    {
+        "number": "13",
+        "name": "Ashton Reynolds",
+        "position": "Pos",
+        "class_year": "Cl.: Fr.",
+        "height": "Ht.: 6-4",
+        "weight": "Wt.: 185"
+    },
+    {
+        "number": "15",
+        "name": "Adam Fox",
+        "position": "Pos",
+        "class_year": "Cl.: R-Fr.",
+        "height": "Ht.: 6-5",
+        "weight": "Wt.: 185"
+    },
+    {
+        "number": "20",
+        "name": "Corsley Edwards, Jr.",
+        "position": "Pos",
+        "class_year": "Cl.: Fr.",
+        "height": "Ht.: 6-2",
+        "weight": "Wt.: 188"
+    },
+    {
+        "number": "22",
+        "name": "Daniel James",
+        "position": "Pos",
+        "class_year": "Cl.: So.",
+        "height": "Ht.: 6-8",
+        "weight": "Wt.: 215"
+    },
+    {
+        "number": "23",
+        "name": "Rashawn Tibby",
+        "position": "Pos",
+        "class_year": "Cl.: Fr.",
+        "height": "Ht.: 6-8",
+        "weight": "Wt.: 190"
+    },
+    {
+        "number": "24",
+        "name": "James Jones",
+        "position": "Pos",
+        "class_year": "Cl.: So.",
+        "height": "Ht.: 6-6",
+        "weight": "Wt.: 190"
+    },
+    {
+        "number": "34",
+        "name": "Max Frazier",
+        "position": "Pos",
+        "class_year": "Cl.: Jr.",
+        "height": "Ht.: 6-9",
+        "weight": "Wt.: 200"
+    }
+]

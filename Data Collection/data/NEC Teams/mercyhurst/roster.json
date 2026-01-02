@@ -1,0 +1,122 @@
+[
+    {
+        "name": "Sean Lang",
+        "position": "Guard",
+        "number": "1",
+        "height": "6'3\"",
+        "weight": "205 lbs",
+        "class_year": "Gr."
+    },
+    {
+        "name": "Brady Conner",
+        "position": "Guard",
+        "number": "2",
+        "height": "6'6\"",
+        "weight": "200 lbs",
+        "class_year": "Fr."
+    },
+    {
+        "name": "Cameron Johnson",
+        "position": "Forward",
+        "number": "3",
+        "height": "6'5\"",
+        "weight": "200 lbs",
+        "class_year": "Jr."
+    },
+    {
+        "name": "Bernie Blunt III",
+        "position": "Guard",
+        "number": "4",
+        "height": "5'11\"",
+        "weight": "180 lbs",
+        "class_year": "Gr."
+    },
+    {
+        "name": "Mykolas Ivanauskas",
+        "position": "Forward",
+        "number": "5",
+        "height": "6'8\"",
+        "weight": "215 lbs",
+        "class_year": "So."
+    },
+    {
+        "name": "Deshaun Jackson Jr.",
+        "position": "Guard",
+        "number": "7",
+        "height": "6'2\"",
+        "weight": "175 lbs",
+        "class_year": "So."
+    },
+    {
+        "name": "Christian Gamble",
+        "position": "Guard",
+        "number": "10",
+        "height": "6'0\"",
+        "weight": "195 lbs",
+        "class_year": "Sr."
+    },
+    {
+        "name": "Jake Lemelman",
+        "position": "Guard",
+        "number": "11",
+        "height": "6'2\"",
+        "weight": "165 lbs",
+        "class_year": "So."
+    },
+    {
+        "name": "Qadir Martin",
+        "position": "Forward",
+        "number": "12",
+        "height": "6'5\"",
+        "weight": "215 lbs",
+        "class_year": "So."
+    },
+    {
+        "name": "Chris Leman",
+        "position": "Forward",
+        "number": "13",
+        "height": "6'9\"",
+        "weight": "220 lbs",
+        "class_year": "Fr."
+    },
+    {
+        "name": "Kaden Fuhrmann",
+        "position": "Guard",
+        "number": "15",
+        "height": "6'5\"",
+        "weight": "195 lbs",
+        "class_year": "Gr."
+    },
+    {
+        "name": "Emilis Butkus",
+        "position": "Guard",
+        "number": "21",
+        "height": "6'6\"",
+        "weight": "220 lbs",
+        "class_year": "Sr."
+    },
+    {
+        "name": "Or Faran",
+        "position": "Guard",
+        "number": "23",
+        "height": "6'5\"",
+        "weight": "203 lbs",
+        "class_year": "Fr."
+    },
+    {
+        "name": "Vladimir Pavlovic",
+        "position": "Guard",
+        "number": "33",
+        "height": "6'2\"",
+        "weight": "200 lbs",
+        "class_year": "Jr."
+    },
+    {
+        "name": "James Thomas",
+        "position": "Forward",
+        "number": "34",
+        "height": "6'6\"",
+        "weight": "230 lbs",
+        "class_year": "Sr."
+    }
+]

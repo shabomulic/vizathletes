@@ -1,0 +1,42 @@
+{
+    "stats": {
+        "fgm": "24",
+        "fga": "60",
+        "fgm3": "3",
+        "fga3": "16",
+        "ftm": "9",
+        "fta": "16",
+        "pts": "60",
+        "oreb": "13",
+        "dreb": "23",
+        "treb": "36",
+        "ast": "6",
+        "stl": "10",
+        "blk": "2",
+        "to": "10",
+        "pf": "14",
+        "min": "200",
+        "fgpt": "40.0",
+        "fgpt3": "18.8",
+        "ftpt": "56.2",
+        "fgppg": "40.0",
+        "fgmpg": "24.0",
+        "fgapg": "60.0",
+        "ptspg": "60.0",
+        "tposs": "0.000",
+        "qp": "0.0"
+    },
+    "eventDateFormatted": "Nov 23",
+    "boxScoreLink": "15048.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Mercyhurst",
+                "result": "60",
+                "winner": false
+            }
+        ],
+        "status": "Final",
+        "sport": "Basketball"
+    }
+}

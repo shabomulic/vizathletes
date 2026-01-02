@@ -1,0 +1,42 @@
+{
+    "stats": {
+        "fgm": "25",
+        "fga": "63",
+        "fgm3": "3",
+        "fga3": "16",
+        "ftm": "8",
+        "fta": "11",
+        "pts": "61",
+        "oreb": "8",
+        "dreb": "11",
+        "treb": "19",
+        "ast": "6",
+        "stl": "10",
+        "blk": "0",
+        "to": "12",
+        "pf": "20",
+        "min": "200",
+        "fgpt": "39.7",
+        "fgpt3": "18.8",
+        "ftpt": "72.7",
+        "fgppg": "39.7",
+        "fgmpg": "25.0",
+        "fgapg": "63.0",
+        "ptspg": "61.0",
+        "tposs": "0.000",
+        "qp": "0.0"
+    },
+    "eventDateFormatted": "Dec 17",
+    "boxScoreLink": "13352.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Saint Francis",
+                "result": "61",
+                "winner": false
+            }
+        ],
+        "status": "Final",
+        "sport": "Basketball"
+    }
+}

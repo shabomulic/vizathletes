@@ -1,0 +1,146 @@
+[
+    {
+        "name": "Chris Moncrief",
+        "position": "Guard",
+        "number": "0",
+        "height": "6'6\"",
+        "weight": "190 lbs",
+        "class_year": "Sr."
+    },
+    {
+        "name": "KJ Swain, Jr.",
+        "position": "Guard",
+        "number": "1",
+        "height": "6'1\"",
+        "weight": "165 lbs",
+        "class_year": "R-Sr."
+    },
+    {
+        "name": "Zion Russell",
+        "position": "Guard",
+        "number": "2",
+        "height": "6'2\"",
+        "weight": "185 lbs",
+        "class_year": "R-Sr."
+    },
+    {
+        "name": "Brandon Russell",
+        "position": "Guard",
+        "number": "3",
+        "height": "6'5\"",
+        "weight": "185 lbs",
+        "class_year": "Fr."
+    },
+    {
+        "name": "Ralph Martino, Jr.",
+        "position": "Guard",
+        "number": "4",
+        "height": "6'6\"",
+        "weight": "180 lbs",
+        "class_year": "So."
+    },
+    {
+        "name": "Paris Papadatos",
+        "position": "Guard",
+        "number": "7",
+        "height": "6'4\"",
+        "weight": "188 lbs",
+        "class_year": "Fr."
+    },
+    {
+        "name": "Skylar Wicks",
+        "position": "Guard",
+        "number": "8",
+        "height": "6'6\"",
+        "weight": "190 lbs",
+        "class_year": "R-Sr."
+    },
+    {
+        "name": "Melvin Weaver III",
+        "position": "Guard",
+        "number": "11",
+        "height": "6'3\"",
+        "weight": "195 lbs",
+        "class_year": "So."
+    },
+    {
+        "name": "Kam Wylie",
+        "position": "Forward",
+        "number": "13",
+        "height": "6'8\"",
+        "weight": "190 lbs",
+        "class_year": "Fr."
+    },
+    {
+        "name": "Victor Payne",
+        "position": "Guard",
+        "number": "15",
+        "height": "6'4\"",
+        "weight": "190 lbs",
+        "class_year": "So."
+    },
+    {
+        "name": "Cam Tweedy",
+        "position": "Forward",
+        "number": "20",
+        "height": "6'6\"",
+        "weight": "240 lbs",
+        "class_year": "R-Sr."
+    },
+    {
+        "name": "Gestin Liberis",
+        "position": "Forward",
+        "number": "21",
+        "height": "6'9\"",
+        "weight": "215 lbs",
+        "class_year": "R-Jr."
+    },
+    {
+        "name": "Ryen Gresko",
+        "position": "Guard",
+        "number": "22",
+        "height": "5'11\"",
+        "weight": "170 lbs",
+        "class_year": "Jr."
+    },
+    {
+        "name": "Carson Rhodes",
+        "position": "Guard",
+        "number": "24",
+        "height": "6'3\"",
+        "weight": "180 lbs",
+        "class_year": "So."
+    },
+    {
+        "name": "Trey Weiand",
+        "position": "Guard",
+        "number": "30",
+        "height": "6'4\"",
+        "weight": "200 lbs",
+        "class_year": "Jr."
+    },
+    {
+        "name": "Kofi Asare",
+        "position": "6'10\"",
+        "number": "32",
+        "height": "6'10\"",
+        "weight": "240 lbs",
+        "class_year": "Fr."
+    },
+    {
+        "name": "Brandon Rabish",
+        "position": "Guard",
+        "number": "33",
+        "height": "6'0\"",
+        "weight": "150 lbs",
+        "class_year": "Fr."
+    },
+    {
+        "name": "Ahmad Harrison",
+        "position": "Guard",
+        "number": "55",
+        "height": "6'1\"",
+        "weight": "190 lbs",
+        "class_year": "Sr."
+    }
+]

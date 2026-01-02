@@ -1,0 +1,138 @@
+[
+    {
+        "name": "Greg Spate",
+        "position": "Guard",
+        "number": "0",
+        "height": "6'7\"",
+        "weight": "190 lbs",
+        "class_year": "Jr."
+    },
+    {
+        "name": "Deshawn Jean-Charles",
+        "position": "Guard",
+        "number": "1",
+        "height": "6'7\"",
+        "weight": "200 lbs",
+        "class_year": "Sr."
+    },
+    {
+        "name": "Doyel Cockrill III",
+        "position": "Guard",
+        "number": "3",
+        "height": "6'2\"",
+        "weight": "196 lbs",
+        "class_year": "Jr."
+    },
+    {
+        "name": "Marcus Tankersley",
+        "position": "Guard",
+        "number": "4",
+        "height": "6'5\"",
+        "weight": "195 lbs",
+        "class_year": "Sr."
+    },
+    {
+        "name": "Chauncey Gibson",
+        "position": "Guard",
+        "number": "5",
+        "height": "6'7\"",
+        "weight": "190 lbs",
+        "class_year": "Jr."
+    },
+    {
+        "name": "Daniel Zatsepin",
+        "position": "Foward",
+        "number": "6",
+        "height": "6'4\"",
+        "weight": "213 lbs",
+        "class_year": "Jr."
+    },
+    {
+        "name": "Stephen Byard",
+        "position": "Forward",
+        "number": "8",
+        "height": "6'8\"",
+        "weight": "218 lbs",
+        "class_year": "Gr."
+    },
+    {
+        "name": "Malek Robinson",
+        "position": "Guard",
+        "number": "9",
+        "height": "5'11\"",
+        "weight": "155 lbs",
+        "class_year": "Fr."
+    },
+    {
+        "name": "Corey Sands",
+        "position": "Guard",
+        "number": "10",
+        "height": "6'4\"",
+        "weight": "205 lbs",
+        "class_year": "Gr."
+    },
+    {
+        "name": "Lionel Larvadain III",
+        "position": "Guard",
+        "number": "11",
+        "height": "6'0\"",
+        "weight": "180 lbs",
+        "class_year": "So."
+    },
+    {
+        "name": "DaJuan Bates",
+        "position": "Guard",
+        "number": "12",
+        "height": "6'2\"",
+        "weight": "175 lbs",
+        "class_year": "Jr."
+    },
+    {
+        "name": "Joseph Owens",
+        "position": "Forward",
+        "number": "15",
+        "height": "6'7\"",
+        "weight": "215 lbs",
+        "class_year": "Gr."
+    },
+    {
+        "name": "CJ Delancy",
+        "position": "Forward",
+        "number": "20",
+        "height": "6'9\"",
+        "weight": "220 lbs",
+        "class_year": "Sr."
+    },
+    {
+        "name": "Braelon Bush",
+        "position": "Guard",
+        "number": "21",
+        "height": "5'9\"",
+        "weight": "155 lbs",
+        "class_year": "Gr."
+    },
+    {
+        "name": "Dailliss Cox",
+        "position": "Forward",
+        "number": "22",
+        "height": "6'6\"",
+        "weight": "215 lbs",
+        "class_year": "Sr."
+    },
+    {
+        "name": "CJ Ray",
+        "position": "Forward",
+        "number": "23",
+        "height": "6'6\"",
+        "weight": "215 lbs",
+        "class_year": "Sr."
+    },
+    {
+        "name": "Dakari Thomas",
+        "position": "Guard",
+        "number": "25",
+        "height": "6'1\"",
+        "weight": "190 lbs",
+        "class_year": "So."
+    }
+]

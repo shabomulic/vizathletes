@@ -29,7 +29,11 @@ def sanitize_filename(name):
 
 def clean_text(text):
     if not text: return ""
-    return " ".join(text.split())
+    # Standardize whitespace and remove some Presto-specific label prefixes
+    text = " ".join(text.split())
+    # Remove labels like "Pos.:", "Ht.:", etc. that Presto embeds in cells
+    text = re.sub(r'^(No\.|Name|Pos|Cl|Ht|Wt|Hometown/Last School):\s*', '', text, flags=re.I)
+    return text.strip()
 
 def load_urls(file_path):
     team_urls = {}
@@ -95,8 +99,13 @@ def scrape_roster(team_name, url):
                 
                 if 'name' in headers_map and headers_map['name'] < len(cols):
                     cell = cols[headers_map['name']]
-                    a = cell.find('a')
-                    if a: player['name'] = clean_text(a.get_text())
+                    # Find all links and pick the first one with actual text (avoids image-only links)
+                    links = cell.find_all('a')
+                    for a in links:
+                        a_text = clean_text(a.get_text())
+                        if a_text:
+                            player['name'] = a_text
+                            break
                 
                 if player.get('name'):
                     if 'position' in player: player['position'] = clean_position(player['position'])
@@ -293,7 +302,12 @@ def scrape_box_score(game_url, team_name, team_dir, game_date, players_map):
             if 'Player Name' in headers_map and headers_map['Player Name'] < len(cols):
                 p_name = clean_text(cols[headers_map['Player Name']].get_text())
                 p_name = re.sub(r'^\d+\s+', '', p_name)
-                if p_name.upper() not in ['TM', 'TEAM', 'TM TEAM', 'TOTALS', 'PLAYER']:
+                # Exclude standard headers and aggregate rows
+                if p_name.upper() not in ['TM', 'TEAM', 'TM TEAM', 'TOTALS', 'PLAYER', 'STARTERS', 'RESERVES']:
+                    # Also skip if it seems to be just punctuation or too short to be a name
+                    if not any(c.isalpha() for c in p_name) or len(p_name) < 2:
+                        continue
+                        
                     p_data = {'Player Name': p_name, 'eventDateFormatted': game_date}
                     for k, i in headers_map.items():
                         if k != 'Player Name' and i < len(cols): 
@@ -408,15 +422,19 @@ def scrape_schedule(team_name, url, team_dir, players_map):
         soup = BeautifulSoup(response.content, 'html.parser')
         
         # Try modern Sidearm NextGen/Standard containers first
-        container = soup.find(id='listPanel') or soup.find(class_='c-schedulepage__games')
+        container = soup.find(id='listPanel') or soup.find(class_='c-schedulepage__games') or soup.find(class_='schedule-content')
         if container:
-            game_cards = container.select('.schedule-game, .game-card, .s-game-card, .sidearm-schedule-game')
+            game_cards = container.select('.schedule-game, .game-card, .s-game-card, .sidearm-schedule-game, .event-row')
         else:
-            game_cards = soup.select('.schedule-game, .game-card, .s-game-card, .sidearm-schedule-game')
+            game_cards = soup.select('.schedule-game, .game-card, .s-game-card, .sidearm-schedule-game, .event-row')
             
         if not game_cards:
-            tbody = soup.find('tbody')
-            if tbody: game_cards = tbody.find_all('tr')
+            # Fallback for Presto/Table based schedules
+            for table in soup.find_all('table'):
+                rows = table.find_all('tr')
+                if len(rows) > 5 and table.find('a', string=re.compile(r'Box|Stats|Log', re.I)):
+                    game_cards = rows
+                    break
             
         today = datetime.now()
         
@@ -452,11 +470,23 @@ def scrape_schedule(team_name, url, team_dir, players_map):
             except: pass
             
             box_link = None
-            links = card.find_all('a')
-            for link in links:
-                if 'box' in link.get_text().lower() or 'boxscore' in link.get('href', '').lower():
-                    box_link = urljoin(url, link.get('href'))
-                    break
+            # Find all potential box score or stats links
+            all_links = card.find_all('a')
+            for link in all_links:
+                href = link.get('href', '').lower()
+                text = link.get_text().lower()
+                label = link.get('aria-label', '').lower()
+                
+                # Look for Box Score or Stats indicators
+                if any(x in text or x in label or x in href for x in ['box score', 'boxscore', 'stats/202', 'game-details']):
+                    potential_url = urljoin(url, link.get('href'))
+                    
+                    # Prefer XML over PDF or others
+                    if '.xml' in potential_url.lower():
+                        box_link = potential_url
+                        break
+                    elif not box_link or (not '.pdf' in potential_url.lower() and '.pdf' in box_link.lower()):
+                        box_link = potential_url
             
             if box_link:
                 scrape_box_score(box_link, team_name, team_dir, game_date_str, players_map)

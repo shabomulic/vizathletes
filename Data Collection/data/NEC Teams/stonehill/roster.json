@@ -1,0 +1,130 @@
+[
+    {
+        "name": "Rex Sunderland",
+        "position": "Guard",
+        "number": "1",
+        "height": "6'5\"",
+        "weight": "200 lbs",
+        "class_year": "Sr."
+    },
+    {
+        "name": "Trenton Ruth",
+        "position": "Guard",
+        "number": "2",
+        "height": "6'3\"",
+        "weight": "185 lbs",
+        "class_year": "So."
+    },
+    {
+        "name": "William Batchelder",
+        "position": "Guard",
+        "number": "3",
+        "height": "6'2\"",
+        "weight": "180 lbs",
+        "class_year": "Sr."
+    },
+    {
+        "name": "Davante Hackett",
+        "position": "Guard",
+        "number": "4",
+        "height": "6'3\"",
+        "weight": "180 lbs",
+        "class_year": "Jr."
+    },
+    {
+        "name": "Chas Stinson",
+        "position": "Guard",
+        "number": "5",
+        "height": "6'4\"",
+        "weight": "195 lbs",
+        "class_year": "Sr."
+    },
+    {
+        "name": "Hermann Koffi",
+        "position": "Guard",
+        "number": "10",
+        "height": "6'4\"",
+        "weight": "203 lbs",
+        "class_year": "So."
+    },
+    {
+        "name": "Ridvan Tutic",
+        "position": "Center",
+        "number": "11",
+        "height": "6'11\"",
+        "weight": "245 lbs",
+        "class_year": "Jr."
+    },
+    {
+        "name": "Eino Montin",
+        "position": "Guard",
+        "number": "12",
+        "height": "6'1\"",
+        "weight": "180 lbs",
+        "class_year": "Jr."
+    },
+    {
+        "name": "Raymond Espinal-Guzman",
+        "position": "Forward",
+        "number": "13",
+        "height": "6'8\"",
+        "weight": "220 lbs",
+        "class_year": "Gr."
+    },
+    {
+        "name": "Norbu Jenpa",
+        "position": "Guard",
+        "number": "15",
+        "height": "6'4\"",
+        "weight": "180 lbs",
+        "class_year": "Fr."
+    },
+    {
+        "name": "Cory Lovell",
+        "position": "Forward",
+        "number": "20",
+        "height": "6'9\"",
+        "weight": "209 lbs",
+        "class_year": "Jr."
+    },
+    {
+        "name": "Colin Byrne",
+        "position": "Guard",
+        "number": "21",
+        "height": "6'3\"",
+        "weight": "170 lbs",
+        "class_year": "Fr."
+    },
+    {
+        "name": "Charlie Diamantis",
+        "position": "Guard",
+        "number": "22",
+        "height": "6'3\"",
+        "weight": "190 lbs",
+        "class_year": "Sr."
+    },
+    {
+        "name": "Anthony Holden",
+        "position": "Guard",
+        "number": "30",
+        "height": "6'5\"",
+        "weight": "185 lbs",
+        "class_year": "Gr."
+    },
+    {
+        "name": "Pearse McGuinn",
+        "position": "Forward",
+        "number": "31",
+        "height": "6'8\"",
+        "weight": "205 lbs",
+        "class_year": "So."
+    },
+    {
+        "name": "Ethan Meuser",
+        "position": "Forward",
+        "number": "33",
+        "height": "6'8\"",
+        "weight": "205 lbs",
+        "class_year": "Sr."
+    }
+]

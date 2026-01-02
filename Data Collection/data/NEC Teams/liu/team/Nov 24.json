@@ -1,0 +1,42 @@
+{
+    "stats": {
+        "fgm": "29",
+        "fga": "48",
+        "fgm3": "6",
+        "fga3": "15",
+        "ftm": "11",
+        "fta": "18",
+        "pts": "75",
+        "oreb": "9",
+        "dreb": "24",
+        "treb": "33",
+        "ast": "10",
+        "stl": "5",
+        "blk": "6",
+        "to": "13",
+        "pf": "16",
+        "min": "200",
+        "fgpt": "60.4",
+        "fgpt3": "40.0",
+        "ftpt": "61.1",
+        "fgppg": "60.4",
+        "fgmpg": "29.0",
+        "fgapg": "48.0",
+        "ptspg": "75.0",
+        "tposs": "0.000",
+        "qp": "0.0"
+    },
+    "eventDateFormatted": "Nov 24",
+    "boxScoreLink": "5228.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "LIU",
+                "result": "75",
+                "winner": false
+            }
+        ],
+        "status": "Final",
+        "sport": "Basketball"
+    }
+}

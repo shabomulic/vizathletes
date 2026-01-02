@@ -1,0 +1,42 @@
+{
+    "stats": {
+        "fgm": "33",
+        "fga": "55",
+        "fgm3": "10",
+        "fga3": "21",
+        "ftm": "8",
+        "fta": "11",
+        "pts": "84",
+        "oreb": "6",
+        "dreb": "25",
+        "treb": "31",
+        "ast": "14",
+        "stl": "7",
+        "blk": "6",
+        "to": "12",
+        "pf": "18",
+        "min": "",
+        "fgpt": "60.0",
+        "fgpt3": "47.6",
+        "ftpt": "72.7",
+        "fgppg": "60.0",
+        "fgmpg": "33.0",
+        "fgapg": "55.0",
+        "ptspg": "84.0",
+        "tposs": "0.000",
+        "qp": "0.0"
+    },
+    "eventDateFormatted": "Sat. 13 Final",
+    "boxScoreLink": "20251213_59mn.xml.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Central Connecticut",
+                "result": "84",
+                "winner": false
+            }
+        ],
+        "status": "Final",
+        "sport": "Basketball"
+    }
+}

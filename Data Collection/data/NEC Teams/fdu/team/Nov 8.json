@@ -1,0 +1,42 @@
+{
+    "stats": {
+        "fgm": "29",
+        "fga": "57",
+        "fgm3": "14",
+        "fga3": "31",
+        "ftm": "11",
+        "fta": "20",
+        "pts": "83",
+        "oreb": "11",
+        "dreb": "23",
+        "treb": "34",
+        "ast": "17",
+        "stl": "4",
+        "blk": "1",
+        "to": "18",
+        "pf": "22",
+        "min": "200",
+        "fgpt": "50.9",
+        "fgpt3": "45.2",
+        "ftpt": "55.0",
+        "fgppg": "50.9",
+        "fgmpg": "29.0",
+        "fgapg": "57.0",
+        "ptspg": "83.0",
+        "tposs": "0.000",
+        "qp": "0.0"
+    },
+    "eventDateFormatted": "Nov 8",
+    "boxScoreLink": "12721.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "FDU",
+                "result": "83",
+                "winner": false
+            }
+        ],
+        "status": "Final",
+        "sport": "Basketball"
+    }
+}

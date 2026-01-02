@@ -1,0 +1,42 @@
+{
+    "stats": {
+        "fgm": "20",
+        "fga": "50",
+        "fgm3": "2",
+        "fga3": "11",
+        "ftm": "12",
+        "fta": "15",
+        "pts": "54",
+        "oreb": "8",
+        "dreb": "14",
+        "treb": "22",
+        "ast": "7",
+        "stl": "5",
+        "blk": "1",
+        "to": "11",
+        "pf": "21",
+        "min": "200",
+        "fgpt": "40.0",
+        "fgpt3": "18.2",
+        "ftpt": "80.0",
+        "fgppg": "40.0",
+        "fgmpg": "20.0",
+        "fgapg": "50.0",
+        "ptspg": "54.0",
+        "tposs": "0.000",
+        "qp": "0.0"
+    },
+    "eventDateFormatted": "Nov 20",
+    "boxScoreLink": "7626.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Chicago State",
+                "result": "54",
+                "winner": false
+            }
+        ],
+        "status": "Final",
+        "sport": "Basketball"
+    }
+}
