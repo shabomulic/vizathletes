@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Jan 20",
+    "boxScoreLink": "20260120_kjw6.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Passaic County Community College",
+                "result": "",
+                "teamId": "5m7q66nubdu025ts",
+                "winner": false,
+                "cleanName": "passaic county community col"
+            },
+            {
+                "name": "Luzerne County Community College",
+                "result": "",
+                "teamId": "rgvrxgnixu46wni1",
+                "winner": false,
+                "cleanName": "luzerne county community col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1768946400000,
+        "localTimeZone": "America/New_York",
+        "tba": false,
+        "home": true,
+        "overall": true,
+        "conference": true,
+        "division": false,
+        "regional": false,
+        "national": true,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "kjw6hiee4q1e3pz7",
+        "fastdate": 1768946400000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "521 Trailblazer Drive",
+        "city": "Nanticoke",
+        "stateCountry": "PA",
+        "zipCode": "18634",
+        "venue": "James T. Atherton Gymnasium",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Passaic County Community College",
+            "result": "",
+            "teamId": "5m7q66nubdu025ts",
+            "winner": false,
+            "cleanName": "passaic county community col"
+        },
+        "us": {
+            "name": "Luzerne County Community College",
+            "result": "",
+            "teamId": "rgvrxgnixu46wni1",
+            "winner": false,
+            "cleanName": "luzerne county community col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "January 20 05:00 PM:"
+}

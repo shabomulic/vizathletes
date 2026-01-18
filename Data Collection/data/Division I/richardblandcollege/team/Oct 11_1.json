@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Oct 11",
+    "boxScoreLink": "20251011_2zkj.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Hillsborough Community College",
+                "result": "",
+                "teamId": "z9w8cxebhu3gftoj",
+                "winner": false,
+                "cleanName": "hillsborough community col"
+            },
+            {
+                "name": "Richard Bland College",
+                "result": "",
+                "teamId": "wwjd9rxorfx5txz6",
+                "winner": false,
+                "cleanName": "richard bland col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "2025 All-American Jamboree",
+        "date": 1760207100000,
+        "localTimeZone": "America/New_York",
+        "tba": false,
+        "home": true,
+        "overall": false,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "The Big House, Tavares, FL / Court 5",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "2zkjeq6qj5kqeu9w",
+        "fastdate": 1760207100000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "Tavares",
+        "stateCountry": "Florida",
+        "zipCode": "32778",
+        "venue": "The Big House, Tavares, FL",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "scrimmage",
+            "description": "Scrimmage",
+            "statsCount": false
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Hillsborough Community College",
+            "result": "",
+            "teamId": "z9w8cxebhu3gftoj",
+            "winner": false,
+            "cleanName": "hillsborough community col"
+        },
+        "us": {
+            "name": "Richard Bland College",
+            "result": "",
+            "teamId": "wwjd9rxorfx5txz6",
+            "winner": false,
+            "cleanName": "richard bland col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "October 11 02:25 PM:"
+}

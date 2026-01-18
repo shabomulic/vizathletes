@@ -54,12 +54,12 @@
     "careerId": null,
     "rank": null,
     "eventCount": 0,
-    "lastUpdated": 1765984607000,
-    "position": "",
-    "positionAbbreviation": "",
+    "lastUpdated": 1768707071000,
+    "position": "F",
+    "positionAbbreviation": "F",
     "positionCode": null,
     "dataMap": {},
-    "uniform": "G",
+    "uniform": "23",
     "year": "Freshman",
     "playerStatus": {
         "enumCode": 1,
@@ -75,10 +75,10 @@
             "defaultValue": 0,
             "mutable": false,
             "componentType": false,
+            "collectionType": false,
             "entityType": false,
             "associationType": false,
             "xmlelement": false,
-            "collectionType": false,
             "anyType": false
         },
         "mutable": false

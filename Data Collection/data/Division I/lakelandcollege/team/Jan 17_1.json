@@ -1,0 +1,161 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Jan 17",
+    "boxScoreLink": "20260117_i9gs.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Southwestern Illinois College",
+                "result": "74",
+                "teamId": "t093fqpr0qktqr15",
+                "winner": false,
+                "cleanName": "southwestern illinois col"
+            },
+            {
+                "name": "Lake Land College",
+                "result": "75",
+                "teamId": "up8htjrx7rbz71qw",
+                "winner": false,
+                "cleanName": "lake land col"
+            }
+        ],
+        "status": "Final",
+        "notes": "",
+        "notesShared": "",
+        "date": 1768680000000,
+        "localTimeZone": "America/Chicago",
+        "tba": false,
+        "home": true,
+        "overall": true,
+        "conference": true,
+        "division": true,
+        "regional": true,
+        "national": true,
+        "inProgress": false,
+        "statusCode": 0,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "i9gsjpz8rkkwcnp5",
+        "fastdate": 1768680000000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "conferenceResult": "75-74",
+        "resultAsObject": {
+            "results": [
+                74,
+                75
+            ],
+            "winner": {
+                "name": "Lake Land College",
+                "result": "75",
+                "teamId": "up8htjrx7rbz71qw",
+                "winner": false,
+                "cleanName": "lake land col"
+            },
+            "loser": {
+                "name": "Southwestern Illinois College",
+                "result": "74",
+                "teamId": "t093fqpr0qktqr15",
+                "winner": false,
+                "cleanName": "southwestern illinois col"
+            },
+            "resolved": true,
+            "hasScores": true,
+            "description": "Win",
+            "score": "75-74",
+            "numericResults": [
+                75,
+                74
+            ],
+            "winnerLoser": "75-74",
+            "descriptionShortWithOT": "W"
+        },
+        "opponent": {
+            "name": "Southwestern Illinois College",
+            "result": "74",
+            "teamId": "t093fqpr0qktqr15",
+            "winner": false,
+            "cleanName": "southwestern illinois col"
+        },
+        "us": {
+            "name": "Lake Land College",
+            "result": "75",
+            "teamId": "up8htjrx7rbz71qw",
+            "winner": false,
+            "cleanName": "lake land col"
+        },
+        "winner": {
+            "name": "Lake Land College",
+            "result": "75",
+            "teamId": "up8htjrx7rbz71qw",
+            "winner": false,
+            "cleanName": "lake land col"
+        },
+        "loser": {
+            "name": "Southwestern Illinois College",
+            "result": "74",
+            "teamId": "t093fqpr0qktqr15",
+            "winner": false,
+            "cleanName": "southwestern illinois col"
+        },
+        "apresult": "W, 75-74",
+        "ap2Result": "W, 75-74",
+        "result": {
+            "results": [
+                74,
+                75
+            ],
+            "winner": {
+                "name": "Lake Land College",
+                "result": "75",
+                "teamId": "up8htjrx7rbz71qw",
+                "winner": false,
+                "cleanName": "lake land col"
+            },
+            "loser": {
+                "name": "Southwestern Illinois College",
+                "result": "74",
+                "teamId": "t093fqpr0qktqr15",
+                "winner": false,
+                "cleanName": "southwestern illinois col"
+            },
+            "resolved": true,
+            "hasScores": true,
+            "description": "Win",
+            "score": "75-74",
+            "numericResults": [
+                75,
+                74
+            ],
+            "winnerLoser": "75-74",
+            "descriptionShortWithOT": "W"
+        }
+    },
+    "eventDateFormattedAriaLabel": "January 17 03:00 PM:"
+}

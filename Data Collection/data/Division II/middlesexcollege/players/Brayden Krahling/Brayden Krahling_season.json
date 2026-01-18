@@ -54,7 +54,7 @@
     "careerId": null,
     "rank": null,
     "eventCount": 0,
-    "lastUpdated": 1766373841000,
+    "lastUpdated": 1768437825000,
     "position": "Guard",
     "positionAbbreviation": "G",
     "positionCode": null,
@@ -76,9 +76,9 @@
             "mutable": false,
             "componentType": false,
             "collectionType": false,
-            "entityType": false,
             "associationType": false,
             "xmlelement": false,
+            "entityType": false,
             "anyType": false
         },
         "mutable": false

@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Oct 29",
+    "boxScoreLink": "20251029_4h5j.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "SUNY Geneseo",
+                "result": "",
+                "teamId": "h0rfm2r9jncxhcrm",
+                "winner": false,
+                "cleanName": "suny geneseo"
+            },
+            {
+                "name": "Genesee Community College",
+                "result": "",
+                "teamId": "bybza82r0azpxwul",
+                "winner": false,
+                "cleanName": "genesee community col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1761782400000,
+        "localTimeZone": "America/New_York",
+        "tba": false,
+        "home": true,
+        "overall": false,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "4h5jl8py2bmwlaj5",
+        "fastdate": 1761782400000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "scrimmage",
+            "description": "Scrimmage",
+            "statsCount": false
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "SUNY Geneseo",
+            "result": "",
+            "teamId": "h0rfm2r9jncxhcrm",
+            "winner": false,
+            "cleanName": "suny geneseo"
+        },
+        "us": {
+            "name": "Genesee Community College",
+            "result": "",
+            "teamId": "bybza82r0azpxwul",
+            "winner": false,
+            "cleanName": "genesee community col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "October 29 08:00 PM:"
+}

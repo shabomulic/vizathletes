@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Oct 19",
+    "boxScoreLink": "20251019_xlx0.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Olney Central College",
+                "result": "",
+                "teamId": "5wooh3aknt0ebu5g",
+                "winner": false,
+                "cleanName": "olney central col"
+            },
+            {
+                "name": "Danville Area Community College",
+                "result": "",
+                "teamId": "bp27mfuj2u9zcxf2",
+                "winner": false,
+                "cleanName": "danville area community col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1760889600000,
+        "localTimeZone": "America/Chicago",
+        "tba": false,
+        "home": false,
+        "overall": false,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "xlx0km6tsl1i32bo",
+        "fastdate": 1760889600000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "DACC Jamboree",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "scrimmage",
+            "description": "Scrimmage",
+            "statsCount": false
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Danville Area Community College",
+            "result": "",
+            "teamId": "bp27mfuj2u9zcxf2",
+            "winner": false,
+            "cleanName": "danville area community col"
+        },
+        "us": {
+            "name": "Olney Central College",
+            "result": "",
+            "teamId": "5wooh3aknt0ebu5g",
+            "winner": false,
+            "cleanName": "olney central col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "October 19 12:00 PM:"
+}

@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Mar 4",
+    "boxScoreLink": "20260304_f3yw.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "East Georgia State College",
+                "result": "",
+                "teamId": "sbzuzbq7k5ksg35v",
+                "winner": false,
+                "cleanName": "e georgia st col"
+            },
+            {
+                "name": "Southern Crescent Technical College",
+                "result": "",
+                "teamId": "rl1w3b90qw3em41k",
+                "winner": false,
+                "cleanName": "s crescent technical col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1772670600000,
+        "localTimeZone": "America/New_York",
+        "tba": false,
+        "home": true,
+        "overall": true,
+        "conference": true,
+        "division": false,
+        "regional": false,
+        "national": true,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "f3ywls8tzsozdqz2",
+        "fastdate": 1772670600000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "East Georgia State College",
+            "result": "",
+            "teamId": "sbzuzbq7k5ksg35v",
+            "winner": false,
+            "cleanName": "e georgia st col"
+        },
+        "us": {
+            "name": "Southern Crescent Technical College",
+            "result": "",
+            "teamId": "rl1w3b90qw3em41k",
+            "winner": false,
+            "cleanName": "s crescent technical col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "March 4 07:30 PM:"
+}

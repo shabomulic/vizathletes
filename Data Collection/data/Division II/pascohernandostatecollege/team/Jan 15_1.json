@@ -1,0 +1,161 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Jan 15",
+    "boxScoreLink": "20260115_ldb3.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Trinity College",
+                "result": "78",
+                "teamId": "j2jp6z30j689v1sp",
+                "winner": false,
+                "cleanName": "trinity col"
+            },
+            {
+                "name": "Pasco-Hernando State College",
+                "result": "99",
+                "teamId": "df666ycmf91sxhs8",
+                "winner": false,
+                "cleanName": "pasco hernando st col"
+            }
+        ],
+        "status": "Final",
+        "notes": "",
+        "notesShared": "",
+        "date": 1768518000000,
+        "localTimeZone": "America/New_York",
+        "tba": false,
+        "home": true,
+        "overall": true,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": 0,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "ldb35of08wyrablt",
+        "fastdate": 1768518000000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "conferenceResult": "99-78",
+        "resultAsObject": {
+            "results": [
+                78,
+                99
+            ],
+            "winner": {
+                "name": "Pasco-Hernando State College",
+                "result": "99",
+                "teamId": "df666ycmf91sxhs8",
+                "winner": false,
+                "cleanName": "pasco hernando st col"
+            },
+            "loser": {
+                "name": "Trinity College",
+                "result": "78",
+                "teamId": "j2jp6z30j689v1sp",
+                "winner": false,
+                "cleanName": "trinity col"
+            },
+            "resolved": true,
+            "hasScores": true,
+            "description": "Win",
+            "score": "99-78",
+            "numericResults": [
+                99,
+                78
+            ],
+            "winnerLoser": "99-78",
+            "descriptionShortWithOT": "W"
+        },
+        "opponent": {
+            "name": "Trinity College",
+            "result": "78",
+            "teamId": "j2jp6z30j689v1sp",
+            "winner": false,
+            "cleanName": "trinity col"
+        },
+        "us": {
+            "name": "Pasco-Hernando State College",
+            "result": "99",
+            "teamId": "df666ycmf91sxhs8",
+            "winner": false,
+            "cleanName": "pasco hernando st col"
+        },
+        "winner": {
+            "name": "Pasco-Hernando State College",
+            "result": "99",
+            "teamId": "df666ycmf91sxhs8",
+            "winner": false,
+            "cleanName": "pasco hernando st col"
+        },
+        "loser": {
+            "name": "Trinity College",
+            "result": "78",
+            "teamId": "j2jp6z30j689v1sp",
+            "winner": false,
+            "cleanName": "trinity col"
+        },
+        "apresult": "W, 99-78",
+        "ap2Result": "W, 99-78",
+        "result": {
+            "results": [
+                78,
+                99
+            ],
+            "winner": {
+                "name": "Pasco-Hernando State College",
+                "result": "99",
+                "teamId": "df666ycmf91sxhs8",
+                "winner": false,
+                "cleanName": "pasco hernando st col"
+            },
+            "loser": {
+                "name": "Trinity College",
+                "result": "78",
+                "teamId": "j2jp6z30j689v1sp",
+                "winner": false,
+                "cleanName": "trinity col"
+            },
+            "resolved": true,
+            "hasScores": true,
+            "description": "Win",
+            "score": "99-78",
+            "numericResults": [
+                99,
+                78
+            ],
+            "winnerLoser": "99-78",
+            "descriptionShortWithOT": "W"
+        }
+    },
+    "eventDateFormattedAriaLabel": "January 15 06:00 PM:"
+}

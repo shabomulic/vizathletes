@@ -1,0 +1,161 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Jan 17",
+    "boxScoreLink": "20260117_h5hc.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "St. Petersburg College",
+                "result": "72",
+                "teamId": "53xskjgfccwbdmfx",
+                "winner": false,
+                "cleanName": "st petersburg col"
+            },
+            {
+                "name": "Florida State College at Jacksonville",
+                "result": "68",
+                "teamId": "x5jb43ul4diaisfi",
+                "winner": false,
+                "cleanName": "florida st col at jacksonville"
+            }
+        ],
+        "status": "Final - OT",
+        "notes": "",
+        "notesShared": "",
+        "date": 1768676400000,
+        "localTimeZone": "America/New_York",
+        "tba": false,
+        "home": true,
+        "overall": true,
+        "conference": false,
+        "division": false,
+        "regional": true,
+        "national": true,
+        "inProgress": false,
+        "statusCode": 1,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "h5hcug3b9uzl4zki",
+        "fastdate": 1768676400000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "resultAsObject": {
+            "results": [
+                72,
+                68
+            ],
+            "winner": {
+                "name": "St. Petersburg College",
+                "result": "72",
+                "teamId": "53xskjgfccwbdmfx",
+                "winner": false,
+                "cleanName": "st petersburg col"
+            },
+            "loser": {
+                "name": "Florida State College at Jacksonville",
+                "result": "68",
+                "teamId": "x5jb43ul4diaisfi",
+                "winner": false,
+                "cleanName": "florida st col at jacksonville"
+            },
+            "resolved": true,
+            "hasScores": true,
+            "description": "Loss",
+            "score": "68-72",
+            "numericResults": [
+                68,
+                72
+            ],
+            "winnerLoser": "72-68",
+            "descriptionShortWithOT": "LOT"
+        },
+        "opponent": {
+            "name": "St. Petersburg College",
+            "result": "72",
+            "teamId": "53xskjgfccwbdmfx",
+            "winner": false,
+            "cleanName": "st petersburg col"
+        },
+        "us": {
+            "name": "Florida State College at Jacksonville",
+            "result": "68",
+            "teamId": "x5jb43ul4diaisfi",
+            "winner": false,
+            "cleanName": "florida st col at jacksonville"
+        },
+        "winner": {
+            "name": "St. Petersburg College",
+            "result": "72",
+            "teamId": "53xskjgfccwbdmfx",
+            "winner": false,
+            "cleanName": "st petersburg col"
+        },
+        "loser": {
+            "name": "Florida State College at Jacksonville",
+            "result": "68",
+            "teamId": "x5jb43ul4diaisfi",
+            "winner": false,
+            "cleanName": "florida st col at jacksonville"
+        },
+        "apresult": "L, 72-68",
+        "ap2Result": "L, 68-72",
+        "conferenceResult": "68-72",
+        "result": {
+            "results": [
+                72,
+                68
+            ],
+            "winner": {
+                "name": "St. Petersburg College",
+                "result": "72",
+                "teamId": "53xskjgfccwbdmfx",
+                "winner": false,
+                "cleanName": "st petersburg col"
+            },
+            "loser": {
+                "name": "Florida State College at Jacksonville",
+                "result": "68",
+                "teamId": "x5jb43ul4diaisfi",
+                "winner": false,
+                "cleanName": "florida st col at jacksonville"
+            },
+            "resolved": true,
+            "hasScores": true,
+            "description": "Loss",
+            "score": "68-72",
+            "numericResults": [
+                68,
+                72
+            ],
+            "winnerLoser": "72-68",
+            "descriptionShortWithOT": "LOT"
+        }
+    },
+    "eventDateFormattedAriaLabel": "January 17 02:00 PM:"
+}

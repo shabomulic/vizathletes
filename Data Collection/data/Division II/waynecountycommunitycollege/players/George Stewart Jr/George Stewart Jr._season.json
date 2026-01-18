@@ -174,7 +174,7 @@
     "careerId": null,
     "rank": null,
     "eventCount": 5,
-    "lastUpdated": 1766071469000,
+    "lastUpdated": 1768688211000,
     "position": "G",
     "positionAbbreviation": null,
     "positionCode": "G0SO",
@@ -187,10 +187,10 @@
     "uniform": "10",
     "year": "So",
     "playerStatus": {
-        "enumCode": 1,
-        "abbr": "A",
-        "statusName": "Active",
-        "active": true,
+        "enumCode": 0,
+        "abbr": "I",
+        "statusName": "Inactive",
+        "active": false,
         "interceptFieldCallback": null,
         "nullableType": {
             "comparator": {},
@@ -208,7 +208,7 @@
         },
         "mutable": false
     },
-    "active": true,
+    "active": false,
     "fullName": "George Stewart Jr.",
     "minCalcStats": {
         "fgppm": true,

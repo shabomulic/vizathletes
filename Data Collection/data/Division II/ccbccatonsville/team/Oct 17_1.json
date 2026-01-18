@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Oct 17",
+    "boxScoreLink": "20251017_pvog.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Alumni",
+                "result": "",
+                "teamId": "lts1l9m5hig7lj44",
+                "winner": false,
+                "cleanName": "alumni"
+            },
+            {
+                "name": "CCBC Catonsville",
+                "result": "",
+                "teamId": "mbhu3rvpbgorzyuu",
+                "winner": false,
+                "cleanName": "ccbc catonsville"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "Alumni Game",
+        "date": 1760742000000,
+        "localTimeZone": "America/New_York",
+        "tba": false,
+        "home": true,
+        "overall": false,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "pvogt7je4y0nveub",
+        "fastdate": 1760742000000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "scrimmage",
+            "description": "Scrimmage",
+            "statsCount": false
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Alumni",
+            "result": "",
+            "teamId": "lts1l9m5hig7lj44",
+            "winner": false,
+            "cleanName": "alumni"
+        },
+        "us": {
+            "name": "CCBC Catonsville",
+            "result": "",
+            "teamId": "mbhu3rvpbgorzyuu",
+            "winner": false,
+            "cleanName": "ccbc catonsville"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "October 17 07:00 PM:"
+}

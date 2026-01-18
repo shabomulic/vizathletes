@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Oct 27",
+    "boxScoreLink": "20251027_dxml.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Syracuse Club",
+                "result": "",
+                "teamId": "6yvionqmgfeppca4",
+                "winner": false,
+                "cleanName": "syracuse club"
+            },
+            {
+                "name": "Cayuga Community College",
+                "result": "",
+                "teamId": "0h9t31uhi7lmn3st",
+                "winner": false,
+                "cleanName": "cayuga community col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "Scrimmage",
+        "date": 1761606000000,
+        "localTimeZone": "America/New_York",
+        "tba": false,
+        "home": true,
+        "overall": false,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "dxmld6shs5wt5nmc",
+        "fastdate": 1761606000000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "scrimmage",
+            "description": "Scrimmage",
+            "statsCount": false
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Syracuse Club",
+            "result": "",
+            "teamId": "6yvionqmgfeppca4",
+            "winner": false,
+            "cleanName": "syracuse club"
+        },
+        "us": {
+            "name": "Cayuga Community College",
+            "result": "",
+            "teamId": "0h9t31uhi7lmn3st",
+            "winner": false,
+            "cleanName": "cayuga community col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "October 27 07:00 PM:"
+}

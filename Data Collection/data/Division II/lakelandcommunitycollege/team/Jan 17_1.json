@@ -1,0 +1,161 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Jan 17",
+    "boxScoreLink": "20260117_nx1q.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Edison State",
+                "result": "69",
+                "teamId": "6qq5xx78mp52h1l6",
+                "winner": false,
+                "cleanName": "edison st"
+            },
+            {
+                "name": "Lakeland Community College",
+                "result": "70",
+                "teamId": "bn7iowokd59ssivc",
+                "winner": false,
+                "cleanName": "lakeland community col"
+            }
+        ],
+        "status": "Final",
+        "notes": "",
+        "notesShared": "",
+        "date": 1768665600000,
+        "localTimeZone": "America/New_York",
+        "tba": false,
+        "home": true,
+        "overall": true,
+        "conference": true,
+        "division": true,
+        "regional": true,
+        "national": true,
+        "inProgress": false,
+        "statusCode": 0,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "nx1qgh0dcg28buia",
+        "fastdate": 1768665600000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "77000 Clocktower Dr.",
+        "city": "Kirtland",
+        "stateCountry": "OH",
+        "zipCode": "45356",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "conferenceResult": "70-69",
+        "resultAsObject": {
+            "results": [
+                69,
+                70
+            ],
+            "winner": {
+                "name": "Lakeland Community College",
+                "result": "70",
+                "teamId": "bn7iowokd59ssivc",
+                "winner": false,
+                "cleanName": "lakeland community col"
+            },
+            "loser": {
+                "name": "Edison State",
+                "result": "69",
+                "teamId": "6qq5xx78mp52h1l6",
+                "winner": false,
+                "cleanName": "edison st"
+            },
+            "resolved": true,
+            "hasScores": true,
+            "description": "Win",
+            "score": "70-69",
+            "numericResults": [
+                70,
+                69
+            ],
+            "winnerLoser": "70-69",
+            "descriptionShortWithOT": "W"
+        },
+        "opponent": {
+            "name": "Edison State",
+            "result": "69",
+            "teamId": "6qq5xx78mp52h1l6",
+            "winner": false,
+            "cleanName": "edison st"
+        },
+        "us": {
+            "name": "Lakeland Community College",
+            "result": "70",
+            "teamId": "bn7iowokd59ssivc",
+            "winner": false,
+            "cleanName": "lakeland community col"
+        },
+        "winner": {
+            "name": "Lakeland Community College",
+            "result": "70",
+            "teamId": "bn7iowokd59ssivc",
+            "winner": false,
+            "cleanName": "lakeland community col"
+        },
+        "loser": {
+            "name": "Edison State",
+            "result": "69",
+            "teamId": "6qq5xx78mp52h1l6",
+            "winner": false,
+            "cleanName": "edison st"
+        },
+        "apresult": "W, 70-69",
+        "ap2Result": "W, 70-69",
+        "result": {
+            "results": [
+                69,
+                70
+            ],
+            "winner": {
+                "name": "Lakeland Community College",
+                "result": "70",
+                "teamId": "bn7iowokd59ssivc",
+                "winner": false,
+                "cleanName": "lakeland community col"
+            },
+            "loser": {
+                "name": "Edison State",
+                "result": "69",
+                "teamId": "6qq5xx78mp52h1l6",
+                "winner": false,
+                "cleanName": "edison st"
+            },
+            "resolved": true,
+            "hasScores": true,
+            "description": "Win",
+            "score": "70-69",
+            "numericResults": [
+                70,
+                69
+            ],
+            "winnerLoser": "70-69",
+            "descriptionShortWithOT": "W"
+        }
+    },
+    "eventDateFormattedAriaLabel": "January 17 11:00 AM:"
+}

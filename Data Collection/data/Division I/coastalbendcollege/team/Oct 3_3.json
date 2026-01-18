@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Oct 3",
+    "boxScoreLink": "20251003_nuo2.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Eastern Oklahoma State College",
+                "result": "",
+                "teamId": "la71zambmlz5nr9s",
+                "winner": false,
+                "cleanName": "e oklahoma st col"
+            },
+            {
+                "name": "Coastal Bend College",
+                "result": "",
+                "teamId": "q3pgetg1altljm6g",
+                "winner": false,
+                "cleanName": "coastal bend col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "OKC JuCo Jamboree | Norman, Ok",
+        "date": 1759518000000,
+        "localTimeZone": "America/Chicago",
+        "tba": false,
+        "home": true,
+        "overall": false,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "nuo254sy44ybpqac",
+        "fastdate": 1759518000000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "2201 Trae Young Dr.",
+        "city": "Norman",
+        "stateCountry": "Oklahoma",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "scrimmage",
+            "description": "Scrimmage",
+            "statsCount": false
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Eastern Oklahoma State College",
+            "result": "",
+            "teamId": "la71zambmlz5nr9s",
+            "winner": false,
+            "cleanName": "e oklahoma st col"
+        },
+        "us": {
+            "name": "Coastal Bend College",
+            "result": "",
+            "teamId": "q3pgetg1altljm6g",
+            "winner": false,
+            "cleanName": "coastal bend col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "October 3 03:00 PM:"
+}

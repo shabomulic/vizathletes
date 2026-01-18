@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Jan 31",
+    "boxScoreLink": "20260131_2ib7.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "North Idaho College",
+                "result": "",
+                "teamId": "rr90e67vq94uqti6",
+                "winner": false,
+                "cleanName": "n idaho col"
+            },
+            {
+                "name": "Utah State Eastern",
+                "result": "",
+                "teamId": "ftzybqiyqvufvtbe",
+                "winner": false,
+                "cleanName": "utah st e"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1769889600000,
+        "localTimeZone": "America/Denver",
+        "tba": false,
+        "home": true,
+        "overall": true,
+        "conference": true,
+        "division": false,
+        "regional": true,
+        "national": true,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "2ib7mtuegk9stuy8",
+        "fastdate": 1769889600000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "North Idaho College",
+            "result": "",
+            "teamId": "rr90e67vq94uqti6",
+            "winner": false,
+            "cleanName": "n idaho col"
+        },
+        "us": {
+            "name": "Utah State Eastern",
+            "result": "",
+            "teamId": "ftzybqiyqvufvtbe",
+            "winner": false,
+            "cleanName": "utah st e"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "January 31 03:00 PM:"
+}

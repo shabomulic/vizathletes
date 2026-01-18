@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Jan 19",
+    "boxScoreLink": "20260119_6jn5.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Chesapeake College",
+                "result": "",
+                "teamId": "zifzsqll57v7qv80",
+                "winner": false,
+                "cleanName": "chesapeake col"
+            },
+            {
+                "name": "Lancaster Bible College JV",
+                "result": "",
+                "teamId": "03ozkq14yj1hbiob",
+                "winner": false,
+                "cleanName": "lancaster bible col jv"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1768863600000,
+        "localTimeZone": "America/New_York",
+        "tba": false,
+        "home": false,
+        "overall": true,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "6jn5696mxh2w0602",
+        "fastdate": 1768863600000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "ap2Result": "",
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Lancaster Bible College JV",
+            "result": "",
+            "teamId": "03ozkq14yj1hbiob",
+            "winner": false,
+            "cleanName": "lancaster bible col jv"
+        },
+        "us": {
+            "name": "Chesapeake College",
+            "result": "",
+            "teamId": "zifzsqll57v7qv80",
+            "winner": false,
+            "cleanName": "chesapeake col"
+        },
+        "apresult": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "January 19 06:00 PM:"
+}

@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Oct 10",
+    "boxScoreLink": "20251010_pjfl.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Lewis & Clark Community College",
+                "result": "",
+                "teamId": "zulxsmdd5drv096f",
+                "winner": false,
+                "cleanName": "lewis clark community col"
+            },
+            {
+                "name": "Northeastern Oklahoma A&M College",
+                "result": "",
+                "teamId": "2a8trnczl9r1ywx5",
+                "winner": false,
+                "cleanName": "northeastern oklahoma a m col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1760104800000,
+        "localTimeZone": "America/Chicago",
+        "tba": false,
+        "home": true,
+        "overall": false,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "Yes",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "pjfl9xgd5pjwzzbs",
+        "fastdate": 1760104800000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "scrimmage",
+            "description": "Scrimmage",
+            "statsCount": false
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Lewis & Clark Community College",
+            "result": "",
+            "teamId": "zulxsmdd5drv096f",
+            "winner": false,
+            "cleanName": "lewis clark community col"
+        },
+        "us": {
+            "name": "Northeastern Oklahoma A&M College",
+            "result": "",
+            "teamId": "2a8trnczl9r1ywx5",
+            "winner": false,
+            "cleanName": "northeastern oklahoma a m col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "October 10 10:00 AM:"
+}

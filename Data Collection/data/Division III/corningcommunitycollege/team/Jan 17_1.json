@@ -1,0 +1,161 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Jan 17",
+    "boxScoreLink": "20260117_kj99.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Corning Community College",
+                "result": "76",
+                "teamId": "h0os16gyp0brrdas",
+                "winner": false,
+                "cleanName": "corning community col"
+            },
+            {
+                "name": "Mohawk Valley Community College",
+                "result": "99",
+                "teamId": "e0wdwueipq5hwrdz",
+                "winner": false,
+                "cleanName": "mohawk valley community col"
+            }
+        ],
+        "status": "Final",
+        "notes": "",
+        "notesShared": "",
+        "date": 1768669200000,
+        "localTimeZone": "America/New_York",
+        "tba": false,
+        "home": false,
+        "overall": true,
+        "conference": false,
+        "division": true,
+        "regional": true,
+        "national": true,
+        "inProgress": false,
+        "statusCode": 0,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "kj9958bqnc01qc3t",
+        "fastdate": 1768669200000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "conferenceResult": "76-99",
+        "resultAsObject": {
+            "results": [
+                76,
+                99
+            ],
+            "winner": {
+                "name": "Mohawk Valley Community College",
+                "result": "99",
+                "teamId": "e0wdwueipq5hwrdz",
+                "winner": false,
+                "cleanName": "mohawk valley community col"
+            },
+            "loser": {
+                "name": "Corning Community College",
+                "result": "76",
+                "teamId": "h0os16gyp0brrdas",
+                "winner": false,
+                "cleanName": "corning community col"
+            },
+            "resolved": true,
+            "hasScores": true,
+            "description": "Loss",
+            "score": "76-99",
+            "numericResults": [
+                76,
+                99
+            ],
+            "winnerLoser": "99-76",
+            "descriptionShortWithOT": "L"
+        },
+        "opponent": {
+            "name": "Mohawk Valley Community College",
+            "result": "99",
+            "teamId": "e0wdwueipq5hwrdz",
+            "winner": false,
+            "cleanName": "mohawk valley community col"
+        },
+        "us": {
+            "name": "Corning Community College",
+            "result": "76",
+            "teamId": "h0os16gyp0brrdas",
+            "winner": false,
+            "cleanName": "corning community col"
+        },
+        "winner": {
+            "name": "Mohawk Valley Community College",
+            "result": "99",
+            "teamId": "e0wdwueipq5hwrdz",
+            "winner": false,
+            "cleanName": "mohawk valley community col"
+        },
+        "loser": {
+            "name": "Corning Community College",
+            "result": "76",
+            "teamId": "h0os16gyp0brrdas",
+            "winner": false,
+            "cleanName": "corning community col"
+        },
+        "apresult": "L, 99-76",
+        "ap2Result": "L, 76-99",
+        "result": {
+            "results": [
+                76,
+                99
+            ],
+            "winner": {
+                "name": "Mohawk Valley Community College",
+                "result": "99",
+                "teamId": "e0wdwueipq5hwrdz",
+                "winner": false,
+                "cleanName": "mohawk valley community col"
+            },
+            "loser": {
+                "name": "Corning Community College",
+                "result": "76",
+                "teamId": "h0os16gyp0brrdas",
+                "winner": false,
+                "cleanName": "corning community col"
+            },
+            "resolved": true,
+            "hasScores": true,
+            "description": "Loss",
+            "score": "76-99",
+            "numericResults": [
+                76,
+                99
+            ],
+            "winnerLoser": "99-76",
+            "descriptionShortWithOT": "L"
+        }
+    },
+    "eventDateFormattedAriaLabel": "January 17 12:00 PM:"
+}

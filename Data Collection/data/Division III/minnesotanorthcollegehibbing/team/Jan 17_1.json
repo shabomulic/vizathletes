@@ -1,0 +1,161 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Jan 17",
+    "boxScoreLink": "20260117_648h.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Minnesota North College-Mesabi Range",
+                "result": "67",
+                "teamId": "c694p25xgf90bguw",
+                "winner": false,
+                "cleanName": "minn n col mesabi range"
+            },
+            {
+                "name": "Minnesota North College-Hibbing",
+                "result": "83",
+                "teamId": "e79tyvkl3pr6tlqn",
+                "winner": false,
+                "cleanName": "minn n col hibbing"
+            }
+        ],
+        "status": "Final",
+        "notes": "",
+        "notesShared": "",
+        "date": 1768680000000,
+        "localTimeZone": "America/Chicago",
+        "tba": false,
+        "home": true,
+        "overall": true,
+        "conference": true,
+        "division": true,
+        "regional": true,
+        "national": true,
+        "inProgress": false,
+        "statusCode": 0,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "648hpzmyxdbos1q8",
+        "fastdate": 1768680000000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "conferenceResult": "83-67",
+        "resultAsObject": {
+            "results": [
+                67,
+                83
+            ],
+            "winner": {
+                "name": "Minnesota North College-Hibbing",
+                "result": "83",
+                "teamId": "e79tyvkl3pr6tlqn",
+                "winner": false,
+                "cleanName": "minn n col hibbing"
+            },
+            "loser": {
+                "name": "Minnesota North College-Mesabi Range",
+                "result": "67",
+                "teamId": "c694p25xgf90bguw",
+                "winner": false,
+                "cleanName": "minn n col mesabi range"
+            },
+            "resolved": true,
+            "hasScores": true,
+            "description": "Win",
+            "score": "83-67",
+            "numericResults": [
+                83,
+                67
+            ],
+            "winnerLoser": "83-67",
+            "descriptionShortWithOT": "W"
+        },
+        "opponent": {
+            "name": "Minnesota North College-Mesabi Range",
+            "result": "67",
+            "teamId": "c694p25xgf90bguw",
+            "winner": false,
+            "cleanName": "minn n col mesabi range"
+        },
+        "us": {
+            "name": "Minnesota North College-Hibbing",
+            "result": "83",
+            "teamId": "e79tyvkl3pr6tlqn",
+            "winner": false,
+            "cleanName": "minn n col hibbing"
+        },
+        "winner": {
+            "name": "Minnesota North College-Hibbing",
+            "result": "83",
+            "teamId": "e79tyvkl3pr6tlqn",
+            "winner": false,
+            "cleanName": "minn n col hibbing"
+        },
+        "loser": {
+            "name": "Minnesota North College-Mesabi Range",
+            "result": "67",
+            "teamId": "c694p25xgf90bguw",
+            "winner": false,
+            "cleanName": "minn n col mesabi range"
+        },
+        "apresult": "W, 83-67",
+        "ap2Result": "W, 83-67",
+        "result": {
+            "results": [
+                67,
+                83
+            ],
+            "winner": {
+                "name": "Minnesota North College-Hibbing",
+                "result": "83",
+                "teamId": "e79tyvkl3pr6tlqn",
+                "winner": false,
+                "cleanName": "minn n col hibbing"
+            },
+            "loser": {
+                "name": "Minnesota North College-Mesabi Range",
+                "result": "67",
+                "teamId": "c694p25xgf90bguw",
+                "winner": false,
+                "cleanName": "minn n col mesabi range"
+            },
+            "resolved": true,
+            "hasScores": true,
+            "description": "Win",
+            "score": "83-67",
+            "numericResults": [
+                83,
+                67
+            ],
+            "winnerLoser": "83-67",
+            "descriptionShortWithOT": "W"
+        }
+    },
+    "eventDateFormattedAriaLabel": "January 17 03:00 PM:"
+}

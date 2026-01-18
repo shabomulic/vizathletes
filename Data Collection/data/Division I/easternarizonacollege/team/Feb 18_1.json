@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Feb 18",
+    "boxScoreLink": "20260218_qs57.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Central Arizona College",
+                "result": "",
+                "teamId": "nss1p944qsnrqsdm",
+                "winner": false,
+                "cleanName": "central arizona col"
+            },
+            {
+                "name": "Eastern Arizona College",
+                "result": "",
+                "teamId": "f0eqvc46m4chuvns",
+                "winner": false,
+                "cleanName": "e arizona col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1771461000000,
+        "localTimeZone": "America/Phoenix",
+        "tba": false,
+        "home": true,
+        "overall": true,
+        "conference": true,
+        "division": true,
+        "regional": true,
+        "national": true,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "qs57ynu5dcs44asm",
+        "fastdate": 1771461000000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "615 N. Stadium Ave.",
+        "city": "Thatcher",
+        "stateCountry": "AZ",
+        "zipCode": "85552",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Central Arizona College",
+            "result": "",
+            "teamId": "nss1p944qsnrqsdm",
+            "winner": false,
+            "cleanName": "central arizona col"
+        },
+        "us": {
+            "name": "Eastern Arizona College",
+            "result": "",
+            "teamId": "f0eqvc46m4chuvns",
+            "winner": false,
+            "cleanName": "e arizona col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "February 18 07:30 PM:"
+}

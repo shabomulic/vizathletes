@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Jan 23",
+    "boxScoreLink": "20260123_wtbz.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Community College of Rhode Island",
+                "result": "",
+                "teamId": "81gbit2ekwb6c29e",
+                "winner": false,
+                "cleanName": "community col rhode island"
+            },
+            {
+                "name": "Roxbury Community College",
+                "result": "",
+                "teamId": "fes4z27l5wxkpyir",
+                "winner": false,
+                "cleanName": "roxbury community col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1769214600000,
+        "localTimeZone": "America/New_York",
+        "tba": false,
+        "home": true,
+        "overall": true,
+        "conference": true,
+        "division": true,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "wtbzmzhq2c8a2945",
+        "fastdate": 1769214600000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Community College of Rhode Island",
+            "result": "",
+            "teamId": "81gbit2ekwb6c29e",
+            "winner": false,
+            "cleanName": "community col rhode island"
+        },
+        "us": {
+            "name": "Roxbury Community College",
+            "result": "",
+            "teamId": "fes4z27l5wxkpyir",
+            "winner": false,
+            "cleanName": "roxbury community col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "January 23 07:30 PM:"
+}

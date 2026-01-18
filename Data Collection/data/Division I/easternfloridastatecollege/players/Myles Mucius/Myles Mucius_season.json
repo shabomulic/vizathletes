@@ -54,7 +54,7 @@
     "careerId": null,
     "rank": null,
     "eventCount": 0,
-    "lastUpdated": 1765990813000,
+    "lastUpdated": 1768700788000,
     "position": "Wing",
     "positionAbbreviation": "W",
     "positionCode": null,
@@ -75,10 +75,10 @@
             "defaultValue": 0,
             "mutable": false,
             "componentType": false,
-            "entityType": false,
+            "collectionType": false,
             "associationType": false,
             "xmlelement": false,
-            "collectionType": false,
+            "entityType": false,
             "anyType": false
         },
         "mutable": false

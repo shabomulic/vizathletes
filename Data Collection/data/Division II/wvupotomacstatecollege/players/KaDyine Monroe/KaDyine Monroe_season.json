@@ -54,18 +54,18 @@
     "careerId": null,
     "rank": null,
     "eventCount": 0,
-    "lastUpdated": 1766853012000,
+    "lastUpdated": 1768440215000,
     "position": "W",
     "positionAbbreviation": "W",
     "positionCode": null,
     "dataMap": {},
-    "uniform": "2",
+    "uniform": "2A",
     "year": "Fr",
     "playerStatus": {
-        "enumCode": 1,
-        "abbr": "A",
-        "statusName": "Active",
-        "active": true,
+        "enumCode": 0,
+        "abbr": "I",
+        "statusName": "Inactive",
+        "active": false,
         "interceptFieldCallback": null,
         "nullableType": {
             "comparator": {},
@@ -83,7 +83,7 @@
         },
         "mutable": false
     },
-    "active": true,
+    "active": false,
     "fullName": "KaDyine Monroe",
     "minCalcStats": {
         "fgppm": false,

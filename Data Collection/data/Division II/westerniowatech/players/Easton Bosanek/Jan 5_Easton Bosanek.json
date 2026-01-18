@@ -1,8 +1,8 @@
 {
     "Player Name": "Easton Bosanek",
-    "MIN": "4",
-    "FGM-A": "0-2",
-    "3PM-A": "0-2",
+    "MIN": "12",
+    "FGM-A": "1-6",
+    "3PM-A": "0-4",
     "FTM-A": "0-0",
     "OREB": "0",
     "DREB": "0",
@@ -10,8 +10,8 @@
     "AST": "0",
     "STL": "0",
     "BLK": "0",
-    "TO": "0",
+    "TO": "1",
     "PF": "0",
-    "TP": "0",
+    "TP": "2",
     "eventDateFormatted": "Jan 5"
 }

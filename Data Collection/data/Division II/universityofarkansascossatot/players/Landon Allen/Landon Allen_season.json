@@ -221,7 +221,7 @@
     "careerId": null,
     "rank": null,
     "eventCount": 14,
-    "lastUpdated": 1766096708000,
+    "lastUpdated": 1768702220000,
     "position": "G/F",
     "positionAbbreviation": "G/F",
     "positionCode": null,
@@ -229,10 +229,10 @@
     "uniform": "34",
     "year": "Fr.",
     "playerStatus": {
-        "enumCode": 1,
-        "abbr": "A",
-        "statusName": "Active",
-        "active": true,
+        "enumCode": 0,
+        "abbr": "I",
+        "statusName": "Inactive",
+        "active": false,
         "interceptFieldCallback": null,
         "nullableType": {
             "comparator": {},
@@ -243,14 +243,14 @@
             "mutable": false,
             "componentType": false,
             "collectionType": false,
-            "entityType": false,
             "associationType": false,
             "xmlelement": false,
+            "entityType": false,
             "anyType": false
         },
         "mutable": false
     },
-    "active": true,
+    "active": false,
     "fullName": "Landon Allen",
     "minCalcStats": {
         "fgppm": true,

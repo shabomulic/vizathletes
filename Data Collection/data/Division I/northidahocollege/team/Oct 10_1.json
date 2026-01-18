@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Oct 10",
+    "boxScoreLink": "20251010_z9s8.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "North Idaho College",
+                "result": "",
+                "teamId": "rr90e67vq94uqti6",
+                "winner": false,
+                "cleanName": "n idaho col"
+            },
+            {
+                "name": "Paris Junior College",
+                "result": "",
+                "teamId": "jezuy39uhqi3jtgi",
+                "winner": false,
+                "cleanName": "paris junior col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "Mullens/Mitchell Jamboree",
+        "date": 1760133600000,
+        "localTimeZone": "America/Chicago",
+        "tba": false,
+        "home": false,
+        "overall": false,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": true,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "z9s8dnkifx4856pg",
+        "fastdate": 1760133600000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "2600 Alemeda St",
+        "city": "Fort Worth",
+        "stateCountry": "TX",
+        "zipCode": "76108",
+        "venue": "Game On Sports Complex",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "scrimmage",
+            "description": "Scrimmage",
+            "statsCount": false
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Paris Junior College",
+            "result": "",
+            "teamId": "jezuy39uhqi3jtgi",
+            "winner": false,
+            "cleanName": "paris junior col"
+        },
+        "us": {
+            "name": "North Idaho College",
+            "result": "",
+            "teamId": "rr90e67vq94uqti6",
+            "winner": false,
+            "cleanName": "n idaho col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "October 10 06:00 PM:"
+}

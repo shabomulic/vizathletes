@@ -231,7 +231,7 @@
     "careerId": null,
     "rank": null,
     "eventCount": 13,
-    "lastUpdated": 1766418908000,
+    "lastUpdated": 1768691336000,
     "position": "S",
     "positionAbbreviation": null,
     "positionCode": "SMFR",
@@ -257,12 +257,12 @@
             "primitiveClass": "int",
             "defaultValue": 0,
             "mutable": false,
-            "collectionType": false,
             "componentType": false,
-            "entityType": false,
+            "anyType": false,
             "associationType": false,
             "xmlelement": false,
-            "anyType": false
+            "collectionType": false,
+            "entityType": false
         },
         "mutable": false
     },

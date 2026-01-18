@@ -1,0 +1,161 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Jan 17",
+    "boxScoreLink": "20260117_bta7.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Cayuga Community College",
+                "result": "62",
+                "teamId": "0h9t31uhi7lmn3st",
+                "winner": false,
+                "cleanName": "cayuga community col"
+            },
+            {
+                "name": "Clinton Community College-NY",
+                "result": "64",
+                "teamId": "c9fd9slw2398gyeo",
+                "winner": false,
+                "cleanName": "clinton community col ny"
+            }
+        ],
+        "status": "Final",
+        "notes": "",
+        "notesShared": "",
+        "date": 1768676400000,
+        "localTimeZone": "America/New_York",
+        "tba": false,
+        "home": true,
+        "overall": true,
+        "conference": false,
+        "division": false,
+        "regional": true,
+        "national": true,
+        "inProgress": false,
+        "statusCode": 0,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "bta71e3fufa5sk1i",
+        "fastdate": 1768676400000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "conferenceResult": "64-62",
+        "resultAsObject": {
+            "results": [
+                62,
+                64
+            ],
+            "winner": {
+                "name": "Clinton Community College-NY",
+                "result": "64",
+                "teamId": "c9fd9slw2398gyeo",
+                "winner": false,
+                "cleanName": "clinton community col ny"
+            },
+            "loser": {
+                "name": "Cayuga Community College",
+                "result": "62",
+                "teamId": "0h9t31uhi7lmn3st",
+                "winner": false,
+                "cleanName": "cayuga community col"
+            },
+            "resolved": true,
+            "hasScores": true,
+            "numericResults": [
+                64,
+                62
+            ],
+            "description": "Win",
+            "score": "64-62",
+            "winnerLoser": "64-62",
+            "descriptionShortWithOT": "W"
+        },
+        "opponent": {
+            "name": "Cayuga Community College",
+            "result": "62",
+            "teamId": "0h9t31uhi7lmn3st",
+            "winner": false,
+            "cleanName": "cayuga community col"
+        },
+        "us": {
+            "name": "Clinton Community College-NY",
+            "result": "64",
+            "teamId": "c9fd9slw2398gyeo",
+            "winner": false,
+            "cleanName": "clinton community col ny"
+        },
+        "winner": {
+            "name": "Clinton Community College-NY",
+            "result": "64",
+            "teamId": "c9fd9slw2398gyeo",
+            "winner": false,
+            "cleanName": "clinton community col ny"
+        },
+        "loser": {
+            "name": "Cayuga Community College",
+            "result": "62",
+            "teamId": "0h9t31uhi7lmn3st",
+            "winner": false,
+            "cleanName": "cayuga community col"
+        },
+        "apresult": "W, 64-62",
+        "ap2Result": "W, 64-62",
+        "result": {
+            "results": [
+                62,
+                64
+            ],
+            "winner": {
+                "name": "Clinton Community College-NY",
+                "result": "64",
+                "teamId": "c9fd9slw2398gyeo",
+                "winner": false,
+                "cleanName": "clinton community col ny"
+            },
+            "loser": {
+                "name": "Cayuga Community College",
+                "result": "62",
+                "teamId": "0h9t31uhi7lmn3st",
+                "winner": false,
+                "cleanName": "cayuga community col"
+            },
+            "resolved": true,
+            "hasScores": true,
+            "numericResults": [
+                64,
+                62
+            ],
+            "description": "Win",
+            "score": "64-62",
+            "winnerLoser": "64-62",
+            "descriptionShortWithOT": "W"
+        }
+    },
+    "eventDateFormattedAriaLabel": "January 17 02:00 PM:"
+}

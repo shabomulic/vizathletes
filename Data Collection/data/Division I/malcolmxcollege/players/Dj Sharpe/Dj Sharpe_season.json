@@ -152,7 +152,7 @@
     "careerId": null,
     "rank": null,
     "eventCount": 3,
-    "lastUpdated": 1766271664000,
+    "lastUpdated": 1768718077000,
     "position": "F",
     "positionAbbreviation": null,
     "positionCode": "F002",
@@ -165,10 +165,10 @@
     "uniform": "22",
     "year": "FR",
     "playerStatus": {
-        "enumCode": 1,
-        "abbr": "A",
-        "statusName": "Active",
-        "active": true,
+        "enumCode": 0,
+        "abbr": "I",
+        "statusName": "Inactive",
+        "active": false,
         "interceptFieldCallback": null,
         "nullableType": {
             "comparator": {},
@@ -186,7 +186,7 @@
         },
         "mutable": false
     },
-    "active": true,
+    "active": false,
     "fullName": "Dj Sharpe",
     "minCalcStats": {
         "fgppm": false,

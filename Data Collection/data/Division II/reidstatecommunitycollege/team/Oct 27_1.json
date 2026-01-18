@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Oct 27",
+    "boxScoreLink": "20251027_4306.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Florida Coastal Prep",
+                "result": "",
+                "teamId": "a3frzxtu0ddt3rpw",
+                "winner": false,
+                "cleanName": "florida coastal prep"
+            },
+            {
+                "name": "Reid State Community College",
+                "result": "",
+                "teamId": "sp6agp9xh7aiv9jw",
+                "winner": false,
+                "cleanName": "reid st community col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1761602400000,
+        "localTimeZone": "America/Chicago",
+        "tba": false,
+        "home": true,
+        "overall": true,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "430681fawyt9hhx1",
+        "fastdate": 1761602400000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "111 South main street",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "Lion's Den",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "preSeason",
+            "description": "Pre-Season",
+            "statsCount": true
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Florida Coastal Prep",
+            "result": "",
+            "teamId": "a3frzxtu0ddt3rpw",
+            "winner": false,
+            "cleanName": "florida coastal prep"
+        },
+        "us": {
+            "name": "Reid State Community College",
+            "result": "",
+            "teamId": "sp6agp9xh7aiv9jw",
+            "winner": false,
+            "cleanName": "reid st community col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "October 27 06:00 PM:"
+}

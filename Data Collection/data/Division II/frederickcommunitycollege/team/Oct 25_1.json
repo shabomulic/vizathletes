@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Oct 25",
+    "boxScoreLink": "20251025_orv6.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Frederick Community College",
+                "result": "",
+                "teamId": "gxnr9fkgf8kbnu0y",
+                "winner": false,
+                "cleanName": "frederick community col"
+            },
+            {
+                "name": "Eastern Mennonite University",
+                "result": "",
+                "teamId": "jhi1vm19e1j4xiim",
+                "winner": false,
+                "cleanName": "e mennonite univ"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1761408000000,
+        "localTimeZone": "America/New_York",
+        "tba": false,
+        "home": false,
+        "overall": false,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "orv6wd1p0tupsj3r",
+        "fastdate": 1761408000000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": true,
+        "eventType": {
+            "code": "scrimmage",
+            "description": "Scrimmage",
+            "statsCount": false
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Eastern Mennonite University",
+            "result": "",
+            "teamId": "jhi1vm19e1j4xiim",
+            "winner": false,
+            "cleanName": "e mennonite univ"
+        },
+        "us": {
+            "name": "Frederick Community College",
+            "result": "",
+            "teamId": "gxnr9fkgf8kbnu0y",
+            "winner": false,
+            "cleanName": "frederick community col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "October 25 12:00 PM:"
+}

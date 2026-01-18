@@ -1,0 +1,119 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Oct 3",
+    "boxScoreLink": "20251003_ivff.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Neosho County Community College",
+                "result": "0",
+                "teamId": "6jf6p97kzwflix1y",
+                "winner": false,
+                "cleanName": "neosho county community col"
+            },
+            {
+                "name": "Dallas College Mountain View",
+                "result": "0",
+                "teamId": "3fjptjvq6tcriwu5",
+                "winner": false,
+                "cleanName": "dallas col mountain view"
+            }
+        ],
+        "status": "Final",
+        "notes": "",
+        "notesShared": "",
+        "date": 1759514400000,
+        "localTimeZone": "America/Chicago",
+        "tba": false,
+        "home": false,
+        "overall": false,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": 0,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "Trae Young Athletic field house",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "ivffdeky658areh6",
+        "fastdate": 1759514400000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "Norma Oklahoma",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "scrimmage",
+            "description": "Scrimmage",
+            "statsCount": false
+        },
+        "conferenceResult": "0-0",
+        "resultAsObject": {
+            "results": [
+                0,
+                0
+            ],
+            "resolved": true,
+            "hasScores": true,
+            "numericResults": [
+                0,
+                0
+            ],
+            "description": "Tie",
+            "score": "0-0",
+            "winnerLoser": "0-0",
+            "descriptionShortWithOT": "T"
+        },
+        "opponent": {
+            "name": "Dallas College Mountain View",
+            "result": "0",
+            "teamId": "3fjptjvq6tcriwu5",
+            "winner": false,
+            "cleanName": "dallas col mountain view"
+        },
+        "us": {
+            "name": "Neosho County Community College",
+            "result": "0",
+            "teamId": "6jf6p97kzwflix1y",
+            "winner": false,
+            "cleanName": "neosho county community col"
+        },
+        "apresult": "T, 0-0",
+        "ap2Result": "T, 0-0",
+        "result": {
+            "results": [
+                0,
+                0
+            ],
+            "resolved": true,
+            "hasScores": true,
+            "numericResults": [
+                0,
+                0
+            ],
+            "description": "Tie",
+            "score": "0-0",
+            "winnerLoser": "0-0",
+            "descriptionShortWithOT": "T"
+        }
+    },
+    "eventDateFormattedAriaLabel": "October 3 02:00 PM:"
+}

@@ -1,0 +1,161 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Jan 17",
+    "boxScoreLink": "20260117_qsn0.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Navarro College",
+                "result": "82",
+                "teamId": "5w4s85o766dapvin",
+                "winner": false,
+                "cleanName": "navarro col"
+            },
+            {
+                "name": "Paris Junior College",
+                "result": "72",
+                "teamId": "jezuy39uhqi3jtgi",
+                "winner": false,
+                "cleanName": "paris junior col"
+            }
+        ],
+        "status": "Final",
+        "notes": "",
+        "notesShared": "",
+        "date": 1768683600000,
+        "localTimeZone": "America/Chicago",
+        "tba": false,
+        "home": false,
+        "overall": true,
+        "conference": true,
+        "division": false,
+        "regional": true,
+        "national": true,
+        "inProgress": false,
+        "statusCode": 0,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "qsn0fzqamhq4f4lo",
+        "fastdate": 1768683600000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "Paris",
+        "stateCountry": "TX",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "conferenceResult": "82-72",
+        "resultAsObject": {
+            "results": [
+                82,
+                72
+            ],
+            "winner": {
+                "name": "Navarro College",
+                "result": "82",
+                "teamId": "5w4s85o766dapvin",
+                "winner": false,
+                "cleanName": "navarro col"
+            },
+            "loser": {
+                "name": "Paris Junior College",
+                "result": "72",
+                "teamId": "jezuy39uhqi3jtgi",
+                "winner": false,
+                "cleanName": "paris junior col"
+            },
+            "resolved": true,
+            "hasScores": true,
+            "description": "Win",
+            "score": "82-72",
+            "numericResults": [
+                82,
+                72
+            ],
+            "winnerLoser": "82-72",
+            "descriptionShortWithOT": "W"
+        },
+        "opponent": {
+            "name": "Paris Junior College",
+            "result": "72",
+            "teamId": "jezuy39uhqi3jtgi",
+            "winner": false,
+            "cleanName": "paris junior col"
+        },
+        "us": {
+            "name": "Navarro College",
+            "result": "82",
+            "teamId": "5w4s85o766dapvin",
+            "winner": false,
+            "cleanName": "navarro col"
+        },
+        "winner": {
+            "name": "Navarro College",
+            "result": "82",
+            "teamId": "5w4s85o766dapvin",
+            "winner": false,
+            "cleanName": "navarro col"
+        },
+        "loser": {
+            "name": "Paris Junior College",
+            "result": "72",
+            "teamId": "jezuy39uhqi3jtgi",
+            "winner": false,
+            "cleanName": "paris junior col"
+        },
+        "apresult": "W, 82-72",
+        "ap2Result": "W, 82-72",
+        "result": {
+            "results": [
+                82,
+                72
+            ],
+            "winner": {
+                "name": "Navarro College",
+                "result": "82",
+                "teamId": "5w4s85o766dapvin",
+                "winner": false,
+                "cleanName": "navarro col"
+            },
+            "loser": {
+                "name": "Paris Junior College",
+                "result": "72",
+                "teamId": "jezuy39uhqi3jtgi",
+                "winner": false,
+                "cleanName": "paris junior col"
+            },
+            "resolved": true,
+            "hasScores": true,
+            "description": "Win",
+            "score": "82-72",
+            "numericResults": [
+                82,
+                72
+            ],
+            "winnerLoser": "82-72",
+            "descriptionShortWithOT": "W"
+        }
+    },
+    "eventDateFormattedAriaLabel": "January 17 04:00 PM:"
+}

@@ -1,0 +1,161 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Jan 17",
+    "boxScoreLink": "20260117_ag6y.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "St. Clair County Community College",
+                "result": "106",
+                "teamId": "jyhz43l63dffm7fw",
+                "winner": false,
+                "cleanName": "st clair county community col"
+            },
+            {
+                "name": "Jackson College",
+                "result": "78",
+                "teamId": "e4vlvzn1782gvxak",
+                "winner": false,
+                "cleanName": "jackson col"
+            }
+        ],
+        "status": "Final",
+        "notes": "",
+        "notesShared": "",
+        "date": 1768680000000,
+        "localTimeZone": "America/New_York",
+        "tba": false,
+        "home": true,
+        "overall": true,
+        "conference": true,
+        "division": false,
+        "regional": false,
+        "national": true,
+        "inProgress": false,
+        "statusCode": 0,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "ag6y246ta01z7g5m",
+        "fastdate": 1768680000000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": true,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "conferenceResult": "78-106",
+        "resultAsObject": {
+            "results": [
+                106,
+                78
+            ],
+            "winner": {
+                "name": "St. Clair County Community College",
+                "result": "106",
+                "teamId": "jyhz43l63dffm7fw",
+                "winner": false,
+                "cleanName": "st clair county community col"
+            },
+            "loser": {
+                "name": "Jackson College",
+                "result": "78",
+                "teamId": "e4vlvzn1782gvxak",
+                "winner": false,
+                "cleanName": "jackson col"
+            },
+            "resolved": true,
+            "hasScores": true,
+            "numericResults": [
+                78,
+                106
+            ],
+            "description": "Loss",
+            "score": "78-106",
+            "winnerLoser": "106-78",
+            "descriptionShortWithOT": "L"
+        },
+        "opponent": {
+            "name": "St. Clair County Community College",
+            "result": "106",
+            "teamId": "jyhz43l63dffm7fw",
+            "winner": false,
+            "cleanName": "st clair county community col"
+        },
+        "us": {
+            "name": "Jackson College",
+            "result": "78",
+            "teamId": "e4vlvzn1782gvxak",
+            "winner": false,
+            "cleanName": "jackson col"
+        },
+        "winner": {
+            "name": "St. Clair County Community College",
+            "result": "106",
+            "teamId": "jyhz43l63dffm7fw",
+            "winner": false,
+            "cleanName": "st clair county community col"
+        },
+        "loser": {
+            "name": "Jackson College",
+            "result": "78",
+            "teamId": "e4vlvzn1782gvxak",
+            "winner": false,
+            "cleanName": "jackson col"
+        },
+        "apresult": "L, 106-78",
+        "ap2Result": "L, 78-106",
+        "result": {
+            "results": [
+                106,
+                78
+            ],
+            "winner": {
+                "name": "St. Clair County Community College",
+                "result": "106",
+                "teamId": "jyhz43l63dffm7fw",
+                "winner": false,
+                "cleanName": "st clair county community col"
+            },
+            "loser": {
+                "name": "Jackson College",
+                "result": "78",
+                "teamId": "e4vlvzn1782gvxak",
+                "winner": false,
+                "cleanName": "jackson col"
+            },
+            "resolved": true,
+            "hasScores": true,
+            "numericResults": [
+                78,
+                106
+            ],
+            "description": "Loss",
+            "score": "78-106",
+            "winnerLoser": "106-78",
+            "descriptionShortWithOT": "L"
+        }
+    },
+    "eventDateFormattedAriaLabel": "January 17 03:00 PM:"
+}

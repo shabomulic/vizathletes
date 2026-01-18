@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Feb 27",
+    "boxScoreLink": "20260227_jqsl.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Marion Military Institute",
+                "result": "",
+                "teamId": "vkeq3q6q1mgf1d2z",
+                "winner": false,
+                "cleanName": "marion military institute"
+            },
+            {
+                "name": "ACCC Championships",
+                "result": "",
+                "teamId": "vg0ta1cgpdsrmw0q",
+                "winner": false,
+                "cleanName": "accc championships"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1772168400000,
+        "localTimeZone": "America/Chicago",
+        "tba": true,
+        "home": false,
+        "overall": true,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": true,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "jqsllftr22ugwrh5",
+        "fastdate": 1772168400000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "postSeason",
+            "description": "Post-Season/Play-Offs",
+            "statsCount": true
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "ACCC Championships",
+            "result": "",
+            "teamId": "vg0ta1cgpdsrmw0q",
+            "winner": false,
+            "cleanName": "accc championships"
+        },
+        "us": {
+            "name": "Marion Military Institute",
+            "result": "",
+            "teamId": "vkeq3q6q1mgf1d2z",
+            "winner": false,
+            "cleanName": "marion military institute"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "February 27 12:00 AM:"
+}

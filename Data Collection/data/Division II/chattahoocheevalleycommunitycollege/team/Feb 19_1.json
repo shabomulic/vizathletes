@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Feb 19",
+    "boxScoreLink": "20260219_1i6g.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Enterprise State Community College",
+                "result": "",
+                "teamId": "clf86jhkvm4x7egx",
+                "winner": false,
+                "cleanName": "enterprise st community col"
+            },
+            {
+                "name": "Chattahoochee Valley Community College",
+                "result": "",
+                "teamId": "rf52qvpv2nbr0xse",
+                "winner": false,
+                "cleanName": "chattahoochee valley community col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1771545600000,
+        "localTimeZone": "America/New_York",
+        "tba": false,
+        "home": true,
+        "overall": true,
+        "conference": true,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "1i6gg93022kx0z7r",
+        "fastdate": 1771545600000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Enterprise State Community College",
+            "result": "",
+            "teamId": "clf86jhkvm4x7egx",
+            "winner": false,
+            "cleanName": "enterprise st community col"
+        },
+        "us": {
+            "name": "Chattahoochee Valley Community College",
+            "result": "",
+            "teamId": "rf52qvpv2nbr0xse",
+            "winner": false,
+            "cleanName": "chattahoochee valley community col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "February 19 07:00 PM:"
+}

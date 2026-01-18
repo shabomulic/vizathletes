@@ -54,18 +54,18 @@
     "careerId": null,
     "rank": null,
     "eventCount": 0,
-    "lastUpdated": 1766852917000,
-    "position": "F",
+    "lastUpdated": 1768765800000,
+    "position": "Forward",
     "positionAbbreviation": "F",
     "positionCode": null,
     "dataMap": {},
     "uniform": "20",
     "year": "",
     "playerStatus": {
-        "enumCode": 1,
-        "abbr": "A",
-        "statusName": "Active",
-        "active": true,
+        "enumCode": 0,
+        "abbr": "I",
+        "statusName": "Inactive",
+        "active": false,
         "interceptFieldCallback": null,
         "nullableType": {
             "comparator": {},
@@ -83,7 +83,7 @@
         },
         "mutable": false
     },
-    "active": true,
+    "active": false,
     "fullName": "Ike Onu-Chiedo",
     "minCalcStats": {
         "fgppm": false,

@@ -168,7 +168,7 @@
     "careerId": null,
     "rank": null,
     "eventCount": 14,
-    "lastUpdated": 1766002548000,
+    "lastUpdated": 1768586459000,
     "position": "C",
     "positionAbbreviation": null,
     "positionCode": "C0FR",
@@ -194,10 +194,10 @@
             "defaultValue": 0,
             "mutable": false,
             "componentType": false,
+            "collectionType": false,
             "entityType": false,
             "associationType": false,
             "xmlelement": false,
-            "collectionType": false,
             "anyType": false
         },
         "mutable": false

@@ -1,0 +1,119 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Jan 17",
+    "boxScoreLink": "20260117_2m2s.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Lamar Community College",
+                "result": "83",
+                "teamId": "v0uqyhtqkp90p1k5",
+                "winner": false,
+                "cleanName": "lamar community col"
+            },
+            {
+                "name": "Northeastern Junior College",
+                "result": "84",
+                "teamId": "6q1c6nr4qfpow726",
+                "winner": false,
+                "cleanName": "northeastern junior col"
+            }
+        ],
+        "status": "2nd - 00:18",
+        "notes": "",
+        "notesShared": "",
+        "date": 1768680000000,
+        "localTimeZone": "America/Denver",
+        "tba": false,
+        "home": true,
+        "overall": true,
+        "conference": true,
+        "division": true,
+        "regional": false,
+        "national": true,
+        "inProgress": true,
+        "statusCode": -1,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "2m2ssh230wsf3efa",
+        "fastdate": 1768680000000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "results": [
+                83,
+                84
+            ],
+            "resolved": false,
+            "hasScores": true,
+            "numericResults": [
+                84,
+                83
+            ],
+            "description": "",
+            "score": "84-83",
+            "winnerLoser": "84-83",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Lamar Community College",
+            "result": "83",
+            "teamId": "v0uqyhtqkp90p1k5",
+            "winner": false,
+            "cleanName": "lamar community col"
+        },
+        "us": {
+            "name": "Northeastern Junior College",
+            "result": "84",
+            "teamId": "6q1c6nr4qfpow726",
+            "winner": false,
+            "cleanName": "northeastern junior col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "results": [
+                83,
+                84
+            ],
+            "resolved": false,
+            "hasScores": true,
+            "numericResults": [
+                84,
+                83
+            ],
+            "description": "",
+            "score": "84-83",
+            "winnerLoser": "84-83",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "January 17 03:00 PM:"
+}

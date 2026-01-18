@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Jan 27",
+    "boxScoreLink": "20260127_edae.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Carolina University DT",
+                "result": "",
+                "teamId": "uzkby7oqwfj9478i",
+                "winner": false,
+                "cleanName": "carolina univ dt"
+            },
+            {
+                "name": "Forsyth Technical Community College",
+                "result": "",
+                "teamId": "yw57wze2gmejjzar",
+                "winner": false,
+                "cleanName": "forsyth technical community col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1769558400000,
+        "localTimeZone": "America/New_York",
+        "tba": false,
+        "home": true,
+        "overall": true,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "edae2vib9vjl7cwl",
+        "fastdate": 1769558400000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "1300 Bolton St",
+        "city": "Winston Salem",
+        "stateCountry": "NC",
+        "zipCode": "27103",
+        "venue": "West Campus",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Carolina University DT",
+            "result": "",
+            "teamId": "uzkby7oqwfj9478i",
+            "winner": false,
+            "cleanName": "carolina univ dt"
+        },
+        "us": {
+            "name": "Forsyth Technical Community College",
+            "result": "",
+            "teamId": "yw57wze2gmejjzar",
+            "winner": false,
+            "cleanName": "forsyth technical community col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "January 27 07:00 PM:"
+}

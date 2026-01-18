@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Sep 3",
+    "boxScoreLink": "20250903_saqr.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Arizona Western College",
+                "result": "",
+                "teamId": "tdz46zrnuskrroop",
+                "winner": false,
+                "cleanName": "arizona w col"
+            },
+            {
+                "name": "Region 1 ACCAC Open Practice Event",
+                "result": "",
+                "teamId": "vkc0zwk77wdndmvg",
+                "winner": false,
+                "cleanName": "region accac open practice event"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1756915200000,
+        "localTimeZone": "America/Phoenix",
+        "tba": false,
+        "home": false,
+        "overall": false,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "saqrqhlbbs1xyq91",
+        "fastdate": 1756915200000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "preSeason",
+            "description": "Pre-Season",
+            "statsCount": true
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Region 1 ACCAC Open Practice Event",
+            "result": "",
+            "teamId": "vkc0zwk77wdndmvg",
+            "winner": false,
+            "cleanName": "region accac open practice event"
+        },
+        "us": {
+            "name": "Arizona Western College",
+            "result": "",
+            "teamId": "tdz46zrnuskrroop",
+            "winner": false,
+            "cleanName": "arizona w col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "September 3 12:00 PM:"
+}

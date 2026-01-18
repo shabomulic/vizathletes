@@ -228,7 +228,7 @@
     "careerId": null,
     "rank": null,
     "eventCount": 6,
-    "lastUpdated": 1766156174000,
+    "lastUpdated": 1768686803000,
     "position": "G",
     "positionAbbreviation": null,
     "positionCode": "G0FR",
@@ -241,10 +241,10 @@
     "uniform": "35",
     "year": "Fr",
     "playerStatus": {
-        "enumCode": 1,
-        "abbr": "A",
-        "statusName": "Active",
-        "active": true,
+        "enumCode": 0,
+        "abbr": "I",
+        "statusName": "Inactive",
+        "active": false,
         "interceptFieldCallback": null,
         "nullableType": {
             "comparator": {},
@@ -254,15 +254,15 @@
             "defaultValue": 0,
             "mutable": false,
             "componentType": false,
+            "collectionType": false,
             "entityType": false,
             "associationType": false,
             "xmlelement": false,
-            "collectionType": false,
             "anyType": false
         },
         "mutable": false
     },
-    "active": true,
+    "active": false,
     "fullName": "Tisean Garrison",
     "minCalcStats": {
         "fgppm": false,

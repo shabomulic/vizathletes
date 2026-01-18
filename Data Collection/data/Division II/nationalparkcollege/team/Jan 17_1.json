@@ -1,0 +1,161 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Jan 17",
+    "boxScoreLink": "20260117_wqe8.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "National Park College",
+                "result": "82",
+                "teamId": "x68d77uzjx53kazc",
+                "winner": false,
+                "cleanName": "national park col"
+            },
+            {
+                "name": "Arkansas State Mid-South",
+                "result": "94",
+                "teamId": "0088ioia1yisozim",
+                "winner": false,
+                "cleanName": "arkansas st mid s"
+            }
+        ],
+        "status": "Final",
+        "notes": "",
+        "notesShared": "",
+        "date": 1768680000000,
+        "localTimeZone": "America/Chicago",
+        "tba": false,
+        "home": false,
+        "overall": true,
+        "conference": true,
+        "division": false,
+        "regional": true,
+        "national": true,
+        "inProgress": false,
+        "statusCode": 0,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "wqe8spj0bjmjxq9p",
+        "fastdate": 1768680000000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "2000 W. Broadway West Memphis, AR 72301",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "Glen F. Fenter Athletic Complex",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "conferenceResult": "82-94",
+        "resultAsObject": {
+            "results": [
+                82,
+                94
+            ],
+            "winner": {
+                "name": "Arkansas State Mid-South",
+                "result": "94",
+                "teamId": "0088ioia1yisozim",
+                "winner": false,
+                "cleanName": "arkansas st mid s"
+            },
+            "loser": {
+                "name": "National Park College",
+                "result": "82",
+                "teamId": "x68d77uzjx53kazc",
+                "winner": false,
+                "cleanName": "national park col"
+            },
+            "resolved": true,
+            "hasScores": true,
+            "numericResults": [
+                82,
+                94
+            ],
+            "description": "Loss",
+            "score": "82-94",
+            "winnerLoser": "94-82",
+            "descriptionShortWithOT": "L"
+        },
+        "opponent": {
+            "name": "Arkansas State Mid-South",
+            "result": "94",
+            "teamId": "0088ioia1yisozim",
+            "winner": false,
+            "cleanName": "arkansas st mid s"
+        },
+        "us": {
+            "name": "National Park College",
+            "result": "82",
+            "teamId": "x68d77uzjx53kazc",
+            "winner": false,
+            "cleanName": "national park col"
+        },
+        "winner": {
+            "name": "Arkansas State Mid-South",
+            "result": "94",
+            "teamId": "0088ioia1yisozim",
+            "winner": false,
+            "cleanName": "arkansas st mid s"
+        },
+        "loser": {
+            "name": "National Park College",
+            "result": "82",
+            "teamId": "x68d77uzjx53kazc",
+            "winner": false,
+            "cleanName": "national park col"
+        },
+        "apresult": "L, 94-82",
+        "ap2Result": "L, 82-94",
+        "result": {
+            "results": [
+                82,
+                94
+            ],
+            "winner": {
+                "name": "Arkansas State Mid-South",
+                "result": "94",
+                "teamId": "0088ioia1yisozim",
+                "winner": false,
+                "cleanName": "arkansas st mid s"
+            },
+            "loser": {
+                "name": "National Park College",
+                "result": "82",
+                "teamId": "x68d77uzjx53kazc",
+                "winner": false,
+                "cleanName": "national park col"
+            },
+            "resolved": true,
+            "hasScores": true,
+            "numericResults": [
+                82,
+                94
+            ],
+            "description": "Loss",
+            "score": "82-94",
+            "winnerLoser": "94-82",
+            "descriptionShortWithOT": "L"
+        }
+    },
+    "eventDateFormattedAriaLabel": "January 17 03:00 PM:"
+}

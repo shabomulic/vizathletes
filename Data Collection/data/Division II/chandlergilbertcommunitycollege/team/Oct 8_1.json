@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Oct 8",
+    "boxScoreLink": "20251008_1ozb.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Park University-Gilbert",
+                "result": "",
+                "teamId": "tj6lxlg6t96wkr6s",
+                "winner": false,
+                "cleanName": "park univ gilbert"
+            },
+            {
+                "name": "Chandler-Gilbert Community College",
+                "result": "",
+                "teamId": "4d8m1oqlkprpttlx",
+                "winner": false,
+                "cleanName": "chandler gilbert community col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "CLOSED SCRIMMAGE | NO FANS",
+        "date": 1759964400000,
+        "localTimeZone": "America/Phoenix",
+        "tba": false,
+        "home": true,
+        "overall": false,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "1ozbwt2arbavjhyd",
+        "fastdate": 1759964400000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "2626 E Pecos Rd",
+        "city": "Chandler ",
+        "stateCountry": "AZ",
+        "zipCode": "85225",
+        "venue": "The Coyote Den",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "scrimmage",
+            "description": "Scrimmage",
+            "statsCount": false
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Park University-Gilbert",
+            "result": "",
+            "teamId": "tj6lxlg6t96wkr6s",
+            "winner": false,
+            "cleanName": "park univ gilbert"
+        },
+        "us": {
+            "name": "Chandler-Gilbert Community College",
+            "result": "",
+            "teamId": "4d8m1oqlkprpttlx",
+            "winner": false,
+            "cleanName": "chandler gilbert community col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "October 8 07:00 PM:"
+}

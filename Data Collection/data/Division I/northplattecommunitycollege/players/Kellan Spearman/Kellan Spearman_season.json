@@ -54,7 +54,7 @@
     "careerId": null,
     "rank": null,
     "eventCount": 0,
-    "lastUpdated": 1766164636000,
+    "lastUpdated": 1768765258000,
     "position": "G",
     "positionAbbreviation": "G",
     "positionCode": null,
@@ -62,10 +62,10 @@
     "uniform": "24",
     "year": "Fr.",
     "playerStatus": {
-        "enumCode": 1,
-        "abbr": "A",
-        "statusName": "Active",
-        "active": true,
+        "enumCode": 0,
+        "abbr": "I",
+        "statusName": "Inactive",
+        "active": false,
         "interceptFieldCallback": null,
         "nullableType": {
             "comparator": {},
@@ -83,7 +83,7 @@
         },
         "mutable": false
     },
-    "active": true,
+    "active": false,
     "fullName": "Kellan Spearman",
     "minCalcStats": {
         "fgppm": false,

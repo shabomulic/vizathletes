@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Mar 22",
+    "boxScoreLink": "20260322_f8y4.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Colby Community College",
+                "result": "",
+                "teamId": "r3ikdzoodh1heb91",
+                "winner": false,
+                "cleanName": "colby community col"
+            },
+            {
+                "name": "NJCAA Championships",
+                "result": "",
+                "teamId": "4snzrcaivhn1f7rb",
+                "winner": false,
+                "cleanName": "njcaa championships"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1774152000000,
+        "localTimeZone": "America/Chicago",
+        "tba": true,
+        "home": false,
+        "overall": true,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": true,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "f8y4uffmqhd6tbfj",
+        "fastdate": 1774152000000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "NJCAA Championships",
+            "result": "",
+            "teamId": "4snzrcaivhn1f7rb",
+            "winner": false,
+            "cleanName": "njcaa championships"
+        },
+        "us": {
+            "name": "Colby Community College",
+            "result": "",
+            "teamId": "r3ikdzoodh1heb91",
+            "winner": false,
+            "cleanName": "colby community col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "March 22 12:00 AM:"
+}

@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Sep 12",
+    "boxScoreLink": "20250912_v0dy.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Pellissippi State Community College",
+                "result": "",
+                "teamId": "mku7lxd5cqaf0rq2",
+                "winner": false,
+                "cleanName": "pellissippi st community col"
+            },
+            {
+                "name": "Region 7 JUCO Tour - Volunteer State",
+                "result": "",
+                "teamId": "edta7iik2l4l30hg",
+                "winner": false,
+                "cleanName": "region juco tour volunteer st"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "Region 7 JUCO Tour Open Practice Event",
+        "date": 1757685600000,
+        "localTimeZone": "America/New_York",
+        "tba": false,
+        "home": false,
+        "overall": false,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "v0dymyajj6v4hm0j",
+        "fastdate": 1757685600000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "Volunteer State",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "preSeason",
+            "description": "Pre-Season",
+            "statsCount": true
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Region 7 JUCO Tour - Volunteer State",
+            "result": "",
+            "teamId": "edta7iik2l4l30hg",
+            "winner": false,
+            "cleanName": "region juco tour volunteer st"
+        },
+        "us": {
+            "name": "Pellissippi State Community College",
+            "result": "",
+            "teamId": "mku7lxd5cqaf0rq2",
+            "winner": false,
+            "cleanName": "pellissippi st community col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "September 12 10:00 AM:"
+}

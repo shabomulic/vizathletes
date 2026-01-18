@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Mar 3",
+    "boxScoreLink": "20260303_1x5k.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "CCBC Dundalk",
+                "result": "",
+                "teamId": "jhfzyd61v4l276h6",
+                "winner": false,
+                "cleanName": "ccbc dundalk"
+            },
+            {
+                "name": "Region 20 DII Quarterfinals",
+                "result": "",
+                "teamId": "o6l2htkidobdoymx",
+                "winner": false,
+                "cleanName": "region dii quarterfinals"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "Top Seed Campus",
+        "date": 1772514000000,
+        "localTimeZone": "America/New_York",
+        "tba": true,
+        "home": false,
+        "overall": true,
+        "conference": true,
+        "division": true,
+        "regional": true,
+        "national": true,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": true,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "1x5ka41cnwktx3yd",
+        "fastdate": 1772514000000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "postSeason",
+            "description": "Post-Season/Play-Offs",
+            "statsCount": true
+        },
+        "us": {
+            "name": "CCBC Dundalk",
+            "result": "",
+            "teamId": "jhfzyd61v4l276h6",
+            "winner": false,
+            "cleanName": "ccbc dundalk"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Region 20 DII Quarterfinals",
+            "result": "",
+            "teamId": "o6l2htkidobdoymx",
+            "winner": false,
+            "cleanName": "region dii quarterfinals"
+        },
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "March 3 12:00 AM:"
+}

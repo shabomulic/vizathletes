@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Oct 5",
+    "boxScoreLink": "20251005_ets4.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "St. Clair County Community College",
+                "result": "",
+                "teamId": "jyhz43l63dffm7fw",
+                "winner": false,
+                "cleanName": "st clair county community col"
+            },
+            {
+                "name": "Lawrence Tech University",
+                "result": "",
+                "teamId": "dbsz4jgcu3un4ik2",
+                "winner": false,
+                "cleanName": "lawrence tech univ"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "Scrimmage",
+        "date": 1759687200000,
+        "localTimeZone": "America/New_York",
+        "tba": false,
+        "home": false,
+        "overall": false,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "ets4tyumjfc5df8s",
+        "fastdate": 1759687200000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "scrimmage",
+            "description": "Scrimmage",
+            "statsCount": false
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Lawrence Tech University",
+            "result": "",
+            "teamId": "dbsz4jgcu3un4ik2",
+            "winner": false,
+            "cleanName": "lawrence tech univ"
+        },
+        "us": {
+            "name": "St. Clair County Community College",
+            "result": "",
+            "teamId": "jyhz43l63dffm7fw",
+            "winner": false,
+            "cleanName": "st clair county community col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "October 5 02:00 PM:"
+}

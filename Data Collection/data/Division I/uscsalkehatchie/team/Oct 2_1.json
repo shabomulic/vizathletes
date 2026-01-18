@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Oct 2",
+    "boxScoreLink": "20251002_ag7k.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Middle Georgia Prep",
+                "result": "",
+                "teamId": "u2hkypkr4svd67jr",
+                "winner": false,
+                "cleanName": "middle georgia prep"
+            },
+            {
+                "name": "USC Salkehatchie",
+                "result": "",
+                "teamId": "5ggr9ja725u11ojv",
+                "winner": false,
+                "cleanName": "usc salkehatchie"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1759446000000,
+        "localTimeZone": "America/New_York",
+        "tba": false,
+        "home": true,
+        "overall": false,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "ag7kis3dnb92gzw7",
+        "fastdate": 1759446000000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "scrimmage",
+            "description": "Scrimmage",
+            "statsCount": false
+        },
+        "us": {
+            "name": "USC Salkehatchie",
+            "result": "",
+            "teamId": "5ggr9ja725u11ojv",
+            "winner": false,
+            "cleanName": "usc salkehatchie"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Middle Georgia Prep",
+            "result": "",
+            "teamId": "u2hkypkr4svd67jr",
+            "winner": false,
+            "cleanName": "middle georgia prep"
+        },
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "October 2 07:00 PM:"
+}

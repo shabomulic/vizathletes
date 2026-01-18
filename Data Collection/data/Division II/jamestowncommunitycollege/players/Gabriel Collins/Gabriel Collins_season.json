@@ -178,7 +178,7 @@
     "careerId": null,
     "rank": null,
     "eventCount": 11,
-    "lastUpdated": 1766853277000,
+    "lastUpdated": 1768764704000,
     "position": "G",
     "positionAbbreviation": "G",
     "positionCode": null,
@@ -186,10 +186,10 @@
     "uniform": "20",
     "year": "So",
     "playerStatus": {
-        "enumCode": 1,
-        "abbr": "A",
-        "statusName": "Active",
-        "active": true,
+        "enumCode": 0,
+        "abbr": "I",
+        "statusName": "Inactive",
+        "active": false,
         "interceptFieldCallback": null,
         "nullableType": {
             "comparator": {},
@@ -207,7 +207,7 @@
         },
         "mutable": false
     },
-    "active": true,
+    "active": false,
     "fullName": "Gabriel Collins",
     "minCalcStats": {
         "fgppm": true,

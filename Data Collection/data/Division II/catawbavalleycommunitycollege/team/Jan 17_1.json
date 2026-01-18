@@ -1,0 +1,161 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Jan 17",
+    "boxScoreLink": "20260117_7dk8.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Catawba Valley Community College",
+                "result": "98",
+                "teamId": "b9a60ej2y9pfgfq3",
+                "winner": false,
+                "cleanName": "catawba valley community col"
+            },
+            {
+                "name": "Pitt Community College",
+                "result": "78",
+                "teamId": "avv6sdoji7liwtnx",
+                "winner": false,
+                "cleanName": "pitt community col"
+            }
+        ],
+        "status": "Final",
+        "notes": "",
+        "notesShared": "Winterville, N.C.",
+        "date": 1768680000000,
+        "localTimeZone": "America/New_York",
+        "tba": false,
+        "home": false,
+        "overall": true,
+        "conference": true,
+        "division": false,
+        "regional": true,
+        "national": true,
+        "inProgress": false,
+        "statusCode": 0,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "7dk8juyfg3736eoo",
+        "fastdate": 1768680000000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "conferenceResult": "98-78",
+        "resultAsObject": {
+            "results": [
+                98,
+                78
+            ],
+            "winner": {
+                "name": "Catawba Valley Community College",
+                "result": "98",
+                "teamId": "b9a60ej2y9pfgfq3",
+                "winner": false,
+                "cleanName": "catawba valley community col"
+            },
+            "loser": {
+                "name": "Pitt Community College",
+                "result": "78",
+                "teamId": "avv6sdoji7liwtnx",
+                "winner": false,
+                "cleanName": "pitt community col"
+            },
+            "resolved": true,
+            "hasScores": true,
+            "description": "Win",
+            "score": "98-78",
+            "numericResults": [
+                98,
+                78
+            ],
+            "winnerLoser": "98-78",
+            "descriptionShortWithOT": "W"
+        },
+        "opponent": {
+            "name": "Pitt Community College",
+            "result": "78",
+            "teamId": "avv6sdoji7liwtnx",
+            "winner": false,
+            "cleanName": "pitt community col"
+        },
+        "us": {
+            "name": "Catawba Valley Community College",
+            "result": "98",
+            "teamId": "b9a60ej2y9pfgfq3",
+            "winner": false,
+            "cleanName": "catawba valley community col"
+        },
+        "winner": {
+            "name": "Catawba Valley Community College",
+            "result": "98",
+            "teamId": "b9a60ej2y9pfgfq3",
+            "winner": false,
+            "cleanName": "catawba valley community col"
+        },
+        "loser": {
+            "name": "Pitt Community College",
+            "result": "78",
+            "teamId": "avv6sdoji7liwtnx",
+            "winner": false,
+            "cleanName": "pitt community col"
+        },
+        "apresult": "W, 98-78",
+        "ap2Result": "W, 98-78",
+        "result": {
+            "results": [
+                98,
+                78
+            ],
+            "winner": {
+                "name": "Catawba Valley Community College",
+                "result": "98",
+                "teamId": "b9a60ej2y9pfgfq3",
+                "winner": false,
+                "cleanName": "catawba valley community col"
+            },
+            "loser": {
+                "name": "Pitt Community College",
+                "result": "78",
+                "teamId": "avv6sdoji7liwtnx",
+                "winner": false,
+                "cleanName": "pitt community col"
+            },
+            "resolved": true,
+            "hasScores": true,
+            "description": "Win",
+            "score": "98-78",
+            "numericResults": [
+                98,
+                78
+            ],
+            "winnerLoser": "98-78",
+            "descriptionShortWithOT": "W"
+        }
+    },
+    "eventDateFormattedAriaLabel": "January 17 03:00 PM:"
+}

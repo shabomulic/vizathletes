@@ -1,0 +1,161 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Jan 17",
+    "boxScoreLink": "20260117_3sin.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Luzerne County Community College",
+                "result": "47",
+                "teamId": "rgvrxgnixu46wni1",
+                "winner": false,
+                "cleanName": "luzerne county community col"
+            },
+            {
+                "name": "Community College of Philadelphia",
+                "result": "71",
+                "teamId": "5bcje1vlgqx2q7rz",
+                "winner": false,
+                "cleanName": "community col philadelphia"
+            }
+        ],
+        "status": "Final",
+        "notes": "",
+        "notesShared": "",
+        "date": 1768669200000,
+        "localTimeZone": "America/New_York",
+        "tba": false,
+        "home": false,
+        "overall": true,
+        "conference": true,
+        "division": true,
+        "regional": false,
+        "national": true,
+        "inProgress": false,
+        "statusCode": 0,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "3sincngtlrpntwqt",
+        "fastdate": 1768669200000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "1700 Spring Garden Street",
+        "city": "Philadelphia",
+        "stateCountry": "PA",
+        "zipCode": "19130",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "conferenceResult": "47-71",
+        "resultAsObject": {
+            "results": [
+                47,
+                71
+            ],
+            "winner": {
+                "name": "Community College of Philadelphia",
+                "result": "71",
+                "teamId": "5bcje1vlgqx2q7rz",
+                "winner": false,
+                "cleanName": "community col philadelphia"
+            },
+            "loser": {
+                "name": "Luzerne County Community College",
+                "result": "47",
+                "teamId": "rgvrxgnixu46wni1",
+                "winner": false,
+                "cleanName": "luzerne county community col"
+            },
+            "resolved": true,
+            "hasScores": true,
+            "description": "Loss",
+            "score": "47-71",
+            "numericResults": [
+                47,
+                71
+            ],
+            "winnerLoser": "71-47",
+            "descriptionShortWithOT": "L"
+        },
+        "opponent": {
+            "name": "Community College of Philadelphia",
+            "result": "71",
+            "teamId": "5bcje1vlgqx2q7rz",
+            "winner": false,
+            "cleanName": "community col philadelphia"
+        },
+        "us": {
+            "name": "Luzerne County Community College",
+            "result": "47",
+            "teamId": "rgvrxgnixu46wni1",
+            "winner": false,
+            "cleanName": "luzerne county community col"
+        },
+        "winner": {
+            "name": "Community College of Philadelphia",
+            "result": "71",
+            "teamId": "5bcje1vlgqx2q7rz",
+            "winner": false,
+            "cleanName": "community col philadelphia"
+        },
+        "loser": {
+            "name": "Luzerne County Community College",
+            "result": "47",
+            "teamId": "rgvrxgnixu46wni1",
+            "winner": false,
+            "cleanName": "luzerne county community col"
+        },
+        "apresult": "L, 71-47",
+        "ap2Result": "L, 47-71",
+        "result": {
+            "results": [
+                47,
+                71
+            ],
+            "winner": {
+                "name": "Community College of Philadelphia",
+                "result": "71",
+                "teamId": "5bcje1vlgqx2q7rz",
+                "winner": false,
+                "cleanName": "community col philadelphia"
+            },
+            "loser": {
+                "name": "Luzerne County Community College",
+                "result": "47",
+                "teamId": "rgvrxgnixu46wni1",
+                "winner": false,
+                "cleanName": "luzerne county community col"
+            },
+            "resolved": true,
+            "hasScores": true,
+            "description": "Loss",
+            "score": "47-71",
+            "numericResults": [
+                47,
+                71
+            ],
+            "winnerLoser": "71-47",
+            "descriptionShortWithOT": "L"
+        }
+    },
+    "eventDateFormattedAriaLabel": "January 17 12:00 PM:"
+}

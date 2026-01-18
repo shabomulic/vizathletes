@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Oct 24",
+    "boxScoreLink": "20251024_tfxb.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Forsyth Technical Community College",
+                "result": "",
+                "teamId": "yw57wze2gmejjzar",
+                "winner": false,
+                "cleanName": "forsyth technical community col"
+            },
+            {
+                "name": "Winston-Salem State University",
+                "result": "",
+                "teamId": "9hd99pqay7v0vpuv",
+                "winner": false,
+                "cleanName": "winston salem st univ"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1761332400000,
+        "localTimeZone": "America/New_York",
+        "tba": false,
+        "home": false,
+        "overall": false,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "tfxbyrm1k9zom34t",
+        "fastdate": 1761332400000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "Winston-Salem",
+        "stateCountry": "NC",
+        "zipCode": "",
+        "venue": "Clarence E Gaines Center",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "exhibition",
+            "description": "Exhibition",
+            "statsCount": false
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Winston-Salem State University",
+            "result": "",
+            "teamId": "9hd99pqay7v0vpuv",
+            "winner": false,
+            "cleanName": "winston salem st univ"
+        },
+        "us": {
+            "name": "Forsyth Technical Community College",
+            "result": "",
+            "teamId": "yw57wze2gmejjzar",
+            "winner": false,
+            "cleanName": "forsyth technical community col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "October 24 03:00 PM:"
+}

@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Oct 18",
+    "boxScoreLink": "20251018_9mib.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Paul Smith",
+                "result": "",
+                "teamId": "gmoorrjo1j631wmm",
+                "winner": false,
+                "cleanName": "paul smith"
+            },
+            {
+                "name": "Hudson Valley Community College",
+                "result": "",
+                "teamId": "mdyo8a832sywqq8r",
+                "winner": false,
+                "cleanName": "hudson valley community col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "Scrimmage",
+        "date": 1760803200000,
+        "localTimeZone": "America/New_York",
+        "tba": false,
+        "home": true,
+        "overall": false,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "9mib56ood99v4nnv",
+        "fastdate": 1760803200000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": true,
+        "eventType": {
+            "code": "scrimmage",
+            "description": "Scrimmage",
+            "statsCount": false
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Paul Smith",
+            "result": "",
+            "teamId": "gmoorrjo1j631wmm",
+            "winner": false,
+            "cleanName": "paul smith"
+        },
+        "us": {
+            "name": "Hudson Valley Community College",
+            "result": "",
+            "teamId": "mdyo8a832sywqq8r",
+            "winner": false,
+            "cleanName": "hudson valley community col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "October 18 12:00 PM:"
+}

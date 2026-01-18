@@ -234,7 +234,7 @@
     "careerId": null,
     "rank": null,
     "eventCount": 6,
-    "lastUpdated": 1766438450000,
+    "lastUpdated": 1768624717000,
     "position": "G",
     "positionAbbreviation": null,
     "positionCode": "G0FR",
@@ -247,10 +247,10 @@
     "uniform": "3",
     "year": "Fr",
     "playerStatus": {
-        "enumCode": 1,
-        "abbr": "A",
-        "statusName": "Active",
-        "active": true,
+        "enumCode": 0,
+        "abbr": "I",
+        "statusName": "Inactive",
+        "active": false,
         "interceptFieldCallback": null,
         "nullableType": {
             "comparator": {},
@@ -261,14 +261,14 @@
             "mutable": false,
             "componentType": false,
             "collectionType": false,
-            "entityType": false,
             "associationType": false,
             "xmlelement": false,
+            "entityType": false,
             "anyType": false
         },
         "mutable": false
     },
-    "active": true,
+    "active": false,
     "fullName": "Giovanni Smith",
     "minCalcStats": {
         "fgppm": false,

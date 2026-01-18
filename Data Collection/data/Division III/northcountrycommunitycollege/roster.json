@@ -16,6 +16,14 @@
         "weight": null
     },
     {
+        "number": "2",
+        "name": "Omari Goodwin",
+        "position": "F/C",
+        "class_year": "Fr",
+        "height": null,
+        "weight": null
+    },
+    {
         "number": "3",
         "name": "Shalom Seraphin",
         "position": "G",
@@ -112,33 +120,9 @@
         "weight": null
     },
     {
-        "number": "30",
-        "name": "Barri Merimo-Antebi",
-        "position": "G",
-        "class_year": "Fr",
-        "height": null,
-        "weight": null
-    },
-    {
-        "number": "32",
-        "name": "Kamal Hyppolite",
-        "position": "G",
-        "class_year": "Fr",
-        "height": null,
-        "weight": null
-    },
-    {
         "number": "33",
         "name": "Mateo Zamora",
         "position": "G",
-        "class_year": "Fr",
-        "height": null,
-        "weight": null
-    },
-    {
-        "number": "34",
-        "name": "Jayden Cadet",
-        "position": "F",
         "class_year": "Fr",
         "height": null,
         "weight": null

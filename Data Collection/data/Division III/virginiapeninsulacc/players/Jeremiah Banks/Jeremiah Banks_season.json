@@ -162,7 +162,7 @@
     "careerId": null,
     "rank": null,
     "eventCount": 8,
-    "lastUpdated": 1767033961000,
+    "lastUpdated": 1768745809000,
     "position": "C",
     "positionAbbreviation": "C",
     "positionCode": null,
@@ -181,12 +181,12 @@
             "name": "integer",
             "primitiveClass": "int",
             "defaultValue": 0,
+            "collectionType": false,
             "mutable": false,
-            "componentType": false,
             "entityType": false,
+            "componentType": false,
             "associationType": false,
             "xmlelement": false,
-            "collectionType": false,
             "anyType": false
         },
         "mutable": false

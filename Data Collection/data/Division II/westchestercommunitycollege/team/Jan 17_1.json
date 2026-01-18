@@ -1,0 +1,161 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Jan 17",
+    "boxScoreLink": "20260117_y81v.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Erie Community College",
+                "result": "80",
+                "teamId": "g5740upzvughrx7o",
+                "winner": false,
+                "cleanName": "erie community col"
+            },
+            {
+                "name": "Westchester Community College",
+                "result": "76",
+                "teamId": "212fyyb5n5ajchk0",
+                "winner": false,
+                "cleanName": "westchester community col"
+            }
+        ],
+        "status": "Final",
+        "notes": "",
+        "notesShared": "",
+        "date": 1768683600000,
+        "localTimeZone": "America/New_York",
+        "tba": false,
+        "home": true,
+        "overall": true,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": true,
+        "inProgress": false,
+        "statusCode": 0,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "y81v90voyfam7vjg",
+        "fastdate": 1768683600000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "conferenceResult": "76-80",
+        "resultAsObject": {
+            "results": [
+                80,
+                76
+            ],
+            "winner": {
+                "name": "Erie Community College",
+                "result": "80",
+                "teamId": "g5740upzvughrx7o",
+                "winner": false,
+                "cleanName": "erie community col"
+            },
+            "loser": {
+                "name": "Westchester Community College",
+                "result": "76",
+                "teamId": "212fyyb5n5ajchk0",
+                "winner": false,
+                "cleanName": "westchester community col"
+            },
+            "resolved": true,
+            "hasScores": true,
+            "description": "Loss",
+            "score": "76-80",
+            "numericResults": [
+                76,
+                80
+            ],
+            "winnerLoser": "80-76",
+            "descriptionShortWithOT": "L"
+        },
+        "opponent": {
+            "name": "Erie Community College",
+            "result": "80",
+            "teamId": "g5740upzvughrx7o",
+            "winner": false,
+            "cleanName": "erie community col"
+        },
+        "us": {
+            "name": "Westchester Community College",
+            "result": "76",
+            "teamId": "212fyyb5n5ajchk0",
+            "winner": false,
+            "cleanName": "westchester community col"
+        },
+        "winner": {
+            "name": "Erie Community College",
+            "result": "80",
+            "teamId": "g5740upzvughrx7o",
+            "winner": false,
+            "cleanName": "erie community col"
+        },
+        "loser": {
+            "name": "Westchester Community College",
+            "result": "76",
+            "teamId": "212fyyb5n5ajchk0",
+            "winner": false,
+            "cleanName": "westchester community col"
+        },
+        "apresult": "L, 80-76",
+        "ap2Result": "L, 76-80",
+        "result": {
+            "results": [
+                80,
+                76
+            ],
+            "winner": {
+                "name": "Erie Community College",
+                "result": "80",
+                "teamId": "g5740upzvughrx7o",
+                "winner": false,
+                "cleanName": "erie community col"
+            },
+            "loser": {
+                "name": "Westchester Community College",
+                "result": "76",
+                "teamId": "212fyyb5n5ajchk0",
+                "winner": false,
+                "cleanName": "westchester community col"
+            },
+            "resolved": true,
+            "hasScores": true,
+            "description": "Loss",
+            "score": "76-80",
+            "numericResults": [
+                76,
+                80
+            ],
+            "winnerLoser": "80-76",
+            "descriptionShortWithOT": "L"
+        }
+    },
+    "eventDateFormattedAriaLabel": "January 17 04:00 PM:"
+}

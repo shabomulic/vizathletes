@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Oct 25",
+    "boxScoreLink": "20251025_9xaz.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Nassau Community College",
+                "result": "",
+                "teamId": "lk05dtegn0g3gge8",
+                "winner": false,
+                "cleanName": "nassau community col"
+            },
+            {
+                "name": "SUNY Old Westbury",
+                "result": "",
+                "teamId": "ofu0b4awyhf1194o",
+                "winner": false,
+                "cleanName": "suny old westbury"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1761364800000,
+        "localTimeZone": "America/New_York",
+        "tba": true,
+        "home": false,
+        "overall": false,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "9xazncqaca2uns28",
+        "fastdate": 1761364800000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "scrimmage",
+            "description": "Scrimmage",
+            "statsCount": false
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "SUNY Old Westbury",
+            "result": "",
+            "teamId": "ofu0b4awyhf1194o",
+            "winner": false,
+            "cleanName": "suny old westbury"
+        },
+        "us": {
+            "name": "Nassau Community College",
+            "result": "",
+            "teamId": "lk05dtegn0g3gge8",
+            "winner": false,
+            "cleanName": "nassau community col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "October 25 12:00 AM:"
+}

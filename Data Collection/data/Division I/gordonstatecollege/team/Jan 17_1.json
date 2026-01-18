@@ -1,0 +1,161 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Jan 17",
+    "boxScoreLink": "20260117_osmp.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "South Georgia State College",
+                "result": "80",
+                "teamId": "zdhzkxtajzh68wyx",
+                "winner": false,
+                "cleanName": "s georgia st col"
+            },
+            {
+                "name": "Gordon State College",
+                "result": "70",
+                "teamId": "4tt9ftp57580kdn4",
+                "winner": false,
+                "cleanName": "gordon st col"
+            }
+        ],
+        "status": "Final",
+        "notes": "",
+        "notesShared": "",
+        "date": 1768676400000,
+        "localTimeZone": "America/New_York",
+        "tba": false,
+        "home": true,
+        "overall": true,
+        "conference": true,
+        "division": false,
+        "regional": false,
+        "national": true,
+        "inProgress": false,
+        "statusCode": 0,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "osmprq8m3z882onj",
+        "fastdate": 1768676400000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "ap2Result": "L, 70-80",
+        "conferenceResult": "70-80",
+        "resultAsObject": {
+            "results": [
+                80,
+                70
+            ],
+            "winner": {
+                "name": "South Georgia State College",
+                "result": "80",
+                "teamId": "zdhzkxtajzh68wyx",
+                "winner": false,
+                "cleanName": "s georgia st col"
+            },
+            "loser": {
+                "name": "Gordon State College",
+                "result": "70",
+                "teamId": "4tt9ftp57580kdn4",
+                "winner": false,
+                "cleanName": "gordon st col"
+            },
+            "resolved": true,
+            "hasScores": true,
+            "description": "Loss",
+            "score": "70-80",
+            "numericResults": [
+                70,
+                80
+            ],
+            "winnerLoser": "80-70",
+            "descriptionShortWithOT": "L"
+        },
+        "opponent": {
+            "name": "South Georgia State College",
+            "result": "80",
+            "teamId": "zdhzkxtajzh68wyx",
+            "winner": false,
+            "cleanName": "s georgia st col"
+        },
+        "us": {
+            "name": "Gordon State College",
+            "result": "70",
+            "teamId": "4tt9ftp57580kdn4",
+            "winner": false,
+            "cleanName": "gordon st col"
+        },
+        "winner": {
+            "name": "South Georgia State College",
+            "result": "80",
+            "teamId": "zdhzkxtajzh68wyx",
+            "winner": false,
+            "cleanName": "s georgia st col"
+        },
+        "loser": {
+            "name": "Gordon State College",
+            "result": "70",
+            "teamId": "4tt9ftp57580kdn4",
+            "winner": false,
+            "cleanName": "gordon st col"
+        },
+        "apresult": "L, 80-70",
+        "result": {
+            "results": [
+                80,
+                70
+            ],
+            "winner": {
+                "name": "South Georgia State College",
+                "result": "80",
+                "teamId": "zdhzkxtajzh68wyx",
+                "winner": false,
+                "cleanName": "s georgia st col"
+            },
+            "loser": {
+                "name": "Gordon State College",
+                "result": "70",
+                "teamId": "4tt9ftp57580kdn4",
+                "winner": false,
+                "cleanName": "gordon st col"
+            },
+            "resolved": true,
+            "hasScores": true,
+            "description": "Loss",
+            "score": "70-80",
+            "numericResults": [
+                70,
+                80
+            ],
+            "winnerLoser": "80-70",
+            "descriptionShortWithOT": "L"
+        }
+    },
+    "eventDateFormattedAriaLabel": "January 17 02:00 PM:"
+}

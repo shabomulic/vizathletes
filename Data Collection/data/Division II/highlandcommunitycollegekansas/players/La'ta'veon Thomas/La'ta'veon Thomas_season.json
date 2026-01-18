@@ -54,7 +54,7 @@
     "careerId": null,
     "rank": null,
     "eventCount": 0,
-    "lastUpdated": 1765823253000,
+    "lastUpdated": 1768613777000,
     "position": "G",
     "positionAbbreviation": null,
     "positionCode": "G002",
@@ -67,10 +67,10 @@
     "uniform": "20",
     "year": "Fr.",
     "playerStatus": {
-        "enumCode": 1,
-        "abbr": "A",
-        "statusName": "Active",
-        "active": true,
+        "enumCode": 0,
+        "abbr": "I",
+        "statusName": "Inactive",
+        "active": false,
         "interceptFieldCallback": null,
         "nullableType": {
             "comparator": {},
@@ -88,7 +88,7 @@
         },
         "mutable": false
     },
-    "active": true,
+    "active": false,
     "fullName": "La'ta'veon Thomas",
     "minCalcStats": {
         "fgppm": false,

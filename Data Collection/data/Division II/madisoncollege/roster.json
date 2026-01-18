@@ -1,21 +1,5 @@
 [
     {
-        "number": "0",
-        "name": "Antoine Coleman",
-        "position": "Guard",
-        "class_year": "So.",
-        "height": "6-5",
-        "weight": "195"
-    },
-    {
-        "number": "1",
-        "name": "Jevon Campbell",
-        "position": "Guard",
-        "class_year": "So.",
-        "height": "6-2",
-        "weight": "185"
-    },
-    {
         "number": "2",
         "name": "Braylen Blue",
         "position": "Guard",
@@ -46,14 +30,6 @@
         "class_year": "So.",
         "height": "6-1",
         "weight": "185"
-    },
-    {
-        "number": "6",
-        "name": "Ryen Jones",
-        "position": "Forward",
-        "class_year": "So.",
-        "height": "6-5",
-        "weight": "190"
     },
     {
         "number": "10",

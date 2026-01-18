@@ -158,7 +158,7 @@
     "careerId": null,
     "rank": null,
     "eventCount": 1,
-    "lastUpdated": 1766508434000,
+    "lastUpdated": 1768686026000,
     "position": "G",
     "positionAbbreviation": "G",
     "positionCode": null,
@@ -166,10 +166,10 @@
     "uniform": "03",
     "year": "So",
     "playerStatus": {
-        "enumCode": 1,
-        "abbr": "A",
-        "statusName": "Active",
-        "active": true,
+        "enumCode": 0,
+        "abbr": "I",
+        "statusName": "Inactive",
+        "active": false,
         "interceptFieldCallback": null,
         "nullableType": {
             "comparator": {},
@@ -187,7 +187,7 @@
         },
         "mutable": false
     },
-    "active": true,
+    "active": false,
     "fullName": "Grant Bean",
     "minCalcStats": {
         "fgppm": false,

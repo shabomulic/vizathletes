@@ -208,7 +208,7 @@
     "careerId": null,
     "rank": null,
     "eventCount": 8,
-    "lastUpdated": 1766853012000,
+    "lastUpdated": 1768440215000,
     "position": "G",
     "positionAbbreviation": "G",
     "positionCode": null,
@@ -216,10 +216,10 @@
     "uniform": "4",
     "year": "Fr",
     "playerStatus": {
-        "enumCode": 1,
-        "abbr": "A",
-        "statusName": "Active",
-        "active": true,
+        "enumCode": 0,
+        "abbr": "I",
+        "statusName": "Inactive",
+        "active": false,
         "interceptFieldCallback": null,
         "nullableType": {
             "comparator": {},
@@ -237,7 +237,7 @@
         },
         "mutable": false
     },
-    "active": true,
+    "active": false,
     "fullName": "Quincey Miller",
     "minCalcStats": {
         "fgppm": false,

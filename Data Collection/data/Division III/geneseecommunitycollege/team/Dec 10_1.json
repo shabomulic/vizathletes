@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Dec 10",
+    "boxScoreLink": "20251210_moww.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Jamestown Community College",
+                "result": "",
+                "teamId": "7ank172l042mkm04",
+                "winner": false,
+                "cleanName": "jamestown community col"
+            },
+            {
+                "name": "Genesee Community College",
+                "result": "",
+                "teamId": "bybza82r0azpxwul",
+                "winner": false,
+                "cleanName": "genesee community col"
+            }
+        ],
+        "status": "Postponed",
+        "notes": "",
+        "notesShared": "",
+        "date": 1765411200000,
+        "localTimeZone": "America/New_York",
+        "tba": false,
+        "home": true,
+        "overall": true,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": true,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": true,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "mowwxexe3fb188em",
+        "fastdate": 1765411200000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": true,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Jamestown Community College",
+            "result": "",
+            "teamId": "7ank172l042mkm04",
+            "winner": false,
+            "cleanName": "jamestown community col"
+        },
+        "us": {
+            "name": "Genesee Community College",
+            "result": "",
+            "teamId": "bybza82r0azpxwul",
+            "winner": false,
+            "cleanName": "genesee community col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "December 10 07:00 PM:"
+}

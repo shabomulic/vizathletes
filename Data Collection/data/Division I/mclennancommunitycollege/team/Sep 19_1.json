@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Sep 19",
+    "boxScoreLink": "20250919_d4g7.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Region V September Showcase Open Practice Event",
+                "result": "",
+                "teamId": "lyssr2vt4n3gh4gw",
+                "winner": false,
+                "cleanName": "region v september showcase open practice event"
+            },
+            {
+                "name": "McLennan Community College",
+                "result": "",
+                "teamId": "qe8wmf9rwf0qx9mu",
+                "winner": false,
+                "cleanName": "mclennan community col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1758254400000,
+        "localTimeZone": "America/Chicago",
+        "tba": true,
+        "home": true,
+        "overall": true,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "d4g77gu0b6mnzts5",
+        "fastdate": 1758254400000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "exhibition",
+            "description": "Exhibition",
+            "statsCount": false
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Region V September Showcase Open Practice Event",
+            "result": "",
+            "teamId": "lyssr2vt4n3gh4gw",
+            "winner": false,
+            "cleanName": "region v september showcase open practice event"
+        },
+        "us": {
+            "name": "McLennan Community College",
+            "result": "",
+            "teamId": "qe8wmf9rwf0qx9mu",
+            "winner": false,
+            "cleanName": "mclennan community col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "September 19 12:00 AM:"
+}

@@ -1,0 +1,161 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Jan 12",
+    "boxScoreLink": "20260112_c1pl.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Aurora University",
+                "result": "68",
+                "teamId": "a69ny80528qsodfo",
+                "winner": false,
+                "cleanName": "aurora univ"
+            },
+            {
+                "name": "College of DuPage",
+                "result": "100",
+                "teamId": "7p9wu4ab2mzjq40d",
+                "winner": false,
+                "cleanName": "col dupage"
+            }
+        ],
+        "status": "Final",
+        "notes": "",
+        "notesShared": "",
+        "date": 1768251600000,
+        "localTimeZone": "America/Chicago",
+        "tba": false,
+        "home": true,
+        "overall": false,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": 0,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "c1pl46tab70j9q2r",
+        "fastdate": 1768251600000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "425 Fawell Blvd",
+        "city": "Glen Ellyn",
+        "stateCountry": "Illinois",
+        "zipCode": "",
+        "venue": "PEC Arena",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "ap2Result": "W, 100-68",
+        "conferenceResult": "100-68",
+        "resultAsObject": {
+            "results": [
+                68,
+                100
+            ],
+            "winner": {
+                "name": "College of DuPage",
+                "result": "100",
+                "teamId": "7p9wu4ab2mzjq40d",
+                "winner": false,
+                "cleanName": "col dupage"
+            },
+            "loser": {
+                "name": "Aurora University",
+                "result": "68",
+                "teamId": "a69ny80528qsodfo",
+                "winner": false,
+                "cleanName": "aurora univ"
+            },
+            "resolved": true,
+            "hasScores": true,
+            "description": "Win",
+            "score": "100-68",
+            "numericResults": [
+                100,
+                68
+            ],
+            "winnerLoser": "100-68",
+            "descriptionShortWithOT": "W"
+        },
+        "opponent": {
+            "name": "Aurora University",
+            "result": "68",
+            "teamId": "a69ny80528qsodfo",
+            "winner": false,
+            "cleanName": "aurora univ"
+        },
+        "us": {
+            "name": "College of DuPage",
+            "result": "100",
+            "teamId": "7p9wu4ab2mzjq40d",
+            "winner": false,
+            "cleanName": "col dupage"
+        },
+        "winner": {
+            "name": "College of DuPage",
+            "result": "100",
+            "teamId": "7p9wu4ab2mzjq40d",
+            "winner": false,
+            "cleanName": "col dupage"
+        },
+        "loser": {
+            "name": "Aurora University",
+            "result": "68",
+            "teamId": "a69ny80528qsodfo",
+            "winner": false,
+            "cleanName": "aurora univ"
+        },
+        "apresult": "W, 100-68",
+        "result": {
+            "results": [
+                68,
+                100
+            ],
+            "winner": {
+                "name": "College of DuPage",
+                "result": "100",
+                "teamId": "7p9wu4ab2mzjq40d",
+                "winner": false,
+                "cleanName": "col dupage"
+            },
+            "loser": {
+                "name": "Aurora University",
+                "result": "68",
+                "teamId": "a69ny80528qsodfo",
+                "winner": false,
+                "cleanName": "aurora univ"
+            },
+            "resolved": true,
+            "hasScores": true,
+            "description": "Win",
+            "score": "100-68",
+            "numericResults": [
+                100,
+                68
+            ],
+            "winnerLoser": "100-68",
+            "descriptionShortWithOT": "W"
+        }
+    },
+    "eventDateFormattedAriaLabel": "January 12 04:00 PM:"
+}

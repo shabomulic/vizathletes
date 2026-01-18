@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Oct 23",
+    "boxScoreLink": "20251023_q6u6.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Kingsborough Community College",
+                "result": "",
+                "teamId": "lzgzw7v5sr8ha1jj",
+                "winner": false,
+                "cleanName": "kingsborough community col"
+            },
+            {
+                "name": "Essex County College",
+                "result": "",
+                "teamId": "53knpgmizc4kjdxc",
+                "winner": false,
+                "cleanName": "essex county col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1761264000000,
+        "localTimeZone": "America/New_York",
+        "tba": false,
+        "home": false,
+        "overall": false,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": true,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "q6u660hnqlw0lbvt",
+        "fastdate": 1761264000000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "177 West Market Street",
+        "city": "Newark",
+        "stateCountry": "NJ",
+        "zipCode": "07102",
+        "venue": "Cleo Hill Sr. Gym",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "scrimmage",
+            "description": "Scrimmage",
+            "statsCount": false
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Essex County College",
+            "result": "",
+            "teamId": "53knpgmizc4kjdxc",
+            "winner": false,
+            "cleanName": "essex county col"
+        },
+        "us": {
+            "name": "Kingsborough Community College",
+            "result": "",
+            "teamId": "lzgzw7v5sr8ha1jj",
+            "winner": false,
+            "cleanName": "kingsborough community col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "October 23 08:00 PM:"
+}

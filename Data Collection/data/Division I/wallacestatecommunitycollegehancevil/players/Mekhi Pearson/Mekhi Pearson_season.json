@@ -54,11 +54,16 @@
     "careerId": null,
     "rank": null,
     "eventCount": 0,
-    "lastUpdated": 1766521864000,
-    "position": "F/C",
+    "lastUpdated": 1768536167000,
+    "position": "",
     "positionAbbreviation": "",
     "positionCode": null,
-    "dataMap": {},
+    "dataMap": {
+        "hometown": "",
+        "born": "",
+        "weight": "",
+        "height": "6'7"
+    },
     "uniform": "15",
     "year": "Fr",
     "playerStatus": {
@@ -75,10 +80,10 @@
             "defaultValue": 0,
             "mutable": false,
             "componentType": false,
+            "collectionType": false,
             "entityType": false,
             "associationType": false,
             "xmlelement": false,
-            "collectionType": false,
             "anyType": false
         },
         "mutable": false

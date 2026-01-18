@@ -54,7 +54,7 @@
     "careerId": null,
     "rank": null,
     "eventCount": 0,
-    "lastUpdated": 1766417528000,
+    "lastUpdated": 1768701155000,
     "position": "F",
     "positionAbbreviation": "F",
     "positionCode": "F002",
@@ -64,7 +64,7 @@
         "weight": "190",
         "height": "6'4"
     },
-    "uniform": "10",
+    "uniform": "25",
     "year": "Freshmen",
     "playerStatus": {
         "enumCode": 1,
@@ -78,12 +78,12 @@
             "name": "integer",
             "primitiveClass": "int",
             "defaultValue": 0,
+            "collectionType": false,
             "mutable": false,
-            "componentType": false,
             "entityType": false,
+            "componentType": false,
             "associationType": false,
             "xmlelement": false,
-            "collectionType": false,
             "anyType": false
         },
         "mutable": false

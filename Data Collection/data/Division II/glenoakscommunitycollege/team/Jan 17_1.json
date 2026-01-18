@@ -1,0 +1,161 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Jan 17",
+    "boxScoreLink": "20260117_cbcc.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Lake Michigan College",
+                "result": "92",
+                "teamId": "6i3dsid0tgbinybu",
+                "winner": false,
+                "cleanName": "lake michigan col"
+            },
+            {
+                "name": "Glen Oaks Community College",
+                "result": "89",
+                "teamId": "9k18utbdbe4o26f1",
+                "winner": false,
+                "cleanName": "glen oaks community col"
+            }
+        ],
+        "status": "Final",
+        "notes": "",
+        "notesShared": "@ Firm Foundation Ministries &mdash; 651 E Main St. Centreville, MI 49032",
+        "date": 1768680000000,
+        "localTimeZone": "America/New_York",
+        "tba": false,
+        "home": true,
+        "overall": true,
+        "conference": true,
+        "division": false,
+        "regional": true,
+        "national": true,
+        "inProgress": false,
+        "statusCode": 0,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "Firm Foundation Ministries",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "cbcclrchdxl5r535",
+        "fastdate": 1768680000000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "651 E Main St. Centreville, MI 49032",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "Firm Foundation Ministries",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "conferenceResult": "89-92",
+        "resultAsObject": {
+            "results": [
+                92,
+                89
+            ],
+            "winner": {
+                "name": "Lake Michigan College",
+                "result": "92",
+                "teamId": "6i3dsid0tgbinybu",
+                "winner": false,
+                "cleanName": "lake michigan col"
+            },
+            "loser": {
+                "name": "Glen Oaks Community College",
+                "result": "89",
+                "teamId": "9k18utbdbe4o26f1",
+                "winner": false,
+                "cleanName": "glen oaks community col"
+            },
+            "resolved": true,
+            "hasScores": true,
+            "description": "Loss",
+            "score": "89-92",
+            "numericResults": [
+                89,
+                92
+            ],
+            "winnerLoser": "92-89",
+            "descriptionShortWithOT": "L"
+        },
+        "opponent": {
+            "name": "Lake Michigan College",
+            "result": "92",
+            "teamId": "6i3dsid0tgbinybu",
+            "winner": false,
+            "cleanName": "lake michigan col"
+        },
+        "us": {
+            "name": "Glen Oaks Community College",
+            "result": "89",
+            "teamId": "9k18utbdbe4o26f1",
+            "winner": false,
+            "cleanName": "glen oaks community col"
+        },
+        "winner": {
+            "name": "Lake Michigan College",
+            "result": "92",
+            "teamId": "6i3dsid0tgbinybu",
+            "winner": false,
+            "cleanName": "lake michigan col"
+        },
+        "loser": {
+            "name": "Glen Oaks Community College",
+            "result": "89",
+            "teamId": "9k18utbdbe4o26f1",
+            "winner": false,
+            "cleanName": "glen oaks community col"
+        },
+        "apresult": "L, 92-89",
+        "ap2Result": "L, 89-92",
+        "result": {
+            "results": [
+                92,
+                89
+            ],
+            "winner": {
+                "name": "Lake Michigan College",
+                "result": "92",
+                "teamId": "6i3dsid0tgbinybu",
+                "winner": false,
+                "cleanName": "lake michigan col"
+            },
+            "loser": {
+                "name": "Glen Oaks Community College",
+                "result": "89",
+                "teamId": "9k18utbdbe4o26f1",
+                "winner": false,
+                "cleanName": "glen oaks community col"
+            },
+            "resolved": true,
+            "hasScores": true,
+            "description": "Loss",
+            "score": "89-92",
+            "numericResults": [
+                89,
+                92
+            ],
+            "winnerLoser": "92-89",
+            "descriptionShortWithOT": "L"
+        }
+    },
+    "eventDateFormattedAriaLabel": "January 17 03:00 PM:"
+}

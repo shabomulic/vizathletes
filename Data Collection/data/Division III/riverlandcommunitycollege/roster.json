@@ -81,19 +81,11 @@
     },
     {
         "number": "21",
-        "name": "Eli Ocharo",
+        "name": "De'Vaun Suggs-Dabney",
         "position": "G",
-        "class_year": "So",
-        "height": "6'2''",
-        "weight": "175"
-    },
-    {
-        "number": "23",
-        "name": "Jahnial Jones",
-        "position": "F",
         "class_year": "Fr",
-        "height": "6'9''",
-        "weight": "200"
+        "height": "6'2''",
+        "weight": "190"
     },
     {
         "number": "24",
@@ -120,14 +112,6 @@
         "weight": "220"
     },
     {
-        "number": "31",
-        "name": "Jamison Rowe",
-        "position": "G",
-        "class_year": "Fr",
-        "height": "6'3''",
-        "weight": "180"
-    },
-    {
         "number": "32",
         "name": "Drew Balentine",
         "position": "G",
@@ -142,14 +126,6 @@
         "class_year": "So",
         "height": "6'2''",
         "weight": "175"
-    },
-    {
-        "number": "35",
-        "name": "Donovan Bratton",
-        "position": "G",
-        "class_year": "Fr",
-        "height": "6'2''",
-        "weight": "180"
     },
     {
         "number": "42",

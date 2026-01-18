@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Feb 17",
+    "boxScoreLink": "20260217_6o82.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Black Hawk College",
+                "result": "",
+                "teamId": "2g9d3shhzpfd8j0y",
+                "winner": false,
+                "cleanName": "black hawk col"
+            },
+            {
+                "name": "Carl Sandburg College",
+                "result": "",
+                "teamId": "m799041bww3nsx0e",
+                "winner": false,
+                "cleanName": "carl sandburg col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "Sophomore Night",
+        "date": 1771374600000,
+        "localTimeZone": "America/Chicago",
+        "tba": false,
+        "home": false,
+        "overall": true,
+        "conference": true,
+        "division": false,
+        "regional": true,
+        "national": true,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "6o82wszyj9y09mdh",
+        "fastdate": 1771374600000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Carl Sandburg College",
+            "result": "",
+            "teamId": "m799041bww3nsx0e",
+            "winner": false,
+            "cleanName": "carl sandburg col"
+        },
+        "us": {
+            "name": "Black Hawk College",
+            "result": "",
+            "teamId": "2g9d3shhzpfd8j0y",
+            "winner": false,
+            "cleanName": "black hawk col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "February 17 07:30 PM:"
+}

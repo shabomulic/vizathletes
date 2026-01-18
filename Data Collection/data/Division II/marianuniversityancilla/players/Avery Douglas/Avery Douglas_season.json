@@ -54,18 +54,18 @@
     "careerId": null,
     "rank": null,
     "eventCount": 0,
-    "lastUpdated": 1766600364000,
-    "position": "F",
+    "lastUpdated": 1768704180000,
+    "position": "Forward",
     "positionAbbreviation": "F",
     "positionCode": null,
     "dataMap": {},
     "uniform": "3",
     "year": "Sophomore",
     "playerStatus": {
-        "enumCode": 1,
-        "abbr": "A",
-        "statusName": "Active",
-        "active": true,
+        "enumCode": 0,
+        "abbr": "I",
+        "statusName": "Inactive",
+        "active": false,
         "interceptFieldCallback": null,
         "nullableType": {
             "comparator": {},
@@ -83,7 +83,7 @@
         },
         "mutable": false
     },
-    "active": true,
+    "active": false,
     "fullName": "Avery Douglas",
     "minCalcStats": {
         "fgppm": false,

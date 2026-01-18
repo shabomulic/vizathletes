@@ -225,7 +225,7 @@
     "careerId": null,
     "rank": null,
     "eventCount": 4,
-    "lastUpdated": 1766438450000,
+    "lastUpdated": 1768705042000,
     "position": "C",
     "positionAbbreviation": null,
     "positionCode": "C0SO",
@@ -251,10 +251,10 @@
             "defaultValue": 0,
             "mutable": false,
             "componentType": false,
+            "collectionType": false,
             "entityType": false,
             "associationType": false,
             "xmlelement": false,
-            "collectionType": false,
             "anyType": false
         },
         "mutable": false

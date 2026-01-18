@@ -1,0 +1,161 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Oct 16",
+    "boxScoreLink": "20251016_a352.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "University of Maine Augusta",
+                "result": "92",
+                "teamId": "uywmv38yzrjo2m20",
+                "winner": false,
+                "cleanName": "univ maine augusta"
+            },
+            {
+                "name": "Roxbury Community College",
+                "result": "73",
+                "teamId": "fes4z27l5wxkpyir",
+                "winner": false,
+                "cleanName": "roxbury community col"
+            }
+        ],
+        "status": "Final",
+        "notes": "",
+        "notesShared": "Scrimmage",
+        "date": 1760652000000,
+        "localTimeZone": "America/New_York",
+        "tba": false,
+        "home": true,
+        "overall": false,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": 0,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "a352pzkwp0o9pm98",
+        "fastdate": 1760652000000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "scrimmage",
+            "description": "Scrimmage",
+            "statsCount": false
+        },
+        "conferenceResult": "73-92",
+        "resultAsObject": {
+            "results": [
+                92,
+                73
+            ],
+            "winner": {
+                "name": "University of Maine Augusta",
+                "result": "92",
+                "teamId": "uywmv38yzrjo2m20",
+                "winner": false,
+                "cleanName": "univ maine augusta"
+            },
+            "loser": {
+                "name": "Roxbury Community College",
+                "result": "73",
+                "teamId": "fes4z27l5wxkpyir",
+                "winner": false,
+                "cleanName": "roxbury community col"
+            },
+            "resolved": true,
+            "hasScores": true,
+            "description": "Loss",
+            "score": "73-92",
+            "numericResults": [
+                73,
+                92
+            ],
+            "winnerLoser": "92-73",
+            "descriptionShortWithOT": "L"
+        },
+        "opponent": {
+            "name": "University of Maine Augusta",
+            "result": "92",
+            "teamId": "uywmv38yzrjo2m20",
+            "winner": false,
+            "cleanName": "univ maine augusta"
+        },
+        "us": {
+            "name": "Roxbury Community College",
+            "result": "73",
+            "teamId": "fes4z27l5wxkpyir",
+            "winner": false,
+            "cleanName": "roxbury community col"
+        },
+        "winner": {
+            "name": "University of Maine Augusta",
+            "result": "92",
+            "teamId": "uywmv38yzrjo2m20",
+            "winner": false,
+            "cleanName": "univ maine augusta"
+        },
+        "loser": {
+            "name": "Roxbury Community College",
+            "result": "73",
+            "teamId": "fes4z27l5wxkpyir",
+            "winner": false,
+            "cleanName": "roxbury community col"
+        },
+        "apresult": "L, 92-73",
+        "ap2Result": "L, 73-92",
+        "result": {
+            "results": [
+                92,
+                73
+            ],
+            "winner": {
+                "name": "University of Maine Augusta",
+                "result": "92",
+                "teamId": "uywmv38yzrjo2m20",
+                "winner": false,
+                "cleanName": "univ maine augusta"
+            },
+            "loser": {
+                "name": "Roxbury Community College",
+                "result": "73",
+                "teamId": "fes4z27l5wxkpyir",
+                "winner": false,
+                "cleanName": "roxbury community col"
+            },
+            "resolved": true,
+            "hasScores": true,
+            "description": "Loss",
+            "score": "73-92",
+            "numericResults": [
+                73,
+                92
+            ],
+            "winnerLoser": "92-73",
+            "descriptionShortWithOT": "L"
+        }
+    },
+    "eventDateFormattedAriaLabel": "October 16 06:00 PM:"
+}

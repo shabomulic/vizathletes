@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Jan 27",
+    "boxScoreLink": "20260127_x9wx.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Atlantic Cape Community College",
+                "result": "",
+                "teamId": "3ky7k3et9po89yso",
+                "winner": false,
+                "cleanName": "atlantic cape community col"
+            },
+            {
+                "name": "Bergen Community College",
+                "result": "",
+                "teamId": "i3t37vz94okcfbea",
+                "winner": false,
+                "cleanName": "bergen community col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1769558400000,
+        "localTimeZone": "America/New_York",
+        "tba": false,
+        "home": true,
+        "overall": true,
+        "conference": true,
+        "division": true,
+        "regional": true,
+        "national": true,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "x9wxmedtyomvmlc4",
+        "fastdate": 1769558400000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Atlantic Cape Community College",
+            "result": "",
+            "teamId": "3ky7k3et9po89yso",
+            "winner": false,
+            "cleanName": "atlantic cape community col"
+        },
+        "us": {
+            "name": "Bergen Community College",
+            "result": "",
+            "teamId": "i3t37vz94okcfbea",
+            "winner": false,
+            "cleanName": "bergen community col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "January 27 07:00 PM:"
+}

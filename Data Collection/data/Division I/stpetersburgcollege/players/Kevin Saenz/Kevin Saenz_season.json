@@ -172,7 +172,7 @@
     "careerId": null,
     "rank": null,
     "eventCount": 6,
-    "lastUpdated": 1766375155000,
+    "lastUpdated": 1768769080000,
     "position": "G",
     "positionAbbreviation": "G",
     "positionCode": "G001",
@@ -198,10 +198,10 @@
             "defaultValue": 0,
             "mutable": false,
             "componentType": false,
-            "entityType": false,
+            "collectionType": false,
             "associationType": false,
             "xmlelement": false,
-            "collectionType": false,
+            "entityType": false,
             "anyType": false
         },
         "mutable": false

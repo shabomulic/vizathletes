@@ -54,12 +54,17 @@
     "careerId": null,
     "rank": null,
     "eventCount": 0,
-    "lastUpdated": 1766378683000,
+    "lastUpdated": 1768705405000,
     "position": "G",
     "positionAbbreviation": null,
     "positionCode": "G0SO",
-    "dataMap": {},
-    "uniform": "2",
+    "dataMap": {
+        "hometown": "",
+        "born": "",
+        "weight": "",
+        "height": ""
+    },
+    "uniform": "20",
     "year": "So",
     "playerStatus": {
         "enumCode": 1,
@@ -75,10 +80,10 @@
             "defaultValue": 0,
             "mutable": false,
             "componentType": false,
+            "collectionType": false,
             "entityType": false,
             "associationType": false,
             "xmlelement": false,
-            "collectionType": false,
             "anyType": false
         },
         "mutable": false

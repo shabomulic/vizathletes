@@ -1,0 +1,161 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Jan 12",
+    "boxScoreLink": "20260112_uduz.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Clark State College",
+                "result": "93",
+                "teamId": "0y8pqvg0s9er6yo9",
+                "winner": false,
+                "cleanName": "clark st col"
+            },
+            {
+                "name": "Kent State Tuscarawas",
+                "result": "101",
+                "teamId": "257hyff21w4kug6z",
+                "winner": false,
+                "cleanName": "kent st tuscarawas"
+            }
+        ],
+        "status": "Final",
+        "notes": "",
+        "notesShared": "",
+        "date": 1768258800000,
+        "localTimeZone": "America/New_York",
+        "tba": false,
+        "home": false,
+        "overall": true,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": 0,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "uduzz2yeplul9kkp",
+        "fastdate": 1768258800000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "conferenceResult": "93-101",
+        "resultAsObject": {
+            "results": [
+                93,
+                101
+            ],
+            "winner": {
+                "name": "Kent State Tuscarawas",
+                "result": "101",
+                "teamId": "257hyff21w4kug6z",
+                "winner": false,
+                "cleanName": "kent st tuscarawas"
+            },
+            "loser": {
+                "name": "Clark State College",
+                "result": "93",
+                "teamId": "0y8pqvg0s9er6yo9",
+                "winner": false,
+                "cleanName": "clark st col"
+            },
+            "resolved": true,
+            "hasScores": true,
+            "description": "Loss",
+            "score": "93-101",
+            "numericResults": [
+                93,
+                101
+            ],
+            "winnerLoser": "101-93",
+            "descriptionShortWithOT": "L"
+        },
+        "opponent": {
+            "name": "Kent State Tuscarawas",
+            "result": "101",
+            "teamId": "257hyff21w4kug6z",
+            "winner": false,
+            "cleanName": "kent st tuscarawas"
+        },
+        "us": {
+            "name": "Clark State College",
+            "result": "93",
+            "teamId": "0y8pqvg0s9er6yo9",
+            "winner": false,
+            "cleanName": "clark st col"
+        },
+        "winner": {
+            "name": "Kent State Tuscarawas",
+            "result": "101",
+            "teamId": "257hyff21w4kug6z",
+            "winner": false,
+            "cleanName": "kent st tuscarawas"
+        },
+        "loser": {
+            "name": "Clark State College",
+            "result": "93",
+            "teamId": "0y8pqvg0s9er6yo9",
+            "winner": false,
+            "cleanName": "clark st col"
+        },
+        "apresult": "L, 101-93",
+        "ap2Result": "L, 93-101",
+        "result": {
+            "results": [
+                93,
+                101
+            ],
+            "winner": {
+                "name": "Kent State Tuscarawas",
+                "result": "101",
+                "teamId": "257hyff21w4kug6z",
+                "winner": false,
+                "cleanName": "kent st tuscarawas"
+            },
+            "loser": {
+                "name": "Clark State College",
+                "result": "93",
+                "teamId": "0y8pqvg0s9er6yo9",
+                "winner": false,
+                "cleanName": "clark st col"
+            },
+            "resolved": true,
+            "hasScores": true,
+            "description": "Loss",
+            "score": "93-101",
+            "numericResults": [
+                93,
+                101
+            ],
+            "winnerLoser": "101-93",
+            "descriptionShortWithOT": "L"
+        }
+    },
+    "eventDateFormattedAriaLabel": "January 12 06:00 PM:"
+}

@@ -54,7 +54,7 @@
     "careerId": null,
     "rank": null,
     "eventCount": 0,
-    "lastUpdated": 1766271664000,
+    "lastUpdated": 1768718077000,
     "position": "F",
     "positionAbbreviation": null,
     "positionCode": "F002",
@@ -67,10 +67,10 @@
     "uniform": "44",
     "year": "FR",
     "playerStatus": {
-        "enumCode": 0,
-        "abbr": "I",
-        "statusName": "Inactive",
-        "active": false,
+        "enumCode": 1,
+        "abbr": "A",
+        "statusName": "Active",
+        "active": true,
         "interceptFieldCallback": null,
         "nullableType": {
             "comparator": {},
@@ -88,7 +88,7 @@
         },
         "mutable": false
     },
-    "active": false,
+    "active": true,
     "fullName": "Jordan Lodygowski",
     "minCalcStats": {
         "fgppm": false,

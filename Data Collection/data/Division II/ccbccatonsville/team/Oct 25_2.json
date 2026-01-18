@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Oct 25",
+    "boxScoreLink": "20251025_whs6.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "UCNJ",
+                "result": "",
+                "teamId": "ws7omr5o5bjxw34d",
+                "winner": false,
+                "cleanName": "ucnj"
+            },
+            {
+                "name": "CCBC Catonsville",
+                "result": "",
+                "teamId": "mbhu3rvpbgorzyuu",
+                "winner": false,
+                "cleanName": "ccbc catonsville"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "CCBC Jamboree",
+        "date": 1761422400000,
+        "localTimeZone": "America/New_York",
+        "tba": false,
+        "home": true,
+        "overall": false,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "CCBC Catonsville",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "whs6n3i3bialgw73",
+        "fastdate": 1761422400000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "scrimmage",
+            "description": "Scrimmage",
+            "statsCount": false
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "UCNJ",
+            "result": "",
+            "teamId": "ws7omr5o5bjxw34d",
+            "winner": false,
+            "cleanName": "ucnj"
+        },
+        "us": {
+            "name": "CCBC Catonsville",
+            "result": "",
+            "teamId": "mbhu3rvpbgorzyuu",
+            "winner": false,
+            "cleanName": "ccbc catonsville"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "October 25 04:00 PM:"
+}

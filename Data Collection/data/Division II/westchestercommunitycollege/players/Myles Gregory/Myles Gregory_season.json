@@ -228,7 +228,7 @@
     "careerId": null,
     "rank": null,
     "eventCount": 8,
-    "lastUpdated": 1766357292000,
+    "lastUpdated": 1768693760000,
     "position": "G",
     "positionAbbreviation": null,
     "positionCode": "G0FR",
@@ -241,10 +241,10 @@
     "uniform": "23",
     "year": "Fr",
     "playerStatus": {
-        "enumCode": 1,
-        "abbr": "A",
-        "statusName": "Active",
-        "active": true,
+        "enumCode": 0,
+        "abbr": "I",
+        "statusName": "Inactive",
+        "active": false,
         "interceptFieldCallback": null,
         "nullableType": {
             "comparator": {},
@@ -262,7 +262,7 @@
         },
         "mutable": false
     },
-    "active": true,
+    "active": false,
     "fullName": "Myles Gregory",
     "minCalcStats": {
         "fgppm": false,

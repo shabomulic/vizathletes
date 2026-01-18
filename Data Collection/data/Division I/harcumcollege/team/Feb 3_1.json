@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Feb 3",
+    "boxScoreLink": "20260203_9jva.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "County College of Morris",
+                "result": "",
+                "teamId": "qjqb75rlw7kj18fr",
+                "winner": false,
+                "cleanName": "county col morris"
+            },
+            {
+                "name": "Harcum College",
+                "result": "",
+                "teamId": "vllrqt548y9ol8hp",
+                "winner": false,
+                "cleanName": "harcum col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1770163200000,
+        "localTimeZone": "America/New_York",
+        "tba": false,
+        "home": true,
+        "overall": true,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "9jvaw95peyfcv046",
+        "fastdate": 1770163200000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "575 W Lancaster Avenue Bryn Mawr, PA 19010",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "OMGC Stadium",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "County College of Morris",
+            "result": "",
+            "teamId": "qjqb75rlw7kj18fr",
+            "winner": false,
+            "cleanName": "county col morris"
+        },
+        "us": {
+            "name": "Harcum College",
+            "result": "",
+            "teamId": "vllrqt548y9ol8hp",
+            "winner": false,
+            "cleanName": "harcum col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "February 3 07:00 PM:"
+}

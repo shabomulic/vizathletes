@@ -1,0 +1,161 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Jan 13",
+    "boxScoreLink": "20260113_5tzc.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "St. Leo JV",
+                "result": "56",
+                "teamId": "8jnbwxa1uvqx0zhm",
+                "winner": false,
+                "cleanName": "st leo jv"
+            },
+            {
+                "name": "Pasco-Hernando State College",
+                "result": "119",
+                "teamId": "df666ycmf91sxhs8",
+                "winner": false,
+                "cleanName": "pasco hernando st col"
+            }
+        ],
+        "status": "Final",
+        "notes": "",
+        "notesShared": "",
+        "date": 1768345200000,
+        "localTimeZone": "America/New_York",
+        "tba": false,
+        "home": true,
+        "overall": true,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": 0,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "5tzcp118rgbn4lao",
+        "fastdate": 1768345200000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "conferenceResult": "119-56",
+        "resultAsObject": {
+            "results": [
+                56,
+                119
+            ],
+            "winner": {
+                "name": "Pasco-Hernando State College",
+                "result": "119",
+                "teamId": "df666ycmf91sxhs8",
+                "winner": false,
+                "cleanName": "pasco hernando st col"
+            },
+            "loser": {
+                "name": "St. Leo JV",
+                "result": "56",
+                "teamId": "8jnbwxa1uvqx0zhm",
+                "winner": false,
+                "cleanName": "st leo jv"
+            },
+            "resolved": true,
+            "hasScores": true,
+            "description": "Win",
+            "score": "119-56",
+            "numericResults": [
+                119,
+                56
+            ],
+            "winnerLoser": "119-56",
+            "descriptionShortWithOT": "W"
+        },
+        "opponent": {
+            "name": "St. Leo JV",
+            "result": "56",
+            "teamId": "8jnbwxa1uvqx0zhm",
+            "winner": false,
+            "cleanName": "st leo jv"
+        },
+        "us": {
+            "name": "Pasco-Hernando State College",
+            "result": "119",
+            "teamId": "df666ycmf91sxhs8",
+            "winner": false,
+            "cleanName": "pasco hernando st col"
+        },
+        "winner": {
+            "name": "Pasco-Hernando State College",
+            "result": "119",
+            "teamId": "df666ycmf91sxhs8",
+            "winner": false,
+            "cleanName": "pasco hernando st col"
+        },
+        "loser": {
+            "name": "St. Leo JV",
+            "result": "56",
+            "teamId": "8jnbwxa1uvqx0zhm",
+            "winner": false,
+            "cleanName": "st leo jv"
+        },
+        "apresult": "W, 119-56",
+        "ap2Result": "W, 119-56",
+        "result": {
+            "results": [
+                56,
+                119
+            ],
+            "winner": {
+                "name": "Pasco-Hernando State College",
+                "result": "119",
+                "teamId": "df666ycmf91sxhs8",
+                "winner": false,
+                "cleanName": "pasco hernando st col"
+            },
+            "loser": {
+                "name": "St. Leo JV",
+                "result": "56",
+                "teamId": "8jnbwxa1uvqx0zhm",
+                "winner": false,
+                "cleanName": "st leo jv"
+            },
+            "resolved": true,
+            "hasScores": true,
+            "description": "Win",
+            "score": "119-56",
+            "numericResults": [
+                119,
+                56
+            ],
+            "winnerLoser": "119-56",
+            "descriptionShortWithOT": "W"
+        }
+    },
+    "eventDateFormattedAriaLabel": "January 13 06:00 PM:"
+}

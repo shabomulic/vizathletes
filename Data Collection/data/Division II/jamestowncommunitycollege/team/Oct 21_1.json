@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Oct 21",
+    "boxScoreLink": "20251021_p79r.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Jamestown Community College",
+                "result": "",
+                "teamId": "7ank172l042mkm04",
+                "winner": false,
+                "cleanName": "jamestown community col"
+            },
+            {
+                "name": "Pitt Bradford",
+                "result": "",
+                "teamId": "6konlsaj2fwb3yh2",
+                "winner": false,
+                "cleanName": "pitt bradford"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1761019200000,
+        "localTimeZone": "America/New_York",
+        "tba": true,
+        "home": false,
+        "overall": false,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "p79ri8gz5tjmcee5",
+        "fastdate": 1761019200000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": true,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Pitt Bradford",
+            "result": "",
+            "teamId": "6konlsaj2fwb3yh2",
+            "winner": false,
+            "cleanName": "pitt bradford"
+        },
+        "us": {
+            "name": "Jamestown Community College",
+            "result": "",
+            "teamId": "7ank172l042mkm04",
+            "winner": false,
+            "cleanName": "jamestown community col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "October 21 12:00 AM:"
+}

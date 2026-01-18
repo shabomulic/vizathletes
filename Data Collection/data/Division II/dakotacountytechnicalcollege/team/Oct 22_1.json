@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Oct 22",
+    "boxScoreLink": "20251022_r4p0.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Mn Prep",
+                "result": "",
+                "teamId": "lji6txed51r1adcb",
+                "winner": false,
+                "cleanName": "mn prep"
+            },
+            {
+                "name": "Dakota County Technical College",
+                "result": "",
+                "teamId": "d6w8l64fbpdoxkwd",
+                "winner": false,
+                "cleanName": "dakota county technical col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1761105600000,
+        "localTimeZone": "America/Chicago",
+        "tba": true,
+        "home": true,
+        "overall": false,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "r4p019ruky9o0gan",
+        "fastdate": 1761105600000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "scrimmage",
+            "description": "Scrimmage",
+            "statsCount": false
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Mn Prep",
+            "result": "",
+            "teamId": "lji6txed51r1adcb",
+            "winner": false,
+            "cleanName": "mn prep"
+        },
+        "us": {
+            "name": "Dakota County Technical College",
+            "result": "",
+            "teamId": "d6w8l64fbpdoxkwd",
+            "winner": false,
+            "cleanName": "dakota county technical col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "October 22 12:00 AM:"
+}

@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Oct 30",
+    "boxScoreLink": "20251030_d505.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "City College",
+                "result": "",
+                "teamId": "mjvseafb6cv06pg3",
+                "winner": false,
+                "cleanName": "city col"
+            },
+            {
+                "name": "Hostos Community College",
+                "result": "",
+                "teamId": "cb8o337p6jn0zus3",
+                "winner": false,
+                "cleanName": "hostos community col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "Scrimmage",
+        "date": 1761863400000,
+        "localTimeZone": "America/New_York",
+        "tba": false,
+        "home": true,
+        "overall": false,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "d505psiwh8qglogz",
+        "fastdate": 1761863400000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "scrimmage",
+            "description": "Scrimmage",
+            "statsCount": false
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "City College",
+            "result": "",
+            "teamId": "mjvseafb6cv06pg3",
+            "winner": false,
+            "cleanName": "city col"
+        },
+        "us": {
+            "name": "Hostos Community College",
+            "result": "",
+            "teamId": "cb8o337p6jn0zus3",
+            "winner": false,
+            "cleanName": "hostos community col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "October 30 06:30 PM:"
+}

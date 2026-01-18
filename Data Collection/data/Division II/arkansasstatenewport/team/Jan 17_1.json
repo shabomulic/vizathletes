@@ -1,0 +1,161 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Jan 17",
+    "boxScoreLink": "20260117_5s9e.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Phillips Community College - UA",
+                "result": "77",
+                "teamId": "pvjffna6fpdggnar",
+                "winner": false,
+                "cleanName": "phillips community col ua"
+            },
+            {
+                "name": "Arkansas State-Newport",
+                "result": "67",
+                "teamId": "90y1irtfh0eld9qi",
+                "winner": false,
+                "cleanName": "arkansas st newport"
+            }
+        ],
+        "status": "Final",
+        "notes": "",
+        "notesShared": "",
+        "date": 1768676400000,
+        "localTimeZone": "America/Chicago",
+        "tba": false,
+        "home": true,
+        "overall": true,
+        "conference": true,
+        "division": false,
+        "regional": false,
+        "national": true,
+        "inProgress": false,
+        "statusCode": 0,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "5s9ens7fc0m1oij1",
+        "fastdate": 1768676400000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "resultAsObject": {
+            "results": [
+                77,
+                67
+            ],
+            "winner": {
+                "name": "Phillips Community College - UA",
+                "result": "77",
+                "teamId": "pvjffna6fpdggnar",
+                "winner": false,
+                "cleanName": "phillips community col ua"
+            },
+            "loser": {
+                "name": "Arkansas State-Newport",
+                "result": "67",
+                "teamId": "90y1irtfh0eld9qi",
+                "winner": false,
+                "cleanName": "arkansas st newport"
+            },
+            "resolved": true,
+            "hasScores": true,
+            "description": "Loss",
+            "score": "67-77",
+            "numericResults": [
+                67,
+                77
+            ],
+            "winnerLoser": "77-67",
+            "descriptionShortWithOT": "L"
+        },
+        "opponent": {
+            "name": "Phillips Community College - UA",
+            "result": "77",
+            "teamId": "pvjffna6fpdggnar",
+            "winner": false,
+            "cleanName": "phillips community col ua"
+        },
+        "us": {
+            "name": "Arkansas State-Newport",
+            "result": "67",
+            "teamId": "90y1irtfh0eld9qi",
+            "winner": false,
+            "cleanName": "arkansas st newport"
+        },
+        "winner": {
+            "name": "Phillips Community College - UA",
+            "result": "77",
+            "teamId": "pvjffna6fpdggnar",
+            "winner": false,
+            "cleanName": "phillips community col ua"
+        },
+        "loser": {
+            "name": "Arkansas State-Newport",
+            "result": "67",
+            "teamId": "90y1irtfh0eld9qi",
+            "winner": false,
+            "cleanName": "arkansas st newport"
+        },
+        "apresult": "L, 77-67",
+        "ap2Result": "L, 67-77",
+        "conferenceResult": "67-77",
+        "result": {
+            "results": [
+                77,
+                67
+            ],
+            "winner": {
+                "name": "Phillips Community College - UA",
+                "result": "77",
+                "teamId": "pvjffna6fpdggnar",
+                "winner": false,
+                "cleanName": "phillips community col ua"
+            },
+            "loser": {
+                "name": "Arkansas State-Newport",
+                "result": "67",
+                "teamId": "90y1irtfh0eld9qi",
+                "winner": false,
+                "cleanName": "arkansas st newport"
+            },
+            "resolved": true,
+            "hasScores": true,
+            "description": "Loss",
+            "score": "67-77",
+            "numericResults": [
+                67,
+                77
+            ],
+            "winnerLoser": "77-67",
+            "descriptionShortWithOT": "L"
+        }
+    },
+    "eventDateFormattedAriaLabel": "January 17 02:00 PM:"
+}

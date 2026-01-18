@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Oct 18",
+    "boxScoreLink": "20251018_knzf.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "MPA Trip School",
+                "result": "",
+                "teamId": "8z135s5rt4ih6tf6",
+                "winner": false,
+                "cleanName": "mpa trip school"
+            },
+            {
+                "name": "Dakota County Technical College",
+                "result": "",
+                "teamId": "d6w8l64fbpdoxkwd",
+                "winner": false,
+                "cleanName": "dakota county technical col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1760796000000,
+        "localTimeZone": "America/Chicago",
+        "tba": false,
+        "home": true,
+        "overall": false,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "knzf7mm8stxkngt8",
+        "fastdate": 1760796000000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "scrimmage",
+            "description": "Scrimmage",
+            "statsCount": false
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "MPA Trip School",
+            "result": "",
+            "teamId": "8z135s5rt4ih6tf6",
+            "winner": false,
+            "cleanName": "mpa trip school"
+        },
+        "us": {
+            "name": "Dakota County Technical College",
+            "result": "",
+            "teamId": "d6w8l64fbpdoxkwd",
+            "winner": false,
+            "cleanName": "dakota county technical col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "October 18 10:00 AM:"
+}

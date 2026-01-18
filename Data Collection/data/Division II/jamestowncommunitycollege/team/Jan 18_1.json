@@ -1,0 +1,119 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Jan 18",
+    "boxScoreLink": "20260118_3y89.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Orange County Community College",
+                "result": "41",
+                "teamId": "hasq8dsbramga7si",
+                "winner": false,
+                "cleanName": "orange county community col"
+            },
+            {
+                "name": "Jamestown Community College",
+                "result": "31",
+                "teamId": "7ank172l042mkm04",
+                "winner": false,
+                "cleanName": "jamestown community col"
+            }
+        ],
+        "status": "1st - 02:33",
+        "notes": "",
+        "notesShared": "",
+        "date": 1768762800000,
+        "localTimeZone": "America/New_York",
+        "tba": false,
+        "home": true,
+        "overall": true,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": true,
+        "inProgress": true,
+        "statusCode": -1,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "3y894mnp7b42abc4",
+        "fastdate": 1768762800000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "Jamestown",
+        "stateCountry": "NY",
+        "zipCode": "",
+        "venue": "",
+        "primetime": true,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "results": [
+                41,
+                31
+            ],
+            "resolved": false,
+            "hasScores": true,
+            "description": "",
+            "score": "31-41",
+            "numericResults": [
+                31,
+                41
+            ],
+            "winnerLoser": "31-41",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Orange County Community College",
+            "result": "41",
+            "teamId": "hasq8dsbramga7si",
+            "winner": false,
+            "cleanName": "orange county community col"
+        },
+        "us": {
+            "name": "Jamestown Community College",
+            "result": "31",
+            "teamId": "7ank172l042mkm04",
+            "winner": false,
+            "cleanName": "jamestown community col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "results": [
+                41,
+                31
+            ],
+            "resolved": false,
+            "hasScores": true,
+            "description": "",
+            "score": "31-41",
+            "numericResults": [
+                31,
+                41
+            ],
+            "winnerLoser": "31-41",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "January 18 02:00 PM:"
+}

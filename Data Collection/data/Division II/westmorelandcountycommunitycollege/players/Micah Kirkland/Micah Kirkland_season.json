@@ -174,7 +174,7 @@
     "careerId": null,
     "rank": null,
     "eventCount": 4,
-    "lastUpdated": 1766515705000,
+    "lastUpdated": 1768717028000,
     "position": "G",
     "positionAbbreviation": "G",
     "positionCode": null,
@@ -182,10 +182,10 @@
     "uniform": "12",
     "year": "Fr.",
     "playerStatus": {
-        "enumCode": 1,
-        "abbr": "A",
-        "statusName": "Active",
-        "active": true,
+        "enumCode": 0,
+        "abbr": "I",
+        "statusName": "Inactive",
+        "active": false,
         "interceptFieldCallback": null,
         "nullableType": {
             "comparator": {},
@@ -203,7 +203,7 @@
         },
         "mutable": false
     },
-    "active": true,
+    "active": false,
     "fullName": "Micah Kirkland",
     "minCalcStats": {
         "fgppm": false,

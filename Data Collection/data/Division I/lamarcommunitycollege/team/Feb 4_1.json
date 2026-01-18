@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Feb 4",
+    "boxScoreLink": "20260204_yu08.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Lamar Community College",
+                "result": "",
+                "teamId": "v0uqyhtqkp90p1k5",
+                "winner": false,
+                "cleanName": "lamar community col"
+            },
+            {
+                "name": "McCook Community College",
+                "result": "",
+                "teamId": "q4an22ykb2ffrhpa",
+                "winner": false,
+                "cleanName": "mccook community col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "Peter and Dolores Graff Events Center | McCook, Neb.",
+        "date": 1770247800000,
+        "localTimeZone": "America/Denver",
+        "tba": false,
+        "home": false,
+        "overall": true,
+        "conference": true,
+        "division": true,
+        "regional": false,
+        "national": true,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "yu08lu18afrj8emb",
+        "fastdate": 1770247800000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "McCook ",
+        "stateCountry": "NE",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "McCook Community College",
+            "result": "",
+            "teamId": "q4an22ykb2ffrhpa",
+            "winner": false,
+            "cleanName": "mccook community col"
+        },
+        "us": {
+            "name": "Lamar Community College",
+            "result": "",
+            "teamId": "v0uqyhtqkp90p1k5",
+            "winner": false,
+            "cleanName": "lamar community col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "February 4 06:30 PM:"
+}

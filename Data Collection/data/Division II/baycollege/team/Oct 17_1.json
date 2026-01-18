@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Oct 17",
+    "boxScoreLink": "20251017_ojt7.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Bay College",
+                "result": "",
+                "teamId": "vxtx7i8qw27zp2af",
+                "winner": false,
+                "cleanName": "bay col"
+            },
+            {
+                "name": "Michigan Tech",
+                "result": "",
+                "teamId": "44iefbe9u53mgj2k",
+                "winner": false,
+                "cleanName": "michigan tech"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1760724000000,
+        "localTimeZone": "America/New_York",
+        "tba": false,
+        "home": false,
+        "overall": false,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "ojt7lt460gqc5mep",
+        "fastdate": 1760724000000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "scrimmage",
+            "description": "Scrimmage",
+            "statsCount": false
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Michigan Tech",
+            "result": "",
+            "teamId": "44iefbe9u53mgj2k",
+            "winner": false,
+            "cleanName": "michigan tech"
+        },
+        "us": {
+            "name": "Bay College",
+            "result": "",
+            "teamId": "vxtx7i8qw27zp2af",
+            "winner": false,
+            "cleanName": "bay col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "October 17 02:00 PM:"
+}

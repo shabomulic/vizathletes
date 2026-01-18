@@ -234,12 +234,17 @@
     "careerId": null,
     "rank": null,
     "eventCount": 6,
-    "lastUpdated": 1765823572000,
+    "lastUpdated": 1768588440000,
     "position": "PG",
     "positionAbbreviation": "PG",
-    "positionCode": null,
-    "dataMap": {},
-    "uniform": "1",
+    "positionCode": "1002",
+    "dataMap": {
+        "hometown": "",
+        "born": "",
+        "weight": "",
+        "height": ""
+    },
+    "uniform": "11",
     "year": "",
     "playerStatus": {
         "enumCode": 1,
@@ -253,12 +258,12 @@
             "name": "integer",
             "primitiveClass": "int",
             "defaultValue": 0,
+            "collectionType": false,
             "mutable": false,
-            "componentType": false,
             "entityType": false,
+            "componentType": false,
             "associationType": false,
             "xmlelement": false,
-            "collectionType": false,
             "anyType": false
         },
         "mutable": false

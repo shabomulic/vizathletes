@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Jan 28",
+    "boxScoreLink": "20260128_gbc0.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Genesee Community College",
+                "result": "",
+                "teamId": "bybza82r0azpxwul",
+                "winner": false,
+                "cleanName": "genesee community col"
+            },
+            {
+                "name": "Finger Lakes Community College",
+                "result": "",
+                "teamId": "samy42n5pvho9vd7",
+                "winner": false,
+                "cleanName": "finger lakes community col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1769644800000,
+        "localTimeZone": "America/New_York",
+        "tba": false,
+        "home": false,
+        "overall": true,
+        "conference": true,
+        "division": false,
+        "regional": true,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "gbc0nco94d8us3gr",
+        "fastdate": 1769644800000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": true,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Finger Lakes Community College",
+            "result": "",
+            "teamId": "samy42n5pvho9vd7",
+            "winner": false,
+            "cleanName": "finger lakes community col"
+        },
+        "us": {
+            "name": "Genesee Community College",
+            "result": "",
+            "teamId": "bybza82r0azpxwul",
+            "winner": false,
+            "cleanName": "genesee community col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "January 28 07:00 PM:"
+}

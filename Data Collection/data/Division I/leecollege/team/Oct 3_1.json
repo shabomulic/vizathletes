@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Oct 3",
+    "boxScoreLink": "20251003_iwdq.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Pratt Community College",
+                "result": "",
+                "teamId": "ay0agbkbv0pxzeyu",
+                "winner": false,
+                "cleanName": "pratt community col"
+            },
+            {
+                "name": "Lee College",
+                "result": "",
+                "teamId": "qmngg5cgy8qy9z6i",
+                "winner": false,
+                "cleanName": "lee col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1759500000000,
+        "localTimeZone": "America/Chicago",
+        "tba": false,
+        "home": true,
+        "overall": true,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "iwdq26kqlswg43u4",
+        "fastdate": 1759500000000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "preSeason",
+            "description": "Pre-Season",
+            "statsCount": true
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Pratt Community College",
+            "result": "",
+            "teamId": "ay0agbkbv0pxzeyu",
+            "winner": false,
+            "cleanName": "pratt community col"
+        },
+        "us": {
+            "name": "Lee College",
+            "result": "",
+            "teamId": "qmngg5cgy8qy9z6i",
+            "winner": false,
+            "cleanName": "lee col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "numericResults": [],
+            "description": "",
+            "score": "",
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "October 3 10:00 AM:"
+}

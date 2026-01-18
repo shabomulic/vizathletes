@@ -1,106 +1,114 @@
 [
     {
         "number": "0",
-        "name": "0",
-        "position": "Matthew Jolivert",
-        "class_year": "Guard",
-        "height": "Fr",
-        "weight": "5'11"
+        "name": "Matthew Jolivert Matthew Jolivert",
+        "position": "Guard",
+        "class_year": "Fr",
+        "height": "5'11",
+        "weight": ""
     },
     {
         "number": "1",
-        "name": "1",
-        "position": "Josiah Smith",
-        "class_year": "Guard",
-        "height": "So",
-        "weight": "6'0"
+        "name": "Josiah Smith Josiah Smith",
+        "position": "Guard",
+        "class_year": "So",
+        "height": "6'0",
+        "weight": ""
     },
     {
         "number": "2",
-        "name": "2",
-        "position": "Devan Cooper",
-        "class_year": "Guard",
-        "height": "Fr",
-        "weight": "5'11"
+        "name": "Devan Cooper Devan Cooper",
+        "position": "Guard",
+        "class_year": "Fr",
+        "height": "5'11",
+        "weight": ""
     },
     {
         "number": "3",
-        "name": "3",
-        "position": "Elijah Pagan",
-        "class_year": "Forward",
-        "height": "Fr",
-        "weight": "6'5"
+        "name": "Elijah Pagan Elijah Pagan",
+        "position": "Forward",
+        "class_year": "Fr",
+        "height": "6'5",
+        "weight": ""
     },
     {
         "number": "4",
-        "name": "4",
-        "position": "Andrew Stallmer",
-        "class_year": "Forward",
-        "height": "Fr",
-        "weight": "6'4"
+        "name": "Andrew Stallmer Andrew Stallmer",
+        "position": "Forward",
+        "class_year": "Fr",
+        "height": "6'4",
+        "weight": ""
     },
     {
         "number": "5",
-        "name": "5",
-        "position": "Kenny Freeman",
-        "class_year": "Forward",
-        "height": "So",
-        "weight": "6'7"
+        "name": "Kenny Freeman Kenny Freeman",
+        "position": "Forward",
+        "class_year": "So",
+        "height": "6'7",
+        "weight": ""
     },
     {
         "number": "6",
-        "name": "6",
-        "position": "Damari Holder",
-        "class_year": "Guard",
-        "height": "Fr",
-        "weight": "6'3"
+        "name": "Damari Holder Damari Holder",
+        "position": "Guard",
+        "class_year": "Fr",
+        "height": "6'3",
+        "weight": ""
     },
     {
         "number": "7",
-        "name": "7",
-        "position": "James Taylor Jr.",
-        "class_year": "Guard",
-        "height": "Fr",
-        "weight": "6'3"
+        "name": "James Taylor Jr. James Taylor Jr.",
+        "position": "Guard",
+        "class_year": "Fr",
+        "height": "6'3",
+        "weight": ""
+    },
+    {
+        "number": "8",
+        "name": "Alex Agard-Roberts Alex Agard-Roberts",
+        "position": "G",
+        "class_year": "So",
+        "height": "",
+        "weight": ""
     },
     {
         "number": "10",
-        "name": "10",
-        "position": "Jasai Eason",
-        "class_year": "Guard",
-        "height": "Fr",
-        "weight": "6'2"
+        "name": "Jasai Eason Jasai Eason",
+        "position": "Guard",
+        "class_year": "Fr",
+        "height": "6'2",
+        "weight": ""
     },
     {
         "number": "11",
-        "name": "11",
-        "position": "Xavier Cardona",
-        "class_year": "Guard/Forward",
-        "height": "So",
-        "weight": "6'4"
+        "name": "Xavier Cardona Xavier Cardona",
+        "position": "Guard/Forward",
+        "class_year": "So",
+        "height": "6'4",
+        "weight": ""
     },
     {
         "number": "13",
-        "name": "13",
-        "position": "Ibrahma Ba",
-        "class_year": "Forward",
-        "height": "So",
-        "weight": "6'9"
+        "name": "Ibrahma Ba Ibrahma Ba",
+        "position": "Forward",
+        "class_year": "So",
+        "height": "6'9",
+        "weight": ""
     },
     {
         "number": "15",
-        "name": "15",
-        "position": "Jacob Fielding",
-        "class_year": "Guard",
-        "height": "Fr",
-        "weight": "6'2"
+        "name": "Jacob Fielding Jacob Fielding",
+        "position": "Guard",
+        "class_year": "Fr",
+        "height": "6'2",
+        "weight": ""
     },
     {
         "number": "99",
-        "name": "99",
-        "position": "Blake Munro",
-        "class_year": "Guard",
-        "height": "Fr",
-        "weight": "6'1"
+        "name": "Blake Munro Blake Munro",
+        "position": "Guard",
+        "class_year": "Fr",
+        "height": "6'1",
+        "weight": ""
     }
 ]

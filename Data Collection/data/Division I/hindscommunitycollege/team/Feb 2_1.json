@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Feb 2",
+    "boxScoreLink": "20260202_x1a4.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "East Mississippi Community College",
+                "result": "",
+                "teamId": "jo27rcg5zs9hriq0",
+                "winner": false,
+                "cleanName": "e mississippi community col"
+            },
+            {
+                "name": "Hinds Community College",
+                "result": "",
+                "teamId": "0be5p1t3neusd0x1",
+                "winner": false,
+                "cleanName": "hinds community col"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1770078600000,
+        "localTimeZone": "America/Chicago",
+        "tba": false,
+        "home": true,
+        "overall": true,
+        "conference": true,
+        "division": false,
+        "regional": true,
+        "national": true,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "x1a4jghbpig1bkhx",
+        "fastdate": 1770078600000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "East Mississippi Community College",
+            "result": "",
+            "teamId": "jo27rcg5zs9hriq0",
+            "winner": false,
+            "cleanName": "e mississippi community col"
+        },
+        "us": {
+            "name": "Hinds Community College",
+            "result": "",
+            "teamId": "0be5p1t3neusd0x1",
+            "winner": false,
+            "cleanName": "hinds community col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "February 2 07:30 PM:"
+}

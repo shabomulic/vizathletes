@@ -1,0 +1,161 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Jan 17",
+    "boxScoreLink": "20260117_v5bm.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Rowan College South Jersey - Gloucester",
+                "result": "99",
+                "teamId": "tmr7x5kfhxbw4gau",
+                "winner": false,
+                "cleanName": "rowan col s jersey gloucester"
+            },
+            {
+                "name": "Delaware County Community College",
+                "result": "68",
+                "teamId": "q6go92a6nvmngt9e",
+                "winner": false,
+                "cleanName": "delaware county community col"
+            }
+        ],
+        "status": "Final",
+        "notes": "",
+        "notesShared": "215 E 21st St, Chester, PA 19013",
+        "date": 1768676400000,
+        "localTimeZone": "America/New_York",
+        "tba": false,
+        "home": true,
+        "overall": true,
+        "conference": true,
+        "division": false,
+        "regional": false,
+        "national": true,
+        "inProgress": false,
+        "statusCode": 0,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "v5bmpghtjs5gg338",
+        "fastdate": 1768676400000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "regular",
+            "description": "Regular Season",
+            "statsCount": true
+        },
+        "conferenceResult": "68-99",
+        "resultAsObject": {
+            "results": [
+                99,
+                68
+            ],
+            "winner": {
+                "name": "Rowan College South Jersey - Gloucester",
+                "result": "99",
+                "teamId": "tmr7x5kfhxbw4gau",
+                "winner": false,
+                "cleanName": "rowan col s jersey gloucester"
+            },
+            "loser": {
+                "name": "Delaware County Community College",
+                "result": "68",
+                "teamId": "q6go92a6nvmngt9e",
+                "winner": false,
+                "cleanName": "delaware county community col"
+            },
+            "resolved": true,
+            "hasScores": true,
+            "description": "Loss",
+            "score": "68-99",
+            "numericResults": [
+                68,
+                99
+            ],
+            "winnerLoser": "99-68",
+            "descriptionShortWithOT": "L"
+        },
+        "opponent": {
+            "name": "Rowan College South Jersey - Gloucester",
+            "result": "99",
+            "teamId": "tmr7x5kfhxbw4gau",
+            "winner": false,
+            "cleanName": "rowan col s jersey gloucester"
+        },
+        "us": {
+            "name": "Delaware County Community College",
+            "result": "68",
+            "teamId": "q6go92a6nvmngt9e",
+            "winner": false,
+            "cleanName": "delaware county community col"
+        },
+        "winner": {
+            "name": "Rowan College South Jersey - Gloucester",
+            "result": "99",
+            "teamId": "tmr7x5kfhxbw4gau",
+            "winner": false,
+            "cleanName": "rowan col s jersey gloucester"
+        },
+        "loser": {
+            "name": "Delaware County Community College",
+            "result": "68",
+            "teamId": "q6go92a6nvmngt9e",
+            "winner": false,
+            "cleanName": "delaware county community col"
+        },
+        "apresult": "L, 99-68",
+        "ap2Result": "L, 68-99",
+        "result": {
+            "results": [
+                99,
+                68
+            ],
+            "winner": {
+                "name": "Rowan College South Jersey - Gloucester",
+                "result": "99",
+                "teamId": "tmr7x5kfhxbw4gau",
+                "winner": false,
+                "cleanName": "rowan col s jersey gloucester"
+            },
+            "loser": {
+                "name": "Delaware County Community College",
+                "result": "68",
+                "teamId": "q6go92a6nvmngt9e",
+                "winner": false,
+                "cleanName": "delaware county community col"
+            },
+            "resolved": true,
+            "hasScores": true,
+            "description": "Loss",
+            "score": "68-99",
+            "numericResults": [
+                68,
+                99
+            ],
+            "winnerLoser": "99-68",
+            "descriptionShortWithOT": "L"
+        }
+    },
+    "eventDateFormattedAriaLabel": "January 17 02:00 PM:"
+}

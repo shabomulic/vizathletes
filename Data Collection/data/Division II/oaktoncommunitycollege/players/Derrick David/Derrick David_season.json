@@ -172,7 +172,7 @@
     "careerId": null,
     "rank": null,
     "eventCount": 5,
-    "lastUpdated": 1766502978000,
+    "lastUpdated": 1768594281000,
     "position": "G",
     "positionAbbreviation": null,
     "positionCode": "G0SO",
@@ -185,10 +185,10 @@
     "uniform": "32",
     "year": "So",
     "playerStatus": {
-        "enumCode": 1,
-        "abbr": "A",
-        "statusName": "Active",
-        "active": true,
+        "enumCode": 0,
+        "abbr": "I",
+        "statusName": "Inactive",
+        "active": false,
         "interceptFieldCallback": null,
         "nullableType": {
             "comparator": {},
@@ -206,7 +206,7 @@
         },
         "mutable": false
     },
-    "active": true,
+    "active": false,
     "fullName": "Derrick David",
     "minCalcStats": {
         "fgppm": false,

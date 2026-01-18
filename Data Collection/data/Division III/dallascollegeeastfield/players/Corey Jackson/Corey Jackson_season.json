@@ -174,7 +174,7 @@
     "careerId": null,
     "rank": null,
     "eventCount": 7,
-    "lastUpdated": 1765821702000,
+    "lastUpdated": 1768757750000,
     "position": "PG",
     "positionAbbreviation": "PG",
     "positionCode": null,
@@ -200,10 +200,10 @@
             "defaultValue": 0,
             "mutable": false,
             "componentType": false,
+            "collectionType": false,
             "entityType": false,
             "associationType": false,
             "xmlelement": false,
-            "collectionType": false,
             "anyType": false
         },
         "mutable": false

@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Oct 13",
+    "boxScoreLink": "20251013_1x2v.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Davis & Elkins College JV",
+                "result": "",
+                "teamId": "d7qmxt5mff7do3bs",
+                "winner": false,
+                "cleanName": "davis elkins col jv"
+            },
+            {
+                "name": "CC of Allegheny County",
+                "result": "",
+                "teamId": "1ojqykzmgiil2t8s",
+                "winner": false,
+                "cleanName": "cc allegheny county"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1760374800000,
+        "localTimeZone": "America/New_York",
+        "tba": false,
+        "home": true,
+        "overall": false,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "1x2v5slz8c0rv4mt",
+        "fastdate": 1760374800000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "",
+        "stateCountry": "",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "scrimmage",
+            "description": "Scrimmage",
+            "statsCount": false
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Davis & Elkins College JV",
+            "result": "",
+            "teamId": "d7qmxt5mff7do3bs",
+            "winner": false,
+            "cleanName": "davis elkins col jv"
+        },
+        "us": {
+            "name": "CC of Allegheny County",
+            "result": "",
+            "teamId": "1ojqykzmgiil2t8s",
+            "winner": false,
+            "cleanName": "cc allegheny county"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "October 13 01:00 PM:"
+}

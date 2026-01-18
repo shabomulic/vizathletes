@@ -1,0 +1,105 @@
+{
+    "stats": {},
+    "eventDateFormatted": "Oct 21",
+    "boxScoreLink": "20251021_tj6t.xml",
+    "event": {
+        "teams": [
+            {
+                "name": "Lamar Community College",
+                "result": "",
+                "teamId": "v0uqyhtqkp90p1k5",
+                "winner": false,
+                "cleanName": "lamar community col"
+            },
+            {
+                "name": "Regis University",
+                "result": "",
+                "teamId": "wm497m9yvadeerk0",
+                "winner": false,
+                "cleanName": "regis univ"
+            }
+        ],
+        "status": "",
+        "notes": "",
+        "notesShared": "",
+        "date": 1761082200000,
+        "localTimeZone": "America/Denver",
+        "tba": false,
+        "home": false,
+        "overall": false,
+        "conference": false,
+        "division": false,
+        "regional": false,
+        "national": false,
+        "inProgress": false,
+        "statusCode": -2,
+        "cancelled": false,
+        "postponed": false,
+        "postseason": false,
+        "sport": "Basketball",
+        "statusRuleCode": 0,
+        "neutralSite": "",
+        "links": [],
+        "statcrewGameID": "",
+        "eventId": "tj6twjt7b7geb91o",
+        "fastdate": 1761082200000,
+        "streams": [
+            {
+                "type": 0,
+                "provider": ""
+            }
+        ],
+        "address": "",
+        "city": "Denver",
+        "stateCountry": "Colorado",
+        "zipCode": "",
+        "venue": "",
+        "primetime": false,
+        "forfeitHome": false,
+        "forfeitAway": false,
+        "weatherDelay": false,
+        "suspended": false,
+        "noContest": false,
+        "eventType": {
+            "code": "scrimmage",
+            "description": "Scrimmage",
+            "statsCount": false
+        },
+        "conferenceResult": "",
+        "resultAsObject": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        },
+        "opponent": {
+            "name": "Regis University",
+            "result": "",
+            "teamId": "wm497m9yvadeerk0",
+            "winner": false,
+            "cleanName": "regis univ"
+        },
+        "us": {
+            "name": "Lamar Community College",
+            "result": "",
+            "teamId": "v0uqyhtqkp90p1k5",
+            "winner": false,
+            "cleanName": "lamar community col"
+        },
+        "apresult": "",
+        "ap2Result": "",
+        "result": {
+            "resolved": false,
+            "hasScores": false,
+            "description": "",
+            "score": "",
+            "numericResults": [],
+            "winnerLoser": "",
+            "descriptionShortWithOT": ""
+        }
+    },
+    "eventDateFormattedAriaLabel": "October 21 05:30 PM:"
+}
